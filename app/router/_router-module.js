@@ -6,10 +6,10 @@ angular.module('app.router', ['ui.router'])
 Config.$inject = ['$stateProvider', '$urlRouterProvider'];
 
 function Config($stateProvider, $urlRouterProvider) {
-  $urlRouterProvider.otherwise('/home');
+  $urlRouterProvider.otherwise('/');
   $stateProvider
-    .state('home', {
-      url: '/home',
-      templateUrl: 'home/home.html'
+    .state('root', {
+      url: '/',
+      templateUrl: 'root/root.html'
     });
 }
