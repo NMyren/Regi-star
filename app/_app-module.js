@@ -5,6 +5,7 @@ angular.module('app', [
   'app.templates',
   'app.router',
   'app.root',
+  'app.course-list-view',
   'ui.bootstrap',
   'ui.layout'
 ]);
