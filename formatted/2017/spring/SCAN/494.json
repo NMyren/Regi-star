@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated in separate terms to a maximum of 9 undergraduate or 9 graduate hours if topics vary. Prerequisite: SCAN 104 or equivalent as approved by instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Advanced Scandinavian languages instruction. 1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated in separate terms to a maximum of 9 undergraduate or 9 graduate hours if topics vary. Prerequisite: SCAN 104 or equivalent as approved by instructor.", 
+    "href": "/2017/spring/SCAN/494.json", 
+    "id": "SCAN 494", 
+    "label": "Topics in Scan Languages", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Scandinavian", 
+            "href": "/2017/spring/SCAN.json", 
+            "id": "SCAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "E", 
+                "href": "/2017/spring/SCAN/494/59831.json", 
+                "id": "59831"
+            }, 
+            {
+                "content": "TM", 
+                "href": "/2017/spring/SCAN/494/64968.json", 
+                "id": "64968"
+            }, 
+            {
+                "content": "U3", 
+                "href": "/2017/spring/SCAN/494/59823.json", 
+                "id": "59823"
+            }
+        ]
+    }
+}

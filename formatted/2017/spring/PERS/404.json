@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: PERS 403.", 
+    "creditHours": "4 hours.", 
+    "description": "General review of the essentials of grammar, selected reading of materials emphasizing Iranian life and culture, compositions, and practice in speech. 4 undergraduate hours. 4 graduate hours. Prerequisite: PERS 403.", 
+    "href": "/2017/spring/PERS/404.json", 
+    "id": "PERS 404", 
+    "label": "Intermediate Persian II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Persian", 
+            "href": "/2017/spring/PERS.json", 
+            "id": "PERS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A1", 
+            "href": "/2017/spring/PERS/404/50370.json", 
+            "id": "50370"
+        }
+    }
+}

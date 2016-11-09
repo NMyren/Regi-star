@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Credit is not given for both CEE 201 and IE 310. Prerequisite: MATH 231; credit or concurrent registration in MATH 225.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the formulation and solution of civil engineering problems. Major topics: engineering economy, mathematical modeling, and optimization. Application of techniques, including classical optimization, linear and nonlinear programming, network theory, critical path methods, simulation, decision theory, and dynamic programming to a variety of civil engineering problems. Credit is not given for both CEE 201 and IE 310. Prerequisite: MATH 231; credit or concurrent registration in MATH 225.", 
+    "href": "/2017/spring/CEE/201.json", 
+    "id": "CEE 201", 
+    "label": "Systems Engrg & Economics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "NP", 
+            "href": "/2017/spring/CEE/201/31707.json", 
+            "id": "31707"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional credit. Prerequisite: HCD 590 or equivalent.", 
+    "creditHours": "4 hours.", 
+    "description": "Overview of common quantitative research methods and statistical analyses used in human development, family, and community research; covers sampling, data management, bivariate analyses, multivariate regression. Students frame a research question and use a common data set and statistical analysis software to prepare methods and results sections of a manuscript suitable for publication. 4 graduate hours. No professional credit. Prerequisite: HCD 590 or equivalent.", 
+    "href": "/2017/spring/HDFS/594.json", 
+    "id": "HDFS 594", 
+    "label": "Intermed Statistical Analysis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Human Development and Family Studies", 
+            "href": "/2017/spring/HDFS.json", 
+            "id": "HDFS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/HDFS/594/65081.json", 
+            "id": "65081"
+        }
+    }
+}

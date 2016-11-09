@@ -1,0 +1,31 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Examines the main themes of Palestinian history since 1800. The Israeli-Palestinian conflict frames the latter part of this history, but it is not the central issue. The focus of the course is Palestinian political, social, and cultural history.", 
+    "href": "/2017/spring/HIST/334.json", 
+    "id": "HIST 334", 
+    "label": "Modern Palestinian History", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/HIST/334/65224.json", 
+            "id": "65224"
+        }
+    }
+}

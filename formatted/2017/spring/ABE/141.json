@@ -1,0 +1,31 @@
+{
+    "creditHours": "2 hours.", 
+    "description": "Principles of biology relevant to agriculture, food, energy, and the environment, including microbiology, biochemistry, genetics, plant and animal systems, and ecosystems. Case studies of engineering applications where these biological principles have been taken into account or leveraged for the purpose of design.", 
+    "href": "/2017/spring/ABE/141.json", 
+    "id": "ABE 141", 
+    "label": "ABE Principles: Biological", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural and Biological Engineering", 
+            "href": "/2017/spring/ABE.json", 
+            "id": "ABE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "MGD", 
+            "href": "/2017/spring/ABE/141/54768.json", 
+            "id": "54768"
+        }
+    }
+}

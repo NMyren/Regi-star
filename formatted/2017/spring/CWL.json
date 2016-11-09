@@ -1,0 +1,250 @@
+{
+    "addressLine1": "Program Office", 
+    "addressLine2": "3080 Foreign Languages Building, 707 South Mathews, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Director of Program: Lilya Kaganovsky\nProgram Office, 3080 Foreign Languages Building, 707 South Mathews, Urbana, 217-333-4987\nwww.complit.illinois.edu", 
+    "contactName": "Lilya Kaganovsky", 
+    "contactTitle": "Director of Program", 
+    "courses": {
+        "course": [
+            {
+                "content": "Literature of Fantasy", 
+                "href": "/2017/spring/CWL/119.json", 
+                "id": "119"
+            }, 
+            {
+                "content": "Cross-Cultural Thematics", 
+                "href": "/2017/spring/CWL/151.json", 
+                "id": "151"
+            }, 
+            {
+                "content": "Freshman Honors Tutorial", 
+                "href": "/2017/spring/CWL/191.json", 
+                "id": "191"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/CWL/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Literature and Ideas", 
+                "href": "/2017/spring/CWL/202.json", 
+                "id": "202"
+            }, 
+            {
+                "content": "Indian Cinema in Context", 
+                "href": "/2017/spring/CWL/207.json", 
+                "id": "207"
+            }, 
+            {
+                "content": "Cultures & Lits of South Asia", 
+                "href": "/2017/spring/CWL/208.json", 
+                "id": "208"
+            }, 
+            {
+                "content": "Madness, Myth, and Murder", 
+                "href": "/2017/spring/CWL/215.json", 
+                "id": "215"
+            }, 
+            {
+                "content": "Origins of Western Literature", 
+                "href": "/2017/spring/CWL/220.json", 
+                "id": "220"
+            }, 
+            {
+                "content": "Qur'an Structure and Exegesis", 
+                "href": "/2017/spring/CWL/223.json", 
+                "id": "223"
+            }, 
+            {
+                "content": "Humanist Persp of Afro-Am Exp", 
+                "href": "/2017/spring/CWL/226.json", 
+                "id": "226"
+            }, 
+            {
+                "content": "Modern Masterpieces of Western Culture", 
+                "href": "/2017/spring/CWL/242.json", 
+                "id": "242"
+            }, 
+            {
+                "content": "Russian Lit and Revolution", 
+                "href": "/2017/spring/CWL/249.json", 
+                "id": "249"
+            }, 
+            {
+                "content": "Viking Sagas in Translation", 
+                "href": "/2017/spring/CWL/252.json", 
+                "id": "252"
+            }, 
+            {
+                "content": "Grimm's Fairy Tales in Context", 
+                "href": "/2017/spring/CWL/254.json", 
+                "id": "254"
+            }, 
+            {
+                "content": "Enlightenment Lit and Culture", 
+                "href": "/2017/spring/CWL/257.json", 
+                "id": "257"
+            }, 
+            {
+                "content": "Afro-American Literature II", 
+                "href": "/2017/spring/CWL/260.json", 
+                "id": "260"
+            }, 
+            {
+                "content": "Sex & Gender in Antiquity", 
+                "href": "/2017/spring/CWL/262.json", 
+                "id": "262"
+            }, 
+            {
+                "content": "The Short Story", 
+                "href": "/2017/spring/CWL/267.json", 
+                "id": "267"
+            }, 
+            {
+                "content": "The Holocaust in Context - ACP", 
+                "href": "/2017/spring/CWL/271.json", 
+                "id": "271"
+            }, 
+            {
+                "content": "Masterpieces of East Asian Lit", 
+                "href": "/2017/spring/CWL/275.json", 
+                "id": "275"
+            }, 
+            {
+                "content": "Asian Film Genres", 
+                "href": "/2017/spring/CWL/276.json", 
+                "id": "276"
+            }, 
+            {
+                "content": "Japan Lit in Translation II", 
+                "href": "/2017/spring/CWL/312.json", 
+                "id": "312"
+            }, 
+            {
+                "content": "Russian Writers", 
+                "href": "/2017/spring/CWL/321.json", 
+                "id": "321"
+            }, 
+            {
+                "content": "Dostoevsky", 
+                "href": "/2017/spring/CWL/324.json", 
+                "id": "324"
+            }, 
+            {
+                "content": "South Asian Goddesses", 
+                "href": "/2017/spring/CWL/350.json", 
+                "id": "350"
+            }, 
+            {
+                "content": "Special Topics Comp Lit I", 
+                "href": "/2017/spring/CWL/395.json", 
+                "id": "395"
+            }, 
+            {
+                "content": "Modern African Fiction", 
+                "href": "/2017/spring/CWL/410.json", 
+                "id": "410"
+            }, 
+            {
+                "content": "Problems of Polish Literature", 
+                "href": "/2017/spring/CWL/436.json", 
+                "id": "436"
+            }, 
+            {
+                "content": "Russian Culture Studies", 
+                "href": "/2017/spring/CWL/440.json", 
+                "id": "440"
+            }, 
+            {
+                "content": "Slavic Cultural Studies", 
+                "href": "/2017/spring/CWL/453.json", 
+                "id": "453"
+            }, 
+            {
+                "content": "Topics in Israeli Lit &Culture", 
+                "href": "/2017/spring/CWL/454.json", 
+                "id": "454"
+            }, 
+            {
+                "content": "Imagining the Welfare State", 
+                "href": "/2017/spring/CWL/470.json", 
+                "id": "470"
+            }, 
+            {
+                "content": "Kierkegaard and the Self", 
+                "href": "/2017/spring/CWL/472.json", 
+                "id": "472"
+            }, 
+            {
+                "content": "Classical Chinese Thought", 
+                "href": "/2017/spring/CWL/478.json", 
+                "id": "478"
+            }, 
+            {
+                "content": "Senior Thesis and Honors", 
+                "href": "/2017/spring/CWL/493.json", 
+                "id": "493"
+            }, 
+            {
+                "content": "Special Topics in Comp Lit II", 
+                "href": "/2017/spring/CWL/496.json", 
+                "id": "496"
+            }, 
+            {
+                "content": "Methods of Comparative Lit", 
+                "href": "/2017/spring/CWL/502.json", 
+                "id": "502"
+            }, 
+            {
+                "content": "Historiography of Cinema", 
+                "href": "/2017/spring/CWL/503.json", 
+                "id": "503"
+            }, 
+            {
+                "content": "Theories of Cinema", 
+                "href": "/2017/spring/CWL/504.json", 
+                "id": "504"
+            }, 
+            {
+                "content": "Sem Spanish-American Lit", 
+                "href": "/2017/spring/CWL/562.json", 
+                "id": "562"
+            }, 
+            {
+                "content": "Seminar Lit Themes", 
+                "href": "/2017/spring/CWL/581.json", 
+                "id": "581"
+            }, 
+            {
+                "content": "Special Studies", 
+                "href": "/2017/spring/CWL/593.json", 
+                "id": "593"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/CWL/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1771", 
+    "id": "CWL", 
+    "label": "Comparative and World Literature", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-4987", 
+    "unitName": "Comparative and World Literature", 
+    "webSiteURL": "www.complit.illinois.edu"
+}

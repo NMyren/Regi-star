@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Same as CWL 249.", 
+    "creditHours": "3 hours.", 
+    "description": "Major works from 1900 to the present; futurism, modernism, Stalinism, post-modernism, and after; writers may include Mayakovsky, Babel, Olesha, Akhmatova, Bulgakov, Nabokov, Solzhenitsyn, Tolstaya, and others; readings and discussion in English. Same as CWL 249.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Humanities & the Arts", 
+            "id": "HUM", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1LA", 
+                    "content": "UIUC: Literature and the Arts"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/RUSS/225.json", 
+    "id": "RUSS 225", 
+    "label": "Russian Lit and Revolution", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Russian", 
+            "href": "/2017/spring/RUSS.json", 
+            "id": "RUSS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Literature and the Arts course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/RUSS/225/34107.json", 
+            "id": "34107"
+        }
+    }
+}

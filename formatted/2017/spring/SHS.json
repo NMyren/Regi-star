@@ -1,0 +1,245 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "901 South Sixth Street, Champaign", 
+    "collegeCode": "KY", 
+    "collegeDepartmentDescription": "Head of Department: Karen Kirk\nDepartment Office, 901 South Sixth Street, Champaign, 333-2230\nwww.shs.illinois.edu/", 
+    "contactName": "Karen Kirk", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Living-Learning ASL Part 1", 
+                "href": "/2017/spring/SHS/111.json", 
+                "id": "111"
+            }, 
+            {
+                "content": "Living-Learning ASL Part 2", 
+                "href": "/2017/spring/SHS/112.json", 
+                "id": "112"
+            }, 
+            {
+                "content": "Child, Comm, & Lang Ability", 
+                "href": "/2017/spring/SHS/120.json", 
+                "id": "120"
+            }, 
+            {
+                "content": "American Sign Language I", 
+                "href": "/2017/spring/SHS/121.json", 
+                "id": "121"
+            }, 
+            {
+                "content": "Intro Hum Comm Sys & Disorders", 
+                "href": "/2017/spring/SHS/170.json", 
+                "id": "170"
+            }, 
+            {
+                "content": "Freshmen Seminar", 
+                "href": "/2017/spring/SHS/191.json", 
+                "id": "191"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/SHS/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "General Phonetics", 
+                "href": "/2017/spring/SHS/200.json", 
+                "id": "200"
+            }, 
+            {
+                "content": "American Sign Language II", 
+                "href": "/2017/spring/SHS/221.json", 
+                "id": "221"
+            }, 
+            {
+                "content": "Language & Culture of Deaf Communities", 
+                "href": "/2017/spring/SHS/222.json", 
+                "id": "222"
+            }, 
+            {
+                "content": "Lang Diff Dis: American Persp", 
+                "href": "/2017/spring/SHS/231.json", 
+                "id": "231"
+            }, 
+            {
+                "content": "Intro Sound & Hearing Science", 
+                "href": "/2017/spring/SHS/240.json", 
+                "id": "240"
+            }, 
+            {
+                "content": "Research Lab Experience in SHS", 
+                "href": "/2017/spring/SHS/291.json", 
+                "id": "291"
+            }, 
+            {
+                "content": "General Speech Science", 
+                "href": "/2017/spring/SHS/301.json", 
+                "id": "301"
+            }, 
+            {
+                "content": "American Sign Language III", 
+                "href": "/2017/spring/SHS/321.json", 
+                "id": "321"
+            }, 
+            {
+                "content": "Hearing Health and Society", 
+                "href": "/2017/spring/SHS/352.json", 
+                "id": "352"
+            }, 
+            {
+                "content": "Civic Engagement in Wellness", 
+                "href": "/2017/spring/SHS/370.json", 
+                "id": "370"
+            }, 
+            {
+                "content": "Comm Partners & Health", 
+                "href": "/2017/spring/SHS/375.json", 
+                "id": "375"
+            }, 
+            {
+                "content": "Comm Competence and Disorders", 
+                "href": "/2017/spring/SHS/380.json", 
+                "id": "380"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/SHS/383.json", 
+                "id": "383"
+            }, 
+            {
+                "content": "Individual Study", 
+                "href": "/2017/spring/SHS/390.json", 
+                "id": "390"
+            }, 
+            {
+                "content": "Honors Individual Study", 
+                "href": "/2017/spring/SHS/395.json", 
+                "id": "395"
+            }, 
+            {
+                "content": "Stuttering: Theory & Practice", 
+                "href": "/2017/spring/SHS/410.json", 
+                "id": "410"
+            }, 
+            {
+                "content": "Language and the Brain", 
+                "href": "/2017/spring/SHS/427.json", 
+                "id": "427"
+            }, 
+            {
+                "content": "Devel & Disorders Phonol Artic", 
+                "href": "/2017/spring/SHS/430.json", 
+                "id": "430"
+            }, 
+            {
+                "content": "Augmentative & Alt Comm", 
+                "href": "/2017/spring/SHS/473.json", 
+                "id": "473"
+            }, 
+            {
+                "content": "Prepracticum in SHS", 
+                "href": "/2017/spring/SHS/475.json", 
+                "id": "475"
+            }, 
+            {
+                "content": "Beginning Practicum in SHS", 
+                "href": "/2017/spring/SHS/477.json", 
+                "id": "477"
+            }, 
+            {
+                "content": "Assessment and Management of Dysphagia", 
+                "href": "/2017/spring/SHS/513.json", 
+                "id": "513"
+            }, 
+            {
+                "content": "Psychoacoustics", 
+                "href": "/2017/spring/SHS/540.json", 
+                "id": "540"
+            }, 
+            {
+                "content": "Clinical Auditory Anat & Phys", 
+                "href": "/2017/spring/SHS/541.json", 
+                "id": "541"
+            }, 
+            {
+                "content": "Diag Hear Impair Infants Child", 
+                "href": "/2017/spring/SHS/552.json", 
+                "id": "552"
+            }, 
+            {
+                "content": "Sens Prosth Devices Hear Loss", 
+                "href": "/2017/spring/SHS/556.json", 
+                "id": "556"
+            }, 
+            {
+                "content": "Adv Clin Prac Aud Assess Rehab", 
+                "href": "/2017/spring/SHS/557.json", 
+                "id": "557"
+            }, 
+            {
+                "content": "Clinical Sociolinguistics", 
+                "href": "/2017/spring/SHS/571.json", 
+                "id": "571"
+            }, 
+            {
+                "content": "School Intrnshp Spch-Lang Path", 
+                "href": "/2017/spring/SHS/576.json", 
+                "id": "576"
+            }, 
+            {
+                "content": "Advanced Practicum in SHS", 
+                "href": "/2017/spring/SHS/577.json", 
+                "id": "577"
+            }, 
+            {
+                "content": "Cochlear Implants", 
+                "href": "/2017/spring/SHS/580.json", 
+                "id": "580"
+            }, 
+            {
+                "content": "Adv Sem Neural Bases Com Dis", 
+                "href": "/2017/spring/SHS/588.json", 
+                "id": "588"
+            }, 
+            {
+                "content": "Prosem Spch & Hear Sci", 
+                "href": "/2017/spring/SHS/592.json", 
+                "id": "592"
+            }, 
+            {
+                "content": "Special Problems", 
+                "href": "/2017/spring/SHS/593.json", 
+                "id": "593"
+            }, 
+            {
+                "content": "PhD Early Research Project", 
+                "href": "/2017/spring/SHS/594.json", 
+                "id": "594"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/SHS/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1679", 
+    "id": "SHS", 
+    "label": "Speech and Hearing Science", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-2230", 
+    "unitName": "Speech and Hearing Science", 
+    "webSiteURL": "www.shs.illinois.edu/"
+}

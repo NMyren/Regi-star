@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "2 to 8 undergraduate hours. 2 to 8 graduate hours. May be repeated to a maximum of 8 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "2 TO 8 hours.", 
+    "description": "Clinical experiences in medical supervision of sports programs, in the areas of therapeutic exercises, fitness programming, and cardiac rehabilitation. 2 to 8 undergraduate hours. 2 to 8 graduate hours. May be repeated to a maximum of 8 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/KIN/485.json", 
+    "id": "KIN 485", 
+    "label": "Clin Exper in Sports Medicine", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/KIN/485/61004.json", 
+            "id": "61004"
+        }
+    }
+}

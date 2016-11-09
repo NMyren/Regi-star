@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: MSE 182.", 
+    "creditHours": "1 hours.", 
+    "description": "Team-based laboratory developing concepts introduced in MSE 182. Practical descriptions of materials concepts, literature research, experimental design, concept validation, teamwork, and presentation of results. Prerequisite: MSE 182.", 
+    "href": "/2017/spring/MSE/183.json", 
+    "id": "MSE 183", 
+    "label": "Freshman Materials Laboratory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Materials Science and Engineering", 
+            "href": "/2017/spring/MSE.json", 
+            "id": "MSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Engineering.", 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/MSE/183/48165.json", 
+            "id": "48165"
+        }
+    }
+}

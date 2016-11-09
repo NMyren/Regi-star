@@ -1,0 +1,40 @@
+{
+    "classScheduleInformation": "40 hours production activity to be arranged for each credit hour.", 
+    "courseSectionInformation": "May be repeated to a maximum of 12 hours. Prerequisite: Consent of instructor required for non-theatre majors.", 
+    "creditHours": "1 TO 3 hours.", 
+    "description": "Practical work in the design, construction, and handling of scenery, lighting, sound, properties, costumes, and makeup for public performance. A minimum of forty hours of production activity to be arranged for each credit hour. May be repeated to a maximum of 12 hours. Prerequisite: Consent of instructor required for non-theatre majors.", 
+    "href": "/2017/spring/THEA/100.json", 
+    "id": "THEA 100", 
+    "label": "Practicum I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/THEA/100/36440.json", 
+                "id": "36440"
+            }, 
+            {
+                "content": "MI", 
+                "href": "/2017/spring/THEA/100/59599.json", 
+                "id": "59599"
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "classScheduleInformation": "Students registering in Lecture AL1 must also register in a lecture-discussion section (AD_).", 
+    "creditHours": "3 hours.", 
+    "description": "Practical study of logical reasoning; techniques for analyzing and criticizing arguments, with emphasis on assessing the logical coherence of what we read and write.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Humanities & the Arts", 
+            "id": "HUM", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1HP", 
+                    "content": "UIUC: Hist&Philosoph Perspect"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/PHIL/102.json", 
+    "id": "PHIL 102", 
+    "label": "Logic and Reasoning", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Philosophy", 
+            "href": "/2017/spring/PHIL.json", 
+            "id": "PHIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/PHIL/102/43844.json", 
+                "id": "43844"
+            }, 
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/PHIL/102/39123.json", 
+                "id": "39123"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/PHIL/102/39124.json", 
+                "id": "39124"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/PHIL/102/39126.json", 
+                "id": "39126"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/PHIL/102/39127.json", 
+                "id": "39127"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/PHIL/102/39128.json", 
+                "id": "39128"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/PHIL/102/49958.json", 
+                "id": "49958"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/PHIL/102/39122.json", 
+                "id": "39122"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/PHIL/102/39129.json", 
+                "id": "39129"
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "courseSectionInformation": "Same as PSYC 332. See PSYC 332.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as PSYC 332. See PSYC 332.", 
+    "href": "/2017/spring/SOC/382.json", 
+    "id": "SOC 382", 
+    "label": "Social Psych Methods Lab", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Sociology", 
+            "href": "/2017/spring/SOC.json", 
+            "id": "SOC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/SOC/382/37293.json", 
+                "id": "37293"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/SOC/382/37294.json", 
+                "id": "37294"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/SOC/382/37295.json", 
+                "id": "37295"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/SOC/382/37296.json", 
+                "id": "37296"
+            }, 
+            {
+                "content": "AB5", 
+                "href": "/2017/spring/SOC/382/37297.json", 
+                "id": "37297"
+            }, 
+            {
+                "content": "AB6", 
+                "href": "/2017/spring/SOC/382/37298.json", 
+                "id": "37298"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/SOC/382/37301.json", 
+                "id": "37301"
+            }
+        ]
+    }
+}

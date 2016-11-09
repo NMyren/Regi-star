@@ -1,0 +1,31 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Examines a history of photography from its origin to the present, including both documentary and artistic approaches; considers relationships with other arts.", 
+    "href": "/2017/spring/ARTH/257.json", 
+    "id": "ARTH 257", 
+    "label": "History of Photography", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--History", 
+            "href": "/2017/spring/ARTH.json", 
+            "id": "ARTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ARTH/257/48074.json", 
+            "id": "48074"
+        }
+    }
+}

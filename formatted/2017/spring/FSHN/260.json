@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Prerequisite: One high school course in biological science and FSHN 101.", 
+    "creditHours": "4 hours.", 
+    "description": "Problems involved with procurement, harvesting, handling, and storage of fruits, vegetables, cereal grains, dairy products, red meat, poultry, fish, and eggs for the food-processing industry. Field trips to specialized operations. Additional fees may apply. See Class Schedule. Prerequisite: One high school course in biological science and FSHN 101.", 
+    "href": "/2017/spring/FSHN/260.json", 
+    "id": "FSHN 260", 
+    "label": "Raw Materials for Processing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Food Science and Human Nutrition", 
+            "href": "/2017/spring/FSHN.json", 
+            "id": "FSHN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/FSHN/260/33025.json", 
+                "id": "33025"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/FSHN/260/33026.json", 
+                "id": "33026"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/FSHN/260/33027.json", 
+                "id": "33027"
+            }, 
+            {
+                "content": "AL2", 
+                "href": "/2017/spring/FSHN/260/51524.json", 
+                "id": "51524"
+            }
+        ]
+    }
+}

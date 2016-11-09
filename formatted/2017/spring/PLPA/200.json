@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Designed for non-science and science majors. Prerequisite: RHET 105 or equivalent.", 
+    "creditHours": "3 hours.", 
+    "description": "Plant diseases and their impact on food supplies and human history are studied in lectures, demonstrations and discussions. Issues of food production and safety, pesticide use and human health, and the environment are considered. Includes the biology of pathogens that cause plant disease. Designed for non-science and science majors. Prerequisite: RHET 105 or equivalent.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Natural Sciences & Technology", 
+                "id": "NAT", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1LS", 
+                        "content": "UIUC: Life Sciences"
+                    }
+                }
+            }, 
+            {
+                "description": "Advanced Composition", 
+                "id": "ACP", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1CLL", 
+                        "content": "UIUC: Advanced Composition"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/PLPA/200.json", 
+    "id": "PLPA 200", 
+    "label": "Plants, Pathogens, and People", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Plant Pathology", 
+            "href": "/2017/spring/PLPA.json", 
+            "id": "PLPA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition, and Life Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PLPA/200/37737.json", 
+            "id": "37737"
+        }
+    }
+}

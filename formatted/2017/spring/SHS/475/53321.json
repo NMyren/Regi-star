@@ -1,0 +1,57 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/SHS/475/53321.json", 
+    "id": "53321", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Speech & Hearing Science Bldg", 
+            "daysOfTheWeek": "F", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Warnes, C", 
+                    "firstName": "C", 
+                    "lastName": "Warnes"
+                }
+            }, 
+            "roomNumber": "111", 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Prepracticum in SHS", 
+            "href": "/2017/spring/SHS/475.json", 
+            "id": "475"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Applied Health Sciences.", 
+    "sectionNumber": "D", 
+    "sectionStatusCode": "A", 
+    "sectionText": "1 hour, Pre-practicum in Speech-Language Pathology.", 
+    "sectionTitle": "Prepracticum in SLP", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

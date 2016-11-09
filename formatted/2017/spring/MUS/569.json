@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: MUS 533.", 
+    "creditHours": "4 OR 6 hours.", 
+    "description": "Completion of Master of Music Education thesis in approved area of study. Prerequisite: MUS 533.", 
+    "href": "/2017/spring/MUS/569.json", 
+    "id": "MUS 569", 
+    "label": "Music Education Thesis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/MUS/569/54977.json", 
+            "id": "54977"
+        }
+    }
+}

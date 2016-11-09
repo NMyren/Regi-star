@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: STAT 410.", 
+    "creditHours": "4 hours.", 
+    "description": "Distributions, transformations, order-statistics, exponential families, sufficiency, delta-method, Edgeworth expansions; uniformly minimum variance unbiased estimators, Rao-Blackwell theorem, Cramer-Rao lower bound, information inequality; equivariance. Prerequisite: STAT 410.", 
+    "href": "/2017/spring/STAT/510.json", 
+    "id": "STAT 510", 
+    "label": "Mathematical Statistics I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Statistics", 
+            "href": "/2017/spring/STAT.json", 
+            "id": "STAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign. Restricted to MS:Statistics -UIUC, PHD:Statistics -UIUC, MS:Statistics -- Applied -UIUC, or MS: Statistics: Analytics.", 
+    "sections": {
+        "section": {
+            "content": "A1", 
+            "href": "/2017/spring/STAT/510/57004.json", 
+            "id": "57004"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: SHS 240, SHS 450 or equivalent, or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "The objective of the course is for students to gain an understanding of the structure and function of the peripheral and central auditory system from a clinically oriented perspective. Clinically relevant topics on the pathophysiology of the auditory system will be presented. Prerequisite: SHS 240, SHS 450 or equivalent, or consent of instructor.", 
+    "href": "/2017/spring/SHS/541.json", 
+    "id": "SHS 541", 
+    "label": "Clinical Auditory Anat & Phys", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SHS/541/51010.json", 
+            "id": "51010"
+        }
+    }
+}

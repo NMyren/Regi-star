@@ -1,0 +1,411 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "208 English Building, 608 South Wright, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Head of Department: Michael Rothberg\nDepartment Office, 208 English Building, 608 South Wright, Urbana, 333-2391\nSubjects associated with this department include: Business and Technical Writing (BTW), Creative Writing (CW), English (ENGL), and Rhetoric and Composition (RHET).\nwww.english.uiuc.edu", 
+    "contactName": "Michael Rothberg", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Intro to Poetry", 
+                "href": "/2017/spring/ENGL/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "Intro to Drama", 
+                "href": "/2017/spring/ENGL/102.json", 
+                "id": "102"
+            }, 
+            {
+                "content": "Intro to Fiction", 
+                "href": "/2017/spring/ENGL/103.json", 
+                "id": "103"
+            }, 
+            {
+                "content": "Intro to Film", 
+                "href": "/2017/spring/ENGL/104.json", 
+                "id": "104"
+            }, 
+            {
+                "content": "Intro to Fiction-ACP", 
+                "href": "/2017/spring/ENGL/109.json", 
+                "id": "109"
+            }, 
+            {
+                "content": "Intro to British Literature", 
+                "href": "/2017/spring/ENGL/115.json", 
+                "id": "115"
+            }, 
+            {
+                "content": "Intro to American Literature", 
+                "href": "/2017/spring/ENGL/116.json", 
+                "id": "116"
+            }, 
+            {
+                "content": "Literature of Fantasy", 
+                "href": "/2017/spring/ENGL/119.json", 
+                "id": "119"
+            }, 
+            {
+                "content": "Science Fiction", 
+                "href": "/2017/spring/ENGL/120.json", 
+                "id": "120"
+            }, 
+            {
+                "content": "Swords, Sorcery & Sex: The Middle Ages in Popular Culture", 
+                "href": "/2017/spring/ENGL/122.json", 
+                "id": "122"
+            }, 
+            {
+                "content": "Black Literature in America", 
+                "href": "/2017/spring/ENGL/150.json", 
+                "id": "150"
+            }, 
+            {
+                "content": "Freshman Honors Tutorial", 
+                "href": "/2017/spring/ENGL/191.json", 
+                "id": "191"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/ENGL/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Intro to the Study of Lit", 
+                "href": "/2017/spring/ENGL/200.json", 
+                "id": "200"
+            }, 
+            {
+                "content": "Enlightenment Lit and Culture", 
+                "href": "/2017/spring/ENGL/206.json", 
+                "id": "206"
+            }, 
+            {
+                "content": "Victorian Lit and Culture", 
+                "href": "/2017/spring/ENGL/208.json", 
+                "id": "208"
+            }, 
+            {
+                "content": "British Lit to 1800", 
+                "href": "/2017/spring/ENGL/209.json", 
+                "id": "209"
+            }, 
+            {
+                "content": "British Lit 1800 to Present", 
+                "href": "/2017/spring/ENGL/210.json", 
+                "id": "210"
+            }, 
+            {
+                "content": "Introduction to Shakespeare", 
+                "href": "/2017/spring/ENGL/218.json", 
+                "id": "218"
+            }, 
+            {
+                "content": "Literature and Science", 
+                "href": "/2017/spring/ENGL/220.json", 
+                "id": "220"
+            }, 
+            {
+                "content": "The Short Story", 
+                "href": "/2017/spring/ENGL/245.json", 
+                "id": "245"
+            }, 
+            {
+                "content": "The British Novel", 
+                "href": "/2017/spring/ENGL/247.json", 
+                "id": "247"
+            }, 
+            {
+                "content": "The American Novel to 1914", 
+                "href": "/2017/spring/ENGL/250.json", 
+                "id": "250"
+            }, 
+            {
+                "content": "The American Novel Since 1914", 
+                "href": "/2017/spring/ENGL/251.json", 
+                "id": "251"
+            }, 
+            {
+                "content": "Topics in Lit and New Media", 
+                "href": "/2017/spring/ENGL/253.json", 
+                "id": "253"
+            }, 
+            {
+                "content": "Survey of American Lit I", 
+                "href": "/2017/spring/ENGL/255.json", 
+                "id": "255"
+            }, 
+            {
+                "content": "Survey of American Lit II", 
+                "href": "/2017/spring/ENGL/256.json", 
+                "id": "256"
+            }, 
+            {
+                "content": "Afro-American Literature II", 
+                "href": "/2017/spring/ENGL/260.json", 
+                "id": "260"
+            }, 
+            {
+                "content": "Topics in Lit and Culture", 
+                "href": "/2017/spring/ENGL/261.json", 
+                "id": "261"
+            }, 
+            {
+                "content": "Intro to American Indian Lit", 
+                "href": "/2017/spring/ENGL/265.json", 
+                "id": "265"
+            }, 
+            {
+                "content": "Grimm's Fairy Tales in Context", 
+                "href": "/2017/spring/ENGL/266.json", 
+                "id": "266"
+            }, 
+            {
+                "content": "The Holocaust in Context - ACP", 
+                "href": "/2017/spring/ENGL/268.json", 
+                "id": "268"
+            }, 
+            {
+                "content": "American Film Genres", 
+                "href": "/2017/spring/ENGL/270.json", 
+                "id": "270"
+            }, 
+            {
+                "content": "Literature and Society", 
+                "href": "/2017/spring/ENGL/274.json", 
+                "id": "274"
+            }, 
+            {
+                "content": "Asian Film Genres", 
+                "href": "/2017/spring/ENGL/276.json", 
+                "id": "276"
+            }, 
+            {
+                "content": "Women Writers", 
+                "href": "/2017/spring/ENGL/280.json", 
+                "id": "280"
+            }, 
+            {
+                "content": "Women in the Lit Imagination", 
+                "href": "/2017/spring/ENGL/281.json", 
+                "id": "281"
+            }, 
+            {
+                "content": "Individual Study", 
+                "href": "/2017/spring/ENGL/290.json", 
+                "id": "290"
+            }, 
+            {
+                "content": "Writing About Lit Text&Culture", 
+                "href": "/2017/spring/ENGL/300.json", 
+                "id": "300"
+            }, 
+            {
+                "content": "CriticalApproaches to Lit&Text", 
+                "href": "/2017/spring/ENGL/301.json", 
+                "id": "301"
+            }, 
+            {
+                "content": "History of the English Language", 
+                "href": "/2017/spring/ENGL/311.json", 
+                "id": "311"
+            }, 
+            {
+                "content": "Special Topics in Film Studies", 
+                "href": "/2017/spring/ENGL/373.json", 
+                "id": "373"
+            }, 
+            {
+                "content": "Fairy Tales & Gender Formation", 
+                "href": "/2017/spring/ENGL/378.json", 
+                "id": "378"
+            }, 
+            {
+                "content": "Topics in Writing Studies", 
+                "href": "/2017/spring/ENGL/380.json", 
+                "id": "380"
+            }, 
+            {
+                "content": "Advanced Individual Study", 
+                "href": "/2017/spring/ENGL/390.json", 
+                "id": "390"
+            }, 
+            {
+                "content": "Honors Individual Study", 
+                "href": "/2017/spring/ENGL/391.json", 
+                "id": "391"
+            }, 
+            {
+                "content": "Honors Seminar I", 
+                "href": "/2017/spring/ENGL/396.json", 
+                "id": "396"
+            }, 
+            {
+                "content": "Honors Seminar II", 
+                "href": "/2017/spring/ENGL/397.json", 
+                "id": "397"
+            }, 
+            {
+                "content": "Engl Grammar for ESL Teachers", 
+                "href": "/2017/spring/ENGL/404.json", 
+                "id": "404"
+            }, 
+            {
+                "content": "Chaucer", 
+                "href": "/2017/spring/ENGL/411.json", 
+                "id": "411"
+            }, 
+            {
+                "content": "Topics in Brit Drama to 1660", 
+                "href": "/2017/spring/ENGL/416.json", 
+                "id": "416"
+            }, 
+            {
+                "content": "Shakespeare", 
+                "href": "/2017/spring/ENGL/418.json", 
+                "id": "418"
+            }, 
+            {
+                "content": "Milton", 
+                "href": "/2017/spring/ENGL/423.json", 
+                "id": "423"
+            }, 
+            {
+                "content": "Later 18th Century Literature", 
+                "href": "/2017/spring/ENGL/427.json", 
+                "id": "427"
+            }, 
+            {
+                "content": "19th C British Fiction", 
+                "href": "/2017/spring/ENGL/435.json", 
+                "id": "435"
+            }, 
+            {
+                "content": "American Lit 1820-1865", 
+                "href": "/2017/spring/ENGL/449.json", 
+                "id": "449"
+            }, 
+            {
+                "content": "Major Authors", 
+                "href": "/2017/spring/ENGL/455.json", 
+                "id": "455"
+            }, 
+            {
+                "content": "Lit of American Minorities", 
+                "href": "/2017/spring/ENGL/460.json", 
+                "id": "460"
+            }, 
+            {
+                "content": "Modern African Fiction", 
+                "href": "/2017/spring/ENGL/470.json", 
+                "id": "470"
+            }, 
+            {
+                "content": "Comp Theory and Practice", 
+                "href": "/2017/spring/ENGL/481.json", 
+                "id": "481"
+            }, 
+            {
+                "content": "Writing Technologies", 
+                "href": "/2017/spring/ENGL/482.json", 
+                "id": "482"
+            }, 
+            {
+                "content": "Historiography of Cinema", 
+                "href": "/2017/spring/ENGL/503.json", 
+                "id": "503"
+            }, 
+            {
+                "content": "Theories of Cinema", 
+                "href": "/2017/spring/ENGL/504.json", 
+                "id": "504"
+            }, 
+            {
+                "content": "Beowulf", 
+                "href": "/2017/spring/ENGL/508.json", 
+                "id": "508"
+            }, 
+            {
+                "content": "Seminar in 18th C Literature", 
+                "href": "/2017/spring/ENGL/527.json", 
+                "id": "527"
+            }, 
+            {
+                "content": "Seminar Victorian Lit", 
+                "href": "/2017/spring/ENGL/537.json", 
+                "id": "537"
+            }, 
+            {
+                "content": "Seminar Mod British Lit", 
+                "href": "/2017/spring/ENGL/543.json", 
+                "id": "543"
+            }, 
+            {
+                "content": "Seminar Afro-American Lit", 
+                "href": "/2017/spring/ENGL/559.json", 
+                "id": "559"
+            }, 
+            {
+                "content": "Seminar Lit &Other Disciplines", 
+                "href": "/2017/spring/ENGL/578.json", 
+                "id": "578"
+            }, 
+            {
+                "content": "Seminar Literary Theory", 
+                "href": "/2017/spring/ENGL/581.json", 
+                "id": "581"
+            }, 
+            {
+                "content": "Topics Writ Pedagogy & Design", 
+                "href": "/2017/spring/ENGL/583.json", 
+                "id": "583"
+            }, 
+            {
+                "content": "Topics Discourse and Writing", 
+                "href": "/2017/spring/ENGL/584.json", 
+                "id": "584"
+            }, 
+            {
+                "content": "Research in Special Topics", 
+                "href": "/2017/spring/ENGL/591.json", 
+                "id": "591"
+            }, 
+            {
+                "content": "Masters Exam Tutorial", 
+                "href": "/2017/spring/ENGL/592.json", 
+                "id": "592"
+            }, 
+            {
+                "content": "Prof Seminar College Tchg", 
+                "href": "/2017/spring/ENGL/593.json", 
+                "id": "593"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/ENGL/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1499", 
+    "id": "ENGL", 
+    "label": "English", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-2391", 
+    "subjectComment": "Subjects associated with this department include: Business and Technical Writing (BTW), Creative Writing (CW), English (ENGL), and Rhetoric and Composition (RHET).", 
+    "unitName": "English", 
+    "webSiteURL": "www.english.uiuc.edu"
+}

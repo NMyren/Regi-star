@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: This course is available to engineering majors with senior standing only.", 
+    "creditHours": "3 hours.", 
+    "description": "Design of various engineering devices, objects, or systems. Team-based and faculty-guided projects directed toward the development of materials-based solutions to problems originating from student, faculty, and industrial suggestions. Solutions are based on the knowledge, skills, and design experience acquired in earlier course work and incorporate engineering standards and realistic constraints such as economic, environmental, sustainability, manufacturability, ethical, health and safety, social, and political concerns. Prerequisite: This course is available to engineering majors with senior standing only.", 
+    "href": "/2017/spring/MSE/395.json", 
+    "id": "MSE 395", 
+    "label": "Materials Design", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Materials Science and Engineering", 
+            "href": "/2017/spring/MSE.json", 
+            "id": "MSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MSE/395/38216.json", 
+            "id": "38216"
+        }
+    }
+}

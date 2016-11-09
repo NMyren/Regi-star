@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Credit is not given for both BADM 313 and PSYC 245. Prerequisite: BADM 310.", 
+    "creditHours": "3 hours.", 
+    "description": "Studies concepts and methods used by the staff personnel unit in building and maintaining an effective work force in an industrial organization; development of ability to design the personnel subsystem within the firm and to deal effectively with problems encountered in such areas as recruitment, selection, training, and wage and salary administration; and considerable emphasis on case analysis, role playing, and research. Credit is not given for both BADM 313 and PSYC 245. Prerequisite: BADM 310.", 
+    "href": "/2017/spring/BADM/313.json", 
+    "id": "BADM 313", 
+    "label": "Human Resource Management", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Marketing or Information Sys & Info Tech or Supply Chain Management or Business Process Management or Management major(s) or minor(s). Restricted to students with Junior or Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/BADM/313/31071.json", 
+            "id": "31071"
+        }
+    }
+}

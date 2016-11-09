@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: ANTH 240 and ANTH 246.", 
+    "creditHours": "3 hours.", 
+    "description": "Analysis of human skeletal remains of the medico-legal profession. Topics include the development of the field of forensic anthropology, biological profile and skeletal trauma analysis, interval since death estimation. Additional topics include investigation of crime scenes, the legal role of the biological anthropologist as an expert witness and case report preparation. Attention will also be drawn to the incorporation of anthropological and ethical approaches to dealing with death and using human remains for research. Prerequisite: ANTH 240 and ANTH 246.", 
+    "href": "/2017/spring/ANTH/346.json", 
+    "id": "ANTH 346", 
+    "label": "Forensic Anthropology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Anthropology", 
+            "href": "/2017/spring/ANTH.json", 
+            "id": "ANTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "1", 
+            "href": "/2017/spring/ANTH/346/60574.json", 
+            "id": "60574"
+        }
+    }
+}

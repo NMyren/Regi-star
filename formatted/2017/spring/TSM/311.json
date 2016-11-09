@@ -1,0 +1,74 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule.", 
+    "creditHours": "3 hours.", 
+    "description": "The human food web is the complex network of technologies, environments, people, and social institutions that produces, processes, and distributes the world's food supply. Students will study the food webs of the past, present, and future and will explore various human roles, including their own, in the global technology-environment-society-food system. Course topics include domestication, mechanization, urbanization, the green revolution, biotechnology, food safety, the environment, and appropriate technologies for developing countries. Additional fees may apply. See Class Schedule.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Advanced Composition", 
+                "id": "ACP", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1CLL", 
+                        "content": "UIUC: Advanced Composition"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/TSM/311.json", 
+    "id": "TSM 311", 
+    "label": "Humanity in the Food Web", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Technical Systems Management", 
+            "href": "/2017/spring/TSM.json", 
+            "id": "TSM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition, and Hist&Philosoph Perspect course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/TSM/311/57736.json", 
+                "id": "57736"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/TSM/311/57737.json", 
+                "id": "57737"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/TSM/311/57738.json", 
+                "id": "57738"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/TSM/311/44662.json", 
+                "id": "44662"
+            }
+        ]
+    }
+}

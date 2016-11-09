@@ -1,0 +1,38 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Examines the critical literature on mass media entertainment; reviews significant contemporary issues and develops perspectives for understanding popular culture.", 
+    "href": "/2017/spring/MACS/320.json", 
+    "id": "MACS 320", 
+    "label": "Popular Culture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Media and Cinema Studies", 
+            "href": "/2017/spring/MACS.json", 
+            "id": "MACS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "H", 
+                "href": "/2017/spring/MACS/320/57032.json", 
+                "id": "57032"
+            }, 
+            {
+                "content": "H2", 
+                "href": "/2017/spring/MACS/320/64718.json", 
+                "id": "64718"
+            }
+        ]
+    }
+}

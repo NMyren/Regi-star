@@ -1,0 +1,32 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Presents information on how to conceptualize audiences, mass media use, and reception of media messages. Also examines the character of the audience experience, uses and gratifications of mass media, social cognition, and studies of audiences as interpretive communities.", 
+    "href": "/2017/spring/CMN/326.json", 
+    "id": "CMN 326", 
+    "label": "Mass Media and the Audience", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Speech Communication or Communication major(s).", 
+    "sections": {
+        "section": {
+            "content": "2", 
+            "href": "/2017/spring/CMN/326/56848.json", 
+            "id": "56848"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CMN/101/50522.json", 
+    "id": "50522", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Allen Residence Hall", 
+            "daysOfTheWeek": "MWF", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "151", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Public Speaking", 
+            "href": "/2017/spring/CMN/101.json", 
+            "id": "101"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionCappArea": "Restricted to Unit One students.", 
+    "sectionNumber": "U1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Reserved until December 9 for Allen Hall residents.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

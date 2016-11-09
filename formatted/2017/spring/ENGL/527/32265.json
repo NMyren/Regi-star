@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ENGL/527/32265.json", 
+    "id": "32265", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "R", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Nazar, H", 
+                    "firstName": "H", 
+                    "lastName": "Nazar"
+                }
+            }, 
+            "roomNumber": "113", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Seminar in 18th C Literature", 
+            "href": "/2017/spring/ENGL/527.json", 
+            "id": "527"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "R", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic Section E: Enlightenment Narratives of Education In ?What is Enlightenment?? (1784), Immanuel Kant described enlightenment as the emergence from ?self-imposed tutelage? into critical and moral independence.  Kant?s well-known formulation obscures, however, how shedding the shackles of tutelage was understood by the eighteenth century to be itself a matter of tutelage or education.  This seminar considers the paradoxical rhetoric of education?tutelage to be free from tutelage?permeating eighteenth-century letters.  It also reassesses, in light of the period?s concern with education, some key liberal legacies of the Enlightenment, such as its norm of autonomy or self-governing agency. The idea that reason is less an inborn capacity than a construction or development?a product of experience and hence capable of being shaped by human intervention?constitutes one of the most powerful and contested legacies of Enlightenment modernity.  It found particular appeal amongst women, who used it to contest long-standing essentialist notions of women?s biological and mental inferiority.  It was a crucial shaper, too, of the new genre of the novel, of which a principal subset was the Bildungsroman or ?novel of education.?  Navigating the intersecting fields of eighteenth-century theories of education, histories of the novel, and feminist/gender theory, we will consider questions such as the following: What are the principal goals of education according to Enlightenment thinkers and novelists?  How do considerations of race, class, and gender mark the period?s discourses of education?  How do various authors imagine the relationship between inherited custom and critical independence, and between teachers and students?  What do we make of the period?s rhetoric of ?nature? and how does it evolve over the course of the century?  Why do so many women educationists deploy a separatist rhetoric, best exemplified by Mary Astell?s argument that women should retreat from a corrupt and corrupting social world into a ?Protestant nunnery??  How do the texts we read challenge the conventions of literary periodization?for example, the separation of ?eighteenth century? and ?Romantic??  These preliminary questions are expected to be refined and supplemented by the questions you bring to the seminar table.", 
+    "sectionTitle": "Enlightenment Narr of Educ", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

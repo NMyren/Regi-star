@@ -1,0 +1,114 @@
+{
+    "courseSectionInformation": "Same as PSYC 598. See PSYC 598.", 
+    "creditHours": "0 TO 4 hours.", 
+    "description": "Same as PSYC 598. See PSYC 598.", 
+    "href": "/2017/spring/NEUR/598.json", 
+    "id": "NEUR 598", 
+    "label": "Proseminar in Psychology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Neuroscience", 
+            "href": "/2017/spring/NEUR.json", 
+            "id": "NEUR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "BN", 
+                "href": "/2017/spring/NEUR/598/54898.json", 
+                "id": "54898"
+            }, 
+            {
+                "content": "CC", 
+                "href": "/2017/spring/NEUR/598/54900.json", 
+                "id": "54900"
+            }, 
+            {
+                "content": "CN", 
+                "href": "/2017/spring/NEUR/598/54896.json", 
+                "id": "54896"
+            }, 
+            {
+                "content": "COG", 
+                "href": "/2017/spring/NEUR/598/54902.json", 
+                "id": "54902"
+            }, 
+            {
+                "content": "CPS", 
+                "href": "/2017/spring/NEUR/598/56345.json", 
+                "id": "56345"
+            }, 
+            {
+                "content": "DEV", 
+                "href": "/2017/spring/NEUR/598/54904.json", 
+                "id": "54904"
+            }, 
+            {
+                "content": "IN3", 
+                "href": "/2017/spring/NEUR/598/65068.json", 
+                "id": "65068"
+            }, 
+            {
+                "content": "INT", 
+                "href": "/2017/spring/NEUR/598/63480.json", 
+                "id": "63480"
+            }, 
+            {
+                "content": "IO", 
+                "href": "/2017/spring/NEUR/598/54906.json", 
+                "id": "54906"
+            }, 
+            {
+                "content": "JR2", 
+                "href": "/2017/spring/NEUR/598/63429.json", 
+                "id": "63429"
+            }, 
+            {
+                "content": "LC", 
+                "href": "/2017/spring/NEUR/598/57828.json", 
+                "id": "57828"
+            }, 
+            {
+                "content": "PJC", 
+                "href": "/2017/spring/NEUR/598/57827.json", 
+                "id": "57827"
+            }, 
+            {
+                "content": "QUA", 
+                "href": "/2017/spring/NEUR/598/54908.json", 
+                "id": "54908"
+            }, 
+            {
+                "content": "SDC", 
+                "href": "/2017/spring/NEUR/598/57829.json", 
+                "id": "57829"
+            }, 
+            {
+                "content": "SPJ", 
+                "href": "/2017/spring/NEUR/598/59445.json", 
+                "id": "59445"
+            }, 
+            {
+                "content": "SPO", 
+                "href": "/2017/spring/NEUR/598/54910.json", 
+                "id": "54910"
+            }, 
+            {
+                "content": "VCH", 
+                "href": "/2017/spring/NEUR/598/54912.json", 
+                "id": "54912"
+            }
+        ]
+    }
+}

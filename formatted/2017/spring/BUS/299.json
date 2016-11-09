@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only.", 
+    "creditHours": "0 hours.", 
+    "description": "Accommodates students who must be registered for a course at the University while completing an internship, either because the internship is unpaid and the company requires registration, or because of visa requirements. Only internships in the College of Business will be considered. Approved for S/U grading only.", 
+    "href": "/2017/spring/BUS/299.json", 
+    "id": "BUS 299", 
+    "label": "BUS Internship", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business", 
+            "href": "/2017/spring/BUS.json", 
+            "id": "BUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/BUS/299/47914.json", 
+            "id": "47914"
+        }
+    }
+}

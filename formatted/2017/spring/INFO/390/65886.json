@@ -1,0 +1,64 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/INFO/390/65886.json", 
+    "id": "65886", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Art-East Annex, Studio 2", 
+            "daysOfTheWeek": "MW", 
+            "end": "04:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Irish, S", 
+                        "firstName": "S", 
+                        "lastName": "Irish"
+                    }, 
+                    {
+                        "content": "Patterson, W", 
+                        "firstName": "W", 
+                        "lastName": "Patterson"
+                    }
+                ]
+            }, 
+            "roomNumber": "ARR", 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/INFO/390.json", 
+            "id": "390"
+        }, 
+        "subject": {
+            "content": "Informatics", 
+            "href": "/2017/spring/INFO.json", 
+            "id": "INFO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "HH", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Do you like to make things? Dance? DJ? Market your ideas? Tell stories? This class will examine various aspects of Hip Hop (entrepreneurship, information transfer, spoken word, dance, graffiti, sound arts) in relation to digital sharing and virtual spaces. There will be chances to connect with the Champaign-Urbana Community Fab Lab, the MIT Media Lab and Scratch programming, a UI Dance class, local businesses, and community youth clubs, and more. It will be engaged learning with all your senses, in collaboration! This class meets at the FabLab Art Annex2, 1301 S Goodwin Ave, Urbana cucfablab.org", 
+    "sectionTitle": "Hip Hop Informatics", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

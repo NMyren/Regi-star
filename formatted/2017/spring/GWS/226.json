@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as AFRO 226 and SOC 223. See AFRO 226.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as AFRO 226 and SOC 223. See AFRO 226.", 
+    "href": "/2017/spring/GWS/226.json", 
+    "id": "GWS 226", 
+    "label": "Black Women Contemp US Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Gender and Women's Studies", 
+            "href": "/2017/spring/GWS.json", 
+            "id": "GWS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "MM", 
+            "href": "/2017/spring/GWS/226/63816.json", 
+            "id": "63816"
+        }
+    }
+}

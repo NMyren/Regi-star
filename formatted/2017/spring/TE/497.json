@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. 1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated to a maximum of 3 undergraduate hours or 4 graduate hours in the same term if topics vary; may be repeated for an unlimited number of hours in separate terms. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Advanced projects related to Technology Entrepreneurship. Approved for S/U grading only. 1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated to a maximum of 3 undergraduate hours or 4 graduate hours in the same term if topics vary; may be repeated for an unlimited number of hours in separate terms. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/TE/497.json", 
+    "id": "TE 497", 
+    "label": "Independent Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Technology Entrepreneurship", 
+            "href": "/2017/spring/TE.json", 
+            "id": "TE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/TE/497/61342.json", 
+            "id": "61342"
+        }
+    }
+}

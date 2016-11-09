@@ -1,0 +1,345 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "907 1/2 West Nevada Street, Urbana", 
+    "collegeCode": "KR", 
+    "collegeDepartmentDescription": "Head of Department: Jan Erkert\nDepartment Office, 907 1/2 West Nevada Street, Urbana, 333-1010\nwww.dance.illinois.edu/", 
+    "contactName": "Jan Erkert", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Intro to Contemporary Dance", 
+                "href": "/2017/spring/DANC/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "Modern Dance I", 
+                "href": "/2017/spring/DANC/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "Modern Dance II", 
+                "href": "/2017/spring/DANC/102.json", 
+                "id": "102"
+            }, 
+            {
+                "content": "Making Dances", 
+                "href": "/2017/spring/DANC/104.json", 
+                "id": "104"
+            }, 
+            {
+                "content": "Jazz Dance I", 
+                "href": "/2017/spring/DANC/105.json", 
+                "id": "105"
+            }, 
+            {
+                "content": "Jazz Dance II", 
+                "href": "/2017/spring/DANC/106.json", 
+                "id": "106"
+            }, 
+            {
+                "content": "Ballet I", 
+                "href": "/2017/spring/DANC/107.json", 
+                "id": "107"
+            }, 
+            {
+                "content": "Ballet II", 
+                "href": "/2017/spring/DANC/108.json", 
+                "id": "108"
+            }, 
+            {
+                "content": "Ballet III", 
+                "href": "/2017/spring/DANC/109.json", 
+                "id": "109"
+            }, 
+            {
+                "content": "Cultural Dance Forms", 
+                "href": "/2017/spring/DANC/111.json", 
+                "id": "111"
+            }, 
+            {
+                "content": "Hip Hop", 
+                "href": "/2017/spring/DANC/112.json", 
+                "id": "112"
+            }, 
+            {
+                "content": "Tap Dance II", 
+                "href": "/2017/spring/DANC/121.json", 
+                "id": "121"
+            }, 
+            {
+                "content": "Production Practicum I", 
+                "href": "/2017/spring/DANC/131.json", 
+                "id": "131"
+            }, 
+            {
+                "content": "Beg Contemp Modern Tech Core", 
+                "href": "/2017/spring/DANC/160.json", 
+                "id": "160"
+            }, 
+            {
+                "content": "Beginning Ballet Tech Core", 
+                "href": "/2017/spring/DANC/166.json", 
+                "id": "166"
+            }, 
+            {
+                "content": "Beginning Ballet Tech Elect", 
+                "href": "/2017/spring/DANC/167.json", 
+                "id": "167"
+            }, 
+            {
+                "content": "Int Jazz Technique", 
+                "href": "/2017/spring/DANC/210.json", 
+                "id": "210"
+            }, 
+            {
+                "content": "Int Hip Hop Technique", 
+                "href": "/2017/spring/DANC/211.json", 
+                "id": "211"
+            }, 
+            {
+                "content": "Int Tap Dance Technique", 
+                "href": "/2017/spring/DANC/215.json", 
+                "id": "215"
+            }, 
+            {
+                "content": "Perf Pract Student Works I", 
+                "href": "/2017/spring/DANC/220.json", 
+                "id": "220"
+            }, 
+            {
+                "content": "Performance in Grad Thesis I", 
+                "href": "/2017/spring/DANC/221.json", 
+                "id": "221"
+            }, 
+            {
+                "content": "Perf Pract February I", 
+                "href": "/2017/spring/DANC/223.json", 
+                "id": "223"
+            }, 
+            {
+                "content": "Production Practicum II", 
+                "href": "/2017/spring/DANC/231.json", 
+                "id": "231"
+            }, 
+            {
+                "content": "Introduction to Somatics", 
+                "href": "/2017/spring/DANC/245.json", 
+                "id": "245"
+            }, 
+            {
+                "content": "Contact Improv for Act/Mus/Dan", 
+                "href": "/2017/spring/DANC/259.json", 
+                "id": "259"
+            }, 
+            {
+                "content": "Int Contemp Modern Tech Core", 
+                "href": "/2017/spring/DANC/260.json", 
+                "id": "260"
+            }, 
+            {
+                "content": "Int Contemp Modern Tech Elect", 
+                "href": "/2017/spring/DANC/261.json", 
+                "id": "261"
+            }, 
+            {
+                "content": "Intermediate Ballet Tech Core", 
+                "href": "/2017/spring/DANC/266.json", 
+                "id": "266"
+            }, 
+            {
+                "content": "Intermediate Ballet Tech Elect", 
+                "href": "/2017/spring/DANC/267.json", 
+                "id": "267"
+            }, 
+            {
+                "content": "Music Theory for Dancers", 
+                "href": "/2017/spring/DANC/268.json", 
+                "id": "268"
+            }, 
+            {
+                "content": "Yoga Practicum for Dancers", 
+                "href": "/2017/spring/DANC/301.json", 
+                "id": "301"
+            }, 
+            {
+                "content": "World Dance Forms", 
+                "href": "/2017/spring/DANC/310.json", 
+                "id": "310"
+            }, 
+            {
+                "content": "Dance Documentation", 
+                "href": "/2017/spring/DANC/330.json", 
+                "id": "330"
+            }, 
+            {
+                "content": "Production Practicum III", 
+                "href": "/2017/spring/DANC/331.json", 
+                "id": "331"
+            }, 
+            {
+                "content": "Dancing Black Popular Culture", 
+                "href": "/2017/spring/DANC/340.json", 
+                "id": "340"
+            }, 
+            {
+                "content": "Int/Adv Contemp Mod Tech Core", 
+                "href": "/2017/spring/DANC/360.json", 
+                "id": "360"
+            }, 
+            {
+                "content": "Int/Adv Contemp Mod Tech Elect", 
+                "href": "/2017/spring/DANC/361.json", 
+                "id": "361"
+            }, 
+            {
+                "content": "Choreographic Process II", 
+                "href": "/2017/spring/DANC/362.json", 
+                "id": "362"
+            }, 
+            {
+                "content": "Advanced Improvisation", 
+                "href": "/2017/spring/DANC/363.json", 
+                "id": "363"
+            }, 
+            {
+                "content": "Int/Adv Ballet Tech Core", 
+                "href": "/2017/spring/DANC/366.json", 
+                "id": "366"
+            }, 
+            {
+                "content": "Int/Adv Ballet Tech Elect", 
+                "href": "/2017/spring/DANC/367.json", 
+                "id": "367"
+            }, 
+            {
+                "content": "Production in Dance", 
+                "href": "/2017/spring/DANC/375.json", 
+                "id": "375"
+            }, 
+            {
+                "content": "Alexander Technique Practicum", 
+                "href": "/2017/spring/DANC/402.json", 
+                "id": "402"
+            }, 
+            {
+                "content": "Adv Hip Hop Technique", 
+                "href": "/2017/spring/DANC/411.json", 
+                "id": "411"
+            }, 
+            {
+                "content": "Perf Pract Student Works II", 
+                "href": "/2017/spring/DANC/420.json", 
+                "id": "420"
+            }, 
+            {
+                "content": "Performance in Grad Thesis II", 
+                "href": "/2017/spring/DANC/421.json", 
+                "id": "421"
+            }, 
+            {
+                "content": "Collaborative Performance", 
+                "href": "/2017/spring/DANC/424.json", 
+                "id": "424"
+            }, 
+            {
+                "content": "Dance Internship", 
+                "href": "/2017/spring/DANC/425.json", 
+                "id": "425"
+            }, 
+            {
+                "content": "Production Practicum IV", 
+                "href": "/2017/spring/DANC/431.json", 
+                "id": "431"
+            }, 
+            {
+                "content": "Dance History Seminar", 
+                "href": "/2017/spring/DANC/441.json", 
+                "id": "441"
+            }, 
+            {
+                "content": "Teaching Workshop", 
+                "href": "/2017/spring/DANC/450.json", 
+                "id": "450"
+            }, 
+            {
+                "content": "Contact Improv Act/Mus/Dan II", 
+                "href": "/2017/spring/DANC/459.json", 
+                "id": "459"
+            }, 
+            {
+                "content": "Adv Contemp Modern Tech Core", 
+                "href": "/2017/spring/DANC/460.json", 
+                "id": "460"
+            }, 
+            {
+                "content": "Adv Contemp Modern Tech Elect", 
+                "href": "/2017/spring/DANC/461.json", 
+                "id": "461"
+            }, 
+            {
+                "content": "Advanced Ballet Tech Core", 
+                "href": "/2017/spring/DANC/466.json", 
+                "id": "466"
+            }, 
+            {
+                "content": "Advanced Ballet Tech Elect", 
+                "href": "/2017/spring/DANC/467.json", 
+                "id": "467"
+            }, 
+            {
+                "content": "BA Capstone Project", 
+                "href": "/2017/spring/DANC/497.json", 
+                "id": "497"
+            }, 
+            {
+                "content": "Senior Thesis Production", 
+                "href": "/2017/spring/DANC/498.json", 
+                "id": "498"
+            }, 
+            {
+                "content": "Senior Thesis Project", 
+                "href": "/2017/spring/DANC/499.json", 
+                "id": "499"
+            }, 
+            {
+                "content": "Somatics in Dance Training", 
+                "href": "/2017/spring/DANC/530.json", 
+                "id": "530"
+            }, 
+            {
+                "content": "Contemporary Directions I", 
+                "href": "/2017/spring/DANC/541.json", 
+                "id": "541"
+            }, 
+            {
+                "content": "Graduate Composition II", 
+                "href": "/2017/spring/DANC/562.json", 
+                "id": "562"
+            }, 
+            {
+                "content": "Creative Thesis Project", 
+                "href": "/2017/spring/DANC/598.json", 
+                "id": "598"
+            }
+        ]
+    }, 
+    "departmentCode": "1801", 
+    "id": "DANC", 
+    "label": "Dance", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-1010", 
+    "unitName": "Dance", 
+    "webSiteURL": "www.dance.illinois.edu/"
+}

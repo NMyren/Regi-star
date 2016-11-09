@@ -1,0 +1,125 @@
+{
+    "classScheduleInformation": "Non-music majors will be assessed a fee.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. 2 or 3 undergraduate hours. 2 or 4 graduate hours. May be repeated to a maximum of 12 hours. Prerequisite: Primarily for music majors, junior standing and above. Passing of an audition is required prior to initial registration in any applied music course as approved by the faculty of the appropriate applied music division.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Instruction in voice at the advanced undergraduate and graduate level. Additional fees may apply. See Class Schedule. 2 or 3 undergraduate hours. 2 or 4 graduate hours. May be repeated to a maximum of 12 hours. Prerequisite: Primarily for music majors, junior standing and above. Passing of an audition is required prior to initial registration in any applied music course as approved by the faculty of the appropriate applied music division.", 
+    "href": "/2017/spring/MUS/481.json", 
+    "id": "MUS 481", 
+    "label": "Voice", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/MUS/481/36726.json", 
+                "id": "36726"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/MUS/481/36727.json", 
+                "id": "36727"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/MUS/481/36730.json", 
+                "id": "36730"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/MUS/481/36731.json", 
+                "id": "36731"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/MUS/481/36732.json", 
+                "id": "36732"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/MUS/481/36734.json", 
+                "id": "36734"
+            }, 
+            {
+                "content": "H", 
+                "href": "/2017/spring/MUS/481/41168.json", 
+                "id": "41168"
+            }, 
+            {
+                "content": "I", 
+                "href": "/2017/spring/MUS/481/54201.json", 
+                "id": "54201"
+            }, 
+            {
+                "content": "J", 
+                "href": "/2017/spring/MUS/481/55766.json", 
+                "id": "55766"
+            }, 
+            {
+                "content": "K", 
+                "href": "/2017/spring/MUS/481/42518.json", 
+                "id": "42518"
+            }, 
+            {
+                "content": "L", 
+                "href": "/2017/spring/MUS/481/62154.json", 
+                "id": "62154"
+            }, 
+            {
+                "content": "M", 
+                "href": "/2017/spring/MUS/481/62970.json", 
+                "id": "62970"
+            }, 
+            {
+                "content": "NM", 
+                "href": "/2017/spring/MUS/481/44684.json", 
+                "id": "44684"
+            }, 
+            {
+                "content": "NM1", 
+                "href": "/2017/spring/MUS/481/54268.json", 
+                "id": "54268"
+            }, 
+            {
+                "content": "NMA", 
+                "href": "/2017/spring/MUS/481/58809.json", 
+                "id": "58809"
+            }, 
+            {
+                "content": "NMI", 
+                "href": "/2017/spring/MUS/481/58283.json", 
+                "id": "58283"
+            }, 
+            {
+                "content": "NMJ", 
+                "href": "/2017/spring/MUS/481/58811.json", 
+                "id": "58811"
+            }, 
+            {
+                "content": "NMK", 
+                "href": "/2017/spring/MUS/481/58287.json", 
+                "id": "58287"
+            }, 
+            {
+                "content": "NML", 
+                "href": "/2017/spring/MUS/481/62155.json", 
+                "id": "62155"
+            }
+        ]
+    }
+}

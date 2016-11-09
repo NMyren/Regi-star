@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as RLST 350 and SAME 350. See RLST 350.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as RLST 350 and SAME 350. See RLST 350.", 
+    "href": "/2017/spring/CWL/350.json", 
+    "id": "CWL 350", 
+    "label": "South Asian Goddesses", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Comparative and World Literature", 
+            "href": "/2017/spring/CWL.json", 
+            "id": "CWL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CWL/350/61757.json", 
+            "id": "61757"
+        }
+    }
+}

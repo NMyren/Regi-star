@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as CHLH 336, and ENVS 336. Prerequisite: One course in the life sciences and one course in the social sciences, or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to interdisciplinary methods of analysis of environmental problems in a finite world; examination of the concept of the limits to growth; development of a working understanding of natural systems and environmental economics; and examination of various management strategies (technical, economic, and social) that can be used to improve environmental quality. Same as CHLH 336, and ENVS 336. Prerequisite: One course in the life sciences and one course in the social sciences, or consent of instructor.", 
+    "href": "/2017/spring/CPSC/336.json", 
+    "id": "CPSC 336", 
+    "label": "Tomorrow's Environment", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/CPSC/336/31524.json", 
+                "id": "31524"
+            }, 
+            {
+                "content": "JH", 
+                "href": "/2017/spring/CPSC/336/31527.json", 
+                "id": "31527"
+            }
+        ]
+    }
+}

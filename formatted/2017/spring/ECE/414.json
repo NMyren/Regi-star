@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as BIOE 414. See BIOE 414.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as BIOE 414. See BIOE 414.", 
+    "href": "/2017/spring/ECE/414.json", 
+    "id": "ECE 414", 
+    "label": "Biomedical Instrumentation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/ECE/414/33724.json", 
+            "id": "33724"
+        }
+    }
+}

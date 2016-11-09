@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "1 or 2 undergraduate hours. 1 or 2 graduate hours. May be repeated to a maximum of 6 hours. (1 hour credit per concert up to 2 hours per term). Prerequisite: DANC 131 or DANC 231, or equivalent and consent of instructor.", 
+    "creditHours": "1 OR 2 hours.", 
+    "description": "Practical experience in all aspects of the production of dance concerts mounted in the Krannert Center for the Performing Arts and within the Department of Dance. 1 or 2 undergraduate hours. 1 or 2 graduate hours. May be repeated to a maximum of 6 hours. (1 hour credit per concert up to 2 hours per term). Prerequisite: DANC 131 or DANC 231, or equivalent and consent of instructor.", 
+    "href": "/2017/spring/DANC/431.json", 
+    "id": "DANC 431", 
+    "label": "Production Practicum IV", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Dance or Dance major(s).", 
+    "sections": {
+        "section": {
+            "content": "DP", 
+            "href": "/2017/spring/DANC/431/40827.json", 
+            "id": "40827"
+        }
+    }
+}

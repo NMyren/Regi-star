@@ -1,0 +1,59 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/PSYC/496/64951.json", 
+    "id": "64951", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Psychology Building", 
+            "daysOfTheWeek": "W", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kwapil, T", 
+                    "firstName": "T", 
+                    "lastName": "Kwapil"
+                }
+            }, 
+            "roomNumber": "708", 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Adv Current Topics in Psych", 
+            "href": "/2017/spring/PSYC/496.json", 
+            "id": "496"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Psychology department.", 
+    "sectionNotes": "Restricted to students with Senior class standing. Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "TK", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Pre-Req of Psyc 238  Senior priority enrollment begins November 2nd. Junior priority enrollment begins November 9th.Open enrollment begins at 10am on November 21st. **Approved for Clinical/Community and General Psychology Concentration**", 
+    "sectionTitle": "Schizotypy & Schizophrenia", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

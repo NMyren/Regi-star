@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "1 to 3 undergraduate hours. 1 to 3 graduate hours. May be repeated to a maximum of 16 hours. Prerequisite: Major standing in dance or consent of instructor or departmental placement.", 
+    "creditHours": "1 TO 3 hours.", 
+    "description": "Ballet for advanced students. 1 to 3 undergraduate hours. 1 to 3 graduate hours. May be repeated to a maximum of 16 hours. Prerequisite: Major standing in dance or consent of instructor or departmental placement.", 
+    "href": "/2017/spring/DANC/466.json", 
+    "id": "DANC 466", 
+    "label": "Advanced Ballet Tech Core", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Dance or Dance major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/DANC/466/40823.json", 
+            "id": "40823"
+        }
+    }
+}

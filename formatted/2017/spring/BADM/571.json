@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "2 graduate hours. No professional credit. Prerequisite: Restricted to students in MAS and MSTM programs.", 
+    "creditHours": "2 hours.", 
+    "description": "This course is to discuss digital business management and IT strategy based on emerging digital technology developments. 2 graduate hours. No professional credit. Prerequisite: Restricted to students in MAS and MSTM programs.", 
+    "href": "/2017/spring/BADM/571.json", 
+    "id": "BADM 571", 
+    "label": "Digital Business & IT Strategy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/BADM/571/65217.json", 
+                "id": "65217"
+            }, 
+            {
+                "content": "AX", 
+                "href": "/2017/spring/BADM/571/65218.json", 
+                "id": "65218"
+            }
+        ]
+    }
+}

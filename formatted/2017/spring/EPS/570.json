@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional credit.", 
+    "creditHours": "4 hours.", 
+    "description": "Since the 1990s, scholarship focusing on center-periphery relations has grown considerably. This scholarship is often identified with postcolonial theories of education and society. The purpose of this course is to acquaint students with this body of literature that addresses the way in which post-independent states are currently engaged in massive institutional transformations in light of globalization. Ultimately, we will explore the theoretical and methodological traditions foregrounded in postcolonial research and their implications for educational policy. 4 graduate hours. No professional credit.", 
+    "href": "/2017/spring/EPS/570.json", 
+    "id": "EPS 570", 
+    "label": "Postcolonial Theory & Methodology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Policy Studies", 
+            "href": "/2017/spring/EPS.json", 
+            "id": "EPS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/EPS/570/64988.json", 
+            "id": "64988"
+        }
+    }
+}

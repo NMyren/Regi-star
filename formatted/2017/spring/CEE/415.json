@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: CEE 310.", 
+    "creditHours": "4 hours.", 
+    "description": "Highway classification; analysis of factors in developing a transportation facility; highway geometrics design and safety standards; roadway design element; human factors in roadway design; roadway location principles; intersection, interchange, and ramp design; drainage factors. 4 undergraduate hours. 4 graduate hours. Prerequisite: CEE 310.", 
+    "href": "/2017/spring/CEE/415.json", 
+    "id": "CEE 415", 
+    "label": "Geometric Design of Roads", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CEE/415/60850.json", 
+                "id": "60850"
+            }, 
+            {
+                "content": "TW", 
+                "href": "/2017/spring/CEE/415/31716.json", 
+                "id": "31716"
+            }
+        ]
+    }
+}

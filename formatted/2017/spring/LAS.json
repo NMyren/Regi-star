@@ -1,0 +1,49 @@
+{
+    "addressLine1": "College Office", 
+    "addressLine2": "2090 Lincoln Hall, 702 South Wright Street, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Associate Dean: College Office, 2090 Lincoln Hall, 702 South Wright Street, UrbanaSubjects associated with this department include: Humanities (HUM) and Liberal Arts and Sciences (LAS).\nwww.las.illinois.edu/", 
+    "contactTitle": "Associate Dean", 
+    "courses": {
+        "course": [
+            {
+                "content": "Transfer Advantage", 
+                "href": "/2017/spring/LAS/102.json", 
+                "id": "102"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/LAS/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "LAS Study Abroad", 
+                "href": "/2017/spring/LAS/299.json", 
+                "id": "299"
+            }, 
+            {
+                "content": "Senior Project", 
+                "href": "/2017/spring/LAS/494.json", 
+                "id": "494"
+            }
+        ]
+    }, 
+    "departmentCode": "1670", 
+    "id": "LAS", 
+    "label": "Liberal Arts and Sciences", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "subjectComment": "Subjects associated with this department include: Humanities (HUM) and Liberal Arts and Sciences (LAS).", 
+    "unitName": "Liberal Arts and Sciences", 
+    "webSiteURL": "www.las.illinois.edu/"
+}

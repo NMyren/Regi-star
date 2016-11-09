@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "2 or 4 undergraduate hours. No graduate credit. Prerequisite: Senior standing and consent of Classics Honors Program.", 
+    "creditHours": "2 OR 4 hours.", 
+    "description": "For candidates for honors in Latin and for other seniors. 2 or 4 undergraduate hours. No graduate credit. Prerequisite: Senior standing and consent of Classics Honors Program.", 
+    "href": "/2017/spring/LAT/498.json", 
+    "id": "LAT 498", 
+    "label": "Senior Survey", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latin", 
+            "href": "/2017/spring/LAT.json", 
+            "id": "LAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/LAT/498/10507.json", 
+            "id": "10507"
+        }
+    }
+}

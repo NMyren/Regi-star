@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Applications of linguistics to language learning with special emphasis on learning the sound system of English. The course involves face-to-face and online instruction. 3 undergraduate hours. 4 graduate hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/EIL/488.json", 
+    "id": "EIL 488", 
+    "label": "English Phon & Morph for TESL", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English as an International Language", 
+            "href": "/2017/spring/EIL.json", 
+            "id": "EIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G4", 
+                "href": "/2017/spring/EIL/488/32958.json", 
+                "id": "32958"
+            }, 
+            {
+                "content": "U3", 
+                "href": "/2017/spring/EIL/488/32956.json", 
+                "id": "32956"
+            }
+        ]
+    }
+}

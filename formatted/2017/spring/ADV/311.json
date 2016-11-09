@@ -1,0 +1,32 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Analyzes the most recognized and successful direct mail, print, radio, television and digital advertising campaigns of the 20th and early 21st centuries. Includes particular attention to their strategy and development as well as their social, cultural, and economic impact.", 
+    "href": "/2017/spring/ADV/311.json", 
+    "id": "ADV 311", 
+    "label": "Classic Campaigns", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Advertising", 
+            "href": "/2017/spring/ADV.json", 
+            "id": "ADV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to students with Sophomore, Junior, or Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ADV/311/65258.json", 
+            "id": "65258"
+        }
+    }
+}

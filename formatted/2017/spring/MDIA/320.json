@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: MDIA 270 (Introduction to Media Sales).", 
+    "creditHours": "3 hours.", 
+    "description": "This course addresses conceptual and methodological issues related to the management of sales within media organizations. Responsibilities, function and skills necessary to be an effective media sales manager are covered, including an evaluation of sales organization structures, recruiting, selecting, testing, and training of media salespeople. Related topics include compensation plans, controlling expenses, sales forecasting/projections, routing, quotas, ethics and motivation. It will consist of class lectures, in-class activities, role playing exercises and also include guest lecture from industry leaders/alumni with experience in media sales management. Prerequisite: MDIA 270 (Introduction to Media Sales).", 
+    "href": "/2017/spring/MDIA/320.json", 
+    "id": "MDIA 320", 
+    "label": "Media Sales Management", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Media", 
+            "href": "/2017/spring/MDIA.json", 
+            "id": "MDIA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MDIA/320/60440.json", 
+            "id": "60440"
+        }
+    }
+}

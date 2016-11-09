@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: GEOL 450, GEOL 452, or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "The state of Earth's interior, emphasizing its chemical composition and mineralogy. Focuses on the interpretation of geochemical, petrologic, and laboratory geophysical data related to deep Earth composition, thermal state, structure, and evolution. Prerequisite: GEOL 450, GEOL 452, or consent of instructor.", 
+    "href": "/2017/spring/GEOL/553.json", 
+    "id": "GEOL 553", 
+    "label": "Chemistry of Earth's Interior", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GEOL/553/40272.json", 
+            "id": "40272"
+        }
+    }
+}

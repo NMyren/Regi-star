@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "4 graduate hours. 3 professional hours. Prerequisite: LAW 647.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Involves the study of Subchapter K of the Internal Revenue Code, including partnership formation, allocations, distributions, and liquidations. Also examines the tax treatment of Subchapter S corporations. 4 graduate hours. 3 professional hours. Prerequisite: LAW 647.", 
+    "href": "/2017/spring/LAW/649.json", 
+    "id": "LAW 649", 
+    "label": "Partnership Taxation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/LAW/649/49159.json", 
+                "id": "49159"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/LAW/649/49362.json", 
+                "id": "49362"
+            }
+        ]
+    }
+}

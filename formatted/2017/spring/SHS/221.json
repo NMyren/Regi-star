@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Same as LING 221. Approved for letter and S/U grading. Prerequisite: SHS 121 or equivalent language skills.", 
+    "creditHours": "4 hours.", 
+    "description": "This intermediate course in American Sign Language (ASL) is part of a sequence to fulfill the foreign language requirement. Students must have successfully completed SHS 121 or should be able to demonstrate advanced beginner ASL skills. Students will continue to learn vocabulary items and intermediate-level grammatical structures in order to improve conversation skills. As compared to SHS 121, a greater focus is placed on ASL constructions involving the complex use of space (e.g., verb inflections, so-called \"classifiers\", and constructed action). Same as LING 221. Approved for letter and S/U grading. Prerequisite: SHS 121 or equivalent language skills.", 
+    "href": "/2017/spring/SHS/221.json", 
+    "id": "SHS 221", 
+    "label": "American Sign Language II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "D", 
+                "href": "/2017/spring/SHS/221/58002.json", 
+                "id": "58002"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/SHS/221/48077.json", 
+                "id": "48077"
+            }, 
+            {
+                "content": "P", 
+                "href": "/2017/spring/SHS/221/51117.json", 
+                "id": "51117"
+            }
+        ]
+    }
+}

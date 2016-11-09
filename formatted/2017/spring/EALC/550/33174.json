@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/EALC/550/33174.json", 
+    "id": "33174", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "W", 
+            "end": "04:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Shao, D", 
+                    "firstName": "D", 
+                    "lastName": "Shao"
+                }
+            }, 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Seminar in EALC", 
+            "href": "/2017/spring/EALC/550.json", 
+            "id": "550"
+        }, 
+        "subject": {
+            "content": "East Asian Language and Culture", 
+            "href": "/2017/spring/EALC.json", 
+            "id": "EALC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "E", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic: Gender and Women in Chinese History", 
+    "sectionTitle": "CHIN Hist Gender & Women", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

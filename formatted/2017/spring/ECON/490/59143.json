@@ -1,0 +1,51 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/ECON/490/59143.json", 
+    "id": "59143", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MW", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "S2 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics in Economics", 
+            "href": "/2017/spring/ECON/490.json", 
+            "id": "490"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Economics department.", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "I1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This section is restricted to undergraduate students. This section is restricted to Economics students until the morning of January 9th. Political Economy studies how self-interested, rational policy-makers make choices in an institutionalized environment. In this course, students will utilize utility-maximization theories and tools of microeconomics to understand behavior of rational and goal driven political actors. Students will study political outcomes and the interaction between the actors within the institutional constraints of their environment. We will attempt to explain why the government behaves as it does and how its behavior influences and is in turn influenced by the behavior of private citizens. We will also investigate the effects of political institutions on political and economic outcomes and assess the relative performance of different political systems.", 
+    "sectionTitle": "Political Economy", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,44 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "How are inequalities produced and contested in an urban environment? This course examines this question by analyzing how the urban landscape shapes and is shaped by race, class, and gender inequalities. Uses comparative cases to explore successful intervention, both from formal and informal, across multiple scales from the local to the global.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/UP/260.json", 
+    "id": "UP 260", 
+    "label": "Social Inequality and Planning", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Urban and Regional Planning", 
+            "href": "/2017/spring/UP.json", 
+            "id": "UP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/UP/260/55425.json", 
+            "id": "55425"
+        }
+    }
+}

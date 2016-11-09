@@ -1,0 +1,57 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/LIS/590/49027.json", 
+    "id": "49027", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Grad Sch of Lib & Info Science", 
+            "daysOfTheWeek": "F", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Diesner, J", 
+                    "firstName": "J", 
+                    "lastName": "Diesner"
+                }
+            }, 
+            "roomNumber": "341", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "S14", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Problems in LIS", 
+            "href": "/2017/spring/LIS/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "NA", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This interdisciplinary course introduces students to fundamental theories, concepts, methods and applications of network analysis. Students learn how to approach network analysis in an informed, systematic and analytically rigorous fashion. At the end of the course, students will be able to design, manage and execute network analysis projects for scholarly and commercial use, and to critically assess network studies. [First offered Fall 2012]", 
+    "sectionTitle": "Network Analysis", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

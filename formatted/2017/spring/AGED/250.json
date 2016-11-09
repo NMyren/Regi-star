@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: AGED 220; concurrent enrollment in EDPR 203.", 
+    "creditHours": "4 hours.", 
+    "description": "Early field experience in agricultural education, including observation and analysis activities in public schools, extension programs, or other selected settings; participation in clinical field experience activities; examination of educational program development and operation, teaching and learning processes, contextual factors in learning, evaluation of student learning; and professionalism. Approximately 45 hours of early field experience will be acquired. Off-campus observation begins the first week of January. Agricultural education programs in both school and non-school settings are examined. Prerequisite: AGED 220; concurrent enrollment in EDPR 203.", 
+    "href": "/2017/spring/AGED/250.json", 
+    "id": "AGED 250", 
+    "label": "Observation and Program Analys", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural Education", 
+            "href": "/2017/spring/AGED.json", 
+            "id": "AGED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/AGED/250/29883.json", 
+            "id": "29883"
+        }
+    }
+}

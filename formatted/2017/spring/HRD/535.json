@@ -1,0 +1,32 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "Analysis of key elements of consulting in the human resource development profession. Emphasis is placed on subject matter expertise, consulting skills, marketing, organization, business management, communication, and life/work balance. The course examines both the internal and external consulting practices. Issues of education and training of consultants for work in industry, business, government, and non-profit sectors are covered in detail.", 
+    "href": "/2017/spring/HRD/535.json", 
+    "id": "HRD 535", 
+    "label": "Consulting in HRD", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Human Resource Development", 
+            "href": "/2017/spring/HRD.json", 
+            "id": "HRD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/HRD/535/64986.json", 
+            "id": "64986"
+        }
+    }
+}

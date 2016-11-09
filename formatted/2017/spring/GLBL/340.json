@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: GLBL 240.", 
+    "creditHours": "3 hours.", 
+    "description": "Identifies central and emerging global health issues and analyzes them through the lenses of governance, policy and gender. Focuses on structural, policy, and institutional perspectives on global health, with emphasis on how decisions are influenced and made. Prerequisite: GLBL 240.", 
+    "href": "/2017/spring/GLBL/340.json", 
+    "id": "GLBL 340", 
+    "label": "Global Health: Policy & Governance", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Global Studies", 
+            "href": "/2017/spring/GLBL.json", 
+            "id": "GLBL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GLBL/340/63807.json", 
+            "id": "63807"
+        }
+    }
+}

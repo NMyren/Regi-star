@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional credit.", 
+    "creditHours": "4 hours.", 
+    "description": "This course will analyze currently available technologies for learning. Areas addressed include: learning management systems, intelligent tutors, computer adaptive testing, gamification, simulations, learning in and through social media and peer interaction, universal design for learning, differentiated instruction systems, big data and learning analytics, attention monitoring, and affect-aware systems. Participants will explore the processes for selection and implementation of suitable technologies, the design  of electronic learning resources, design and application of digital media in teaching and learning, familiarization with web usually and accessibility, and critical analysis of the benefits of technologies in education. 4 graduate hours. No professional credit.", 
+    "href": "/2017/spring/EPSY/556.json", 
+    "id": "EPSY 556", 
+    "label": "Analysis of Educational Tech", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/EPSY/556/65688.json", 
+                "id": "65688"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/EPSY/556/56057.json", 
+                "id": "56057"
+            }
+        ]
+    }
+}

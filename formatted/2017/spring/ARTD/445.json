@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. 3 undergraduate hours. 4 graduate hours. May be repeated in separate terms to a maximum of 12 undergraduate hours or 16 graduate hours. Prerequisite: Junior standing in Art and Design or consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Investigation of special problems and current topics in industrial and/or graphic design. Students will conduct original research which will be shared through papers, presentations, and discussions. Additional fees may apply. See Class Schedule. 3 undergraduate hours. 4 graduate hours. May be repeated in separate terms to a maximum of 12 undergraduate hours or 16 graduate hours. Prerequisite: Junior standing in Art and Design or consent of instructor.", 
+    "href": "/2017/spring/ARTD/445.json", 
+    "id": "ARTD 445", 
+    "label": "Seminar in Design", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Design", 
+            "href": "/2017/spring/ARTD.json", 
+            "id": "ARTD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "GDG", 
+                "href": "/2017/spring/ARTD/445/60563.json", 
+                "id": "60563"
+            }, 
+            {
+                "content": "GDU", 
+                "href": "/2017/spring/ARTD/445/60562.json", 
+                "id": "60562"
+            }
+        ]
+    }
+}

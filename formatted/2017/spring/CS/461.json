@@ -1,0 +1,64 @@
+{
+    "courseSectionInformation": "Same as ECE 422. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 241 or ECE 391.", 
+    "creditHours": "0 to 4 hours.", 
+    "description": "Fundamental principles of computer and communications security and information assurance: ethics, privacy, notions of threat, vulnerabilities, and risk in systems, information warfare, malicious software, data secrecy and integrity issues, network security, trusted computing, mandatory and discretionary access controls, certification and accreditation of systems against security standards. Security mechanisms: authentication, auditing, intrusion detection, access control, cryptography, security protocols, key distribution. Same as ECE 422. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 241 or ECE 391.", 
+    "href": "/2017/spring/CS/461.json", 
+    "id": "CS 461", 
+    "label": "Computer Security I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AL4", 
+                "href": "/2017/spring/CS/461/48199.json", 
+                "id": "48199"
+            }, 
+            {
+                "content": "AY1", 
+                "href": "/2017/spring/CS/461/63507.json", 
+                "id": "63507"
+            }, 
+            {
+                "content": "AY2", 
+                "href": "/2017/spring/CS/461/63508.json", 
+                "id": "63508"
+            }, 
+            {
+                "content": "AY3", 
+                "href": "/2017/spring/CS/461/63509.json", 
+                "id": "63509"
+            }, 
+            {
+                "content": "AY4", 
+                "href": "/2017/spring/CS/461/63510.json", 
+                "id": "63510"
+            }, 
+            {
+                "content": "AY5", 
+                "href": "/2017/spring/CS/461/63511.json", 
+                "id": "63511"
+            }, 
+            {
+                "content": "AY6", 
+                "href": "/2017/spring/CS/461/63513.json", 
+                "id": "63513"
+            }
+        ]
+    }
+}

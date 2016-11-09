@@ -1,0 +1,61 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "AW-101 Turner Hall, 1102 South Goodwin, Urbana", 
+    "collegeCode": "KL", 
+    "collegeDepartmentDescription": "Head of Department: German Bollero\nDepartment Office, AW-101 Turner Hall, 1102 South Goodwin, Urbana, 333-3420\nSubjects associated with this department include: Crop Sciences (CPSC), Horticulture (HORT), and Plant Pathology (PLPA).\nwww.cropsci.uiuc.edu", 
+    "contactName": "German Bollero", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/PLPA/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Plants, Pathogens, and People", 
+                "href": "/2017/spring/PLPA/200.json", 
+                "id": "200"
+            }, 
+            {
+                "content": "Introductory Plant Pathology", 
+                "href": "/2017/spring/PLPA/204.json", 
+                "id": "204"
+            }, 
+            {
+                "content": "Undergrad Research or Thesis", 
+                "href": "/2017/spring/PLPA/395.json", 
+                "id": "395"
+            }, 
+            {
+                "content": "Phytobacteriology", 
+                "href": "/2017/spring/PLPA/406.json", 
+                "id": "406"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/PLPA/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1802", 
+    "id": "PLPA", 
+    "label": "Plant Pathology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-3420", 
+    "subjectComment": "Subjects associated with this department include: Crop Sciences (CPSC), Horticulture (HORT), and Plant Pathology (PLPA).", 
+    "unitName": "Crop Sciences", 
+    "webSiteURL": "www.cropsci.uiuc.edu"
+}

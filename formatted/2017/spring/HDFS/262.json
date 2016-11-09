@@ -1,0 +1,68 @@
+{
+    "classScheduleInformation": "Students must register for one lecture-discussion and one lecture section.", 
+    "courseSectionInformation": "Same as KIN 262. See KIN 262.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as KIN 262. See KIN 262.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1BSC", 
+                    "content": "UIUC: Behavioral Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/HDFS/262.json", 
+    "id": "HDFS 262", 
+    "label": "Motor Develop, Growth & Form", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Human Development and Family Studies", 
+            "href": "/2017/spring/HDFS.json", 
+            "id": "HDFS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Behavioral Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AE2", 
+                "href": "/2017/spring/HDFS/262/35180.json", 
+                "id": "35180"
+            }, 
+            {
+                "content": "AE3", 
+                "href": "/2017/spring/HDFS/262/35183.json", 
+                "id": "35183"
+            }, 
+            {
+                "content": "AE4", 
+                "href": "/2017/spring/HDFS/262/35184.json", 
+                "id": "35184"
+            }, 
+            {
+                "content": "AE5", 
+                "href": "/2017/spring/HDFS/262/35185.json", 
+                "id": "35185"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/HDFS/262/35186.json", 
+                "id": "35186"
+            }
+        ]
+    }
+}

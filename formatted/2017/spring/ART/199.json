@@ -1,0 +1,44 @@
+{
+    "classScheduleInformation": "A student registered in one or more Art & Design course(s) exhibiting this message, may be assessed a $95 facility use fee once each term.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. May be repeated.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "Additional fees may apply. See Class Schedule. May be repeated.", 
+    "href": "/2017/spring/ART/199.json", 
+    "id": "ART 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art", 
+            "href": "/2017/spring/ART.json", 
+            "id": "ART"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/ART/199/10355.json", 
+                "id": "10355"
+            }, 
+            {
+                "content": "BT2", 
+                "href": "/2017/spring/ART/199/12125.json", 
+                "id": "12125"
+            }, 
+            {
+                "content": "GD", 
+                "href": "/2017/spring/ART/199/46634.json", 
+                "id": "46634"
+            }
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/VCM/674/64309.json", 
+    "id": "64309", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Vet Med Basic Sciences Bldg", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Foreman, J", 
+                    "firstName": "J", 
+                    "lastName": "Foreman"
+                }
+            }, 
+            "roomNumber": "2281", 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Equine Exercise Physiology", 
+            "href": "/2017/spring/VCM/674.json", 
+            "id": "674"
+        }, 
+        "subject": {
+            "content": "Veterinary Clinical Medicine", 
+            "href": "/2017/spring/VCM.json", 
+            "id": "VCM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "EG", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

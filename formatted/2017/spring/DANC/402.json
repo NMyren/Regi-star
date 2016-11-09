@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "1 undergraduate hour. 3 graduate hours. May be repeated in separate terms to a maximum of 8 undergraduate hours or 6 graduate hours.", 
+    "creditHours": "1 OR 3 hours.", 
+    "description": "Facilitates conscious and reasoned control of the human organism as a psychophysical whole. Helps students recognize habits that constitute their daily activities and discard, through conscious control, those that impede open-minded enquiry and self-reliance. Through one-on-one work with certified teachers and trainees, students will learn to change habitual patterns of coordination. 1 undergraduate hour. 3 graduate hours. May be repeated in separate terms to a maximum of 8 undergraduate hours or 6 graduate hours.", 
+    "href": "/2017/spring/DANC/402.json", 
+    "id": "DANC 402", 
+    "label": "Alexander Technique Practicum", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Dance or Dance major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/DANC/402/57148.json", 
+            "id": "57148"
+        }
+    }
+}

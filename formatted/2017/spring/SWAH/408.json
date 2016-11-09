@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as AFST 406. 3 undergraduate hours. 3 graduate hours. Prerequisite: SWAH 407.", 
+    "creditHours": "3 hours.", 
+    "description": "Continuation of SWAH 407 with increased emphasis on the reading and comprehension of literary texts exemplified in advanced level novels, plays, and poetry, as well as on advanced mastery of expository writing skills. Same as AFST 406. 3 undergraduate hours. 3 graduate hours. Prerequisite: SWAH 407.", 
+    "href": "/2017/spring/SWAH/408.json", 
+    "id": "SWAH 408", 
+    "label": "Topics Swahili Lang & Lit II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Swahili", 
+            "href": "/2017/spring/SWAH.json", 
+            "id": "SWAH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A1", 
+            "href": "/2017/spring/SWAH/408/45637.json", 
+            "id": "45637"
+        }
+    }
+}

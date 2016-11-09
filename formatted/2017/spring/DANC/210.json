@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 2 hours. Prerequisite: Major standing in Dance or consent of instructor.", 
+    "creditHours": "1 hours.", 
+    "description": "Introduction to basic dance techniques and stylistic work in the jazz idiom for experienced dancers. Emphasis on a conceptual understanding of jazz style (as related to America's own cultural diversity) and the development of the specific skills necessary for performance and teaching. May be repeated to a maximum of 2 hours. Prerequisite: Major standing in Dance or consent of instructor.", 
+    "href": "/2017/spring/DANC/210.json", 
+    "id": "DANC 210", 
+    "label": "Int Jazz Technique", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/DANC/210/63717.json", 
+                "id": "63717"
+            }, 
+            {
+                "content": "MT", 
+                "href": "/2017/spring/DANC/210/65035.json", 
+                "id": "65035"
+            }
+        ]
+    }
+}

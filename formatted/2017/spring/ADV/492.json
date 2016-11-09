@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as CS 468. 3 undergraduate hours. No graduate credit. Credit is not given for ADV 492 and ADV 498. Prerequisite: CS 225 or consent of instructors. Junior or senior standing in Advertising or Computer Science.", 
+    "creditHours": "3 hours.", 
+    "description": "With the maturation of the internet as an advertising and media channel, advertising, journalism, and communications students need to know more about technology and how that impacts their messages and designs. Likewise, computer scientists could benefit from knowledge of what the end user is looking for when designing web content, applications and other web-based media. Students in this course will gain design knowledge as well as a hands-on experience in completing a technology-driven advertising campaign. Students will participate in engineering, advertising and project management activities with individual as well as team responsibilities. Same as CS 468. 3 undergraduate hours. No graduate credit. Credit is not given for ADV 492 and ADV 498. Prerequisite: CS 225 or consent of instructors. Junior or senior standing in Advertising or Computer Science.", 
+    "href": "/2017/spring/ADV/492.json", 
+    "id": "ADV 492", 
+    "label": "Tech and Advertising Campaigns", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Advertising", 
+            "href": "/2017/spring/ADV.json", 
+            "id": "ADV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Agr & Environmental Cmc & Educ or Advertising or Agricultural Communications major(s). Restricted to students with Junior or Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "U", 
+            "href": "/2017/spring/ADV/492/64125.json", 
+            "id": "64125"
+        }
+    }
+}

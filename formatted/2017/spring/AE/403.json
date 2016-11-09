@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: AE 352 and AE 353.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Theory and applications of spacecraft attitude dynamics and control; Euler angles, direction cosines, quaternions, and Gibbs-Rodrigues parameters; attitude sensors and control actuators; spin, three-axis active, reaction wheel, control moment gyro, and gravity gradient control systems; environmental effects. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: AE 352 and AE 353.", 
+    "href": "/2017/spring/AE/403.json", 
+    "id": "AE 403", 
+    "label": "Spacecraft Attitude Control", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Aerospace Engineering", 
+            "href": "/2017/spring/AE.json", 
+            "id": "AE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/AE/403/29973.json", 
+                "id": "29973"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/AE/403/62470.json", 
+                "id": "62470"
+            }
+        ]
+    }
+}

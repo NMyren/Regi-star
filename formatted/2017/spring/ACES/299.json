@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. May be repeated to a maximum of 36 hours within one calendar year. 0 to 8 undergraduate hours for Summer session only. Prerequisite: Consent of major department, college, and Study Abroad Office.", 
+    "creditHours": "0 TO 18 hours.", 
+    "description": "Provides campus credit in the College of Agricultural, Consumer and Environmental Sciences for study at accredited foreign institutions. Final determination of credit granted is made upon the student's successful completion of work. Approved for both letter and S/U grading. May be repeated to a maximum of 36 hours within one calendar year. 0 to 8 undergraduate hours for Summer session only. Prerequisite: Consent of major department, college, and Study Abroad Office.", 
+    "href": "/2017/spring/ACES/299.json", 
+    "id": "ACES 299", 
+    "label": "ACES Study Abroad", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural, Consumer and Environmental Sciences", 
+            "href": "/2017/spring/ACES.json", 
+            "id": "ACES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/ACES/299/10107.json", 
+                "id": "10107"
+            }, 
+            {
+                "content": "A", 
+                "href": "/2017/spring/ACES/299/30675.json", 
+                "id": "30675"
+            }
+        ]
+    }
+}

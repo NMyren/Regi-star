@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as SPAN 308. See SPAN 308.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as SPAN 308. See SPAN 308.", 
+    "href": "/2017/spring/LLS/308.json", 
+    "id": "LLS 308", 
+    "label": "Spanish in the United States", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latina/Latino Studies", 
+            "href": "/2017/spring/LLS.json", 
+            "id": "LLS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G", 
+                "href": "/2017/spring/LLS/308/64939.json", 
+                "id": "64939"
+            }, 
+            {
+                "content": "X", 
+                "href": "/2017/spring/LLS/308/59989.json", 
+                "id": "59989"
+            }
+        ]
+    }
+}

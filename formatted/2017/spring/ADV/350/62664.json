@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ADV/350/62664.json", 
+    "id": "62664", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foreign Languages Building", 
+            "daysOfTheWeek": "MWF", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Tate, A", 
+                    "firstName": "A", 
+                    "lastName": "Tate"
+                }
+            }, 
+            "roomNumber": "1040", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Writing for Public Relations", 
+            "href": "/2017/spring/ADV/350.json", 
+            "id": "350"
+        }, 
+        "subject": {
+            "content": "Advertising", 
+            "href": "/2017/spring/ADV.json", 
+            "id": "ADV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "C", 
+    "sectionStatusCode": "A", 
+    "sectionText": "If available, seats will open to Campus Juniors and Seniors on November 16th at 11am.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

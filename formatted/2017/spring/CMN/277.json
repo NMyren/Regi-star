@@ -1,0 +1,53 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section (Fall and Spring Semesters only).", 
+    "creditHours": "4 hours.", 
+    "description": "Survey of the history, structure, forms, and social effects of the American mass media.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CMN/277.json", 
+    "id": "CMN 277", 
+    "label": "Intro to Mediated Comm", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sectionRegistrationNotes": "Restricted to Speech Communication or Communication major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/CMN/277/50613.json", 
+                "id": "50613"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/CMN/277/50604.json", 
+                "id": "50604"
+            }
+        ]
+    }
+}

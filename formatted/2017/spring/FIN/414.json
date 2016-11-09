@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "Same as ECON 414. See ECON 414.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as ECON 414. See ECON 414.", 
+    "href": "/2017/spring/FIN/414.json", 
+    "id": "FIN 414", 
+    "label": "Urban Economics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Finance", 
+            "href": "/2017/spring/FIN.json", 
+            "id": "FIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A1", 
+                "href": "/2017/spring/FIN/414/52778.json", 
+                "id": "52778"
+            }, 
+            {
+                "content": "A2", 
+                "href": "/2017/spring/FIN/414/52777.json", 
+                "id": "52777"
+            }, 
+            {
+                "content": "B1", 
+                "href": "/2017/spring/FIN/414/65633.json", 
+                "id": "65633"
+            }, 
+            {
+                "content": "B2", 
+                "href": "/2017/spring/FIN/414/65634.json", 
+                "id": "65634"
+            }
+        ]
+    }
+}

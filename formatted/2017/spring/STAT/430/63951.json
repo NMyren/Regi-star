@@ -1,0 +1,54 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/STAT/430/63951.json", 
+    "id": "63951", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Brunner, R", 
+                    "firstName": "R", 
+                    "lastName": "Brunner"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics in Applied Statistics", 
+            "href": "/2017/spring/STAT/430.json", 
+            "id": "430"
+        }, 
+        "subject": {
+            "content": "Statistics", 
+            "href": "/2017/spring/STAT.json", 
+            "id": "STAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Statistics or Statistics & Computer Science major(s). Not intended for students with Freshman class standing.", 
+    "sectionNumber": "RB2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "For up-to-date information about statistics course registration, please see our registration page: https://illinois.edu/blog/view/7118.  TOPIC: Advanced Data Science  Description: This class is an asynchronous, online course. Please see INFO 490 (section RB2, CRN 64015) for more information.  This course will introduce advanced data science concepts by building on the foundational concepts presented in INFO 490: Foundations of Data Science. Students will first learn how to perform more statistical data exploration and constructing and evaluating statistical models. Next, students will learn machine learning techniques including supervised and unsupervised learning, dimensional reduction, and cluster finding. An emphasis will be placed on the practical application of these techniques to high-dimensional numerical data, time series data, image data, and text data. Finally, students will learn to use relational databases and cloud computing software components such as Hadoop, Spark, and NoSQL data stores. Students must have access to a fairly modern computer, ideally that supports hardware virtualization, on which they can install software. This class is open to sophomores, juniors, seniors and graduate students in any discipline who have either taken a previous INFO 490 data science course or have received instructor permission.  Restrictions: Not intended for students with Freshman class standing. The STAT 430 section is restricted to statistics students only. Other students would register for INFO 490 section RB2, CRN 64015.  Priority registration is restricted to students majoring in Statistics or Statistics & Computer Science. Students minoring in Statistics are expected to be added to the restrictions sometime during the business day December 1, 2016.", 
+    "sectionTitle": "Advanced Data Science", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

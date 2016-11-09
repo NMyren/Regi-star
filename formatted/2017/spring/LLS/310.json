@@ -1,0 +1,64 @@
+{
+    "courseSectionInformation": "Same as AAS 310, AFRO 310, and EPS 310. See EPS 310.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as AAS 310, AFRO 310, and EPS 310. See EPS 310.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1US", 
+                        "content": "UIUC: US Minority Culture(s)"
+                    }
+                }
+            }, 
+            {
+                "description": "Advanced Composition", 
+                "id": "ACP", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1CLL", 
+                        "content": "UIUC: Advanced Composition"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/LLS/310.json", 
+    "id": "LLS 310", 
+    "label": "Race and Cultural Diversity", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latina/Latino Studies", 
+            "href": "/2017/spring/LLS.json", 
+            "id": "LLS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition, and US Minority Culture(s) course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/LLS/310/33079.json", 
+                "id": "33079"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/LLS/310/33081.json", 
+                "id": "33081"
+            }
+        ]
+    }
+}

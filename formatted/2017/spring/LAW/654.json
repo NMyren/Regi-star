@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "4 graduate hours. 3 professional hours.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Analysis of the regulation of trade between nations by international agreement (e.g., the GATT), by multinational organizations (e.g., the European Communities), and by individual countries; emphasizes U.S. import restraints, export controls, and related laws. 4 graduate hours. 3 professional hours.", 
+    "href": "/2017/spring/LAW/654.json", 
+    "id": "LAW 654", 
+    "label": "International Trade Policy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Law department.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/LAW/654/39968.json", 
+                "id": "39968"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/LAW/654/42013.json", 
+                "id": "42013"
+            }
+        ]
+    }
+}

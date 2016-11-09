@@ -1,0 +1,46 @@
+{
+    "courseSectionInformation": "Same as AFRO 231. See AFRO 231.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as AFRO 231. See AFRO 231.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+            "id": "CNW", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1US", 
+                    "content": "UIUC: US Minority Culture(s)"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/SHS/231.json", 
+    "id": "SHS 231", 
+    "label": "Lang Diff Dis: American Persp", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionDegreeAttributes": "US Minority Culture(s) course.", 
+    "sections": {
+        "section": {
+            "content": "1", 
+            "href": "/2017/spring/SHS/231/63822.json", 
+            "id": "63822"
+        }
+    }
+}

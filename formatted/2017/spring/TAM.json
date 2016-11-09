@@ -1,0 +1,151 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "144 Mechanical Engineering Building, 1206 West Green, Urbana", 
+    "collegeCode": "KP", 
+    "collegeDepartmentDescription": "Department Head: Placid M. Ferreira\nDepartment Office, 144 Mechanical Engineering Building, 1206 West Green, Urbana, 333-1176, MechSE-Undergrad@illinois.edu\nSubjects associated with this department include: Mechanical Engineering (ME) and Theoretical and Applied Mechanics (TAM).\nwww.mechse.illinois.edu", 
+    "contactName": "Placid M. Ferreira", 
+    "contactTitle": "Department Head", 
+    "courses": {
+        "course": [
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/TAM/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Introduction to Statics", 
+                "href": "/2017/spring/TAM/210.json", 
+                "id": "210"
+            }, 
+            {
+                "content": "Statics", 
+                "href": "/2017/spring/TAM/211.json", 
+                "id": "211"
+            }, 
+            {
+                "content": "Introductory Dynamics", 
+                "href": "/2017/spring/TAM/212.json", 
+                "id": "212"
+            }, 
+            {
+                "content": "Introductory Solid Mechanics", 
+                "href": "/2017/spring/TAM/251.json", 
+                "id": "251"
+            }, 
+            {
+                "content": "Solid Mechanics Design", 
+                "href": "/2017/spring/TAM/252.json", 
+                "id": "252"
+            }, 
+            {
+                "content": "Behavior of Materials", 
+                "href": "/2017/spring/TAM/324.json", 
+                "id": "324"
+            }, 
+            {
+                "content": "Introductory Fluid Mechanics", 
+                "href": "/2017/spring/TAM/335.json", 
+                "id": "335"
+            }, 
+            {
+                "content": "Intermediate Dynamics", 
+                "href": "/2017/spring/TAM/412.json", 
+                "id": "412"
+            }, 
+            {
+                "content": "Intro to Nonlinear Dyn & Vib", 
+                "href": "/2017/spring/TAM/416.json", 
+                "id": "416"
+            }, 
+            {
+                "content": "Continuum Mechanics", 
+                "href": "/2017/spring/TAM/445.json", 
+                "id": "445"
+            }, 
+            {
+                "content": "Experimental Stress Analysis", 
+                "href": "/2017/spring/TAM/456.json", 
+                "id": "456"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/TAM/497.json", 
+                "id": "497"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/TAM/498.json", 
+                "id": "498"
+            }, 
+            {
+                "content": "Senior Thesis", 
+                "href": "/2017/spring/TAM/499.json", 
+                "id": "499"
+            }, 
+            {
+                "content": "Seminar", 
+                "href": "/2017/spring/TAM/500.json", 
+                "id": "500"
+            }, 
+            {
+                "content": "Micromechanics of Materials", 
+                "href": "/2017/spring/TAM/524.json", 
+                "id": "524"
+            }, 
+            {
+                "content": "Viscous Flow", 
+                "href": "/2017/spring/TAM/532.json", 
+                "id": "532"
+            }, 
+            {
+                "content": "Mathematical Methods II", 
+                "href": "/2017/spring/TAM/542.json", 
+                "id": "542"
+            }, 
+            {
+                "content": "Solid Mechanics II", 
+                "href": "/2017/spring/TAM/552.json", 
+                "id": "552"
+            }, 
+            {
+                "content": "Computational Fluid Mechanics", 
+                "href": "/2017/spring/TAM/570.json", 
+                "id": "570"
+            }, 
+            {
+                "content": "Advanced Independent Study", 
+                "href": "/2017/spring/TAM/597.json", 
+                "id": "597"
+            }, 
+            {
+                "content": "Advanced Special Topics", 
+                "href": "/2017/spring/TAM/598.json", 
+                "id": "598"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/TAM/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1917", 
+    "id": "TAM", 
+    "label": "Theoretical and Applied Mechanics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-1176, MechSE-Undergrad@illinois.edu", 
+    "subjectComment": "Subjects associated with this department include: Mechanical Engineering (ME) and Theoretical and Applied Mechanics (TAM).", 
+    "unitName": "Mechanical Science and Engineering", 
+    "webSiteURL": "www.mechse.illinois.edu"
+}

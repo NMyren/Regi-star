@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as CLCV 240 and CWL 262. See CLCV 240.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as CLCV 240 and CWL 262. See CLCV 240.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1LA", 
+                        "content": "UIUC: Literature and the Arts"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/GWS/240.json", 
+    "id": "GWS 240", 
+    "label": "Sex & Gender in Antiquity", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Gender and Women's Studies", 
+            "href": "/2017/spring/GWS.json", 
+            "id": "GWS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Literature and the Arts, and Western Compartv Cult course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GWS/240/40090.json", 
+            "id": "40090"
+        }
+    }
+}

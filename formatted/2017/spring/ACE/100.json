@@ -1,0 +1,89 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section.", 
+    "courseSectionInformation": "Credit is not given for ACE 100 if credit for ECON 102 has been earned.", 
+    "creditHours": "4 hours.", 
+    "description": "Principles of microeconomics; demand, production, supply, elasticity, markets, and trade are presented and used in the analysis of decisions of individuals relating to agricultural production, food and textile consumption, and natural resource use. Macroeconomic concepts are also introduced. Credit is not given for ACE 100 if credit for ECON 102 has been earned.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/ACE/100.json", 
+    "id": "ACE 100", 
+    "label": "Agr Cons and Resource Econ", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural and Consumer Economics", 
+            "href": "/2017/spring/ACE.json", 
+            "id": "ACE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sectionRegistrationNotes": "Restricted to Agr, Consumer, & Env Sciences.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/ACE/100/30470.json", 
+                "id": "30470"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/ACE/100/30471.json", 
+                "id": "30471"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/ACE/100/30473.json", 
+                "id": "30473"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/ACE/100/30474.json", 
+                "id": "30474"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/ACE/100/30476.json", 
+                "id": "30476"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/ACE/100/30478.json", 
+                "id": "30478"
+            }, 
+            {
+                "content": "AD7", 
+                "href": "/2017/spring/ACE/100/30480.json", 
+                "id": "30480"
+            }, 
+            {
+                "content": "AD8", 
+                "href": "/2017/spring/ACE/100/30482.json", 
+                "id": "30482"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ACE/100/30484.json", 
+                "id": "30484"
+            }
+        ]
+    }
+}

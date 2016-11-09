@@ -1,0 +1,66 @@
+{
+    "classScheduleInformation": "Register for the lecture and one discussion section.", 
+    "courseSectionInformation": "Prerequisite: MUS 101 and MUS 107, or placement by examination.", 
+    "creditHours": "2 hours.", 
+    "description": "Continuation of aural skills training from MUS 107. Development of performance, notational, and listening skills in the areas of rhythm, melody, harmony, counterpoint, and formal aspects of musical structure; emphasizes tonal pitch structures. Prerequisite: MUS 101 and MUS 107, or placement by examination.", 
+    "href": "/2017/spring/MUS/108.json", 
+    "id": "MUS 108", 
+    "label": "Aural Skills II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Music department.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/MUS/108/35475.json", 
+                "id": "35475"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/MUS/108/35477.json", 
+                "id": "35477"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/MUS/108/35479.json", 
+                "id": "35479"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/MUS/108/35481.json", 
+                "id": "35481"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/MUS/108/46435.json", 
+                "id": "46435"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/MUS/108/35473.json", 
+                "id": "35473"
+            }, 
+            {
+                "content": "GR", 
+                "href": "/2017/spring/MUS/108/35478.json", 
+                "id": "35478"
+            }
+        ]
+    }
+}

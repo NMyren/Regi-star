@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as RUSS 320. See RUSS 320.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as RUSS 320. See RUSS 320.", 
+    "href": "/2017/spring/CWL/321.json", 
+    "id": "CWL 321", 
+    "label": "Russian Writers", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Comparative and World Literature", 
+            "href": "/2017/spring/CWL.json", 
+            "id": "CWL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "U3", 
+            "href": "/2017/spring/CWL/321/52796.json", 
+            "id": "52796"
+        }
+    }
+}

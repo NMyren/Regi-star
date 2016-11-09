@@ -1,0 +1,66 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "Introductory course covering the principles and practices of crop production and sustainable agroecosystem management. Topics include plant growth and development, environmental factors influencing plant productivity, soil management, fertility, and nutrient cycling, pest control principles, and sustainability challenges facing modern crop production. Concepts are discussed in lecture and reinforced in hands-on laboratory sections.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Natural Sciences & Technology", 
+            "id": "NAT", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1LS", 
+                    "content": "UIUC: Life Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CPSC/112.json", 
+    "id": "CPSC 112", 
+    "label": "Introduction to Crop Sciences", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Life Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/CPSC/112/31481.json", 
+                "id": "31481"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/CPSC/112/31483.json", 
+                "id": "31483"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/CPSC/112/56572.json", 
+                "id": "56572"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/CPSC/112/62326.json", 
+                "id": "62326"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CPSC/112/31487.json", 
+                "id": "31487"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "2 or 4 undergraduate hours. No graduate credit. May be repeated in separate terms to a maximum of 4 undergraduate hours. May be taken by honors students in partial fulfillment of department honors requirement. Prerequisite: Senior standing; enrollment as a major in Latina/Latino Studies; a cumulative grade point average of at least 3.25; a minimum 3.5 grade point average in the major; and consent of supervising professor.", 
+    "creditHours": "2 OR 4 hours.", 
+    "description": "Research project leading to a thesis. 2 or 4 undergraduate hours. No graduate credit. May be repeated in separate terms to a maximum of 4 undergraduate hours. May be taken by honors students in partial fulfillment of department honors requirement. Prerequisite: Senior standing; enrollment as a major in Latina/Latino Studies; a cumulative grade point average of at least 3.25; a minimum 3.5 grade point average in the major; and consent of supervising professor.", 
+    "href": "/2017/spring/LLS/495.json", 
+    "id": "LLS 495", 
+    "label": "Senior Honors Thesis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latina/Latino Studies", 
+            "href": "/2017/spring/LLS.json", 
+            "id": "LLS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/LLS/495/54582.json", 
+            "id": "54582"
+        }
+    }
+}

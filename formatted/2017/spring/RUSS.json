@@ -1,0 +1,116 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "3080 Foreign Languages Building, 707 South Mathews, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Head of Department: Michael Finke\nDepartment Office, 3080 Foreign Languages Building, 707 South Mathews, Urbana, 333-0680\nSubjects associated with this department include: Baltic (BALT), Bosnian-Croatian-Serbian (BCS),  Bulgarian (BULG), Czech (CZCH), Polish (POL), Russian (RUSS), Slavic (SLAV) and Ukrainian (UKR).\nwww.slavic.uiuc.edu/", 
+    "contactName": "Michael Finke", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "First-Year Russian I", 
+                "href": "/2017/spring/RUSS/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "First-Year Russian II", 
+                "href": "/2017/spring/RUSS/102.json", 
+                "id": "102"
+            }, 
+            {
+                "content": "Intro to Russian Culture", 
+                "href": "/2017/spring/RUSS/115.json", 
+                "id": "115"
+            }, 
+            {
+                "content": "Freshman Honors Tutorial", 
+                "href": "/2017/spring/RUSS/191.json", 
+                "id": "191"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/RUSS/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Second-Year Russian II", 
+                "href": "/2017/spring/RUSS/202.json", 
+                "id": "202"
+            }, 
+            {
+                "content": "Russian Lit and Revolution", 
+                "href": "/2017/spring/RUSS/225.json", 
+                "id": "225"
+            }, 
+            {
+                "content": "Readings in Russian", 
+                "href": "/2017/spring/RUSS/290.json", 
+                "id": "290"
+            }, 
+            {
+                "content": "Third Year Russian II", 
+                "href": "/2017/spring/RUSS/302.json", 
+                "id": "302"
+            }, 
+            {
+                "content": "Russian Writers", 
+                "href": "/2017/spring/RUSS/320.json", 
+                "id": "320"
+            }, 
+            {
+                "content": "Dostoevsky", 
+                "href": "/2017/spring/RUSS/322.json", 
+                "id": "322"
+            }, 
+            {
+                "content": "Fourth Year Russian II", 
+                "href": "/2017/spring/RUSS/402.json", 
+                "id": "402"
+            }, 
+            {
+                "content": "Russian Culture Studies", 
+                "href": "/2017/spring/RUSS/460.json", 
+                "id": "460"
+            }, 
+            {
+                "content": "Honors Senior Thesis", 
+                "href": "/2017/spring/RUSS/493.json", 
+                "id": "493"
+            }, 
+            {
+                "content": "Russian for Grad Students II", 
+                "href": "/2017/spring/RUSS/502.json", 
+                "id": "502"
+            }, 
+            {
+                "content": "Dostoevsky", 
+                "href": "/2017/spring/RUSS/522.json", 
+                "id": "522"
+            }, 
+            {
+                "content": "Pushkin", 
+                "href": "/2017/spring/RUSS/524.json", 
+                "id": "524"
+            }
+        ]
+    }, 
+    "departmentCode": "1958", 
+    "id": "RUSS", 
+    "label": "Russian", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-0680", 
+    "subjectComment": "Subjects associated with this department include: Baltic (BALT), Bosnian-Croatian-Serbian (BCS),  Bulgarian (BULG), Czech (CZCH), Polish (POL), Russian (RUSS), Slavic (SLAV) and Ukrainian (UKR).", 
+    "unitName": "Slavic Languages and Literature", 
+    "webSiteURL": "www.slavic.uiuc.edu/"
+}

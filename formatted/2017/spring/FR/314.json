@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Credit is not given for FR 314 and FR 414. Prerequisite: FR 207.", 
+    "creditHours": "3 hours.", 
+    "description": "Advanced practical study of present-day French, with an emphasis on grammar, free composition and a consideration of various cultural contexts of language use. Credit is not given for FR 314 and FR 414. Prerequisite: FR 207.", 
+    "href": "/2017/spring/FR/314.json", 
+    "id": "FR 314", 
+    "label": "Advanced Grammar in Context", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "French", 
+            "href": "/2017/spring/FR.json", 
+            "id": "FR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "C", 
+            "href": "/2017/spring/FR/314/65137.json", 
+            "id": "65137"
+        }
+    }
+}

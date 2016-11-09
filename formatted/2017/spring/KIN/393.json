@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 6 hours. Prerequisite: Senior standing when enrolling; minimum grade point average (total, University and Kinesiology prefix courses) of 3.25; a minimum of one full year (2 semesters) remaining at the University of Illinois, Urbana-Champaign campus; and submission of a written proposal.", 
+    "creditHours": "3 hours.", 
+    "description": "Planning, researching and writing of an honors thesis, under supervision of a faculty member, on a problem of appropriate scope and character. Paper will be presented at a suitable meeting and/or seminar. May be repeated to a maximum of 6 hours. Prerequisite: Senior standing when enrolling; minimum grade point average (total, University and Kinesiology prefix courses) of 3.25; a minimum of one full year (2 semesters) remaining at the University of Illinois, Urbana-Champaign campus; and submission of a written proposal.", 
+    "href": "/2017/spring/KIN/393.json", 
+    "id": "KIN 393", 
+    "label": "Honors Thesis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/KIN/393/10479.json", 
+            "id": "10479"
+        }
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "classScheduleInformation": "For students in the life sciences, pre-professional health programs, agriculture and veterinary medicine. Exams are given in the evening (during fall and spring semesters). Register for a lecture (A) section, a discussion (D) section and a laboratory (L) section.", 
+    "courseSectionInformation": "Credit is not given for both PHYS 102 and either PHYS 212 or PHYS 214. Prerequisite: PHYS 101.", 
+    "creditHours": "5 hours.", 
+    "description": "Electric forces and fields, electric potential, electric circuits, magnetic forces and fields, geometrical optics, relativity,  and modern physics. A noncalculus-based approach for majors in the life sciences, preprofessional health programs, agriculture, and veterinary medicine. Credit is not given for both PHYS 102 and either PHYS 212 or PHYS 214. Prerequisite: PHYS 101.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Natural Sciences & Technology", 
+                "id": "NAT", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1PS", 
+                        "content": "UIUC: Physical Sciences"
+                    }
+                }
+            }, 
+            {
+                "description": "Quantitative Reasoning", 
+                "id": "QR", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1QR2", 
+                        "content": "UIUC: Quant Reasoning II"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/PHYS/102.json", 
+    "id": "PHYS 102", 
+    "label": "College Physics: E&M & Modern", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Physical Sciences, and Quant Reasoning II course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A1", 
+                "href": "/2017/spring/PHYS/102/35773.json", 
+                "id": "35773"
+            }, 
+            {
+                "content": "A2", 
+                "href": "/2017/spring/PHYS/102/35774.json", 
+                "id": "35774"
+            }, 
+            {
+                "content": "D2A", 
+                "href": "/2017/spring/PHYS/102/35775.json", 
+                "id": "35775"
+            }, 
+            {
+                "content": "D2E", 
+                "href": "/2017/spring/PHYS/102/35776.json", 
+                "id": "35776"
+            }, 
+            {
+                "content": "D2J", 
+                "href": "/2017/spring/PHYS/102/41529.json", 
+                "id": "41529"
+            }, 
+            {
+                "content": "D2M", 
+                "href": "/2017/spring/PHYS/102/35778.json", 
+                "id": "35778"
+            }, 
+            {
+                "content": "D2R", 
+                "href": "/2017/spring/PHYS/102/35780.json", 
+                "id": "35780"
+            }, 
+            {
+                "content": "D3A", 
+                "href": "/2017/spring/PHYS/102/46745.json", 
+                "id": "46745"
+            }, 
+            {
+                "content": "D3E", 
+                "href": "/2017/spring/PHYS/102/35777.json", 
+                "id": "35777"
+            }, 
+            {
+                "content": "D3J", 
+                "href": "/2017/spring/PHYS/102/35782.json", 
+                "id": "35782"
+            }, 
+            {
+                "content": "D3M", 
+                "href": "/2017/spring/PHYS/102/35787.json", 
+                "id": "35787"
+            }, 
+            {
+                "content": "D3R", 
+                "href": "/2017/spring/PHYS/102/45283.json", 
+                "id": "45283"
+            }, 
+            {
+                "content": "D4A", 
+                "href": "/2017/spring/PHYS/102/45284.json", 
+                "id": "45284"
+            }, 
+            {
+                "content": "D4E", 
+                "href": "/2017/spring/PHYS/102/35786.json", 
+                "id": "35786"
+            }, 
+            {
+                "content": "D4J", 
+                "href": "/2017/spring/PHYS/102/35785.json", 
+                "id": "35785"
+            }, 
+            {
+                "content": "D4M", 
+                "href": "/2017/spring/PHYS/102/35779.json", 
+                "id": "35779"
+            }, 
+            {
+                "content": "D5A", 
+                "href": "/2017/spring/PHYS/102/46747.json", 
+                "id": "46747"
+            }, 
+            {
+                "content": "D5E", 
+                "href": "/2017/spring/PHYS/102/59004.json", 
+                "id": "59004"
+            }, 
+            {
+                "content": "D5J", 
+                "href": "/2017/spring/PHYS/102/35781.json", 
+                "id": "35781"
+            }, 
+            {
+                "content": "L1A", 
+                "href": "/2017/spring/PHYS/102/35789.json", 
+                "id": "35789"
+            }, 
+            {
+                "content": "L1E", 
+                "href": "/2017/spring/PHYS/102/35790.json", 
+                "id": "35790"
+            }, 
+            {
+                "content": "L3A", 
+                "href": "/2017/spring/PHYS/102/45281.json", 
+                "id": "45281"
+            }, 
+            {
+                "content": "L3E", 
+                "href": "/2017/spring/PHYS/102/45282.json", 
+                "id": "45282"
+            }, 
+            {
+                "content": "L3M", 
+                "href": "/2017/spring/PHYS/102/41528.json", 
+                "id": "41528"
+            }, 
+            {
+                "content": "L4A", 
+                "href": "/2017/spring/PHYS/102/35796.json", 
+                "id": "35796"
+            }, 
+            {
+                "content": "L4E", 
+                "href": "/2017/spring/PHYS/102/35797.json", 
+                "id": "35797"
+            }, 
+            {
+                "content": "L4J", 
+                "href": "/2017/spring/PHYS/102/35798.json", 
+                "id": "35798"
+            }, 
+            {
+                "content": "L4R", 
+                "href": "/2017/spring/PHYS/102/35788.json", 
+                "id": "35788"
+            }, 
+            {
+                "content": "L5A", 
+                "href": "/2017/spring/PHYS/102/35799.json", 
+                "id": "35799"
+            }, 
+            {
+                "content": "L5E", 
+                "href": "/2017/spring/PHYS/102/35800.json", 
+                "id": "35800"
+            }, 
+            {
+                "content": "L5J", 
+                "href": "/2017/spring/PHYS/102/58966.json", 
+                "id": "58966"
+            }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/PATH/549/63548.json", 
+    "id": "63548", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Vet Med Basic Sciences Bldg", 
+            "daysOfTheWeek": "TR", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Driskell, E", 
+                        "firstName": "E", 
+                        "lastName": "Driskell"
+                    }, 
+                    {
+                        "content": "Stern, A", 
+                        "firstName": "A", 
+                        "lastName": "Stern"
+                    }
+                ]
+            }, 
+            "roomNumber": "1220", 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Gross Pathology", 
+            "href": "/2017/spring/PATH/549.json", 
+            "id": "549"
+        }, 
+        "subject": {
+            "content": "Pathobiology", 
+            "href": "/2017/spring/PATH.json", 
+            "id": "PATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "E", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

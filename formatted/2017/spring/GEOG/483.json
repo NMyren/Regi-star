@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours.", 
+    "creditHours": "3 hours.", 
+    "description": "Broad background of theories, concepts, and methods of research for understanding how and why our cities have reached their current status. Focus on examining the internal structure of the North American city, including analysis of the commercial, industrial, and residential sectors of the urban environment. Particular emphasis is placed on the range of urban theories developed to explain both urban structure and contemporary urban ills. 3 undergraduate hours. 3 graduate hours.", 
+    "href": "/2017/spring/GEOG/483.json", 
+    "id": "GEOG 483", 
+    "label": "Urban Geography", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geography", 
+            "href": "/2017/spring/GEOG.json", 
+            "id": "GEOG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GEOG/483/40413.json", 
+            "id": "40413"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ENGL/250/32064.json", 
+    "id": "32064", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:45 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Jones, J", 
+                    "firstName": "J", 
+                    "lastName": "Jones"
+                }
+            }, 
+            "roomNumber": "150", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "The American Novel to 1914", 
+            "href": "/2017/spring/ENGL/250.json", 
+            "id": "250"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "M", 
+    "sectionStatusCode": "A", 
+    "sectionText": "What makes the American novel ?American??  How do novels register and shape social relationships, moral authority, and political power?  How can novels help us understand our relationship with the environment?  How have practices of writing and reading novels changed over time? This course invites you to engage these questions by reading American novels from the 18th through the 20th centuries.  Our readings will take us from the glamorous expat circles of Gilded Age Europe to the horrific antebellum New Orleans slave market, and from frontier Nebraska to the Reconstruction South.  Course readings may include novels by Charles Chesnutt, Henry James, Willa Cather, Harriet Beecher Stowe, Herman Melville, Harriet Wilson, and Susanna Rowson. You will learn and practice a range of critical strategies for reading novels, and you will exit the course with a broad understanding of key terms in American literary and cultural history.  Students will write two critical essays and a large volume of informal writing.  Students will also be assessed based on periodic quizzes, exams, and on active, engaged participation in class discussion. TEXTS:\t Susanna Rowson, Charlotte Temple (Penguin, ISBN:  0140390804); Harriet Beecher Stowe, Uncle Tom?s Cabin (Norton, ISBN:  978-0-393-93399-4); Melville, Benito Cereno (Bedford, ISBN: 031245242X); Henry James, Washington Square (Penguin, 0140432264); Charles Chesnutt, The Marrow of Tradition (Norton, ISBN:  0393934144); Willa Cather, O Pioneers! (Dover, ISBN:  0486277852); Harriet E. Wilson, Our Nig (Penguin, ISBN 0143105760)", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

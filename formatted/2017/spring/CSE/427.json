@@ -1,0 +1,69 @@
+{
+    "courseSectionInformation": "Same as CS 418. See CS 418.", 
+    "creditHours": "3 or 4 hours.", 
+    "description": "Same as CS 418. See CS 418.", 
+    "href": "/2017/spring/CSE/427.json", 
+    "id": "CSE 427", 
+    "label": "Interactive Computer Graphics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computational Science and Engineering", 
+            "href": "/2017/spring/CSE.json", 
+            "id": "CSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/CSE/427/48323.json", 
+                "id": "48323"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/CSE/427/48324.json", 
+                "id": "48324"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/CSE/427/48325.json", 
+                "id": "48325"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/CSE/427/59595.json", 
+                "id": "59595"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/CSE/427/59601.json", 
+                "id": "59601"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/CSE/427/59602.json", 
+                "id": "59602"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CSE/427/31363.json", 
+                "id": "31363"
+            }, 
+            {
+                "content": "AL2", 
+                "href": "/2017/spring/CSE/427/31364.json", 
+                "id": "31364"
+            }
+        ]
+    }
+}

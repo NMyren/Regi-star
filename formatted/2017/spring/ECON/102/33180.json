@@ -1,0 +1,52 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ECON/102/33180.json", 
+    "id": "33180", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "F", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Vazquez, J", 
+                    "firstName": "J", 
+                    "lastName": "Vazquez"
+                }
+            }, 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "Q  ", 
+                "content": "Quiz"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Microeconomic Principles", 
+            "href": "/2017/spring/ECON/102.json", 
+            "id": "102"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AQ6", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

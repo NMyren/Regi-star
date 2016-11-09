@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Same as PSYC 443. 3 undergraduate hours. 4 graduate hours. Prerequisite: Junior or senior standing, KIN 340, or graduate standing, or consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Designed to give the student an understanding of the interaction between psychological processes and physiological parameters in exercise and sport. Examines psychophysiological exercise and sport research with particular attention to relevant models and theories. Same as PSYC 443. 3 undergraduate hours. 4 graduate hours. Prerequisite: Junior or senior standing, KIN 340, or graduate standing, or consent of instructor.", 
+    "href": "/2017/spring/KIN/443.json", 
+    "id": "KIN 443", 
+    "label": "Psychophysiology in Ex & Sport", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Kinesiology major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "G1", 
+                "href": "/2017/spring/KIN/443/44569.json", 
+                "id": "44569"
+            }, 
+            {
+                "content": "U1", 
+                "href": "/2017/spring/KIN/443/44570.json", 
+                "id": "44570"
+            }
+        ]
+    }
+}

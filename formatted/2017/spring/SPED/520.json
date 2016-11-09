@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as REHB 520. See REHB 520.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as REHB 520. See REHB 520.", 
+    "href": "/2017/spring/SPED/520.json", 
+    "id": "SPED 520", 
+    "label": "Psycho-Social Aspects", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Special Education", 
+            "href": "/2017/spring/SPED.json", 
+            "id": "SPED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SPED/520/37856.json", 
+            "id": "37856"
+        }
+    }
+}

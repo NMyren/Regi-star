@@ -1,0 +1,51 @@
+{
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CMN/508/65528.json", 
+    "id": "65528", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Quick, B", 
+                    "firstName": "B", 
+                    "lastName": "Quick"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Successful Health Campaigns", 
+            "href": "/2017/spring/CMN/508.json", 
+            "id": "508"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionNumber": "BQ1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Enrollment in this section is restricted to students in the online MS in the Health Communication program. Go to the following URL: https://learn.illinois.edu to access the Moodle course management system login page.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

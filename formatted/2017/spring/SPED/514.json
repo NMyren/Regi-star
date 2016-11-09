@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Prerequisite: Acceptance into the Master of Education with an emphasis on Diversity and Equity in Education Program or instructor approval.", 
+    "creditHours": "4 hours.", 
+    "description": "A graduate-level overview of issues in equity and access for students with disabilities. Historical and legal foundations are reviewed, but the course focus is issues related to characteristics of individuals with disabilities, challenges in instructional service delivery, including of students with special needs in the general curriculum, and transition of students with disabilities to independent living. Participants reflect on issues in light of their own experiences. Prerequisite: Acceptance into the Master of Education with an emphasis on Diversity and Equity in Education Program or instructor approval.", 
+    "href": "/2017/spring/SPED/514.json", 
+    "id": "SPED 514", 
+    "label": "Equity Issues in Spec Educatio", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Special Education", 
+            "href": "/2017/spring/SPED.json", 
+            "id": "SPED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/SPED/514/65700.json", 
+                "id": "65700"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/SPED/514/65699.json", 
+                "id": "65699"
+            }
+        ]
+    }
+}

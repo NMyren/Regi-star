@@ -1,0 +1,54 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/EPS/595/64418.json", 
+    "id": "64418", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "M", 
+            "end": "08:30 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Cope, W", 
+                    "firstName": "W", 
+                    "lastName": "Cope"
+                }
+            }, 
+            "start": "07:00 PM", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Independent Study", 
+            "href": "/2017/spring/EPS/595.json", 
+            "id": "595"
+        }, 
+        "subject": {
+            "content": "Educational Policy Studies", 
+            "href": "/2017/spring/EPS.json", 
+            "id": "EPS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "BC2", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

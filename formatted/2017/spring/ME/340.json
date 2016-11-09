@@ -1,0 +1,90 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "Credit is not given for both ME 340 and either GE 320 or AE 353. Prerequisite: MATH 285 and TAM 212; credit or concurrent registration in ECE 205, ECE 206, and MATH 415.", 
+    "creditHours": "3.5 hours.", 
+    "description": "Dynamic modeling of mechanical components and systems; time-domain and frequency-domain analyses of linear time-invariant systems; multi-degree-of-freedom systems; linearization of nonlinear systems. Credit is not given for both ME 340 and either GE 320 or AE 353. Prerequisite: MATH 285 and TAM 212; credit or concurrent registration in ECE 205, ECE 206, and MATH 415.", 
+    "href": "/2017/spring/ME/340.json", 
+    "id": "ME 340", 
+    "label": "Dynamics of Mechanical Systems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ME/340/37359.json", 
+                "id": "37359"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/ME/340/37361.json", 
+                "id": "37361"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/ME/340/37362.json", 
+                "id": "37362"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/ME/340/37364.json", 
+                "id": "37364"
+            }, 
+            {
+                "content": "AB5", 
+                "href": "/2017/spring/ME/340/37365.json", 
+                "id": "37365"
+            }, 
+            {
+                "content": "AB6", 
+                "href": "/2017/spring/ME/340/38941.json", 
+                "id": "38941"
+            }, 
+            {
+                "content": "AB7", 
+                "href": "/2017/spring/ME/340/45528.json", 
+                "id": "45528"
+            }, 
+            {
+                "content": "AB8", 
+                "href": "/2017/spring/ME/340/60960.json", 
+                "id": "60960"
+            }, 
+            {
+                "content": "AB9", 
+                "href": "/2017/spring/ME/340/61593.json", 
+                "id": "61593"
+            }, 
+            {
+                "content": "ABA", 
+                "href": "/2017/spring/ME/340/61594.json", 
+                "id": "61594"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ME/340/37356.json", 
+                "id": "37356"
+            }, 
+            {
+                "content": "AL2", 
+                "href": "/2017/spring/ME/340/37357.json", 
+                "id": "37357"
+            }
+        ]
+    }
+}

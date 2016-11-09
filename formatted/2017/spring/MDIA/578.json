@@ -1,0 +1,32 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "This course introduces the latest literature in, or directly relevant to, communication, media and information ethics. It examines current efforts in applied and professional ethics, feminist ethics, and social ethics to develop ethical models that are cross-cultural, gender inclusive and international. The major ethical issues are considered in such areas as global communication, new media technologies, information systems, news, and entertainment.", 
+    "href": "/2017/spring/MDIA/578.json", 
+    "id": "MDIA 578", 
+    "label": "Communication Ethics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Media", 
+            "href": "/2017/spring/MDIA.json", 
+            "id": "MDIA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MDIA/578/50261.json", 
+            "id": "50261"
+        }
+    }
+}

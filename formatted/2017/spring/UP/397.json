@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated up to 3 hours. Counts toward the Capstone Experience Requirement. Prerequisite: Upper division standing in Urban Planning and consent of Capstone advisor.", 
+    "creditHours": "1 TO 3 hours.", 
+    "description": "Special projects and applied research related to real world urban problems and professional practice. One credit hour requires approximately 80 hours of work. May be repeated up to 3 hours. Counts toward the Capstone Experience Requirement. Prerequisite: Upper division standing in Urban Planning and consent of Capstone advisor.", 
+    "href": "/2017/spring/UP/397.json", 
+    "id": "UP 397", 
+    "label": "Undergraduate Project", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Urban and Regional Planning", 
+            "href": "/2017/spring/UP.json", 
+            "id": "UP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/UP/397/10261.json", 
+            "id": "10261"
+        }
+    }
+}

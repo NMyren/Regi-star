@@ -1,0 +1,74 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Introduces theory and research on communication in health and illness contexts. Explores how messages from media, interpersonal, and organizational sources affect health beliefs and behaviors.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Social & Behavioral Sciences", 
+                "id": "SBS", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1BSC", 
+                        "content": "UIUC: Behavioral Sciences"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/CMN/260.json", 
+    "id": "CMN 260", 
+    "label": "Intro to Health Communication", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Behavioral Sciences, Grand Challenge-Health/Well, and Western Compartv Cult course.", 
+    "sectionRegistrationNotes": "Restricted to Speech Communication or Communication major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "1", 
+                "href": "/2017/spring/CMN/260/56847.json", 
+                "id": "56847"
+            }, 
+            {
+                "content": "2", 
+                "href": "/2017/spring/CMN/260/50603.json", 
+                "id": "50603"
+            }, 
+            {
+                "content": "3", 
+                "href": "/2017/spring/CMN/260/50602.json", 
+                "id": "50602"
+            }, 
+            {
+                "content": "4", 
+                "href": "/2017/spring/CMN/260/65216.json", 
+                "id": "65216"
+            }
+        ]
+    }
+}

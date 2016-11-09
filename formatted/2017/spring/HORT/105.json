@@ -1,0 +1,65 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Credit is not given to horticulture majors.", 
+    "creditHours": "3 hours.", 
+    "description": "The science and art of growing vegetables and the connection between gardening and food. Topics include nutrient and pest management, history, folklore, growing requirements, and quality characteristics of vegetables. Lecture and laboratory. Additional fees may apply. See Class Schedule. Credit is not given to horticulture majors.", 
+    "href": "/2017/spring/HORT/105.json", 
+    "id": "HORT 105", 
+    "label": "Vegetable Gardening", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Horticulture", 
+            "href": "/2017/spring/HORT.json", 
+            "id": "HORT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/HORT/105/34168.json", 
+                "id": "34168"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/HORT/105/34174.json", 
+                "id": "34174"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/HORT/105/34172.json", 
+                "id": "34172"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/HORT/105/34178.json", 
+                "id": "34178"
+            }, 
+            {
+                "content": "AB5", 
+                "href": "/2017/spring/HORT/105/34170.json", 
+                "id": "34170"
+            }, 
+            {
+                "content": "AB6", 
+                "href": "/2017/spring/HORT/105/34176.json", 
+                "id": "34176"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/HORT/105/34179.json", 
+                "id": "34179"
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ARTD/202/50473.json", 
+    "id": "50473", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Art and Design Building", 
+                "daysOfTheWeek": "F", 
+                "end": "02:50 PM", 
+                "id": "0", 
+                "instructors": {}, 
+                "roomNumber": "25", 
+                "start": "01:00 PM", 
+                "type": {
+                    "code": "LAB", 
+                    "content": "Laboratory"
+                }
+            }, 
+            {
+                "buildingName": "Art and Design Building", 
+                "daysOfTheWeek": "MW", 
+                "end": "03:40 PM", 
+                "id": "1", 
+                "instructors": {}, 
+                "roomNumber": "25", 
+                "start": "01:00 PM", 
+                "type": {
+                    "code": "LAB", 
+                    "content": "Laboratory"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Industrial Design II", 
+            "href": "/2017/spring/ARTD/202.json", 
+            "id": "202"
+        }, 
+        "subject": {
+            "content": "Art--Design", 
+            "href": "/2017/spring/ARTD.json", 
+            "id": "ARTD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "M9C", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

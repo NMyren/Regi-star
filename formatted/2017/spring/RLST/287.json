@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as EALC 287.", 
+    "creditHours": "3 hours.", 
+    "description": "Thematic approach to the history of Buddhism from its origin in India to its spread throughout China and Japan; explores how the doctrinal and social development of Buddhism in East Asia is related to the process of cultural adaptation. Same as EALC 287.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/RLST/287.json", 
+    "id": "RLST 287", 
+    "label": "Introduction to Buddhism", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Religious Studies", 
+            "href": "/2017/spring/RLST.json", 
+            "id": "RLST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and Non-Western Cultures course.", 
+    "sections": {
+        "section": {
+            "content": "I", 
+            "href": "/2017/spring/RLST/287/43691.json", 
+            "id": "43691"
+        }
+    }
+}

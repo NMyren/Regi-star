@@ -1,0 +1,79 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading. May be repeated in separate terms.", 
+    "creditHours": "0 TO 1 hours.", 
+    "description": "Practical learning experience in which business knowledge and skills are applied to science problems and opportunities. In consultation with program coordinators, students find internship companies and positions that match their individual career objectives and meet the learning goals of the program. Learning objectives, deliverables, and performance evaluation are determined for each student by the program coordinator. Completed in the summer after the first year of study. Open to Illinois Professional Sciences Master's (PSM) students only. Internationals holding student visas must have prior authorization from International Student and Scholar Services. Approved for letter and S/U grading. May be repeated in separate terms.", 
+    "href": "/2017/spring/PSM/555.json", 
+    "id": "PSM 555", 
+    "label": "PSM Internship", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Professional Science Master's Program", 
+            "href": "/2017/spring/PSM.json", 
+            "id": "PSM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ACR", 
+                "href": "/2017/spring/PSM/555/62890.json", 
+                "id": "62890"
+            }, 
+            {
+                "content": "ANC", 
+                "href": "/2017/spring/PSM/555/62891.json", 
+                "id": "62891"
+            }, 
+            {
+                "content": "BCR", 
+                "href": "/2017/spring/PSM/555/61164.json", 
+                "id": "61164"
+            }, 
+            {
+                "content": "BNC", 
+                "href": "/2017/spring/PSM/555/61165.json", 
+                "id": "61165"
+            }, 
+            {
+                "content": "FCR", 
+                "href": "/2017/spring/PSM/555/62893.json", 
+                "id": "62893"
+            }, 
+            {
+                "content": "FNC", 
+                "href": "/2017/spring/PSM/555/62894.json", 
+                "id": "62894"
+            }, 
+            {
+                "content": "PCR", 
+                "href": "/2017/spring/PSM/555/62895.json", 
+                "id": "62895"
+            }, 
+            {
+                "content": "PNC", 
+                "href": "/2017/spring/PSM/555/62896.json", 
+                "id": "62896"
+            }, 
+            {
+                "content": "TCR", 
+                "href": "/2017/spring/PSM/555/62897.json", 
+                "id": "62897"
+            }, 
+            {
+                "content": "TNC", 
+                "href": "/2017/spring/PSM/555/62898.json", 
+                "id": "62898"
+            }
+        ]
+    }
+}

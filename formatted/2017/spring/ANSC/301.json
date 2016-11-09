@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Credit or concurrent enrollment in ANSC 223 and ANSC 224; or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Provides an overview of how nutrition, genetics, and environment affect beef cattle, swine, and sheep growth, development, and end-product quality and value. Students get hands-on experience evaluating and determining value of live animals and carcasses. Prerequisite: Credit or concurrent enrollment in ANSC 223 and ANSC 224; or consent of instructor.", 
+    "href": "/2017/spring/ANSC/301.json", 
+    "id": "ANSC 301", 
+    "label": "Food Animal Production, Management, and Evaluation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ANSC/301/64338.json", 
+            "id": "64338"
+        }
+    }
+}

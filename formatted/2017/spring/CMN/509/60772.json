@@ -1,0 +1,42 @@
+{
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CMN/509/60772.json", 
+    "id": "60772", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {}, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Soc Mkting & Health Behavior", 
+            "href": "/2017/spring/CMN/509.json", 
+            "id": "509"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionNumber": "ONL", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Enrollment in this section is restricted to students in the online MS in the Health Communication program. Go to the following URL: https://learn.illinois.edu to access the Moodle course management system login page.", 
+    "statusCode": "A"
+}

@@ -1,0 +1,56 @@
+{
+    "addressLine1": "Center Office", 
+    "addressLine2": "179 Loomis,1110 West Green Street, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Interim Director: Satish Nair\nCenter Office, 179 Loomis,1110 West Green Street, Urbana, 217-333-1630\nSubjects associated with this department include: Biophysics (BIOP), Molecular and Cellular Biology (MCB) and Neuroscience (NEUR).\nbiophysics.illinois.edu", 
+    "contactName": "Satish Nair", 
+    "contactTitle": "Interim Director", 
+    "courses": {
+        "course": [
+            {
+                "content": "Brain, Behavior & Info Process", 
+                "href": "/2017/spring/BIOP/419.json", 
+                "id": "419"
+            }, 
+            {
+                "content": "Special Topics in Biophysics", 
+                "href": "/2017/spring/BIOP/586.json", 
+                "id": "586"
+            }, 
+            {
+                "content": "Individual Topics", 
+                "href": "/2017/spring/BIOP/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Biophysics Seminars", 
+                "href": "/2017/spring/BIOP/595.json", 
+                "id": "595"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/BIOP/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1415", 
+    "id": "BIOP", 
+    "label": "Biophysics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-1630", 
+    "subjectComment": "Subjects associated with this department include: Biophysics (BIOP), Molecular and Cellular Biology (MCB) and Neuroscience (NEUR).", 
+    "unitName": "Biophysics and Quantitative Biology, Center for", 
+    "webSiteURL": "biophysics.illinois.edu"
+}

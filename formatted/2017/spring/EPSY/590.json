@@ -1,0 +1,104 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. May be repeated. Prerequisite: Consent of instructor required.", 
+    "creditHours": "0 TO 4 hours.", 
+    "description": "Seminar in educational psychology; topics relate to the areas of specialization represented by the various divisions within the department. Approved for both letter and S/U grading. May be repeated. Prerequisite: Consent of instructor required.", 
+    "href": "/2017/spring/EPSY/590.json", 
+    "id": "EPSY 590", 
+    "label": "Advanced Seminar in Educ Psyc", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/EPSY/590/65696.json", 
+                "id": "65696"
+            }, 
+            {
+                "content": "AAA", 
+                "href": "/2017/spring/EPSY/590/64367.json", 
+                "id": "64367"
+            }, 
+            {
+                "content": "AC", 
+                "href": "/2017/spring/EPSY/590/53540.json", 
+                "id": "53540"
+            }, 
+            {
+                "content": "AH2", 
+                "href": "/2017/spring/EPSY/590/34338.json", 
+                "id": "34338"
+            }, 
+            {
+                "content": "AH4", 
+                "href": "/2017/spring/EPSY/590/62199.json", 
+                "id": "62199"
+            }, 
+            {
+                "content": "AHW", 
+                "href": "/2017/spring/EPSY/590/62820.json", 
+                "id": "62820"
+            }, 
+            {
+                "content": "BH", 
+                "href": "/2017/spring/EPSY/590/34339.json", 
+                "id": "34339"
+            }, 
+            {
+                "content": "BM", 
+                "href": "/2017/spring/EPSY/590/34341.json", 
+                "id": "34341"
+            }, 
+            {
+                "content": "CAT", 
+                "href": "/2017/spring/EPSY/590/46294.json", 
+                "id": "46294"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/EPSY/590/34356.json", 
+                "id": "34356"
+            }, 
+            {
+                "content": "GCM", 
+                "href": "/2017/spring/EPSY/590/34354.json", 
+                "id": "34354"
+            }, 
+            {
+                "content": "MA", 
+                "href": "/2017/spring/EPSY/590/46209.json", 
+                "id": "46209"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/EPSY/590/65689.json", 
+                "id": "65689"
+            }, 
+            {
+                "content": "PR", 
+                "href": "/2017/spring/EPSY/590/40698.json", 
+                "id": "40698"
+            }, 
+            {
+                "content": "ZD", 
+                "href": "/2017/spring/EPSY/590/60874.json", 
+                "id": "60874"
+            }
+        ]
+    }
+}

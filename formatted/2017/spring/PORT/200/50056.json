@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/PORT/200/50056.json", 
+    "id": "50056", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Wohlers Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Goebel, R", 
+                    "firstName": "R", 
+                    "lastName": "Goebel"
+                }
+            }, 
+            "roomNumber": "126", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Grammar", 
+            "href": "/2017/spring/PORT/200.json", 
+            "id": "200"
+        }, 
+        "subject": {
+            "content": "Portuguese", 
+            "href": "/2017/spring/PORT.json", 
+            "id": "PORT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "D", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This is a 3rd semester course aiming to review basic Portuguese structures and introduce more advanced ones in a contextualized manner through the use of a variety of texts to help students develop grammatically sound oral and written communication in Portuguese. The course is based on texts and is divided into 26 units, each presenting a short story or cr\ufffdnica. Each text explores language in 3 different ways: 1) pre-reading exercises to encourage students to converse, 2) writing activities to be done individually or in small groups, and 3) grammar and vocabulary exploration.   The premise for this course is to work from texts, tasks, and topics rather than from a structural syllabus in order to generate language and then look for items and patterns. By the end of this course students should be able to express their thoughts on various topics in an orderly and logical fashion, showing a higher degree of comfort with the Portuguese Language to that expressed in the previous basic courses. Emphasis will be placed on writing.  The language of the course will be Portuguese.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

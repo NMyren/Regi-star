@@ -1,0 +1,31 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Foundations of digital photography, techniques to produce photographs; the conception and planning of pictures; the pictorial coverage of locations, events and human interest situations; and the planning and execution of photos in print, on the web and other electronic media are the focus of this hands-on course. You will develop a practical understanding of the potentials and realities of photographic communication to better use them for full expression of your vision.", 
+    "href": "/2017/spring/MDIA/293.json", 
+    "id": "MDIA 293", 
+    "label": "Photography for Everyone", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Media", 
+            "href": "/2017/spring/MDIA.json", 
+            "id": "MDIA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MDIA/293/65675.json", 
+            "id": "65675"
+        }
+    }
+}

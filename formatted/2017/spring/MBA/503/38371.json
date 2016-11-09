@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MBA/503/38371.json", 
+    "id": "38371", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Business Instructional Fac", 
+            "daysOfTheWeek": "R", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Loyd, D", 
+                    "firstName": "D", 
+                    "lastName": "Loyd"
+                }
+            }, 
+            "roomNumber": "3039", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Prin & Proc of Management I", 
+            "href": "/2017/spring/MBA/503.json", 
+            "id": "503"
+        }, 
+        "subject": {
+            "content": "Regular MBA Program Administration", 
+            "href": "/2017/spring/MBA.json", 
+            "id": "MBA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionNumber": "EA", 
+    "sectionStatusCode": "A", 
+    "sectionText": "The department will assign sections on Friday, November 14, 2014 once all students interested in Madhu's MBA 505 section have registered on November 12 and 13. This is so students do not have a scheduling conflict.", 
+    "sectionTitle": "Ethical Leadership", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

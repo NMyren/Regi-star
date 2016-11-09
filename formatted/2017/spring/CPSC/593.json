@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 8 hours.", 
+    "description": "Directed studies of selected problems or topics relevant to Crop Sciences. Study may be in one of the following fields: 1) Plant Breeding and Genetics; 2) Plant Molecular Biology; 3) Plant Physiology; 4) Crop Production and Ecology; 5) Biometrics; 6) Plant Pathology; 7) Entomology; and 8) Weed Science. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/CPSC/593.json", 
+    "id": "CPSC 593", 
+    "label": "Adv Studies in Crop Sciences", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CPSC/593/10567.json", 
+            "id": "10567"
+        }
+    }
+}

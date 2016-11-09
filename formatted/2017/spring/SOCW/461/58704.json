@@ -1,0 +1,74 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/SOCW/461/58704.json", 
+    "id": "58704", 
+    "meetings": {
+        "meeting": [
+            {
+                "daysOfTheWeek": "R", 
+                "end": "04:50 PM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Faulkner, S", 
+                        "firstName": "S", 
+                        "lastName": "Faulkner"
+                    }
+                }, 
+                "start": "03:00 PM", 
+                "type": {
+                    "code": "LAB", 
+                    "content": "Laboratory"
+                }
+            }, 
+            {
+                "buildingName": "1010 W Nevada", 
+                "daysOfTheWeek": "T", 
+                "end": "04:50 PM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Faulkner, S", 
+                        "firstName": "S", 
+                        "lastName": "Faulkner"
+                    }
+                }, 
+                "roomNumber": "2023", 
+                "start": "03:00 PM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Professional Practice Seminar I", 
+            "href": "/2017/spring/SOCW/461.json", 
+            "id": "461"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "In SOCW 461 Service Learning is a very important component.  You will be required to do at least 2 hours of service learning a week for this class.  It is important that we have actually scheduled class time for you to be able to accomplish this.  You will meet face-to-face in the classroom on Tuesdays from 3:00-4:50 and have service learning time on Thursdays from 3:00-4:50.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

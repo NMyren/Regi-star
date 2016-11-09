@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "2 graduate hours. No professional credit. Approved for Letter and S/U grading. May be repeated in separate terms, if topics vary.", 
+    "creditHours": "2 hours.", 
+    "description": "Study of theoretical and empirical research in the neural bases of speech, language, hearing, cognitive, and/or swallowing disorders in pediatric and adult populations. Students will critically analyze and interpret the extant literature; lead seminar discussions and write scholarly reviews; and/or design original research projects. Specific topics will vary and be announced in the Class Schedule. 2 graduate hours. No professional credit. Approved for Letter and S/U grading. May be repeated in separate terms, if topics vary.", 
+    "href": "/2017/spring/SHS/588.json", 
+    "id": "SHS 588", 
+    "label": "Adv Sem Neural Bases Com Dis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SHS/588/65549.json", 
+            "id": "65549"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "creditHours": "2 OR 3 hours.", 
+    "description": "This course provides preservice teachers with the foundation for growth in technology integration through professional preparation, student teaching, and licensure. Major areas covered include the use of productivity tools, effective integration of the internet, and enhancing instruction through the use of multimedia. Additional topics include learning theories, professional development, evaluation, and technology use across multiple disciplines. Special equipment needed includes a USB-Flash Drive and SCD-R disks.", 
+    "href": "/2017/spring/SPED/312.json", 
+    "id": "SPED 312", 
+    "label": "Introduction to Educational Technology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Special Education", 
+            "href": "/2017/spring/SPED.json", 
+            "id": "SPED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to Admitted Teacher Ed Student students.", 
+    "sectionRegistrationNotes": "Restricted to Special Education major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SPED/312/44819.json", 
+            "id": "44819"
+        }
+    }
+}

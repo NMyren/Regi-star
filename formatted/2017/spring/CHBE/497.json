@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "1 to 3 undergraduate hours. No graduate credit. May be repeated to a maximum of 6 hours. Prerequisite: Senior standing and consent of instructor.", 
+    "creditHours": "1 TO 3 hours.", 
+    "description": "Individual study of problems related to Chemical and Biomolecular Engineering. 1 to 3 undergraduate hours. No graduate credit. May be repeated to a maximum of 6 hours. Prerequisite: Senior standing and consent of instructor.", 
+    "href": "/2017/spring/CHBE/497.json", 
+    "id": "CHBE 497", 
+    "label": "Individual Study for Seniors", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CHBE/497/45094.json", 
+            "id": "45094"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/MCB/354/46926.json", 
+    "id": "46926", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Chemical and Life Sci Lab", 
+            "daysOfTheWeek": "M", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Stenger, A", 
+                    "firstName": "A", 
+                    "lastName": "Stenger"
+                }
+            }, 
+            "roomNumber": "ARR", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Biochem & Phys Basis of Life", 
+            "href": "/2017/spring/MCB/354.json", 
+            "id": "354"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "ADD", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This class will meet in C120 CLSL.  Lectures will begin on Wednesday, January 18,  2017, and discussions will begin on Monday, January 23, 2016.  Examinations will be held from 7:00-9:00PM on the following Tuesday evenings: February 14, March 7, and April 11, 2017.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

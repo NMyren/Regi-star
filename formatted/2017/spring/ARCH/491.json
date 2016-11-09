@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "0 undergraduate hours. 0 graduate hours. Approved for S/U grading only. May be repeated in separate terms a maximum of 3 times.Prerequisite: Graduate standing or upper-level undergraduate standing, or consent of instructor. For students enrolled in the BSAS and M.Arch. programs of study only.", 
+    "creditHours": "0 hours.", 
+    "description": "Full-time or part-time professionally supervised field experience in design intended to introduce students to the practice of architecture in a commercial firm or agency of government. Students work in the school-approved firm or agency of their choice. Written work reports and reflective experiential learning reports are required. 0 undergraduate hours. 0 graduate hours. Approved for S/U grading only. May be repeated in separate terms a maximum of 3 times.Prerequisite: Graduate standing or upper-level undergraduate standing, or consent of instructor. For students enrolled in the BSAS and M.Arch. programs of study only.", 
+    "href": "/2017/spring/ARCH/491.json", 
+    "id": "ARCH 491", 
+    "label": "Arch Professional Internship", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Architectural Studies or Architecture major(s).", 
+    "sections": {
+        "section": {
+            "content": "M", 
+            "href": "/2017/spring/ARCH/491/64214.json", 
+            "id": "64214"
+        }
+    }
+}

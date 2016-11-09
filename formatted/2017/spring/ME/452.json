@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 101 and ME 350.", 
+    "creditHours": "3 or 4 hours.", 
+    "description": "Numerical control systems, manufacturing processes, principles and practices basic to numerical control, and programming methodology for numerical control. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 101 and ME 350.", 
+    "href": "/2017/spring/ME/452.json", 
+    "id": "ME 452", 
+    "label": "Num Control of Mfg Processes", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ME/452/52277.json", 
+                "id": "52277"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/ME/452/52278.json", 
+                "id": "52278"
+            }, 
+            {
+                "content": "AL3", 
+                "href": "/2017/spring/ME/452/52259.json", 
+                "id": "52259"
+            }, 
+            {
+                "content": "AL4", 
+                "href": "/2017/spring/ME/452/52276.json", 
+                "id": "52276"
+            }
+        ]
+    }
+}

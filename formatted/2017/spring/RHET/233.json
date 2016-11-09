@@ -1,0 +1,68 @@
+{
+    "courseSectionInformation": "Prerequisite: Completion of campus Composition I general education requirement.", 
+    "creditHours": "3 hours.", 
+    "description": "Instruction in developing research-based arguments of moderate complexity within a special topics format. Introduction to the use of multimodal or other non-print resources as evidence in written arguments. Prerequisite: Completion of campus Composition I general education requirement.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/RHET/233.json", 
+    "id": "RHET 233", 
+    "label": "Adv Rhetoric & Composition", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Rhetoric and Composition", 
+            "href": "/2017/spring/RHET.json", 
+            "id": "RHET"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "D", 
+                "href": "/2017/spring/RHET/233/33460.json", 
+                "id": "33460"
+            }, 
+            {
+                "content": "P", 
+                "href": "/2017/spring/RHET/233/33458.json", 
+                "id": "33458"
+            }, 
+            {
+                "content": "Q", 
+                "href": "/2017/spring/RHET/233/33450.json", 
+                "id": "33450"
+            }, 
+            {
+                "content": "S", 
+                "href": "/2017/spring/RHET/233/33457.json", 
+                "id": "33457"
+            }, 
+            {
+                "content": "TRF", 
+                "href": "/2017/spring/RHET/233/33453.json", 
+                "id": "33453"
+            }
+        ]
+    }
+}

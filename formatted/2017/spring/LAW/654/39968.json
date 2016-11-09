@@ -1,0 +1,53 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-01-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LAW/654/39968.json", 
+    "id": "39968", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MT", 
+            "end": "10:00 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Davey, W", 
+                    "firstName": "W", 
+                    "lastName": "Davey"
+                }
+            }, 
+            "start": "08:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "International Trade Policy", 
+            "href": "/2017/spring/LAW/654.json", 
+            "id": "654"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "LF", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

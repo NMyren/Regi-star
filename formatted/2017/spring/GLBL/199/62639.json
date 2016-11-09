@@ -1,0 +1,54 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/GLBL/199/62639.json", 
+    "id": "62639", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Chih, D", 
+                    "firstName": "D", 
+                    "lastName": "Chih"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/GLBL/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Global Studies", 
+            "href": "/2017/spring/GLBL.json", 
+            "id": "GLBL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Intercultural Horizons is a paid internship and academic course that provides students the opportunity to undertake creative and challenging assignments that promote cross-cultural understanding.  Students will help develop programming that encourages cultural exchange and mutual learning dedicated to building a stronger campus community.  Academic readings, weekly seminar discussions, and cultural immersion experiences will explore the intersections of cultures, identities, and social justice issues on campus, nationally, and internationally.  Students will receive 1 credit hour of Global Studies 199 - Independent Study and a bi-weekly stipend.  Students should email aacc@illinois.edu for additional information and formal application announcements.", 
+    "sectionTitle": "AACC Internship", 
+    "specialApproval": "Departmental Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

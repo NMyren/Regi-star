@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Upperclassman; upper five percent of class in grade-point average; demonstrated writing competence, research potential, scholarly attitude, and interest as attested to by instructors; consent of adviser and staff member who supervises the work.", 
+    "creditHours": "2 hours.", 
+    "description": "Study of problems not considered in other courses; designed for students who excel in self-direction and intellectual curiosity. Prerequisite: Upperclassman; upper five percent of class in grade-point average; demonstrated writing competence, research potential, scholarly attitude, and interest as attested to by instructors; consent of adviser and staff member who supervises the work.", 
+    "href": "/2017/spring/SPED/395.json", 
+    "id": "SPED 395", 
+    "label": "Independent Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Special Education", 
+            "href": "/2017/spring/SPED.json", 
+            "id": "SPED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/SPED/395/10081.json", 
+            "id": "10081"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: IE 300.", 
+    "creditHours": "3 hours.", 
+    "description": "Contemporary concepts and methods for quality and productivity design and improvement; philosophies of Deming, Taguchi, and others leading the quality management and engineering movement; Shewhart's methods for statistical process control; process capability analysis; statistical methods for tolerance assessment; process control methods employing attribute data; design of experiments, concepts, and methods. Prerequisite: IE 300.", 
+    "href": "/2017/spring/IE/330.json", 
+    "id": "IE 330", 
+    "label": "Industrial Quality Control", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Industrial Engineering", 
+            "href": "/2017/spring/IE.json", 
+            "id": "IE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "D", 
+            "href": "/2017/spring/IE/330/34260.json", 
+            "id": "34260"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: Dance 462.", 
+    "creditHours": "2 hours.", 
+    "description": "Includes reading, writing, and discussion.  Students will examine the creative process, the conventions that form choreographers'  works, and the historical situations from which specific dance works spring. Students will produce works in specific contexts outside the standard theatre setting. They will be responsible for all promotional and production aspects of a project that will be presented to the public. Prerequisite: Dance 462.", 
+    "href": "/2017/spring/DANC/562.json", 
+    "id": "DANC 562", 
+    "label": "Graduate Composition II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Dance or Dance major(s).", 
+    "sections": {
+        "section": {
+            "content": "AZ", 
+            "href": "/2017/spring/DANC/562/57146.json", 
+            "id": "57146"
+        }
+    }
+}

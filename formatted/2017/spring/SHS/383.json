@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated if topics vary.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Lecture course in topics of current interest in speech and hearing science; specific subject matter announced in the Class Schedule. May be repeated if topics vary.", 
+    "href": "/2017/spring/SHS/383.json", 
+    "id": "SHS 383", 
+    "label": "Special Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "NC", 
+            "href": "/2017/spring/SHS/383/65009.json", 
+            "id": "65009"
+        }
+    }
+}

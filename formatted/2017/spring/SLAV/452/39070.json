@@ -1,0 +1,56 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/SLAV/452/39070.json", 
+    "id": "39070", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TR", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Cooper, D", 
+                    "firstName": "D", 
+                    "lastName": "Cooper"
+                }
+            }, 
+            "start": "03:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Slavic Cultural Studies", 
+            "href": "/2017/spring/SLAV/452.json", 
+            "id": "452"
+        }, 
+        "subject": {
+            "content": "Slavic", 
+            "href": "/2017/spring/SLAV.json", 
+            "id": "SLAV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "A3", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic:Eastern Europe & EU Integration  Explores the subject of European Union expansion to the east and south from an interdisciplinary, multifocal perspective, examining crucial problems of political enlargement and social integration. Addresses issues of East European domestic and transnational identities in the broader European context, and intersection of these issues with the European integration project, to include representations of Eastern Europe, historical conflict, migration, religious identities, and gendered identities. Examines structures and policies that connect the people and societies of Eastern Europe to the European Union, including democratic consolidation, conflict management, minority rights, environmental policy, and the role of Eastern European leadership in formulating EU policy.   UNDERGRADUATE section for 3 credit hours.", 
+    "sectionTitle": "Eastern Europe &EU Integration", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

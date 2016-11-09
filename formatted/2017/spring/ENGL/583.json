@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as CI 566. May be repeated to a maximum of 8 hours. Prerequisite: Graduate standing in writing studies or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Examines the relationships among writing studies, theories of pedagogy, and the practice of the writing teacher and administrator. Also focuses on particular problems or particular schools of thought. Typical topics include Writing Program Design and Administration; Writing, Thinking, and Problem Solving; The Classroom as a Research Site; Collaborative Learning; and Writing Across the Curriculum and Discourse Communities. Requirements will vary with instructors and topics. Same as CI 566. May be repeated to a maximum of 8 hours. Prerequisite: Graduate standing in writing studies or consent of instructor.", 
+    "href": "/2017/spring/ENGL/583.json", 
+    "id": "ENGL 583", 
+    "label": "Topics Writ Pedagogy & Design", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "R", 
+            "href": "/2017/spring/ENGL/583/32285.json", 
+            "id": "32285"
+        }
+    }
+}

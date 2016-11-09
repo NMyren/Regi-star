@@ -1,0 +1,61 @@
+{
+    "classScheduleInformation": "Register for the lecture and one discussion section.", 
+    "courseSectionInformation": "Credit is not given for both MUS 102 and MUS 104. Prerequisite: MUS 101 or placement by examination.", 
+    "creditHours": "2 hours.", 
+    "description": "Continuation of MUS 101. Credit is not given for both MUS 102 and MUS 104. Prerequisite: MUS 101 or placement by examination.", 
+    "href": "/2017/spring/MUS/102.json", 
+    "id": "MUS 102", 
+    "label": "Music Theory and Practice II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Music department.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/MUS/102/35414.json", 
+                "id": "35414"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/MUS/102/44949.json", 
+                "id": "44949"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/MUS/102/35419.json", 
+                "id": "35419"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/MUS/102/45502.json", 
+                "id": "45502"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/MUS/102/35418.json", 
+                "id": "35418"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/MUS/102/35412.json", 
+                "id": "35412"
+            }
+        ]
+    }
+}

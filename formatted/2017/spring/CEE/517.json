@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: CEE 416.", 
+    "creditHours": "4 hours.", 
+    "description": "Theory and application of concepts in traffic signal systems control, signal timing design, signal cabinet components, signal controllers, traffic signal theory and control, vehicle detection technologies, communication methods, interconnected rail-highway crossing signals, signal coordination, and signal systems network. Field trips to observe or utilize equipment in the Traffic Operations Lab (TOL) in ATREL or similar facilities. Prerequisite: CEE 416.", 
+    "href": "/2017/spring/CEE/517.json", 
+    "id": "CEE 517", 
+    "label": "Traffic Signal Systems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "C", 
+                "href": "/2017/spring/CEE/517/54742.json", 
+                "id": "54742"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CEE/517/62642.json", 
+                "id": "62642"
+            }
+        ]
+    }
+}

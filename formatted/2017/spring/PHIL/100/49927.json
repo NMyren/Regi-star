@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/PHIL/100/49927.json", 
+    "id": "49927", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Chemistry Annex", 
+            "daysOfTheWeek": "MW", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Korman, D", 
+                    "firstName": "D", 
+                    "lastName": "Korman"
+                }
+            }, 
+            "roomNumber": "1024", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro to Philosophy-ACP", 
+            "href": "/2017/spring/PHIL/100.json", 
+            "id": "100"
+        }, 
+        "subject": {
+            "content": "Philosophy", 
+            "href": "/2017/spring/PHIL.json", 
+            "id": "PHIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "NOTE:  Students registering in Lecture AL1 must also register in a lecture-discussion section (AD_).", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

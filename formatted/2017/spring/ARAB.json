@@ -1,0 +1,61 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "4080 Foreign Languages Building, 707 South Mathews, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Interim Head of Department: James Yoon\nDepartment Office, 4080 Foreign Languages Building, 707 South Mathews, Urbana, 333-3563\nSubjects associated with this department include: Arabic (ARAB), Bamana (BMNA), English as an International Language (EIL), English as a Second Language (ESL), Modern Greek (GRKM), Hindi (HNDI), Lingala (LGLA), Linguistics (LING), Persian (PERS), Sanskrit (SNSK), Swahili (SWAH), Turkish (TURK), Wolof (WLOF), and Zulu (ZULU).\n//arabic.linguistics.illinois.edu/", 
+    "contactName": "James Yoon", 
+    "contactTitle": "Interim Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Elementary Standard Arabic II", 
+                "href": "/2017/spring/ARAB/202.json", 
+                "id": "202"
+            }, 
+            {
+                "content": "Colloquial Arabic II", 
+                "href": "/2017/spring/ARAB/211.json", 
+                "id": "211"
+            }, 
+            {
+                "content": "Intermediate Stand Arabic II", 
+                "href": "/2017/spring/ARAB/404.json", 
+                "id": "404"
+            }, 
+            {
+                "content": "Advanced Standard Arabic II", 
+                "href": "/2017/spring/ARAB/406.json", 
+                "id": "406"
+            }, 
+            {
+                "content": "Topics Stand Arabic LangLit II", 
+                "href": "/2017/spring/ARAB/408.json", 
+                "id": "408"
+            }, 
+            {
+                "content": "AdvTop Stand Arabic LangLit II", 
+                "href": "/2017/spring/ARAB/410.json", 
+                "id": "410"
+            }
+        ]
+    }, 
+    "departmentCode": "1864", 
+    "id": "ARAB", 
+    "label": "Arabic", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-3563", 
+    "subjectComment": "Subjects associated with this department include: Arabic (ARAB), Bamana (BMNA), English as an International Language (EIL), English as a Second Language (ESL), Modern Greek (GRKM), Hindi (HNDI), Lingala (LGLA), Linguistics (LING), Persian (PERS), Sanskrit (SNSK), Swahili (SWAH), Turkish (TURK), Wolof (WLOF), and Zulu (ZULU).", 
+    "unitName": "Linguistics", 
+    "webSiteURL": "//arabic.linguistics.illinois.edu/"
+}

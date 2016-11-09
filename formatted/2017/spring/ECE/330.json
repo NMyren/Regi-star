@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Prerequisite: ECE 210.", 
+    "creditHours": "3 hours.", 
+    "description": "Network equivalents; power and energy fundamentals, resonance, mutual inductance; three-phase power concepts, forces and torques of electric origin in electromagnetic and electrostatic systems; energy conversion cycles; principles of electric machines; transducers; relays; laboratory demonstration. Prerequisite: ECE 210.", 
+    "href": "/2017/spring/ECE/330.json", 
+    "id": "ECE 330", 
+    "label": "Power Ckts & Electromechanics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "C", 
+                "href": "/2017/spring/ECE/330/56899.json", 
+                "id": "56899"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/ECE/330/56900.json", 
+                "id": "56900"
+            }
+        ]
+    }
+}

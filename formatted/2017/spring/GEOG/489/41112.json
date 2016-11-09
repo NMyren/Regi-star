@@ -1,0 +1,48 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/GEOG/489/41112.json", 
+    "id": "41112", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Davenport Hall", 
+            "daysOfTheWeek": "MW", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "338", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Programming for GIS", 
+            "href": "/2017/spring/GEOG/489.json", 
+            "id": "489"
+        }, 
+        "subject": {
+            "content": "Geography", 
+            "href": "/2017/spring/GEOG.json", 
+            "id": "GEOG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

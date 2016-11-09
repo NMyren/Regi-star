@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. May be repeated to a maximum of 6 hours. Prerequisite: Junior standing in Photography or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Advanced study of photographic issues and the creative process. Discusses creativity, aesthetics, criticism, and current imagery, as well as photography's relationship to other media. Additional fees may apply. See Class Schedule. May be repeated to a maximum of 6 hours. Prerequisite: Junior standing in Photography or consent of instructor.", 
+    "href": "/2017/spring/ARTD/393.json", 
+    "id": "ARTD 393", 
+    "label": "Contemporary Art and Ideas", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Design", 
+            "href": "/2017/spring/ARTD.json", 
+            "id": "ARTD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Photography major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ARTD/393/59041.json", 
+            "id": "59041"
+        }
+    }
+}

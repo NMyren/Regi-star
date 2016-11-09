@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/CW/202/47060.json", 
+    "id": "47060", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Harrington, J", 
+                    "firstName": "J", 
+                    "lastName": "Harrington"
+                }
+            }, 
+            "roomNumber": "123", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics in Creative Writing", 
+            "href": "/2017/spring/CW/202.json", 
+            "id": "202"
+        }, 
+        "subject": {
+            "content": "Creative Writing", 
+            "href": "/2017/spring/CW.json", 
+            "id": "CW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "P", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic Section P: Writing for Young Children: The Picture Book Ready to write the next Where the Wild Things Are?  Have you always wanted to write for younger children?  Do you enjoy reading children?s books?  Then join us for a fast-paced workshop in picture book narratives.  Students will use traditional forms (cumulative stories, anaphoric structure, poetry, and others) to write picture book narratives for preschool through third grade.  This is not an art class.  You won?t draw pictures!  You?ll do something even better: write the text.", 
+    "sectionTitle": "Writing for Young Children", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

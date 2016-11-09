@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as GRK 102. See GRK 102.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as GRK 102. See GRK 102.", 
+    "href": "/2017/spring/RLST/112.json", 
+    "id": "RLST 112", 
+    "label": "Elementary Greek II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Religious Studies", 
+            "href": "/2017/spring/RLST.json", 
+            "id": "RLST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/RLST/112/33614.json", 
+            "id": "33614"
+        }
+    }
+}

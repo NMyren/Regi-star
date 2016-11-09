@@ -1,0 +1,65 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/ENG/598/60507.json", 
+    "id": "60507", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Digital Computer Laboratory", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Jahnke, K", 
+                        "firstName": "K", 
+                        "lastName": "Jahnke"
+                    }, 
+                    {
+                        "content": "Litchfield, J", 
+                        "firstName": "J", 
+                        "lastName": "Litchfield"
+                    }
+                ]
+            }, 
+            "roomNumber": "2320", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/ENG/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "CR2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic:  Creativity, Innovation and Vision.  Enhancement of personal creativity via exploration of the nature of creativity, how creativity works, and how to envision what others may not.  Practice of techniques and processes to enhance personal and group creativity and to nurture a creative lifestyle.  Application to a major term project providing the opportunity to move an idea, product, process or service from vision to reality.  Open to all majors, campus wide.  Graduate standing or consent of instructor.  Class meets in 2320 Digital Computer Lab.", 
+    "sectionTitle": "Creativity, Innovation, Vision", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,45 @@
+{
+    "classScheduleInformation": "Non-dance majors admitted by audition on a space-available basis.", 
+    "courseSectionInformation": ".5 to 3 undergraduate hours. .5 to 3 graduate hours. May be repeated to a maximum of 16 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "0.5 TO 3 hours.", 
+    "description": "Performance laboratory involving the rehearsal and performance of student works under faculty supervision performed in MFA Thesis concert. .5 to 3 undergraduate hours. .5 to 3 graduate hours. May be repeated to a maximum of 16 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/DANC/421.json", 
+    "id": "DANC 421", 
+    "label": "Performance in Grad Thesis II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Dance or Dance major(s).", 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/DANC/421/10584.json", 
+                "id": "10584"
+            }, 
+            {
+                "content": "EF", 
+                "href": "/2017/spring/DANC/421/16344.json", 
+                "id": "16344"
+            }, 
+            {
+                "content": "MN", 
+                "href": "/2017/spring/DANC/421/63405.json", 
+                "id": "63405"
+            }
+        ]
+    }
+}

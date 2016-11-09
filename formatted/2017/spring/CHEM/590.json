@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. Prerequisite: Consent of instructor and written approval of department head. Staff for the course is the same as for CHEM 599.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Designed for students majoring or minoring in chemistry who wish to undertake individual studies of a non-research nature under the direction of a faculty member of the department. Approved for both letter and S/U grading. Prerequisite: Consent of instructor and written approval of department head. Staff for the course is the same as for CHEM 599.", 
+    "href": "/2017/spring/CHEM/590.json", 
+    "id": "CHEM 590", 
+    "label": "Special Topics in Chemistry", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CHEM/590/10512.json", 
+            "id": "10512"
+        }
+    }
+}

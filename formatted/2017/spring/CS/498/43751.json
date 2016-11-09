@@ -1,0 +1,58 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CS/498/43751.json", 
+    "id": "43751", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Siebel Center for Comp Sci", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:45 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Parthasarathy, M", 
+                    "firstName": "M", 
+                    "lastName": "Parthasarathy"
+                }
+            }, 
+            "roomNumber": "1304", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "S3 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/CS/498.json", 
+            "id": "498"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Computer Science or Statistics & Computer Science or Math & Computer Science or Computer Sci & Anthropology or Computer Sci & Astronomy or Computer Sci & Chemistry or Computer Sci & Linguistics major(s). Restricted to students with Senior or Graduate class standing.", 
+    "sectionNumber": "MP3", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic: Logic", 
+    "sectionTitle": "Logic", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

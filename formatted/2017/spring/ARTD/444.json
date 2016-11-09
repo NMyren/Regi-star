@@ -1,0 +1,41 @@
+{
+    "classScheduleInformation": "A student registered in one or more Art & Design course(s) exhibiting this message, will be assessed a $95 facility use fee once each term.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. 3 undergraduate hours. 4 graduate hours. Prerequisite: ARTD 318 and ARTD 333. Junior standing required.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Students engage with complex typographic systems across varied media in a studio setting. Additional fees may apply. See Class Schedule. 3 undergraduate hours. 4 graduate hours. Prerequisite: ARTD 318 and ARTD 333. Junior standing required.", 
+    "href": "/2017/spring/ARTD/444.json", 
+    "id": "ARTD 444", 
+    "label": "Typographic Systems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Design", 
+            "href": "/2017/spring/ARTD.json", 
+            "id": "ARTD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graphic Design major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "GD1", 
+                "href": "/2017/spring/ARTD/444/65179.json", 
+                "id": "65179"
+            }, 
+            {
+                "content": "GD2", 
+                "href": "/2017/spring/ARTD/444/65180.json", 
+                "id": "65180"
+            }
+        ]
+    }
+}

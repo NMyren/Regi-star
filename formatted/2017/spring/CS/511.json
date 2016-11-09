@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: CS 411.", 
+    "creditHours": "4 hours.", 
+    "description": "Advanced concepts in data management and information system design and implementation, and recent developments in the field. 1) Relational roots, objects and extensibility, query languages, data indexing, query processing, transaction processing, benchmarks, and 2) semi-structured data and unstructured data, information extraction, information integration, web search and mining, and other emerging directions in the field. Prerequisite: CS 411.", 
+    "href": "/2017/spring/CS/511.json", 
+    "id": "CS 511", 
+    "label": "Advanced Data Management", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CS/511/40748.json", 
+                "id": "40748"
+            }, 
+            {
+                "content": "P", 
+                "href": "/2017/spring/CS/511/31602.json", 
+                "id": "31602"
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/MDIA/290/63888.json", 
+    "id": "63888", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Gregory Hall", 
+            "daysOfTheWeek": "T", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Meyer, E", 
+                    "firstName": "E", 
+                    "lastName": "Meyer"
+                }
+            }, 
+            "roomNumber": "31", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/MDIA/290.json", 
+            "id": "290"
+        }, 
+        "subject": {
+            "content": "Media", 
+            "href": "/2017/spring/MDIA.json", 
+            "id": "MDIA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "MI", 
+    "sectionStatusCode": "A", 
+    "sectionText": "MEDIA INNOVATION No required pre-requisites although completion of JOUR 200, ADV 283, or 315 is recommended.  Gain valuable experience addressing the most important challenges news media face today by creating or revamping a real publication or news service. Working in teams, we?ll start at Square 1, determine whom we?re trying to reach, figure out how best to reach them, learn whatever techniques or technologies are needed, then test whether we succeeded and refine our approach using standard metrics. The goal will be to create a prototype for a sustainable, topically or community-focused news service combining traditional, online, mobile and social media and including whatever interactive, immersive, data or other design elements might maximize audience engagement.", 
+    "sectionTitle": "Media Innovation", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

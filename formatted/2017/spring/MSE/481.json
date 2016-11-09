@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. Prerequisite: MSE 405.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Theory and application of transmission electron microscopy and diffraction with emphasis on thin crystals; electron optics, interference phenomena, interpretation of images and diffraction patterns, specimen preparation. 3 undergraduate hours. 4 graduate hours. Prerequisite: MSE 405.", 
+    "href": "/2017/spring/MSE/481.json", 
+    "id": "MSE 481", 
+    "label": "Electron Microscopy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Materials Science and Engineering", 
+            "href": "/2017/spring/MSE.json", 
+            "id": "MSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/MSE/481/65454.json", 
+                "id": "65454"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/MSE/481/65457.json", 
+                "id": "65457"
+            }
+        ]
+    }
+}

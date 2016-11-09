@@ -1,0 +1,55 @@
+{
+    "courseSectionInformation": "Prerequisite: Completion of campus Composition I general education requirement.", 
+    "creditHours": "3 hours.", 
+    "description": "Practice in the writing of narrative prose, with primary emphasis on short fiction. Prerequisite: Completion of campus Composition I general education requirement.", 
+    "href": "/2017/spring/CW/104.json", 
+    "id": "CW 104", 
+    "label": "Introductory Narrative Writing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Creative Writing", 
+            "href": "/2017/spring/CW.json", 
+            "id": "CW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "B", 
+                "href": "/2017/spring/CW/104/43365.json", 
+                "id": "43365"
+            }, 
+            {
+                "content": "P", 
+                "href": "/2017/spring/CW/104/43431.json", 
+                "id": "43431"
+            }, 
+            {
+                "content": "Q", 
+                "href": "/2017/spring/CW/104/43364.json", 
+                "id": "43364"
+            }, 
+            {
+                "content": "T", 
+                "href": "/2017/spring/CW/104/43366.json", 
+                "id": "43366"
+            }, 
+            {
+                "content": "X", 
+                "href": "/2017/spring/CW/104/56175.json", 
+                "id": "56175"
+            }
+        ]
+    }
+}

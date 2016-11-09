@@ -1,0 +1,80 @@
+{
+    "classScheduleInformation": "This course requires weekly on-line, web-based work.", 
+    "courseSectionInformation": "Prerequisite: SPAN 141 or equivalent.", 
+    "creditHours": "3 hours.", 
+    "description": "Overview of Spanish grammar, with emphasis on major challenges and areas of contrast with English. The overall goal of the course is to help students gain a greater understanding of some key aspects of Spanish grammar, which will lead to greater accuracy in their written and oral production. Prerequisite: SPAN 141 or equivalent.", 
+    "href": "/2017/spring/SPAN/204.json", 
+    "id": "SPAN 204", 
+    "label": "Advanced Spanish Grammar in Context", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ADA", 
+                "href": "/2017/spring/SPAN/204/35245.json", 
+                "id": "35245"
+            }, 
+            {
+                "content": "ADB", 
+                "href": "/2017/spring/SPAN/204/35247.json", 
+                "id": "35247"
+            }, 
+            {
+                "content": "ADC", 
+                "href": "/2017/spring/SPAN/204/47453.json", 
+                "id": "47453"
+            }, 
+            {
+                "content": "ADD", 
+                "href": "/2017/spring/SPAN/204/35248.json", 
+                "id": "35248"
+            }, 
+            {
+                "content": "ADE", 
+                "href": "/2017/spring/SPAN/204/47454.json", 
+                "id": "47454"
+            }, 
+            {
+                "content": "ADF", 
+                "href": "/2017/spring/SPAN/204/35240.json", 
+                "id": "35240"
+            }, 
+            {
+                "content": "ADG", 
+                "href": "/2017/spring/SPAN/204/35251.json", 
+                "id": "35251"
+            }, 
+            {
+                "content": "ADH", 
+                "href": "/2017/spring/SPAN/204/35252.json", 
+                "id": "35252"
+            }, 
+            {
+                "content": "ADJ", 
+                "href": "/2017/spring/SPAN/204/35235.json", 
+                "id": "35235"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/SPAN/204/35238.json", 
+                "id": "35238"
+            }
+        ]
+    }
+}

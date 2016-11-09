@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as CPSC 591 and INFO 591. See INFO 591.", 
+    "creditHours": "1 TO 2 hours.", 
+    "description": "Same as CPSC 591 and INFO 591. See INFO 591.", 
+    "href": "/2017/spring/LIS/583.json", 
+    "id": "LIS 583", 
+    "label": "Grad Bioinformatics Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/LIS/583/55649.json", 
+            "id": "55649"
+        }
+    }
+}

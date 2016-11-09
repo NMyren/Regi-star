@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: SOCW 400.", 
+    "creditHours": "4 hours.", 
+    "description": "Systematically and critically examines the theory, procedures, and techniques of selected practice models within four main approaches to social work: cognitive-behavioral, systemic (family and ecological systems; crisis intervention), task-centered, and radical-structural (structural; feminist). Uses selected criteria to analyze and assess those models, examines outcome research, and identifies current practice issues. Prerequisite: SOCW 400.", 
+    "href": "/2017/spring/SOCW/500.json", 
+    "id": "SOCW 500", 
+    "label": "SW Practice with Indiv and Fam", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign. Restricted to MSW:Social Work -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SOCW/500/32838.json", 
+            "id": "32838"
+        }
+    }
+}

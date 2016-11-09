@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Credit is not given for both CHEM 442 and PHYS 485. Prerequisite: CHEM 204 or CHEM 222; MATH 225 or MATH 415, and a minimal knowledge of differential equations, or equivalent; and PHYS 211, PHYS 212, and PHYS 214 or equivalent.", 
+    "creditHours": "4 hours.", 
+    "description": "Lectures and problems focusing on microscopic properties. CHEM 442 and CHEM 444 constitute a year-long study of chemical principles. CHEM 442 focuses on quantum chemistry, atomic and molecular structure, spectroscopy and dynamics. 4 undergraduate hours. 4 graduate hours. Credit is not given for both CHEM 442 and PHYS 485. Prerequisite: CHEM 204 or CHEM 222; MATH 225 or MATH 415, and a minimal knowledge of differential equations, or equivalent; and PHYS 211, PHYS 212, and PHYS 214 or equivalent.", 
+    "href": "/2017/spring/CHEM/442.json", 
+    "id": "CHEM 442", 
+    "label": "Physical Chemistry I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHEM/442/32679.json", 
+            "id": "32679"
+        }
+    }
+}

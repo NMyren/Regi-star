@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. May be repeated with permission of English advising office to a maximum of 6 undergraduate hours if topics vary. May be repeated for graduate credit if topics vary. Prerequisite: One year of college literature or consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Intensive study of the work of one or two major authors. 3 undergraduate hours. 4 graduate hours. May be repeated with permission of English advising office to a maximum of 6 undergraduate hours if topics vary. May be repeated for graduate credit if topics vary. Prerequisite: One year of college literature or consent of instructor.", 
+    "href": "/2017/spring/ENGL/455.json", 
+    "id": "ENGL 455", 
+    "label": "Major Authors", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "1G", 
+                "href": "/2017/spring/ENGL/455/32205.json", 
+                "id": "32205"
+            }, 
+            {
+                "content": "1U", 
+                "href": "/2017/spring/ENGL/455/32202.json", 
+                "id": "32202"
+            }, 
+            {
+                "content": "2G", 
+                "href": "/2017/spring/ENGL/455/32210.json", 
+                "id": "32210"
+            }, 
+            {
+                "content": "2U", 
+                "href": "/2017/spring/ENGL/455/32207.json", 
+                "id": "32207"
+            }
+        ]
+    }
+}

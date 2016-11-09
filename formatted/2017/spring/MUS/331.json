@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: MUS 330; music education majors, or consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "Practicum course emphasizing teaching and rehearsal techniques, score preparation, and interpretation. Focuses on the integration of aural, vocal, keyboard, and conducting skills for the choral teacher/conductor. Prerequisite: MUS 330; music education majors, or consent of instructor.", 
+    "href": "/2017/spring/MUS/331.json", 
+    "id": "MUS 331", 
+    "label": "Advanced Choral Conducting II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Music Education major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/331/36170.json", 
+            "id": "36170"
+        }
+    }
+}

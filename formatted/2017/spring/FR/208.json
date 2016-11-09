@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: FR 207 or equivalent must be taken prior to this course.", 
+    "creditHours": "3 hours.", 
+    "description": "Intensive practice of writing and reading skills in French, emphasizing vocabulary and critical concepts important to analyzing literary and cultural texts. Prerequisite: FR 207 or equivalent must be taken prior to this course.", 
+    "href": "/2017/spring/FR/208.json", 
+    "id": "FR 208", 
+    "label": "Critical Writing and Reading", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "French", 
+            "href": "/2017/spring/FR.json", 
+            "id": "FR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "D", 
+            "href": "/2017/spring/FR/208/39771.json", 
+            "id": "39771"
+        }
+    }
+}

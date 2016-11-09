@@ -1,0 +1,40 @@
+{
+    "classScheduleInformation": "A student registered in one or more Art & Design course(s) exhibiting this message, will be assessed a $95 facility use fee once each term.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 6 hours. Prerequisite: ARTS 343 or consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Provides semester-long, in-depth explorations of single time arts topics. Using the ideas and basic tools from Time Arts I, students will study the advanced concepts and techniques particular to individual time arts genres while producing their own work. Additional fees may apply. See Class Schedule. 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 6 hours. Prerequisite: ARTS 343 or consent of instructor.", 
+    "href": "/2017/spring/ARTS/443.json", 
+    "id": "ARTS 443", 
+    "label": "Time Arts II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Studio", 
+            "href": "/2017/spring/ARTS.json", 
+            "id": "ARTS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "T7G", 
+                "href": "/2017/spring/ARTS/443/41503.json", 
+                "id": "41503"
+            }, 
+            {
+                "content": "T7U", 
+                "href": "/2017/spring/ARTS/443/30355.json", 
+                "id": "30355"
+            }
+        ]
+    }
+}

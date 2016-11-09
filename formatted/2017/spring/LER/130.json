@@ -1,0 +1,31 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Do working people have a history worth studying? What does the history of the U.S. look like when viewed from the point of view of those who built the country? Introduces U.S. labor and working class history. Examines the conditions of life and work of the various groups of working people: enslaved, indentured, small farmers, but especially wage workers and their families from the civil War to the present. Studies the main collective actions workers have taken to protect and improve their lives and the organizations and social movements they created to do this. Students who complete LER 130 and want a more in-depth look at the subject should enroll in HIST 480.", 
+    "href": "/2017/spring/LER/130.json", 
+    "id": "LER 130", 
+    "label": "Intro Labr Wrkng Class History", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Labor and Employment Relations", 
+            "href": "/2017/spring/LER.json", 
+            "id": "LER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/LER/130/53038.json", 
+            "id": "53038"
+        }
+    }
+}

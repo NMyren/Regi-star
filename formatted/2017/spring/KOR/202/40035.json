@@ -1,0 +1,55 @@
+{
+    "creditHours": "5 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/KOR/202/40035.json", 
+    "id": "40035", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "David Kinley Hall", 
+            "daysOfTheWeek": "MTWRF", 
+            "end": "12:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Ha, J", 
+                    "firstName": "J", 
+                    "lastName": "Ha"
+                }
+            }, 
+            "roomNumber": "310", 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Elementary Korean II", 
+            "href": "/2017/spring/KOR/202.json", 
+            "id": "202"
+        }, 
+        "subject": {
+            "content": "Korean", 
+            "href": "/2017/spring/KOR.json", 
+            "id": "KOR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "X", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

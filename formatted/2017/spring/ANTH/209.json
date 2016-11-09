@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Same as SOC 269.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduces basic anthropological and sociological methods, concepts and approaches to the study of the food. Explores issues including gender roles, religious influences, family relationships, community sharing, nationalist rituals, and global processes in the production, distribution and consumption of food. Film, ethnographies, and other social science studies will be examined. Same as SOC 269.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/ANTH/209.json", 
+    "id": "ANTH 209", 
+    "label": "Food, Culture, and Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Anthropology", 
+            "href": "/2017/spring/ANTH.json", 
+            "id": "ANTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "1", 
+            "href": "/2017/spring/ANTH/209/43563.json", 
+            "id": "43563"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "classScheduleInformation": "Prior knowledge of language requires a placement exam to be given. Call 244-1432 for date of exam and to register for the test.", 
+    "courseSectionInformation": "Prerequisite: CHIN 203 or equivalent.", 
+    "creditHours": "5 hours.", 
+    "description": "Continuation of CHIN 203. Concentration on ability to engage in fluent discourse, on comprehensive grammatical knowledge, and on ability to read ordinary simple text in Chinese. Prerequisite: CHIN 203 or equivalent.", 
+    "href": "/2017/spring/CHIN/204.json", 
+    "id": "CHIN 204", 
+    "label": "Intermediate Chinese II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chinese", 
+            "href": "/2017/spring/CHIN.json", 
+            "id": "CHIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/CHIN/204/31036.json", 
+                "id": "31036"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/CHIN/204/31037.json", 
+                "id": "31037"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/CHIN/204/47290.json", 
+                "id": "47290"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. No graduate credit. Prerequisite: FSHN 340 and credit or concurrent registration in FSHN 442.", 
+    "creditHours": "4 hours.", 
+    "description": "Advanced application of food production and management principles to specific food service demands; emphasis on artistry in preparation, serving, and merchandising high quality food in quantity. 4 undergraduate hours. No graduate credit. Prerequisite: FSHN 340 and credit or concurrent registration in FSHN 442.", 
+    "href": "/2017/spring/FSHN/443.json", 
+    "id": "FSHN 443", 
+    "label": "Management of Fine Dining", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Food Science and Human Nutrition", 
+            "href": "/2017/spring/FSHN.json", 
+            "id": "FSHN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/FSHN/443/33034.json", 
+                "id": "33034"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/FSHN/443/33035.json", 
+                "id": "33035"
+            }
+        ]
+    }
+}

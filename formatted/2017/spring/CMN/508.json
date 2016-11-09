@@ -1,0 +1,34 @@
+{
+    "courseSectionInformation": "Offered Spring terms only. Prerequisite: Only for students enrolled in the MS in Health Communication degree program.", 
+    "creditHours": "4 hours.", 
+    "description": "Introduction to theoretical frameworks, research, and applications of health campaigns. Literature from contributing disciplines will be reviewed (e.g., advertising, communication, marketing, public health, political science, psychology and sociology) and key aspects of campaign development will be discussed (e.g., formative research, audience segmentation, message tailoring and evaluation). Offered Spring terms only. Prerequisite: Only for students enrolled in the MS in Health Communication degree program.", 
+    "href": "/2017/spring/CMN/508.json", 
+    "id": "CMN 508", 
+    "label": "Successful Health Campaigns", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 14-Mar-17.", 
+    "sectionRegistrationNotes": "Restricted to MS: Health Cmc Online - UIUC or NDEG:Grad Nondegree-CE-UIUC.", 
+    "sections": {
+        "section": {
+            "content": "BQ1", 
+            "href": "/2017/spring/CMN/508/65528.json", 
+            "id": "65528"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: TSM 100.", 
+    "creditHours": "1 hours.", 
+    "description": "Introduction to Computer Aided Drawing and Design (CAD). Application of two and three dimensional CAD tools in construction systems for creating project plans, structures and building floor plans with fixtures and layers representing electrical and plumbing configurations. Self-paced learning through on-line tutorials with instructor guidance. Prerequisite: TSM 100.", 
+    "href": "/2017/spring/TSM/130.json", 
+    "id": "TSM 130", 
+    "label": "Basics of CAD", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Technical Systems Management", 
+            "href": "/2017/spring/TSM.json", 
+            "id": "TSM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sections": {
+        "section": {
+            "content": "CAD", 
+            "href": "/2017/spring/TSM/130/63206.json", 
+            "id": "63206"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 8 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Discussion of current topics of interest in higher eukaryotic cellular and molecular biology, development, neurobiology; seminar or lecture format. Topics vary. May be repeated to a maximum of 8 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/MCB/529.json", 
+    "id": "MCB 529", 
+    "label": "Special Topics Cell Devel Biol", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "LJS", 
+                "href": "/2017/spring/MCB/529/53110.json", 
+                "id": "53110"
+            }, 
+            {
+                "content": "MUG", 
+                "href": "/2017/spring/MCB/529/54165.json", 
+                "id": "54165"
+            }, 
+            {
+                "content": "THD", 
+                "href": "/2017/spring/MCB/529/63840.json", 
+                "id": "63840"
+            }
+        ]
+    }
+}

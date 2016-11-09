@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Credit is not given for both GEOL 452 and GEOL 450. Prerequisite: MATH 241 and PHYS 211; or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Provides a broad overview of basic concepts and fundamental knowledge of the physics of the Earth. Topics include seismology, gravity, geomagnetism, Earth's thermal state, and geodynamics. Intended for undergraduates in the geophysics concentration and other students who want a more quantitative treatment of the subject than GEOL 450. 4 undergraduate hours. 4 graduate hours. Credit is not given for both GEOL 452 and GEOL 450. Prerequisite: MATH 241 and PHYS 211; or consent of instructor.", 
+    "href": "/2017/spring/GEOL/452.json", 
+    "id": "GEOL 452", 
+    "label": "Introduction to Geophysics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GEOL/452/52419.json", 
+            "id": "52419"
+        }
+    }
+}

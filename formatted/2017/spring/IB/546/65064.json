@@ -1,0 +1,52 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/IB/546/65064.json", 
+    "id": "65064", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Caceres, C", 
+                    "firstName": "C", 
+                    "lastName": "Caceres"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics in Ecology & Evolution", 
+            "href": "/2017/spring/IB/546.json", 
+            "id": "546"
+        }, 
+        "subject": {
+            "content": "Integrative Biology", 
+            "href": "/2017/spring/IB.json", 
+            "id": "IB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "ECO", 
+    "sectionStatusCode": "A", 
+    "sectionText": "1hr.  Title: Ecology and Conservation in a One Health Perspective.  The ?One Health? concept attempts to integrate across traditional academic boundaries by recognizing the interdependence of human health with agricultural, industrial and natural ecosystems. Microbes are fundamental players in all of these systems and influence individual fitness as well as the outcome of interspecific interactions. This course will take a One Health perspective to explore how our growing understanding of the roles of both free-living and host-associated microbes will change the way in which ecologists approach fundamental questions in conservation biology and population, community, and disease ecology.", 
+    "sectionTitle": "Graduate Seminar in Ecology", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

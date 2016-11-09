@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Same as HDFS 263 and RST 230. See RST 230.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as HDFS 263 and RST 230. See RST 230.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+            "id": "CNW", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1US", 
+                    "content": "UIUC: US Minority Culture(s)"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/KIN/230.json", 
+    "id": "KIN 230", 
+    "label": "Diversity in Recreation, Sport, and Tourism", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Grand Challenge-Health/Well, and US Minority Culture(s) course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/KIN/230/38728.json", 
+            "id": "38728"
+        }
+    }
+}

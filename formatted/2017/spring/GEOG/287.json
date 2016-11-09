@@ -1,0 +1,89 @@
+{
+    "courseSectionInformation": "Same as ESE 287, NRES 287, PS 273 and SOC 287. See NRES 287.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as ESE 287, NRES 287, PS 273 and SOC 287. See NRES 287.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Social & Behavioral Sciences", 
+                "id": "SBS", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1SS", 
+                        "content": "UIUC Social Sciences"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/GEOG/287.json", 
+    "id": "GEOG 287", 
+    "label": "Environment and Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geography", 
+            "href": "/2017/spring/GEOG.json", 
+            "id": "GEOG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences, and Western Compartv Cult course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/GEOG/287/52477.json", 
+                "id": "52477"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/GEOG/287/52483.json", 
+                "id": "52483"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/GEOG/287/52491.json", 
+                "id": "52491"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/GEOG/287/52499.json", 
+                "id": "52499"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/GEOG/287/52505.json", 
+                "id": "52505"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/GEOG/287/55547.json", 
+                "id": "55547"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/GEOG/287/52468.json", 
+                "id": "52468"
+            }
+        ]
+    }
+}

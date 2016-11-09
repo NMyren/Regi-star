@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. 4 undergraduate hours. 4 graduate hours. Prerequisite: GEOL 432.", 
+    "creditHours": "4 hours.", 
+    "description": "Study of the minerals, compositions, textures, structures, classifications, and origins of igneous and metamorphic rocks; lectures emphasize rock forming processes (petrology), and laboratories emphasize use of the petrographic microscope (petrography). Additional fees may apply. See Class Schedule. 4 undergraduate hours. 4 graduate hours. Prerequisite: GEOL 432.", 
+    "href": "/2017/spring/GEOL/436.json", 
+    "id": "GEOL 436", 
+    "label": "Petrology and Petrography", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/GEOL/436/33542.json", 
+                "id": "33542"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/GEOL/436/62124.json", 
+                "id": "62124"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/GEOL/436/33543.json", 
+                "id": "33543"
+            }
+        ]
+    }
+}

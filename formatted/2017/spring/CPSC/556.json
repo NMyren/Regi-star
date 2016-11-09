@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated in separate terms to a maximum of 5 hours. Prerequisite: Graduate student status.", 
+    "creditHours": "1 hours.", 
+    "description": "Students will read a diverse group of plant breeding journal articles, will learn skills involved in evaluating a scientific paper, and will discuss articles with plant breeding faculty members. Approved for S/U grading only. May be repeated in separate terms to a maximum of 5 hours. Prerequisite: Graduate student status.", 
+    "href": "/2017/spring/CPSC/556.json", 
+    "id": "CPSC 556", 
+    "label": "Plant Breeding Literature", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CPSC/556/52415.json", 
+            "id": "52415"
+        }
+    }
+}

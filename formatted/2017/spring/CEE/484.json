@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: CEE 483.", 
+    "creditHours": "4 hours.", 
+    "description": "Application of soil mechanics to earth pressures and retaining walls, stability of slopes, foundations for structures, excavations; construction considerations; instrumentation. 4 undergraduate hours. 4 graduate hours. Prerequisite: CEE 483.", 
+    "href": "/2017/spring/CEE/484.json", 
+    "id": "CEE 484", 
+    "label": "Applied Soil Mechanics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "F", 
+                "href": "/2017/spring/CEE/484/31737.json", 
+                "id": "31737"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CEE/484/65757.json", 
+                "id": "65757"
+            }
+        ]
+    }
+}

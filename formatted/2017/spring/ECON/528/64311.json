@@ -1,0 +1,50 @@
+{
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ECON/528/64311.json", 
+    "id": "64311", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "DeBrock, L", 
+                    "firstName": "L", 
+                    "lastName": "DeBrock"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Microeconomics for Business", 
+            "href": "/2017/spring/ECON/528.json", 
+            "id": "528"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 18-Jan-17 - 14-Mar-17.", 
+    "sectionNotes": "Restricted to MBA: iMBA Online -UIUC.", 
+    "sectionNumber": "IMB", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Corresponds with Coursera \"Firm-level Economics.\" Registration in this section is restricted to students admitted to the iMBA Online Degree program. Additional ID verification fee for each 4 week course at Coursera, see: https://business.illinois.edu/online/tuitionfeesandrefund/.", 
+    "statusCode": "A"
+}

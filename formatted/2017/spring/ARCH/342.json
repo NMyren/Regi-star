@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "Prerequisite: ARCH 233.", 
+    "creditHours": "4 hours.", 
+    "description": "Study of the control of luminous and sonic environments, the supporting building systems, and their integration into the overall building design. Specific topics include: lighting fundamentals; light sources; effects of lighting on comfort and performance; lighting calculations and design; energy economy and sustainability; acoustic fundamentals; room acoustics; noise control; and basic electrical and sound systems. Prerequisite: ARCH 233.", 
+    "href": "/2017/spring/ARCH/342.json", 
+    "id": "ARCH 342", 
+    "label": "Environment Tech Ltg & Acoust", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ARCH/342/30231.json", 
+                "id": "30231"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/ARCH/342/30233.json", 
+                "id": "30233"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/ARCH/342/45620.json", 
+                "id": "45620"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ARCH/342/30234.json", 
+                "id": "30234"
+            }
+        ]
+    }
+}

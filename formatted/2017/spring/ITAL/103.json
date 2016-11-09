@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: ITAL 102 or two years of high school Italian.", 
+    "creditHours": "4 hours.", 
+    "description": "Rapid reading, review of grammar, composition, and conversation. Prerequisite: ITAL 102 or two years of high school Italian.", 
+    "href": "/2017/spring/ITAL/103.json", 
+    "id": "ITAL 103", 
+    "label": "Intermediate Italian I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Italian", 
+            "href": "/2017/spring/ITAL.json", 
+            "id": "ITAL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "E", 
+                "href": "/2017/spring/ITAL/103/34712.json", 
+                "id": "34712"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/ITAL/103/34713.json", 
+                "id": "34713"
+            }
+        ]
+    }
+}

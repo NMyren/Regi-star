@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. Prerequisite: Credit or concurrent registration in MATH 415 and STAT 410.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Estimation and hypotheses testing in linear models; one-, two-, and higher-way layouts; incomplete layouts; analysis of covariance; and random effects models and mixed models. 3 undergraduate hours. 4 graduate hours. Prerequisite: Credit or concurrent registration in MATH 415 and STAT 410.", 
+    "href": "/2017/spring/STAT/424.json", 
+    "id": "STAT 424", 
+    "label": "Analysis of Variance", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Statistics", 
+            "href": "/2017/spring/STAT.json", 
+            "id": "STAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "1GR", 
+                "href": "/2017/spring/STAT/424/36167.json", 
+                "id": "36167"
+            }, 
+            {
+                "content": "1UG", 
+                "href": "/2017/spring/STAT/424/36161.json", 
+                "id": "36161"
+            }
+        ]
+    }
+}

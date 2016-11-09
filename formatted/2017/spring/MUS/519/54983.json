@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MUS/519/54983.json", 
+    "id": "54983", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Music Building", 
+            "daysOfTheWeek": "W", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Deja, R", 
+                    "firstName": "R", 
+                    "lastName": "Deja"
+                }
+            }, 
+            "roomNumber": "2334", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Analytical Methods: Musicology", 
+            "href": "/2017/spring/MUS/519.json", 
+            "id": "519"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "\"Musical Improvisation as Communicative Practice.?  This course examines musical improvisation as a socially rooted communicative practice, as a means to approach the understanding and analysis this phenomenon. In order to do this, part of the course will involve a survey of improvised musics from different societies around the world, paying attention to aesthetic preferences, modes of transmission and learning, and the social contexts in which the practices exist. Additionally, we will explore and experience improvisation in our own musical environments, conducting basic fieldwork involving observation and participation where applicable. Discussions will draw from musicological case studies, as well as literature in anthropology and other social sciences dealing with communicative practices, performance studies, and related areas. This course is designed to benefit students new to improvisation.", 
+    "sectionTitle": "Musical Improvisation", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

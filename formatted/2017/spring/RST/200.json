@@ -1,0 +1,38 @@
+{
+    "creditHours": "2 hours.", 
+    "description": "Leadership theories and practices as related to design and delivery of leisure programs. Processes of group development and interpersonal communication in leisure service organizations.", 
+    "href": "/2017/spring/RST/200.json", 
+    "id": "RST 200", 
+    "label": "Leadership in RST", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/RST/200/43109.json", 
+                "id": "43109"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/RST/200/43110.json", 
+                "id": "43110"
+            }
+        ]
+    }
+}

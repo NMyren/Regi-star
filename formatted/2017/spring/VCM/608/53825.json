@@ -1,0 +1,62 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/VCM/608/53825.json", 
+    "id": "53825", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Vet Med Basic Sciences Bldg", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Foreman, J", 
+                        "firstName": "J", 
+                        "lastName": "Foreman"
+                    }, 
+                    {
+                        "content": "Lascola, K", 
+                        "firstName": "K", 
+                        "lastName": "Lascola"
+                    }
+                ]
+            }, 
+            "roomNumber": "2251", 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Equine Veterinary Husbandry", 
+            "href": "/2017/spring/VCM/608.json", 
+            "id": "608"
+        }, 
+        "subject": {
+            "content": "Veterinary Clinical Medicine", 
+            "href": "/2017/spring/VCM.json", 
+            "id": "VCM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionNumber": "E", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

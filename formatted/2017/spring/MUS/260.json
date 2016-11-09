@@ -1,0 +1,34 @@
+{
+    "classScheduleInformation": "Open to students, faculty and townspeople.", 
+    "courseSectionInformation": "May be repeated. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 hours.", 
+    "description": "An advanced mixed-voice chorus open to students, faculty, and members of the community. Performance of oratorios and other major choral works in cooperation with the University Symphony Orchestra or Wind Symphony. May be repeated. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/MUS/260.json", 
+    "id": "MUS 260", 
+    "label": "Oratorio Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "F1", 
+            "href": "/2017/spring/MUS/260/36342.json", 
+            "id": "36342"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as HIST 168.", 
+    "creditHours": "3 hours.", 
+    "description": "Examines the social, political, economic, and intellectual history of the Jews from Abraham to the present-day, with particular attention to Jewish thought and society. Same as HIST 168.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Advanced Composition", 
+                "id": "ACP", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1CLL", 
+                        "content": "UIUC: Advanced Composition"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/RLST/120.json", 
+    "id": "RLST 120", 
+    "label": "A History of Judaism", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Religious Studies", 
+            "href": "/2017/spring/RLST.json", 
+            "id": "RLST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition, and Hist&Philosoph Perspect course.", 
+    "sections": {
+        "section": {
+            "content": "E", 
+            "href": "/2017/spring/RLST/120/38001.json", 
+            "id": "38001"
+        }
+    }
+}

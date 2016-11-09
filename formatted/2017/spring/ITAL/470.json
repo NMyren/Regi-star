@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as MACS 470. 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 6 undergraduate hours or 8 graduate hours.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "An in-depth examination of a particular director, genre or school from the Italian cinematic tradition (e.g., Fellini, Italian horror, or noerealism); topic will very each semester. No knowledge of Italian is required. Same as MACS 470. 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 6 undergraduate hours or 8 graduate hours.", 
+    "href": "/2017/spring/ITAL/470.json", 
+    "id": "ITAL 470", 
+    "label": "Topics in Italian Cinema", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Italian", 
+            "href": "/2017/spring/ITAL.json", 
+            "id": "ITAL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G4", 
+                "href": "/2017/spring/ITAL/470/40002.json", 
+                "id": "40002"
+            }, 
+            {
+                "content": "U3", 
+                "href": "/2017/spring/ITAL/470/43714.json", 
+                "id": "43714"
+            }
+        ]
+    }
+}

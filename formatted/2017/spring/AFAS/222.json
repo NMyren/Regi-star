@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Requires concurrent enrollment with AFAS 102. Prerequisite: AFAS 221 or consent of instructor.", 
+    "creditHours": "1 hours.", 
+    "description": "\"The Evolution of USAF Air and Space Power\" features topics on Air Force heritage and leaders; introduction to air power through examination of the Air Force Core Functions; and continued application of communication skills. Its purpose is to instill an appreciation of the development and employment of air power and to motivate sophomore students to transition from AFROTC cadet to Air Force ROTC officer candidate. Requires concurrent enrollment with AFAS 102. Prerequisite: AFAS 221 or consent of instructor.", 
+    "href": "/2017/spring/AFAS/222.json", 
+    "id": "AFAS 222", 
+    "label": "Evolution Air & Space Power II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Air Force Aerospace Studies", 
+            "href": "/2017/spring/AFAS.json", 
+            "id": "AFAS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/AFAS/222/41653.json", 
+                "id": "41653"
+            }, 
+            {
+                "content": "M", 
+                "href": "/2017/spring/AFAS/222/30784.json", 
+                "id": "30784"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "classScheduleInformation": "A student registered in one or more Art & Design course(s) exhibiting this message, will be assessed a $95 facility use fee once each term.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. May be repeated in separate terms to a maximum of 6 hours. Prerequisite: ARTD 260.", 
+    "creditHours": "3 hours.", 
+    "description": "Explores the potential of color printing and output in digital media as a form for creative expression. Student must furnish camera. Additional fees may apply. See Class Schedule. May be repeated in separate terms to a maximum of 6 hours. Prerequisite: ARTD 260.", 
+    "href": "/2017/spring/ARTD/263.json", 
+    "id": "ARTD 263", 
+    "label": "Digital Photographic Output", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Design", 
+            "href": "/2017/spring/ARTD.json", 
+            "id": "ARTD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionFeeAmount": "Photography  Art Design $8.00 Flat Fee.", 
+    "sectionRegistrationNotes": "Restricted to Graphic Design or Crafts or History of Art or Photography or Industrial Design or Painting or Sculpture or Art Education or Art and Design or Art Foundation or New Media major(s) or minor(s).", 
+    "sections": {
+        "section": {
+            "content": "T5", 
+            "href": "/2017/spring/ARTD/263/65155.json", 
+            "id": "65155"
+        }
+    }
+}

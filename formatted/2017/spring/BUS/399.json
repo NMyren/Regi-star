@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. Maximum of 18 hours per term and 36 hours total. Prerequisite: One academic year (or one semester in the case of transfer students) in residence at UIUC, good academic standing, completion of at least thirty semester hours toward the bachelor's degree, and prior approval of course work by the College of Business' Office of Undergraduate Affairs. Some programs have additional requirements.", 
+    "creditHours": "0 TO 18 hours.", 
+    "description": "Upon prior written approval of the College of Business' Office of Undergraduate Affairs, a student may earn up to 18 credit hours per term undertaking a study and/or research project in international business at accredited foreign institutions or approved overseas programs. Final determination of appropriate credit will be made upon completion of the work done abroad. While absent from the Urbana-Champaign campus, the student must continue to pay all fees required by the University of Illinois to retain continuity of enrollment and to allow the time spent away from this campus to count toward residency. Approved for both letter and S/U grading. Maximum of 18 hours per term and 36 hours total. Prerequisite: One academic year (or one semester in the case of transfer students) in residence at UIUC, good academic standing, completion of at least thirty semester hours toward the bachelor's degree, and prior approval of course work by the College of Business' Office of Undergraduate Affairs. Some programs have additional requirements.", 
+    "href": "/2017/spring/BUS/399.json", 
+    "id": "BUS 399", 
+    "label": "Business Study Abroad", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business", 
+            "href": "/2017/spring/BUS.json", 
+            "id": "BUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "content": "IP2", 
+            "href": "/2017/spring/BUS/399/54757.json", 
+            "id": "54757"
+        }
+    }
+}

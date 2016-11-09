@@ -1,0 +1,32 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "This course is an introduction to the conservation, diversity and ecology of animals. The diversity of fish, reptiles, amphibians, mammals, and birds both around the world and in Illinois will be explored. The course will have a strong conservation component where students are introduced to a variety of threats facing animals. The students will be introduced to how to manage sustainable wildlife populations. The students will be exposed to current issues in Illinois to illustrate how people and animals can co-occur and a broad overview of the management, restoration, and conservation techniques.", 
+    "href": "/2017/spring/NRES/101.json", 
+    "id": "NRES 101", 
+    "label": "Wildlife Conserv 21st Century", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Natural Resources and Environmental Sciences", 
+            "href": "/2017/spring/NRES.json", 
+            "id": "NRES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/NRES/101/60210.json", 
+            "id": "60210"
+        }
+    }
+}

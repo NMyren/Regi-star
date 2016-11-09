@@ -1,0 +1,109 @@
+{
+    "courseSectionInformation": "This course can be used to fulfill either Western or non-Western general education categories, but not both.", 
+    "creditHours": "3 hours.", 
+    "description": "Broad introduction to global history, by exploring the global structures and transnational forces that have shaped human history, from the emergence of agriculture and urban centers to our contemporary global village. This course can be used to fulfill either Western or non-Western general education categories, but not both.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/HIST/100.json", 
+    "id": "HIST 100", 
+    "label": "Global History", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, Non-Western Cultures, and Western Compartv Cult course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/HIST/100/39597.json", 
+                "id": "39597"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/HIST/100/39598.json", 
+                "id": "39598"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/HIST/100/39599.json", 
+                "id": "39599"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/HIST/100/39600.json", 
+                "id": "39600"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/HIST/100/39601.json", 
+                "id": "39601"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/HIST/100/39602.json", 
+                "id": "39602"
+            }, 
+            {
+                "content": "AD7", 
+                "href": "/2017/spring/HIST/100/54515.json", 
+                "id": "54515"
+            }, 
+            {
+                "content": "AD9", 
+                "href": "/2017/spring/HIST/100/54517.json", 
+                "id": "54517"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/HIST/100/33842.json", 
+                "id": "33842"
+            }
+        ]
+    }
+}

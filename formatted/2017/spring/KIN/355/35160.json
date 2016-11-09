@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/KIN/355/35160.json", 
+    "id": "35160", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Freer Hall", 
+            "daysOfTheWeek": "M", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Chaparro, G", 
+                    "firstName": "G", 
+                    "lastName": "Chaparro"
+                }
+            }, 
+            "roomNumber": "130", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Biomechanics of Human Movement", 
+            "href": "/2017/spring/KIN/355.json", 
+            "id": "355"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionFeeAmount": "AHS Class Materials $200.00 Flat Fee.", 
+    "sectionNumber": "AY1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

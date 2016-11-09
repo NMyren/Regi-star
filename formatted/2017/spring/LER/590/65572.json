@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/LER/590/65572.json", 
+    "id": "65572", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "R", 
+            "end": "08:30 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Schultz, J", 
+                    "firstName": "J", 
+                    "lastName": "Schultz"
+                }
+            }, 
+            "start": "06:30 PM", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Individual Topics", 
+            "href": "/2017/spring/LER/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Labor and Employment Relations", 
+            "href": "/2017/spring/LER.json", 
+            "id": "LER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 06-Mar-17 - 03-May-17.", 
+    "sectionNumber": "ICO", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Synchronous Collaborative sessions: Thursdays, 6:30-8:30 on March 9, 16, 30, April 6, 13, 20, 27 and May 4.  This is no class session during spring break on March 23.  This course is part of a self-supporting program and DOES NOT accept the following tuition and fee waivers (TFWs): Cooperation Teachers waivers, Non-Academic waivers (including UIUC employees and employees of other state institutions), Academic waivers from UIUC, UIC, and UIS employees, Related Agency waivers, Field Supervisor waivers, waivers granted through fellowships/assistantships as governed by the Graduate College at UIUC, or Retiree waivers. This program DOES accept statutory waivers (veterans grants, etc.)", 
+    "sectionTitle": "Infl, Chng & Politics in Org", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

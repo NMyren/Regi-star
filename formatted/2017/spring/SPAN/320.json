@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "May be repeated in separate terms to a maximum of 6 hours, if topics vary. Prerequisite: SPAN 228.", 
+    "creditHours": "3 hours.", 
+    "description": "Critical analysis of selected historical events, artistic production, debates, symbols and values representative of Spanish (Iberian) cultures in the modern and contemporary periods. Particular emphasis on the relationship between cultural practices and national identities, as well as on contextualized analysis of different types of cultural phenomena. May be repeated in separate terms to a maximum of 6 hours, if topics vary. Prerequisite: SPAN 228.", 
+    "href": "/2017/spring/SPAN/320.json", 
+    "id": "SPAN 320", 
+    "label": "Spanish Cultural Studies II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "D", 
+                "href": "/2017/spring/SPAN/320/49957.json", 
+                "id": "49957"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/SPAN/320/59547.json", 
+                "id": "59547"
+            }
+        ]
+    }
+}

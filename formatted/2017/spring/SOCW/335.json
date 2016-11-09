@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as UP 335. See UP 335.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as UP 335. See UP 335.", 
+    "href": "/2017/spring/SOCW/335.json", 
+    "id": "SOCW 335", 
+    "label": "Cities and Immigrants", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "SH", 
+            "href": "/2017/spring/SOCW/335/65727.json", 
+            "id": "65727"
+        }
+    }
+}

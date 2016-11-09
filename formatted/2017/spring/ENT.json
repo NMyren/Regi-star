@@ -1,0 +1,34 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "320 Morrill Hall, 505 South Goodwin, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Head of Department: May R. Berenbaum\nDepartment Office, 320 Morrill Hall, 505 South Goodwin, Urbana, 333-2910\nStudents interested in 100- to 400-level courses in the area of Entomology, including general education listings, should see the listings under http://www.life.uiuc.edu/sib/courses.htm. An Individual Plan of Study in LAS is available for students wishing to concentrate in Entomology. See http://www.las.uiuc.edu/students/programs/IPS/f_IPS.shtml. \nwww.life.illinois.edu/entomology/", 
+    "contactName": "May R. Berenbaum", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": {
+            "content": "Thesis Research", 
+            "href": "/2017/spring/ENT/599.json", 
+            "id": "599"
+        }
+    }, 
+    "departmentCode": "1361", 
+    "id": "ENT", 
+    "label": "Entomology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-2910", 
+    "subjectComment": "Students interested in 100- to 400-level courses in the area of Entomology, including general education listings, should see the listings under http://www.life.uiuc.edu/sib/courses.htm. An Individual Plan of Study in LAS is available for students wishing to concentrate in Entomology. See http://www.las.uiuc.edu/students/programs/IPS/f_IPS.shtml.", 
+    "unitName": "Entomology", 
+    "webSiteURL": "www.life.illinois.edu/entomology/"
+}

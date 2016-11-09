@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: MUS 362, or placement by exam/portfolio with consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Advanced melodic, harmonic, and rhythmic arranging techniques as applied to jazz instrumentation.  Emphasis on practice in analysis, voicing and orchestration techniques such as 4-way closed position double lead, 4-way closed-position drop-2 double lead, 4-way closed position drop-2, and 4-and 5-way closed position. Three major written projects are required. Prerequisite: MUS 362, or placement by exam/portfolio with consent of instructor.", 
+    "href": "/2017/spring/MUS/363.json", 
+    "id": "MUS 363", 
+    "label": "Jazz Arranging II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Jazz Performance major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/363/46442.json", 
+            "id": "46442"
+        }
+    }
+}

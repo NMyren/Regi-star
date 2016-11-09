@@ -1,0 +1,51 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/TE/401/65393.json", 
+    "id": "65393", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "White, S", 
+                    "firstName": "S", 
+                    "lastName": "White"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Developing Breakthrough Projects", 
+            "href": "/2017/spring/TE/401.json", 
+            "id": "401"
+        }, 
+        "subject": {
+            "content": "Technology Entrepreneurship", 
+            "href": "/2017/spring/TE.json", 
+            "id": "TE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "C", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course is a project-based exploration with teams of students working together in a large innovation and entrepreneurial context.  The purpose of the course is to encourage development of innovative leadership and entrepreneurial skill sets, including financing, marketing, sales, operations, business plans, and management.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

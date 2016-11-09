@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/SPAN/326/49961.json", 
+    "id": "49961", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foreign Languages Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "West, S", 
+                    "firstName": "S", 
+                    "lastName": "West"
+                }
+            }, 
+            "roomNumber": "G24", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Latin America Cultural Studies II", 
+            "href": "/2017/spring/SPAN/326.json", 
+            "id": "326"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "G", 
+    "sectionStatusCode": "A", 
+    "sectionText": "TOPIC TITLE: \"Narco Narratives: Histories of Drug Trafficking in Latin America\": In this course, students will consider the Latin American drug economy as a direct consequence of the neoliberal restructuring of Latin America as it exemplifies the unavoidable ramifications of free-market economics. We will examine a panorama of essays, literature, and cultural texts produced in Colombia, Mexico, and Central America that provide historical and contemporary context for the transnational drugs market and the intersections between global and local economies.  By analyzing the ?imagination? of drug trafficking?including the auspicious, the horrific, and the illogical?, students will work with new currents of critical interpretation as we try to understand the obsession and purported glorification of the ?Narco? and \"Narco Cultura? in general. Students must meet the prerequisite requirements for this course (found in the Catalog Entry) or will be told to drop on the first day of classes.  Non-registered students are not allowed to sit in or audit.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

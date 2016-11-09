@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CEE/560/50049.json", 
+    "id": "50049", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Newmark Civil Engineering Bldg", 
+            "daysOfTheWeek": "TR", 
+            "end": "09:20 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "LaFave, J", 
+                    "firstName": "J", 
+                    "lastName": "LaFave"
+                }
+            }, 
+            "roomNumber": "1311", 
+            "start": "08:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Steel Structures III", 
+            "href": "/2017/spring/CEE/560.json", 
+            "id": "560"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "LM", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

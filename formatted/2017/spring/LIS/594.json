@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated. Prerequisite: LIS students only.", 
+    "creditHours": "0 hours.", 
+    "description": "Full-time or part-time practice of library and information science in an off-campus library or information science environment. Approved for S/U grading only. May be repeated. Prerequisite: LIS students only.", 
+    "href": "/2017/spring/LIS/594.json", 
+    "id": "LIS 594", 
+    "label": "LIS Practice", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/LIS/594/61510.json", 
+            "id": "61510"
+        }
+    }
+}

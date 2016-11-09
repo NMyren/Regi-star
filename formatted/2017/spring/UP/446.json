@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as GEOG 446 and NRES 446. 4 undergraduate hours. 4 graduate hours.", 
+    "creditHours": "4 hours.", 
+    "description": "Examines sustainability issues of concern to planners, such as resource conservation, urban growth, environmental justice, industrial development, social equity, sustainable agriculture, and economic development. Presents holistic approaches ranging from theoretical concepts to detailed case studies that combine urban and regional land use, physical design, and policymaking. Same as GEOG 446 and NRES 446. 4 undergraduate hours. 4 graduate hours.", 
+    "href": "/2017/spring/UP/446.json", 
+    "id": "UP 446", 
+    "label": "Sustainable Planning Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Urban and Regional Planning", 
+            "href": "/2017/spring/UP.json", 
+            "id": "UP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "BD", 
+            "href": "/2017/spring/UP/446/49010.json", 
+            "id": "49010"
+        }
+    }
+}

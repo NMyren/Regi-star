@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "4 to 12 undergraduate hours. 4 to 12 graduate hours.Approved for both letter and S/U grading. Prerequisite: Consent of instructor. Not available to students on probation.", 
+    "creditHours": "4 TO 12 hours.", 
+    "description": "Cooperatively supervised field experience in management and administration in a textile marketing business. Only four hours may be applied to the total required for a graduate degree. At the undergraduate level, up to four hours may be counted toward the hours required in Agricultural and Consumer Economics. 4 to 12 undergraduate hours. 4 to 12 graduate hours.Approved for both letter and S/U grading. Prerequisite: Consent of instructor. Not available to students on probation.", 
+    "href": "/2017/spring/ACE/496.json", 
+    "id": "ACE 496", 
+    "label": "Practicum", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural and Consumer Economics", 
+            "href": "/2017/spring/ACE.json", 
+            "id": "ACE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ACE/496/10074.json", 
+            "id": "10074"
+        }
+    }
+}

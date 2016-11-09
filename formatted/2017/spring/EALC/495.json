@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as RLST 495. See RLST 495.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as RLST 495. See RLST 495.", 
+    "href": "/2017/spring/EALC/495.json", 
+    "id": "EALC 495", 
+    "label": "Topics in Asian Religions", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "East Asian Language and Culture", 
+            "href": "/2017/spring/EALC.json", 
+            "id": "EALC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "D3", 
+                "href": "/2017/spring/EALC/495/65595.json", 
+                "id": "65595"
+            }, 
+            {
+                "content": "D4", 
+                "href": "/2017/spring/EALC/495/65596.json", 
+                "id": "65596"
+            }
+        ]
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "112 Freer Hall, 906 South Goodwin, Urbana", 
+    "collegeCode": "KY", 
+    "collegeDepartmentDescription": "Department Head: Amelia Woods\nDepartment Office, 112 Freer Hall, 906 South Goodwin, Urbana, (217) 333-1083\nSubjects associated with this department include: Community Health (CHLH) and Rehabilitation Counseling (REHB).\nwww.kch.illinois.edu/", 
+    "contactName": "Amelia Woods", 
+    "contactTitle": "Department Head", 
+    "courses": {
+        "course": [
+            {
+                "content": "Contemporary Health", 
+                "href": "/2017/spring/CHLH/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "Introduction to Public Health", 
+                "href": "/2017/spring/CHLH/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "Orientation KIN & Comm Health", 
+                "href": "/2017/spring/CHLH/125.json", 
+                "id": "125"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/CHLH/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Mental Health", 
+                "href": "/2017/spring/CHLH/200.json", 
+                "id": "200"
+            }, 
+            {
+                "content": "Public Health Research Measurements & Methods", 
+                "href": "/2017/spring/CHLH/201.json", 
+                "id": "201"
+            }, 
+            {
+                "content": "Human Sexuality", 
+                "href": "/2017/spring/CHLH/206.json", 
+                "id": "206"
+            }, 
+            {
+                "content": "Community Health Organizations", 
+                "href": "/2017/spring/CHLH/210.json", 
+                "id": "210"
+            }, 
+            {
+                "content": "Drug Use and Abuse", 
+                "href": "/2017/spring/CHLH/243.json", 
+                "id": "243"
+            }, 
+            {
+                "content": "Health Care Systems", 
+                "href": "/2017/spring/CHLH/250.json", 
+                "id": "250"
+            }, 
+            {
+                "content": "Introduction to Medical Ethics", 
+                "href": "/2017/spring/CHLH/260.json", 
+                "id": "260"
+            }, 
+            {
+                "content": "Introduction to Epidemiology", 
+                "href": "/2017/spring/CHLH/274.json", 
+                "id": "274"
+            }, 
+            {
+                "content": "Foundations of Health Behavior", 
+                "href": "/2017/spring/CHLH/304.json", 
+                "id": "304"
+            }, 
+            {
+                "content": "Disability in American Society", 
+                "href": "/2017/spring/CHLH/330.json", 
+                "id": "330"
+            }, 
+            {
+                "content": "Tomorrow's Environment", 
+                "href": "/2017/spring/CHLH/336.json", 
+                "id": "336"
+            }, 
+            {
+                "content": "Health Promotion Practicum", 
+                "href": "/2017/spring/CHLH/340.json", 
+                "id": "340"
+            }, 
+            {
+                "content": "Civic Engagement in Wellness", 
+                "href": "/2017/spring/CHLH/365.json", 
+                "id": "365"
+            }, 
+            {
+                "content": "Orientation to Internship", 
+                "href": "/2017/spring/CHLH/380.json", 
+                "id": "380"
+            }, 
+            {
+                "content": "Special Projects", 
+                "href": "/2017/spring/CHLH/393.json", 
+                "id": "393"
+            }, 
+            {
+                "content": "Disability, Culture & Society", 
+                "href": "/2017/spring/CHLH/407.json", 
+                "id": "407"
+            }, 
+            {
+                "content": "Women's Health", 
+                "href": "/2017/spring/CHLH/409.json", 
+                "id": "409"
+            }, 
+            {
+                "content": "Public Health Practice", 
+                "href": "/2017/spring/CHLH/410.json", 
+                "id": "410"
+            }, 
+            {
+                "content": "International Health", 
+                "href": "/2017/spring/CHLH/415.json", 
+                "id": "415"
+            }, 
+            {
+                "content": "Health Data Analysis", 
+                "href": "/2017/spring/CHLH/421.json", 
+                "id": "421"
+            }, 
+            {
+                "content": "Health Applications of GIS", 
+                "href": "/2017/spring/CHLH/439.json", 
+                "id": "439"
+            }, 
+            {
+                "content": "LGBT Indiv, Fam & Community", 
+                "href": "/2017/spring/CHLH/444.json", 
+                "id": "444"
+            }, 
+            {
+                "content": "Health Services Financing", 
+                "href": "/2017/spring/CHLH/455.json", 
+                "id": "455"
+            }, 
+            {
+                "content": "Health Planning", 
+                "href": "/2017/spring/CHLH/457.json", 
+                "id": "457"
+            }, 
+            {
+                "content": "Health Administration", 
+                "href": "/2017/spring/CHLH/458.json", 
+                "id": "458"
+            }, 
+            {
+                "content": "Environ Toxicology & Health", 
+                "href": "/2017/spring/CHLH/461.json", 
+                "id": "461"
+            }, 
+            {
+                "content": "Environmental Health", 
+                "href": "/2017/spring/CHLH/469.json", 
+                "id": "469"
+            }, 
+            {
+                "content": "Immigration, Health & Society", 
+                "href": "/2017/spring/CHLH/473.json", 
+                "id": "473"
+            }, 
+            {
+                "content": "Community Health Internship", 
+                "href": "/2017/spring/CHLH/485.json", 
+                "id": "485"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/CHLH/494.json", 
+                "id": "494"
+            }, 
+            {
+                "content": "Cancer Epidemiology", 
+                "href": "/2017/spring/CHLH/502.json", 
+                "id": "502"
+            }, 
+            {
+                "content": "Health Behavior: Theory", 
+                "href": "/2017/spring/CHLH/540.json", 
+                "id": "540"
+            }, 
+            {
+                "content": "Health Policy: United States", 
+                "href": "/2017/spring/CHLH/550.json", 
+                "id": "550"
+            }, 
+            {
+                "content": "Principles of Epidemiology", 
+                "href": "/2017/spring/CHLH/572.json", 
+                "id": "572"
+            }, 
+            {
+                "content": "Health Program Evaluation", 
+                "href": "/2017/spring/CHLH/577.json", 
+                "id": "577"
+            }, 
+            {
+                "content": "Public Health Capstone Expnce", 
+                "href": "/2017/spring/CHLH/589.json", 
+                "id": "589"
+            }, 
+            {
+                "content": "Seminar", 
+                "href": "/2017/spring/CHLH/591.json", 
+                "id": "591"
+            }, 
+            {
+                "content": "Special Projects", 
+                "href": "/2017/spring/CHLH/593.json", 
+                "id": "593"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/CHLH/594.json", 
+                "id": "594"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/CHLH/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1581", 
+    "id": "CHLH", 
+    "label": "Community Health", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "(217) 333-1083", 
+    "subjectComment": "Subjects associated with this department include: Community Health (CHLH) and Rehabilitation Counseling (REHB).", 
+    "unitName": "Kinesiology & Community Health", 
+    "webSiteURL": "www.kch.illinois.edu/"
+}

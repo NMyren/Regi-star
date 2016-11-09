@@ -1,0 +1,59 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/BADM/590/46201.json", 
+    "id": "46201", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Business Instructional Fac", 
+            "daysOfTheWeek": "W", 
+            "end": "06:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Leblebici, H", 
+                    "firstName": "H", 
+                    "lastName": "Leblebici"
+                }
+            }, 
+            "roomNumber": "2005", 
+            "start": "03:30 PM", 
+            "type": {
+                "code": "S14", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Seminar in Business Admin", 
+            "href": "/2017/spring/BADM/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sectionNotes": "Restricted to MAS:Accountancy -UIUC, MS: Accy - Cost Rec -UIUC, MS: Finance Cost Rec -UIUC, MS:Business Administrtn -UIUC, MBA: (PT) Business Adm -- UIUC, MS: Technology Management-UIUC, or MBA:Bus Administration -UIUC.", 
+    "sectionNumber": "PS", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Professional service firms are a critical part of the global economy.  How these firms address the economic, social and technical challenges and provide solutions to their clients' needs play an increasingly important role in today's world.  The objective of the course is to understand how these firms are organized, how they manage their human capital, and fulfill their clients' expectations. We will first develop an understanding of what makes professional service firms successful and how they develop and sustain their competitive advantage. Second, we will focus on their unique human capital processes that are critical in executing their strategies by paying special attention to the ways these firms develop professional talents and motivate them to deliver superior client service. Third, we will have the opportunity to bring some of our graduates from these firms to explore how they have leveraged their skills and competencies to develop their careers and to learn from their experiences.", 
+    "sectionTitle": "Managing Prof Service Firms", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

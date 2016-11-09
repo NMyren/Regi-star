@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. 2 graduate hours. May be repeated to a maximum of 4 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "Development of practical keyboard skills related primarily to the work of the church organist: transposition, score-reading, harmonization, modulation, hymn-playing, and solo and anthem accompaniment. 2 undergraduate hours. 2 graduate hours. May be repeated to a maximum of 4 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/MUS/453.json", 
+    "id": "MUS 453", 
+    "label": "Special Topics in Organ", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/453/46455.json", 
+            "id": "46455"
+        }
+    }
+}

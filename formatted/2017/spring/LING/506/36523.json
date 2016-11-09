@@ -1,0 +1,74 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/LING/506/36523.json", 
+    "id": "36523", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Foreign Languages Building", 
+                "daysOfTheWeek": "R", 
+                "end": "04:50 PM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Schwartz, L", 
+                        "firstName": "L", 
+                        "lastName": "Schwartz"
+                    }
+                }, 
+                "roomNumber": "G30", 
+                "start": "03:30 PM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }, 
+            {
+                "daysOfTheWeek": "T", 
+                "end": "04:50 PM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Schwartz, L", 
+                        "firstName": "L", 
+                        "lastName": "Schwartz"
+                    }
+                }, 
+                "start": "03:30 PM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics in Computational Ling", 
+            "href": "/2017/spring/LING/506.json", 
+            "id": "506"
+        }, 
+        "subject": {
+            "content": "Linguistics", 
+            "href": "/2017/spring/LING.json", 
+            "id": "LING"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "E", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic:  Topics in Computational Linguistics.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

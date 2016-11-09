@@ -1,0 +1,113 @@
+{
+    "classScheduleInformation": "Students must register for one quiz and one lecture section. Engineering students must obtain a dean's approval to drop this course after the second week of instruction.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Prerequisite: CHEM 202 and/or CHEM 203 and concurrent registration in CHEM 205, or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Continuation of CHEM 202. Lectures and discussions. Emphasizes chemical thermodynamics, equilibrium, chemical kinetics, and coordination chemistry. Additional fees may apply. See Class Schedule. Prerequisite: CHEM 202 and/or CHEM 203 and concurrent registration in CHEM 205, or consent of instructor.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Natural Sciences & Technology", 
+            "id": "NAT", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1PS", 
+                    "content": "UIUC: Physical Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CHEM/204.json", 
+    "id": "CHEM 204", 
+    "label": "Accelerated Chemistry II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Physical Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CHEM/204/32457.json", 
+                "id": "32457"
+            }, 
+            {
+                "content": "AQA", 
+                "href": "/2017/spring/CHEM/204/32447.json", 
+                "id": "32447"
+            }, 
+            {
+                "content": "AQB", 
+                "href": "/2017/spring/CHEM/204/32448.json", 
+                "id": "32448"
+            }, 
+            {
+                "content": "AQC", 
+                "href": "/2017/spring/CHEM/204/32449.json", 
+                "id": "32449"
+            }, 
+            {
+                "content": "AQD", 
+                "href": "/2017/spring/CHEM/204/32450.json", 
+                "id": "32450"
+            }, 
+            {
+                "content": "AQE", 
+                "href": "/2017/spring/CHEM/204/32451.json", 
+                "id": "32451"
+            }, 
+            {
+                "content": "AQF", 
+                "href": "/2017/spring/CHEM/204/32452.json", 
+                "id": "32452"
+            }, 
+            {
+                "content": "AQG", 
+                "href": "/2017/spring/CHEM/204/32453.json", 
+                "id": "32453"
+            }, 
+            {
+                "content": "AQH", 
+                "href": "/2017/spring/CHEM/204/32454.json", 
+                "id": "32454"
+            }, 
+            {
+                "content": "AQI", 
+                "href": "/2017/spring/CHEM/204/32455.json", 
+                "id": "32455"
+            }, 
+            {
+                "content": "AQK", 
+                "href": "/2017/spring/CHEM/204/39112.json", 
+                "id": "39112"
+            }, 
+            {
+                "content": "AQL", 
+                "href": "/2017/spring/CHEM/204/39113.json", 
+                "id": "39113"
+            }, 
+            {
+                "content": "AQM", 
+                "href": "/2017/spring/CHEM/204/46635.json", 
+                "id": "46635"
+            }, 
+            {
+                "content": "AQP", 
+                "href": "/2017/spring/CHEM/204/62532.json", 
+                "id": "62532"
+            }
+        ]
+    }
+}

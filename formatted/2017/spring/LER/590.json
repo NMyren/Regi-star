@@ -1,0 +1,78 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading.", 
+    "creditHours": "0 TO 8 hours.", 
+    "description": "Students in labor and industrial relations may register for this unit with the consent of the curriculum adviser and the adviser under whom the student will perform individual study or research. Such individual work may include special study in a subject matter for which no course is available or an individual research project, including on-the-job research in industry, which is not being undertaken for a thesis. Approved for letter and S/U grading.", 
+    "href": "/2017/spring/LER/590.json", 
+    "id": "LER 590", 
+    "label": "Individual Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Labor and Employment Relations", 
+            "href": "/2017/spring/LER.json", 
+            "id": "LER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/LER/590/53819.json", 
+                "id": "53819"
+            }, 
+            {
+                "content": "CER", 
+                "href": "/2017/spring/LER/590/65580.json", 
+                "id": "65580"
+            }, 
+            {
+                "content": "CSR", 
+                "href": "/2017/spring/LER/590/65508.json", 
+                "id": "65508"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/LER/590/53179.json", 
+                "id": "53179"
+            }, 
+            {
+                "content": "EC", 
+                "href": "/2017/spring/LER/590/55482.json", 
+                "id": "55482"
+            }, 
+            {
+                "content": "EW", 
+                "href": "/2017/spring/LER/590/63831.json", 
+                "id": "63831"
+            }, 
+            {
+                "content": "GI", 
+                "href": "/2017/spring/LER/590/65509.json", 
+                "id": "65509"
+            }, 
+            {
+                "content": "HDA", 
+                "href": "/2017/spring/LER/590/62315.json", 
+                "id": "62315"
+            }, 
+            {
+                "content": "ICO", 
+                "href": "/2017/spring/LER/590/65572.json", 
+                "id": "65572"
+            }, 
+            {
+                "content": "WFO", 
+                "href": "/2017/spring/LER/590/58984.json", 
+                "id": "58984"
+            }
+        ]
+    }
+}

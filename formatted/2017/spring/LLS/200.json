@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as AAS 200. See AAS 200.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as AAS 200. See AAS 200.", 
+    "href": "/2017/spring/LLS/200.json", 
+    "id": "LLS 200", 
+    "label": "U.S. Race and Empire", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latina/Latino Studies", 
+            "href": "/2017/spring/LLS.json", 
+            "id": "LLS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/LLS/200/64938.json", 
+            "id": "64938"
+        }
+    }
+}

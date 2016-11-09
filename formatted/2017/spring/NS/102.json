@@ -1,0 +1,31 @@
+{
+    "creditHours": "2 hours.", 
+    "description": "Investigates the characteristics of sea power and their impact on the affairs of our nation; discusses those characteristics with historical and modern applications to the United States and other world powers.", 
+    "href": "/2017/spring/NS/102.json", 
+    "id": "NS 102", 
+    "label": "Sea Power and Maritime Affairs", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Naval Science", 
+            "href": "/2017/spring/NS.json", 
+            "id": "NS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/NS/102/34584.json", 
+            "id": "34584"
+        }
+    }
+}

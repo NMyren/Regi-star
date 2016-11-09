@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. May be repeated to a maximum of 6 undergraduate hours. Prerequisite: Open to New Media majors or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Students will explore current issues in New Media with the goal of understanding their own artwork in a disciplinary context. Through reading, writing, research and discussions, students will be exposed to significant work in their field. 3 undergraduate hours. No graduate credit. May be repeated to a maximum of 6 undergraduate hours. Prerequisite: Open to New Media majors or consent of instructor.", 
+    "href": "/2017/spring/ARTS/449.json", 
+    "id": "ARTS 449", 
+    "label": "Advanced Seminar in New Media", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Studio", 
+            "href": "/2017/spring/ARTS.json", 
+            "id": "ARTS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to New Media major(s).", 
+    "sections": {
+        "section": {
+            "content": "NM1", 
+            "href": "/2017/spring/ARTS/449/54721.json", 
+            "id": "54721"
+        }
+    }
+}

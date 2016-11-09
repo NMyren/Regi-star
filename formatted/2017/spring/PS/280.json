@@ -1,0 +1,82 @@
+{
+    "courseSectionInformation": "Credit is not given for both PS 280 and PS 281.", 
+    "creditHours": "3 hours.", 
+    "description": "Structure and processes of international relations, trends in international politics, and the future of the international system. Credit is not given for both PS 280 and PS 281.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/PS/280.json", 
+    "id": "PS 280", 
+    "label": "Intro to Intl Relations", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/PS/280/57002.json", 
+                "id": "57002"
+            }, 
+            {
+                "content": "TD1", 
+                "href": "/2017/spring/PS/280/39195.json", 
+                "id": "39195"
+            }, 
+            {
+                "content": "TD2", 
+                "href": "/2017/spring/PS/280/39196.json", 
+                "id": "39196"
+            }, 
+            {
+                "content": "TD3", 
+                "href": "/2017/spring/PS/280/39197.json", 
+                "id": "39197"
+            }, 
+            {
+                "content": "TD5", 
+                "href": "/2017/spring/PS/280/39199.json", 
+                "id": "39199"
+            }, 
+            {
+                "content": "TD6", 
+                "href": "/2017/spring/PS/280/39200.json", 
+                "id": "39200"
+            }, 
+            {
+                "content": "TD7", 
+                "href": "/2017/spring/PS/280/58010.json", 
+                "id": "58010"
+            }, 
+            {
+                "content": "TL1", 
+                "href": "/2017/spring/PS/280/39194.json", 
+                "id": "39194"
+            }
+        ]
+    }
+}

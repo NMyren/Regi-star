@@ -1,0 +1,48 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/MATH/446/38027.json", 
+    "id": "38027", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MWF", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {}, 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Applied Complex Variables", 
+            "href": "/2017/spring/MATH/446.json", 
+            "id": "446"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "C13", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Open to both undergraduate and graduate students.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

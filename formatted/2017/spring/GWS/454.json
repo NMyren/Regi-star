@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as SOCW 455. See SOCW 455.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as SOCW 455. See SOCW 455.", 
+    "href": "/2017/spring/GWS/454.json", 
+    "id": "GWS 454", 
+    "label": "Social Work with Women", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Gender and Women's Studies", 
+            "href": "/2017/spring/GWS.json", 
+            "id": "GWS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for students with Freshman or Sophomore class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GWS/454/63567.json", 
+            "id": "63567"
+        }
+    }
+}

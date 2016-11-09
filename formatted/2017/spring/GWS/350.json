@@ -1,0 +1,32 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Interdisciplinary survey of feminist and gender theory. Traces developments in feminist theory and LGBT/Q approaches and explores contemporary debates.", 
+    "href": "/2017/spring/GWS/350.json", 
+    "id": "GWS 350", 
+    "label": "Feminist & Gender Theory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Gender and Women's Studies", 
+            "href": "/2017/spring/GWS.json", 
+            "id": "GWS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Gender and Women's Studies or Interdis - Gender & Women's St or LGBT/Q Studies major(s) or minor(s).", 
+    "sections": {
+        "section": {
+            "content": "MK", 
+            "href": "/2017/spring/GWS/350/50084.json", 
+            "id": "50084"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Prerequisite: SOCW 427 or equivalent.", 
+    "creditHours": "4 hours.", 
+    "description": "Develops skills for assessing effectiveness of social work interventions using research methods. The course assumes students have had prior courses in research methods and statistical analysis. Building on these courses, this course will focus on the use of research methods in examining important aspects of social work interventions. Students will also develop skills necessary to evaluate social work research practice and practice evidence, as well as skills in grant writing and data analysis. Prerequisite: SOCW 427 or equivalent.", 
+    "href": "/2017/spring/SOCW/541.json", 
+    "id": "SOCW 541", 
+    "label": "Clinical Research Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign. Restricted to MSW:Social Work -UIUC.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/SOCW/541/32864.json", 
+                "id": "32864"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/SOCW/541/32865.json", 
+                "id": "32865"
+            }
+        ]
+    }
+}

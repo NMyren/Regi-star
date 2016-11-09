@@ -1,0 +1,31 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "Provides foundations for quantitative and qualitative research methodologies and design principles for investigating problems in social and behavioral sciences. Focuses on language of research, purposes, validity threats, data collection methods, and critical evaluation of current literature.", 
+    "href": "/2017/spring/AGED/545.json", 
+    "id": "AGED 545", 
+    "label": "Research Methods & Design", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural Education", 
+            "href": "/2017/spring/AGED.json", 
+            "id": "AGED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/AGED/545/57406.json", 
+            "id": "57406"
+        }
+    }
+}

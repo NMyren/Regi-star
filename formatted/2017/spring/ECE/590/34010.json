@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ECE/590/34010.json", 
+    "id": "34010", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "T", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "O'Brien, W", 
+                    "firstName": "W", 
+                    "lastName": "O'Brien"
+                }
+            }, 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Grad Sem in Special Topics", 
+            "href": "/2017/spring/ECE/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "D", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic: Bioacoustics.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

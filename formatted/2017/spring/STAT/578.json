@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated if topics vary. Prerequisite: Consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "May be repeated if topics vary. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/STAT/578.json", 
+    "id": "STAT 578", 
+    "label": "Topics in Statistics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Statistics", 
+            "href": "/2017/spring/STAT.json", 
+            "id": "STAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign. Restricted to MS:Statistics -UIUC, PHD:Statistics -UIUC, MS:Statistics -- Applied -UIUC, or MS: Statistics: Analytics.", 
+    "sections": {
+        "section": {
+            "content": "A1", 
+            "href": "/2017/spring/STAT/578/36204.json", 
+            "id": "36204"
+        }
+    }
+}

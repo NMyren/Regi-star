@@ -1,0 +1,40 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "351 Education Building, 1310 South Sixth, Champaign", 
+    "collegeCode": "KN", 
+    "collegeDepartmentDescription": "Department Head of Education Policy, Organization and Leadership: Dr. James Anderson\nDepartment Office, 351 Education Building, 1310 South Sixth, Champaign, 217-333-0807\nwww.education.illinois.edu/hre/index.html", 
+    "contactName": "Dr. James Anderson", 
+    "contactTitle": "Department Head of Education Policy, Organization and Leadership", 
+    "courses": {
+        "course": [
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/HRE/595.json", 
+                "id": "595"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/HRE/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1760", 
+    "id": "HRE", 
+    "label": "Human Resource Education", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-0807", 
+    "unitName": "Human Resource Education", 
+    "webSiteURL": "www.education.illinois.edu/hre/index.html"
+}

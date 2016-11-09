@@ -1,0 +1,120 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section.", 
+    "courseSectionInformation": "Credit is not given for both ACCY 202 and ACCY 200. Prerequisite: ACCY 201 or equivalent.", 
+    "creditHours": "3 hours.", 
+    "description": "Continuation of ACCY 201 with focus on strategic management of economic resources, together with acquisition of such resources, and financial and non-financial measures of organizational performance. Credit is not given for both ACCY 202 and ACCY 200. Prerequisite: ACCY 201 or equivalent.", 
+    "href": "/2017/spring/ACCY/202.json", 
+    "id": "ACCY 202", 
+    "label": "Accounting and Accountancy II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Accountancy", 
+            "href": "/2017/spring/ACCY.json", 
+            "id": "ACCY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/ACCY/202/30147.json", 
+                "id": "30147"
+            }, 
+            {
+                "content": "ADA", 
+                "href": "/2017/spring/ACCY/202/30121.json", 
+                "id": "30121"
+            }, 
+            {
+                "content": "ADC", 
+                "href": "/2017/spring/ACCY/202/30123.json", 
+                "id": "30123"
+            }, 
+            {
+                "content": "ADG", 
+                "href": "/2017/spring/ACCY/202/30140.json", 
+                "id": "30140"
+            }, 
+            {
+                "content": "ADH", 
+                "href": "/2017/spring/ACCY/202/30143.json", 
+                "id": "30143"
+            }, 
+            {
+                "content": "ADJ", 
+                "href": "/2017/spring/ACCY/202/30151.json", 
+                "id": "30151"
+            }, 
+            {
+                "content": "ADK", 
+                "href": "/2017/spring/ACCY/202/30155.json", 
+                "id": "30155"
+            }, 
+            {
+                "content": "ADL", 
+                "href": "/2017/spring/ACCY/202/30159.json", 
+                "id": "30159"
+            }, 
+            {
+                "content": "ADM", 
+                "href": "/2017/spring/ACCY/202/30161.json", 
+                "id": "30161"
+            }, 
+            {
+                "content": "ADN", 
+                "href": "/2017/spring/ACCY/202/30164.json", 
+                "id": "30164"
+            }, 
+            {
+                "content": "ADO", 
+                "href": "/2017/spring/ACCY/202/30168.json", 
+                "id": "30168"
+            }, 
+            {
+                "content": "ADP", 
+                "href": "/2017/spring/ACCY/202/30171.json", 
+                "id": "30171"
+            }, 
+            {
+                "content": "ADQ", 
+                "href": "/2017/spring/ACCY/202/30176.json", 
+                "id": "30176"
+            }, 
+            {
+                "content": "ADR", 
+                "href": "/2017/spring/ACCY/202/30179.json", 
+                "id": "30179"
+            }, 
+            {
+                "content": "ADS", 
+                "href": "/2017/spring/ACCY/202/30182.json", 
+                "id": "30182"
+            }, 
+            {
+                "content": "ADT", 
+                "href": "/2017/spring/ACCY/202/30186.json", 
+                "id": "30186"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ACCY/202/30119.json", 
+                "id": "30119"
+            }, 
+            {
+                "content": "AL2", 
+                "href": "/2017/spring/ACCY/202/30120.json", 
+                "id": "30120"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: One year of general chemistry (CHEM 102-105 or CHEM 202-205) and one semester of organic chemistry (CHEM 232 or CHEM 236). The organic chemistry class may be taken concurrently with CHEM 360.", 
+    "creditHours": "3 hours.", 
+    "description": "Study of the chemistry of the atmosphere, the chemistry of soil and minerals in the Earth's crust, chemistry of natural waters, agricultural chemicals and organic pollutants, and topics related to energy use. Prerequisite: One year of general chemistry (CHEM 102-105 or CHEM 202-205) and one semester of organic chemistry (CHEM 232 or CHEM 236). The organic chemistry class may be taken concurrently with CHEM 360.", 
+    "href": "/2017/spring/CHEM/360.json", 
+    "id": "CHEM 360", 
+    "label": "Chemistry of the Environment", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Chemistry major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHEM/360/59243.json", 
+            "id": "59243"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional credit.", 
+    "creditHours": "4 hours.", 
+    "description": "This course is designed to address issues of language and literacy, not only for language arts teachers, but all educators in all disciplines and at all levels, where students are required to represent their knowledge in writing as well as other media. It will introduce the 'Multiliteracies' theory of literacy learning which recognizes that the contemporary communications environment is increasingly multimodal. Written language today is more closely connected with oral, visual, gestural, tactile and spatial modes. To remain relevant, effective pedagogy needs to connect with the new communications media, and to explore their underlying processes. The course will focus on current trends in literacy instruction, not only in language arts or composition classes, but academic literacies across all curriculum areas. The course will also investigate the implications of new media of language and literacy and explore the implications of developments in the contemporary media, particularly the new, digital media. 4 graduate hours. No professional credit.", 
+    "href": "/2017/spring/EPS/554.json", 
+    "id": "EPS 554", 
+    "label": "New Media and Literacies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Policy Studies", 
+            "href": "/2017/spring/EPS.json", 
+            "id": "EPS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/EPS/554/65681.json", 
+                "id": "65681"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/EPS/554/65680.json", 
+                "id": "65680"
+            }
+        ]
+    }
+}

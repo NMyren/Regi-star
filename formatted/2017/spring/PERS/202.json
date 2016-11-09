@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: PERS 201 or equivalent.", 
+    "creditHours": "5 hours.", 
+    "description": "Continuation of PERS 201, with introduction of more advanced grammar and with emphasis on more fluency in speaking and reading. Prerequisite: PERS 201 or equivalent.", 
+    "href": "/2017/spring/PERS/202.json", 
+    "id": "PERS 202", 
+    "label": "Elementary Persian II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Persian", 
+            "href": "/2017/spring/PERS.json", 
+            "id": "PERS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "AE1", 
+            "href": "/2017/spring/PERS/202/49063.json", 
+            "id": "49063"
+        }
+    }
+}

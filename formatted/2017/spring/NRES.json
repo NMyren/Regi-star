@@ -1,0 +1,205 @@
+{
+    "addressLine1": "Department Address", 
+    "addressLine2": "W-503 Turner Hall, 1102 South Goodwin Avenue, Urbana", 
+    "collegeCode": "KL", 
+    "collegeDepartmentDescription": "Head of Department: Jeffrey Brawn\nDepartment Address, W-503 Turner Hall, 1102 South Goodwin Avenue, Urbana, 333-2770\nwww.nres.uiuc.edu", 
+    "contactName": "Jeffrey Brawn", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Wildlife Conserv 21st Century", 
+                "href": "/2017/spring/NRES/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "Introduction to NRES", 
+                "href": "/2017/spring/NRES/102.json", 
+                "id": "102"
+            }, 
+            {
+                "content": "Env Sc & Nat Resource Careers", 
+                "href": "/2017/spring/NRES/108.json", 
+                "id": "108"
+            }, 
+            {
+                "content": "Introductory Soils", 
+                "href": "/2017/spring/NRES/201.json", 
+                "id": "201"
+            }, 
+            {
+                "content": "Communicating Agriculture", 
+                "href": "/2017/spring/NRES/220.json", 
+                "id": "220"
+            }, 
+            {
+                "content": "Watching the Environment", 
+                "href": "/2017/spring/NRES/223.json", 
+                "id": "223"
+            }, 
+            {
+                "content": "Nature and American Culture", 
+                "href": "/2017/spring/NRES/242.json", 
+                "id": "242"
+            }, 
+            {
+                "content": "Field Experience", 
+                "href": "/2017/spring/NRES/285.json", 
+                "id": "285"
+            }, 
+            {
+                "content": "Environment and Society", 
+                "href": "/2017/spring/NRES/287.json", 
+                "id": "287"
+            }, 
+            {
+                "content": "Professional Internship", 
+                "href": "/2017/spring/NRES/293.json", 
+                "id": "293"
+            }, 
+            {
+                "content": "Resident Internship", 
+                "href": "/2017/spring/NRES/294.json", 
+                "id": "294"
+            }, 
+            {
+                "content": "Undergrad Research or Thesis", 
+                "href": "/2017/spring/NRES/295.json", 
+                "id": "295"
+            }, 
+            {
+                "content": "Natural Resource Economics", 
+                "href": "/2017/spring/NRES/310.json", 
+                "id": "310"
+            }, 
+            {
+                "content": "Environmental Communications", 
+                "href": "/2017/spring/NRES/330.json", 
+                "id": "330"
+            }, 
+            {
+                "content": "Plant Genetics", 
+                "href": "/2017/spring/NRES/352.json", 
+                "id": "352"
+            }, 
+            {
+                "content": "UG Honors Research or Thesis", 
+                "href": "/2017/spring/NRES/396.json", 
+                "id": "396"
+            }, 
+            {
+                "content": "Wildlife Population Ecology", 
+                "href": "/2017/spring/NRES/407.json", 
+                "id": "407"
+            }, 
+            {
+                "content": "Restoration Ecology", 
+                "href": "/2017/spring/NRES/420.json", 
+                "id": "420"
+            }, 
+            {
+                "content": "Quantitative Methods in NRES", 
+                "href": "/2017/spring/NRES/421.json", 
+                "id": "421"
+            }, 
+            {
+                "content": "Politics of International Conservation and Development", 
+                "href": "/2017/spring/NRES/423.json", 
+                "id": "423"
+            }, 
+            {
+                "content": "Modeling Natural Resources", 
+                "href": "/2017/spring/NRES/427.json", 
+                "id": "427"
+            }, 
+            {
+                "content": "Applied Statistical Methods I", 
+                "href": "/2017/spring/NRES/440.json", 
+                "id": "440"
+            }, 
+            {
+                "content": "Sustainable Planning Seminar", 
+                "href": "/2017/spring/NRES/446.json", 
+                "id": "446"
+            }, 
+            {
+                "content": "Community Ecology", 
+                "href": "/2017/spring/NRES/452.json", 
+                "id": "452"
+            }, 
+            {
+                "content": "Adv GIS for Nat Res Planning", 
+                "href": "/2017/spring/NRES/455.json", 
+                "id": "455"
+            }, 
+            {
+                "content": "Integrative Ecosystem Mgmt", 
+                "href": "/2017/spring/NRES/456.json", 
+                "id": "456"
+            }, 
+            {
+                "content": "Soil and Water Conservation", 
+                "href": "/2017/spring/NRES/474.json", 
+                "id": "474"
+            }, 
+            {
+                "content": "Soil Fertility and Fertilizers", 
+                "href": "/2017/spring/NRES/488.json", 
+                "id": "488"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/NRES/499.json", 
+                "id": "499"
+            }, 
+            {
+                "content": "Graduate Seminar", 
+                "href": "/2017/spring/NRES/500.json", 
+                "id": "500"
+            }, 
+            {
+                "content": "Special Problems", 
+                "href": "/2017/spring/NRES/501.json", 
+                "id": "501"
+            }, 
+            {
+                "content": "Discussions in NRES", 
+                "href": "/2017/spring/NRES/512.json", 
+                "id": "512"
+            }, 
+            {
+                "content": "NRES Professional Orientation", 
+                "href": "/2017/spring/NRES/594.json", 
+                "id": "594"
+            }, 
+            {
+                "content": "Experimental Graduate Courses", 
+                "href": "/2017/spring/NRES/598.json", 
+                "id": "598"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/NRES/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1875", 
+    "id": "NRES", 
+    "label": "Natural Resources and Environmental Sciences", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-2770", 
+    "unitName": "Natural Resources and Environmental Sciences", 
+    "webSiteURL": "www.nres.uiuc.edu"
+}

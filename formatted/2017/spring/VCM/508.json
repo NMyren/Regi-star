@@ -1,0 +1,32 @@
+{
+    "classScheduleInformation": "Graduate students only. Course will be geared towards students who have completed a professional medical degree (DVM, VMD, MD, or other equivalent.)", 
+    "creditHours": "3 hours.", 
+    "description": "Translation Molecular Pathogenesis of Veterinary Disease (Trans Mol Path Veterinary Dz) equips graduate students with knowledge and skills needed to understand molecular pathologic processes and determine how they translate to clinical manifestations of disease. The pathologic processes to be covered including those involved in cellular response to stress, inflammation, tissue repair, circulation and hemodynamics, immunity, cancer, and infectious disease. Translational associations that link pathologic mechanisms with disease manifestations commonly encountered in companion animal veterinary practice will be emphasized and will promote comprehensive bench-to-bedside learning.", 
+    "href": "/2017/spring/VCM/508.json", 
+    "id": "VCM 508", 
+    "label": "Trans Mol Path Veterinary Dz", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Veterinary Clinical Medicine", 
+            "href": "/2017/spring/VCM.json", 
+            "id": "VCM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/VCM/508/61090.json", 
+            "id": "61090"
+        }
+    }
+}

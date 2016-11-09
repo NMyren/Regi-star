@@ -1,0 +1,55 @@
+{
+    "courseSectionInformation": "Credit is not given for both ECE 343 and PHYS 404. Prerequisite: Credit or concurrent registration in ECE 342.", 
+    "creditHours": "1 hours.", 
+    "description": "Companion laboratory for ECE 342. Credit is not given for both ECE 343 and PHYS 404. Prerequisite: Credit or concurrent registration in ECE 342.", 
+    "href": "/2017/spring/ECE/343.json", 
+    "id": "ECE 343", 
+    "label": "Electronic Circuits Laboratory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "N", 
+                "href": "/2017/spring/ECE/343/56920.json", 
+                "id": "56920"
+            }, 
+            {
+                "content": "O", 
+                "href": "/2017/spring/ECE/343/56921.json", 
+                "id": "56921"
+            }, 
+            {
+                "content": "Q", 
+                "href": "/2017/spring/ECE/343/56923.json", 
+                "id": "56923"
+            }, 
+            {
+                "content": "R", 
+                "href": "/2017/spring/ECE/343/59422.json", 
+                "id": "59422"
+            }, 
+            {
+                "content": "S", 
+                "href": "/2017/spring/ECE/343/60160.json", 
+                "id": "60160"
+            }
+        ]
+    }
+}

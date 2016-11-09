@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/IE/330/34260.json", 
+    "id": "34260", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Noyes Laboratory", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "King, D", 
+                    "firstName": "D", 
+                    "lastName": "King"
+                }
+            }, 
+            "roomNumber": "165", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Industrial Quality Control", 
+            "href": "/2017/spring/IE/330.json", 
+            "id": "330"
+        }, 
+        "subject": {
+            "content": "Industrial Engineering", 
+            "href": "/2017/spring/IE.json", 
+            "id": "IE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "D", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Industrial Engineering students must obtain Chief Advisor approval (104 Trans Bldg) to drop after the second week of instruction.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

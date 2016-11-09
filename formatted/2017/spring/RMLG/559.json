@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as FR 559, ITAL 559, LING 559, PORT 559, and SPAN 557. See SPAN 557.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as FR 559, ITAL 559, LING 559, PORT 559, and SPAN 557. See SPAN 557.", 
+    "href": "/2017/spring/RMLG/559.json", 
+    "id": "RMLG 559", 
+    "label": "Sem Romance Ling", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Romance Linguistics", 
+            "href": "/2017/spring/RMLG.json", 
+            "id": "RMLG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/RMLG/559/63294.json", 
+            "id": "63294"
+        }
+    }
+}

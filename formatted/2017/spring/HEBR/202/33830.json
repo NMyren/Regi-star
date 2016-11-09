@@ -1,0 +1,73 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/HEBR/202/33830.json", 
+    "id": "33830", 
+    "meetings": {
+        "meeting": [
+            {
+                "daysOfTheWeek": "TR", 
+                "end": "10:50 AM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Feldman, S", 
+                        "firstName": "S", 
+                        "lastName": "Feldman"
+                    }
+                }, 
+                "start": "10:00 AM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }, 
+            {
+                "buildingName": "Foreign Languages Building", 
+                "daysOfTheWeek": "MW", 
+                "end": "10:50 AM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Feldman, S", 
+                        "firstName": "S", 
+                        "lastName": "Feldman"
+                    }
+                }, 
+                "roomNumber": "1018", 
+                "start": "10:00 AM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Elementary Modern Hebrew II", 
+            "href": "/2017/spring/HEBR/202.json", 
+            "id": "202"
+        }, 
+        "subject": {
+            "content": "Hebrew, Modern and Classical", 
+            "href": "/2017/spring/HEBR.json", 
+            "id": "HEBR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "X", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

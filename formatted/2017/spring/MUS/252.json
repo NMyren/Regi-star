@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated in the same or subsequent terms. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 hours.", 
+    "description": "Instruction and experience in the performance of various non-Western and vernacular music traditions such as African mbira, Andean panpipes, North American string band, European traditional music, etc. Topics vary according to available instructors. May be repeated in the same or subsequent terms. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/MUS/252.json", 
+    "id": "MUS 252", 
+    "label": "Ethnomusicology Perf Ensembles", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "S5", 
+            "href": "/2017/spring/MUS/252/46661.json", 
+            "id": "46661"
+        }
+    }
+}

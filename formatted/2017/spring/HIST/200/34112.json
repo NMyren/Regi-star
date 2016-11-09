@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/HIST/200/34112.json", 
+    "id": "34112", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Gregory Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Ali, T", 
+                    "firstName": "T", 
+                    "lastName": "Ali"
+                }
+            }, 
+            "roomNumber": "219", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro Hist Interpretation", 
+            "href": "/2017/spring/HIST/200.json", 
+            "id": "200"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic:  Commodities, Capital, Empire Description:  The production, circulation,and consumption of commodities links disparate regions of the globe, connects cocoa farms in Ghana, coffee plantations in Jamaica, sugar-cane producers in Brazil, the Espresso Royale in the library, and the student at the University of Illinois.  In this course, we will learn to think historically about commodities we consume, examining how the twinned forces if imperialism and capitalism forged connections between disparate regions of the globe through the production, consumption and circulation of commodities.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: Graduate standing or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Provides skills to develop a wide range of plans and an understanding of the processes to implement them. Topics covered include planning analysis, political constraints of planning and planning ethics, techniques of negotiation, facilitation, mediation, and presentation to the public. Uses a general framework for plan making that includes plan review, problem framing, information gathering, alternative modeling, scenarios development, impact assessment, and alternatives evaluation. Students will work on applied tasks individually and in groups. Prerequisite: Graduate standing or consent of instructor.", 
+    "href": "/2017/spring/UP/510.json", 
+    "id": "UP 510", 
+    "label": "Plan Making", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Urban and Regional Planning", 
+            "href": "/2017/spring/UP.json", 
+            "id": "UP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "AC", 
+            "href": "/2017/spring/UP/510/55421.json", 
+            "id": "55421"
+        }
+    }
+}

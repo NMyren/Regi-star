@@ -1,0 +1,61 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Concepts relating to causal agents of representative plant diseases, symptoms and diagnosis, modes of infection and spread, effects of environment on disease development, and methods of control.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Natural Sciences & Technology", 
+            "id": "NAT", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1LS", 
+                    "content": "UIUC: Life Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/PLPA/204.json", 
+    "id": "PLPA 204", 
+    "label": "Introductory Plant Pathology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Plant Pathology", 
+            "href": "/2017/spring/PLPA.json", 
+            "id": "PLPA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Life Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/PLPA/204/37769.json", 
+                "id": "37769"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/PLPA/204/37771.json", 
+                "id": "37771"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/PLPA/204/62309.json", 
+                "id": "62309"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/PLPA/204/37766.json", 
+                "id": "37766"
+            }
+        ]
+    }
+}

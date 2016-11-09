@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: Completion of applicable Teacher Licensure Gateway requirements. Contact College of Education for further information. Admission to the Elementary Teacher Education Program.", 
+    "creditHours": "3 hours.", 
+    "description": "Designed to provide elementary education majors with a philosophical and practical basis for integrating the arts [including visual art, music, & dance] in public schools. Lecture, discussion, arts practices and class activities will focus on the ever expanding role of the arts in children's lives and the role of the teacher in nurturing artistic expressions through the development of skills, processes, and the various knowledges of the multi-modalities of the arts. Prerequisite: Completion of applicable Teacher Licensure Gateway requirements. Contact College of Education for further information. Admission to the Elementary Teacher Education Program.", 
+    "href": "/2017/spring/FAA/202.json", 
+    "id": "FAA 202", 
+    "label": "Artsful Teaching through Integ", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Fine and Applied Arts", 
+            "href": "/2017/spring/FAA.json", 
+            "id": "FAA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to Admitted Teacher Ed Student students.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/FAA/202/65138.json", 
+            "id": "65138"
+        }
+    }
+}

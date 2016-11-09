@@ -1,0 +1,55 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/EURO/596/59371.json", 
+    "id": "59371", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "W", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Pintar, J", 
+                    "firstName": "J", 
+                    "lastName": "Pintar"
+                }
+            }, 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics in EU Studies", 
+            "href": "/2017/spring/EURO/596.json", 
+            "id": "596"
+        }, 
+        "subject": {
+            "content": "European Union Studies", 
+            "href": "/2017/spring/EURO.json", 
+            "id": "EURO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "RE", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic:  Genetic Technologies, Social Networks, and the Transformation of Racial Identities in Europe.  Meets with REES 496/596.", 
+    "sectionTitle": "GenTech, SocNet, TransRacIdent", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

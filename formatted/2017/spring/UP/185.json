@@ -1,0 +1,56 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the process of urbanization from a global perspective by exploring the social, political, cultural and economic forces that shape urban life. Students will learn to analyze urban development in a range of cities including those in the Middle East and South Asia, Latin America and Africa.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Social & Behavioral Sciences", 
+                "id": "SBS", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1SS", 
+                        "content": "UIUC Social Sciences"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/UP/185.json", 
+    "id": "UP 185", 
+    "label": "Cities in a Global Perspective", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Urban and Regional Planning", 
+            "href": "/2017/spring/UP.json", 
+            "id": "UP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences, and Western Compartv Cult course.", 
+    "sections": {
+        "section": {
+            "content": "FM", 
+            "href": "/2017/spring/UP/185/53015.json", 
+            "id": "53015"
+        }
+    }
+}

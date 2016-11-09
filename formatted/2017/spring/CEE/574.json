@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: CEE 202 and CEE 472.", 
+    "creditHours": "4 hours.", 
+    "description": "Application of probabilistic methods in describing and defining loads on structures with emphasis on the random fluctuation in time and space. Random vibration methods and applications to dynamic response of structures under wind and earthquake loads. Computer simulation of structural loads and responses. Probability-based safety criteria and review of current methods of selection of design loads and load combinations. Prerequisite: CEE 202 and CEE 472.", 
+    "href": "/2017/spring/CEE/574.json", 
+    "id": "CEE 574", 
+    "label": "Probabilistic Loads and Design", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CEE/574/65762.json", 
+                "id": "65762"
+            }, 
+            {
+                "content": "RS", 
+                "href": "/2017/spring/CEE/574/39560.json", 
+                "id": "39560"
+            }
+        ]
+    }
+}

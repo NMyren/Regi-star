@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 16 hours.", 
+    "description": "Individual topics in research and/or reading for graduate students, to be conducted under the supervision of faculty members in cell and structural biology; designed to allow students to become more familiar with specialized fields of study prior to committing themselves to a specific area for their graduate degree. Approved for S/U grading only. May be repeated. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/CDB/590.json", 
+    "id": "CDB 590", 
+    "label": "Individual Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Cell and Developmental Biology", 
+            "href": "/2017/spring/CDB.json", 
+            "id": "CDB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CDB/590/44921.json", 
+            "id": "44921"
+        }
+    }
+}

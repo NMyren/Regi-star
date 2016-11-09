@@ -1,0 +1,70 @@
+{
+    "classScheduleInformation": "Students will register for a lecture and a discussion section.", 
+    "courseSectionInformation": "Same as CSE 427. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 225; MATH 225 or MATH 415; MATH 241.", 
+    "creditHours": "3 or 4 hours.", 
+    "description": "Basic mathematical tools and computational techniques for modeling, rendering, and animating 3-D scenes. Same as CSE 427. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 225; MATH 225 or MATH 415; MATH 241.", 
+    "href": "/2017/spring/CS/418.json", 
+    "id": "CS 418", 
+    "label": "Interactive Computer Graphics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/CS/418/48270.json", 
+                "id": "48270"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/CS/418/48271.json", 
+                "id": "48271"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/CS/418/48273.json", 
+                "id": "48273"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/CS/418/59592.json", 
+                "id": "59592"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/CS/418/59593.json", 
+                "id": "59593"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/CS/418/59594.json", 
+                "id": "59594"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CS/418/31359.json", 
+                "id": "31359"
+            }, 
+            {
+                "content": "AL2", 
+                "href": "/2017/spring/CS/418/31361.json", 
+                "id": "31361"
+            }
+        ]
+    }
+}

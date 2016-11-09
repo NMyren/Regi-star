@@ -1,0 +1,69 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/CHEM/101/59955.json", 
+    "id": "59955", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Noyes Laboratory", 
+                "daysOfTheWeek": "F", 
+                "end": "02:50 PM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Decoste, D", 
+                        "firstName": "D", 
+                        "lastName": "Decoste"
+                    }
+                }, 
+                "roomNumber": "303", 
+                "start": "02:00 PM", 
+                "type": {
+                    "code": "DIS", 
+                    "content": "Discussion/Recitation"
+                }
+            }, 
+            {
+                "buildingName": "Chemistry Annex", 
+                "daysOfTheWeek": "W", 
+                "end": "03:50 PM", 
+                "id": "1", 
+                "instructors": {}, 
+                "roomNumber": "007", 
+                "start": "02:00 PM", 
+                "type": {
+                    "code": "LAB", 
+                    "content": "Laboratory"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Introductory Chemistry", 
+            "href": "/2017/spring/CHEM/101.json", 
+            "id": "101"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "ADH", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

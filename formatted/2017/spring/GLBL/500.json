@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Instructor Approval Required.", 
+    "creditHours": "4 hours.", 
+    "description": "Students will examine three propositions: (1) the existence of a global society; (2) the flaws of its principal, global institutions ? the state, markets, and democracy; and (3) absent their reform, whether the global society is at risk. Prerequisite: Instructor Approval Required.", 
+    "href": "/2017/spring/GLBL/500.json", 
+    "id": "GLBL 500", 
+    "label": "Global Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Global Studies", 
+            "href": "/2017/spring/GLBL.json", 
+            "id": "GLBL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GLBL/500/60729.json", 
+            "id": "60729"
+        }
+    }
+}

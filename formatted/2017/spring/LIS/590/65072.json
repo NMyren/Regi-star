@@ -1,0 +1,66 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LIS/590/65072.json", 
+    "id": "65072", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Grad Sch of Lib & Info Science", 
+            "daysOfTheWeek": "W", 
+            "end": "06:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Schneider, C", 
+                        "firstName": "C", 
+                        "lastName": "Schneider"
+                    }, 
+                    {
+                        "content": "Teper, J", 
+                        "firstName": "J", 
+                        "lastName": "Teper"
+                    }
+                ]
+            }, 
+            "roomNumber": "341", 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Problems in LIS", 
+            "href": "/2017/spring/LIS/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionFeeAmount": "GSLIS Class Materials $50.00 Flat Fee.", 
+    "sectionNumber": "PC", 
+    "sectionStatusCode": "A", 
+    "sectionText": "[Long title: Preservation and Conservation for SPECIAL Collections Care]   Pre-requisite LIS 582 or LIS 582LE. Contact the department for approval- Theresa Tucker at tjtucker@illinois.edu.  A non-waived $50 course fee will be assessed to the student's tuition & fees bill.  The course will meet in the Conservation Lab, 2nd Floor, Oak Street Library Facility.  [Elective course for Graduate Certificate in Special Collections (see https://ischool.illinois.edu/academics/degrees/specializations/certificate).    This course, meant to build on previous coursework in Preservation, Special Collections and/or Rare Book Curation, will focus on the physical structure and chemical composition of book, paper, and photographic materials. Students will learn how historic and modern library and archives materials are produced, how they age and deteriorate, and different approaches for their physical care. Class work will be split between traditional lectures and readings as well as hands-on projects in book construction, exhibit preparations, storage enclosures, media and print identification, and stabilization mechanisms. The goal will be to educate students to a level at which they can effectively communicate with conservation and preservation professionals, as well as set realistic priorities and expectations for the care of their collections. An additional course materials fee will be assessed to the student's tuition & fees bill. [Elective course for Graduate Certificate in Special Collections] [First offered Fall 2008]", 
+    "sectionTitle": "Presv & Consv Spec Colls Care", 
+    "specialApproval": "Departmental Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

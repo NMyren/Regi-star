@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Same as ANTH 209. See ANTH 209.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as ANTH 209. See ANTH 209.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/SOC/269.json", 
+    "id": "SOC 269", 
+    "label": "Food, Culture, and Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Sociology", 
+            "href": "/2017/spring/SOC.json", 
+            "id": "SOC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "1", 
+            "href": "/2017/spring/SOC/269/44651.json", 
+            "id": "44651"
+        }
+    }
+}

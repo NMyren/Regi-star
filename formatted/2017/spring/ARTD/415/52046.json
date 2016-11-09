@@ -1,0 +1,57 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/ARTD/415/52046.json", 
+    "id": "52046", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Noble Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "07:40 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Goggin, N", 
+                    "firstName": "N", 
+                    "lastName": "Goggin"
+                }
+            }, 
+            "roomNumber": "211", 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Ninth Letter", 
+            "href": "/2017/spring/ARTD/415.json", 
+            "id": "415"
+        }, 
+        "subject": {
+            "content": "Art--Design", 
+            "href": "/2017/spring/ARTD.json", 
+            "id": "ARTD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "GR", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Prerequisite: Portfolio submission or by instructor's consent. Graduate section.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,54 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/RST/200/43109.json", 
+    "id": "43109", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MW", 
+            "end": "04:40 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Hardin, D", 
+                    "firstName": "D", 
+                    "lastName": "Hardin"
+                }
+            }, 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Leadership in RST", 
+            "href": "/2017/spring/RST/200.json", 
+            "id": "200"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,63 @@
+{
+    "classScheduleInformation": "Students who have completed a year of Calculus should enroll in STAT 200 instead of STAT 100.", 
+    "courseSectionInformation": "Credit is not given for both STAT 100 and any one of the following: ECON 202, PSYC 235, or SOC 485. Prerequisite: MATH 112.", 
+    "creditHours": "3 hours.", 
+    "description": "First course in probability and statistics at a precalculus level; emphasizes basic concepts, including descriptive statistics, elementary probability, estimation, and hypothesis testing in both nonparametric and normal models. Credit is not given for both STAT 100 and any one of the following: ECON 202, PSYC 235, or SOC 485. Prerequisite: MATH 112.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Quantitative Reasoning", 
+            "id": "QR", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1QR1", 
+                    "content": "UIUC: Quant Reasoning I"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/STAT/100.json", 
+    "id": "STAT 100", 
+    "label": "Statistics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Statistics", 
+            "href": "/2017/spring/STAT.json", 
+            "id": "STAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Quant Reasoning I course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "L1", 
+                "href": "/2017/spring/STAT/100/37477.json", 
+                "id": "37477"
+            }, 
+            {
+                "content": "L2", 
+                "href": "/2017/spring/STAT/100/37478.json", 
+                "id": "37478"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/STAT/100/60450.json", 
+                "id": "60450"
+            }, 
+            {
+                "content": "S1", 
+                "href": "/2017/spring/STAT/100/37469.json", 
+                "id": "37469"
+            }
+        ]
+    }
+}

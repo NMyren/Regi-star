@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: ECE 205 or ECE 210.", 
+    "creditHours": "3 hours.", 
+    "description": "Electric power grid structure and policy; analysis of wind, solar, and fuels as raw resources; wind turbines and parks; solar cells, modules, arrays and systems; fuel cell power plants; energy and financial performance of green energy projects; integration of green energy into power grid; energy project report and presentation. Prerequisite: ECE 205 or ECE 210.", 
+    "href": "/2017/spring/ECE/333.json", 
+    "id": "ECE 333", 
+    "label": "Green Electric Energy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/ECE/333/52523.json", 
+            "id": "52523"
+        }
+    }
+}

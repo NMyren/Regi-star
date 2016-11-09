@@ -1,0 +1,31 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "What is the meaning and impact of politics seen from the perspective of those at the bottom of the pyramid of political power rather than from the usual focus on the actions and perceptions of political elites? In what ways do workers become involved in politics? Under what circumstances are they likely to be successful in bringing about change? This course addresses these questions by exploring political power, political participation, and political change from a broad historical and cross-cultural perspective, but always focusing on a view of politics from the bottom up. The course analyzes the political economy of labor, and the labor movement's political influence in politics.", 
+    "href": "/2017/spring/LER/300.json", 
+    "id": "LER 300", 
+    "label": "Workers, Unions, and Politics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Labor and Employment Relations", 
+            "href": "/2017/spring/LER.json", 
+            "id": "LER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/LER/300/53042.json", 
+            "id": "53042"
+        }
+    }
+}

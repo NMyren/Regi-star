@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Credit is not given for JOUR 335 if credit for JOUR 435 has been earned. Prerequisite: JOUR 210.", 
+    "creditHours": "4 hours.", 
+    "description": "Reporting and writing news for audio programs and websites. Credit is not given for JOUR 335 if credit for JOUR 435 has been earned. Prerequisite: JOUR 210.", 
+    "href": "/2017/spring/JOUR/335.json", 
+    "id": "JOUR 335", 
+    "label": "Audio Journalism", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Journalism", 
+            "href": "/2017/spring/JOUR.json", 
+            "id": "JOUR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Agr & Environmental Cmc & Educ or Journalism or Broadcast Journalism or Agricultural Communications major(s). Restricted to students with Sophomore, Junior, or Senior class standing.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/JOUR/335/61586.json", 
+                "id": "61586"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/JOUR/335/61587.json", 
+                "id": "61587"
+            }
+        ]
+    }
+}

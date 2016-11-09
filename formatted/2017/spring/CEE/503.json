@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: CEE 401 or CEE 405.", 
+    "creditHours": "4 hours.", 
+    "description": "Fundamental processes for deterioration mechanisms of infrastructure materials: corrosion of metals including thermodynamics, kinetics, passivity and rate measurements; degradation of cement-based materials including freezing and thawing, ASR, sulfate attack, fire attack and steel reinforcement corrosion; degradation of organic materials including photo-oxidation and ageing. A research literature review exercise related to material degradation. Prerequisite: CEE 401 or CEE 405.", 
+    "href": "/2017/spring/CEE/503.json", 
+    "id": "CEE 503", 
+    "label": "Constr Matls Deterioration", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "F", 
+                "href": "/2017/spring/CEE/503/56023.json", 
+                "id": "56023"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CEE/503/59275.json", 
+                "id": "59275"
+            }
+        ]
+    }
+}

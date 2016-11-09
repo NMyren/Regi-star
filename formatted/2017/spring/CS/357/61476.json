@@ -1,0 +1,62 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/CS/357/61476.json", 
+    "id": "61476", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Digital Computer Laboratory", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:45 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Kloeckner, A", 
+                        "firstName": "A", 
+                        "lastName": "Kloeckner"
+                    }, 
+                    {
+                        "content": "Solomonik, E", 
+                        "firstName": "E", 
+                        "lastName": "Solomonik"
+                    }
+                ]
+            }, 
+            "roomNumber": "1320", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Numerical Methods I", 
+            "href": "/2017/spring/CS/357.json", 
+            "id": "357"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Computer Science or Statistics & Computer Science or Math & Computer Science major(s).", 
+    "sectionNumber": "M", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

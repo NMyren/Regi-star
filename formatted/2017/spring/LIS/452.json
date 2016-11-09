@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 2 or 4 graduate hours.", 
+    "creditHours": "2 OR 4 hours.", 
+    "description": "Covers common data, document processing, and programming constructs and concepts. Focuses on problem solving and abstraction with a programming language. By the end of the course students will be able to design, develop and test a moderately complex computer program to manage full text, bibliographic records or multimedia. The course prepares students for working with applications in data analytics, data science, digital libraries, text mining and knowledge management. No prior programming background is assumed. 4 undergraduate hours. 2 or 4 graduate hours.", 
+    "href": "/2017/spring/LIS/452.json", 
+    "id": "LIS 452", 
+    "label": "Foundations of Information Processing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AG", 
+                "href": "/2017/spring/LIS/452/57415.json", 
+                "id": "57415"
+            }, 
+            {
+                "content": "AU", 
+                "href": "/2017/spring/LIS/452/57414.json", 
+                "id": "57414"
+            }, 
+            {
+                "content": "LE", 
+                "href": "/2017/spring/LIS/452/49142.json", 
+                "id": "49142"
+            }
+        ]
+    }
+}

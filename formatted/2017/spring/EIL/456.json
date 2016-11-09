@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "The course goals are to develop an understanding of the characteristics of naturally-occurring talk; several methodologies for collecting and studying it; the relationship of talk to human conduct, society and culture, including cross-cultural (mis)understanding; and to relate these insights to language learning, language teaching methodologies, and materials design. 3 undergraduate hours. 4 graduate hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/EIL/456.json", 
+    "id": "EIL 456", 
+    "label": "Lang and Social Interaction I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English as an International Language", 
+            "href": "/2017/spring/EIL.json", 
+            "id": "EIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "D3", 
+                "href": "/2017/spring/EIL/456/31911.json", 
+                "id": "31911"
+            }, 
+            {
+                "content": "D4", 
+                "href": "/2017/spring/EIL/456/31913.json", 
+                "id": "31913"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/LA/390/65621.json", 
+    "id": "65621", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Temple Hoyne Buell Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "06:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Dharwadker, A", 
+                    "firstName": "A", 
+                    "lastName": "Dharwadker"
+                }
+            }, 
+            "roomNumber": "325", 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Independent Study", 
+            "href": "/2017/spring/LA/390.json", 
+            "id": "390"
+        }, 
+        "subject": {
+            "content": "Landscape Architecture", 
+            "href": "/2017/spring/LA.json", 
+            "id": "LA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Landscape Architecture, Urban & Regional Planning, or Architecture department.", 
+    "sectionNotes": "Restricted to students with Junior, Senior, or Graduate class standing.", 
+    "sectionNumber": "DUG", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Empire of Extraction", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

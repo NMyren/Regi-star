@@ -1,0 +1,31 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "An exploration of current questions of gender and their applications to students today. The course will focus primarily on the United States emphasizing individual, interactional, and institutional aspects of the social world. Topics for study include sociological research on femininities, masculinities, gendered bodies, socialization, work, family, politics, sport, and sexualities.", 
+    "href": "/2017/spring/SOC/101.json", 
+    "id": "SOC 101", 
+    "label": "Sociology of Gender", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Sociology", 
+            "href": "/2017/spring/SOC.json", 
+            "id": "SOC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "PB", 
+            "href": "/2017/spring/SOC/101/64286.json", 
+            "id": "64286"
+        }
+    }
+}

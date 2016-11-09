@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as CWL 312.", 
+    "creditHours": "3 hours.", 
+    "description": "Survey of Japanese literature from 1600 to recent times; readings in prose, poetry, and drama in English translation; and lectures and papers. Same as CWL 312.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1LA", 
+                        "content": "UIUC: Literature and the Arts"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/EALC/306.json", 
+    "id": "EALC 306", 
+    "label": "Japan Lit in Translation II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "East Asian Language and Culture", 
+            "href": "/2017/spring/EALC.json", 
+            "id": "EALC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Literature and the Arts, and Non-Western Cultures course.", 
+    "sections": {
+        "section": {
+            "content": "D", 
+            "href": "/2017/spring/EALC/306/38889.json", 
+            "id": "38889"
+        }
+    }
+}

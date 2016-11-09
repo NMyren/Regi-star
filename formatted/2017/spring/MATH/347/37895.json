@@ -1,0 +1,57 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MATH/347/37895.json", 
+    "id": "37895", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Altgeld Hall", 
+            "daysOfTheWeek": "MWF", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Lerman, E", 
+                    "firstName": "E", 
+                    "lastName": "Lerman"
+                }
+            }, 
+            "roomNumber": "243", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Fundamental Mathematics", 
+            "href": "/2017/spring/MATH/347.json", 
+            "id": "347"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Mathematics or Statistics & Computer Science or Math & Computer Science major(s).", 
+    "sectionNumber": "D1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Reserved for students planning to join the Secondary Education Program or by special invitation.  Those interested in this section should contact mathadvising@illinois.edu <mailto:mathadvising@illinois.edu>  with subject line \"Special Math 347\" and include name, netid, UIN, and explanation of interest.", 
+    "specialApproval": "Departmental Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

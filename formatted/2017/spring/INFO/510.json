@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated in separate terms to a maximum of 8 hours. Prerequisite: Graduate standing in any Informatics.", 
+    "creditHours": "4 hours.", 
+    "description": "A one semester directed research project supervised by a member of the informatics faculty in the student's area of specialization or closely related area. These are intended to be practical research, not just literature surveys, and must have a definite output such as a paper or demonstration project. The research should be relevant to the thesis work or preparatory work to support the thesis. Informatics students must take two semesters, usually each semester should be under a different Informatics faculty member, but with the concurrence of their advising committee both may be taken under a single faculty member. Approved for S/U grading only. May be repeated in separate terms to a maximum of 8 hours. Prerequisite: Graduate standing in any Informatics.", 
+    "href": "/2017/spring/INFO/510.json", 
+    "id": "INFO 510", 
+    "label": "Research Practicum", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Informatics", 
+            "href": "/2017/spring/INFO.json", 
+            "id": "INFO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/INFO/510/60303.json", 
+            "id": "60303"
+        }
+    }
+}

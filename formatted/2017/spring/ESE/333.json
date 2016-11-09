@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as GEOL 333. See GEOL 333.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as GEOL 333. See GEOL 333.", 
+    "href": "/2017/spring/ESE/333.json", 
+    "id": "ESE 333", 
+    "label": "Earth Materials and the Env", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Earth, Society, and Environment", 
+            "href": "/2017/spring/ESE.json", 
+            "id": "ESE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ESE/333/54835.json", 
+                "id": "54835"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ESE/333/54834.json", 
+                "id": "54834"
+            }
+        ]
+    }
+}

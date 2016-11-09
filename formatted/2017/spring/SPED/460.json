@@ -1,0 +1,34 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours.", 
+    "creditHours": "4 hours.", 
+    "description": "Focuses upon issues and intervention strategies that can impact the communication skills of persons with moderate or severe intellectual and/or physical disabilities. Specific assessment and intervention strategies are discussed as they relate to both verbal and augmentative communication. 4 undergraduate hours. 4 graduate hours.", 
+    "href": "/2017/spring/SPED/460.json", 
+    "id": "SPED 460", 
+    "label": "Communication and Phys Disab", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Special Education", 
+            "href": "/2017/spring/SPED.json", 
+            "id": "SPED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 18-Jan-17 - 10-May-17.", 
+    "sectionRegistrationNotes": "Restricted to EDM: Special Ed - UIUC.", 
+    "sections": {
+        "section": {
+            "content": "AC", 
+            "href": "/2017/spring/SPED/460/59532.json", 
+            "id": "59532"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "courseSectionInformation": "Prerequisite: James Scholars enrolled in the College of ACES with preference given to those with junior or senior standing.", 
+    "creditHours": "1 hours.", 
+    "description": "Designed to promote exposure to, and subsequent critical reflection about a variety of topics relevant to ACES James Scholars. Feature presentations by faculty members on topics of current interest in the agricultural, consumer and environmental sciences. Students engage in the topics by responding to faculty members' presentations through classroom activities, lab tours, stimulating debates, and lively discussions. The writing of a seminar paper rounds out the course. Prerequisite: James Scholars enrolled in the College of ACES with preference given to those with junior or senior standing.", 
+    "href": "/2017/spring/ACES/399.json", 
+    "id": "ACES 399", 
+    "label": "Honors Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural, Consumer and Environmental Sciences", 
+            "href": "/2017/spring/ACES.json", 
+            "id": "ACES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to James Scholars Program students.", 
+    "sectionRegistrationNotes": "Restricted to Agr, Consumer, & Env Sciences. Restricted to students with Junior or Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "JS", 
+            "href": "/2017/spring/ACES/399/55117.json", 
+            "id": "55117"
+        }
+    }
+}

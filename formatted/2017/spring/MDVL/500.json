@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading. May be repeated to a maximum of 12 hours.", 
+    "creditHours": "4 hours.", 
+    "description": "Team-taught, interdisciplinary seminar on varying topics in Medieval Studies drawing on faculty from UIUC and invited scholars from other universities.  Approved for letter and S/U grading. May be repeated to a maximum of 12 hours.", 
+    "href": "/2017/spring/MDVL/500.json", 
+    "id": "MDVL 500", 
+    "label": "Seminar in Medieval Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Medieval Studies", 
+            "href": "/2017/spring/MDVL.json", 
+            "id": "MDVL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/MDVL/500/63839.json", 
+            "id": "63839"
+        }
+    }
+}

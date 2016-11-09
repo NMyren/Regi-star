@@ -1,0 +1,66 @@
+{
+    "courseSectionInformation": "1 to 4 graduate hours. 1 to 4 professional hours. Approved for letter and S/U grading. May be repeated if topics vary.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "This is an umbrella course listing for specialty topics of current interest in litigation. 1 to 4 graduate hours. 1 to 4 professional hours. Approved for letter and S/U grading. May be repeated if topics vary.", 
+    "href": "/2017/spring/LAW/793.json", 
+    "id": "LAW 793", 
+    "label": "Advanced Litigation Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sectionDeptRestriction": "Restricted to students in the Law department.", 
+    "sections": {
+        "section": [
+            {
+                "content": "C2", 
+                "href": "/2017/spring/LAW/793/49166.json", 
+                "id": "49166"
+            }, 
+            {
+                "content": "EC", 
+                "href": "/2017/spring/LAW/793/62477.json", 
+                "id": "62477"
+            }, 
+            {
+                "content": "FC", 
+                "href": "/2017/spring/LAW/793/62478.json", 
+                "id": "62478"
+            }, 
+            {
+                "content": "O1", 
+                "href": "/2017/spring/LAW/793/60953.json", 
+                "id": "60953"
+            }, 
+            {
+                "content": "O1G", 
+                "href": "/2017/spring/LAW/793/60954.json", 
+                "id": "60954"
+            }, 
+            {
+                "content": "O2", 
+                "href": "/2017/spring/LAW/793/62797.json", 
+                "id": "62797"
+            }, 
+            {
+                "content": "O2G", 
+                "href": "/2017/spring/LAW/793/62798.json", 
+                "id": "62798"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "May be repeated in the same or separate terms if topics vary.", 
+    "creditHours": "1 TO 3 hours.", 
+    "description": "Subject offerings of innovation, creativity, technology and entrepreneurship intended to augment the existing curriculum. See class schedule or departmental course information for topics and prerequisites. May be repeated in the same or separate terms if topics vary.", 
+    "href": "/2017/spring/TE/298.json", 
+    "id": "TE 298", 
+    "label": "Special Topics I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Technology Entrepreneurship", 
+            "href": "/2017/spring/TE.json", 
+            "id": "TE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "HS", 
+                "href": "/2017/spring/TE/298/65618.json", 
+                "id": "65618"
+            }, 
+            {
+                "content": "ILE", 
+                "href": "/2017/spring/TE/298/62872.json", 
+                "id": "62872"
+            }
+        ]
+    }
+}

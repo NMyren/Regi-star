@@ -1,0 +1,91 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "2090 Foreign Languages Building, 707 South Mathews, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Head of Department: Stephanie Hilger\nDepartment Office, 2090 Foreign Languages Building, 707 South Mathews, Urbana, 333-1288\nSubjects associated with this department include: German (GER), Germanic (GMC), Scandinavian (SCAN), and Yiddish (YDSH).\nwww.germanic.illinois.edu", 
+    "contactName": "Stephanie Hilger", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Beginning Scandinavian II", 
+                "href": "/2017/spring/SCAN/102.json", 
+                "id": "102"
+            }, 
+            {
+                "content": "Intermediate Scandinavian II", 
+                "href": "/2017/spring/SCAN/104.json", 
+                "id": "104"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/SCAN/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Madness, Myth, and Murder", 
+                "href": "/2017/spring/SCAN/215.json", 
+                "id": "215"
+            }, 
+            {
+                "content": "Viking Sagas in Translation", 
+                "href": "/2017/spring/SCAN/252.json", 
+                "id": "252"
+            }, 
+            {
+                "content": "Imagining the Welfare State", 
+                "href": "/2017/spring/SCAN/470.json", 
+                "id": "470"
+            }, 
+            {
+                "content": "Kierkegaard and the Self", 
+                "href": "/2017/spring/SCAN/472.json", 
+                "id": "472"
+            }, 
+            {
+                "content": "Scandinavian Cinema", 
+                "href": "/2017/spring/SCAN/492.json", 
+                "id": "492"
+            }, 
+            {
+                "content": "Honors Senior Thesis", 
+                "href": "/2017/spring/SCAN/493.json", 
+                "id": "493"
+            }, 
+            {
+                "content": "Topics in Scan Languages", 
+                "href": "/2017/spring/SCAN/494.json", 
+                "id": "494"
+            }, 
+            {
+                "content": "Special Topics in Scan Studies", 
+                "href": "/2017/spring/SCAN/496.json", 
+                "id": "496"
+            }, 
+            {
+                "content": "Research in Special Topics", 
+                "href": "/2017/spring/SCAN/593.json", 
+                "id": "593"
+            }
+        ]
+    }, 
+    "departmentCode": "1927", 
+    "id": "SCAN", 
+    "label": "Scandinavian", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-1288", 
+    "subjectComment": "Subjects associated with this department include: German (GER), Germanic (GMC), Scandinavian (SCAN), and Yiddish (YDSH).", 
+    "unitName": "Germanic Languages and Literatures", 
+    "webSiteURL": "www.germanic.illinois.edu"
+}

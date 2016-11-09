@@ -1,0 +1,70 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/PSYC/496/37462.json", 
+    "id": "37462", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Psychology Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Barnum, E", 
+                        "firstName": "E", 
+                        "lastName": "Barnum"
+                    }, 
+                    {
+                        "content": "Graham, J", 
+                        "firstName": "J", 
+                        "lastName": "Graham"
+                    }, 
+                    {
+                        "content": "Hunter, C", 
+                        "firstName": "C", 
+                        "lastName": "Hunter"
+                    }
+                ]
+            }, 
+            "roomNumber": "207", 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Adv Current Topics in Psych", 
+            "href": "/2017/spring/PSYC/496.json", 
+            "id": "496"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "CCP", 
+    "sectionStatusCode": "A", 
+    "sectionText": "The Counseling Center Paraprofessional program combines specialized training in communication and individual helping skills with practical experience in providing services to students.  The program is a three-semester course sequence.  Training begins in the spring semester with PSYC 496 CCP.  During this time students learn the fundamentals of interpersonal communication.  Through demonstrations, readings, discussions, role playing, and video-taped sessions, students learn communication skills necessary for helping others.  Students currently sophomores or juniors from any program or department at UIUC may apply. **Approved for General Psychology Concentration**", 
+    "sectionTitle": "IntroCounselingParaprofessProg", 
+    "specialApproval": "Instructor Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

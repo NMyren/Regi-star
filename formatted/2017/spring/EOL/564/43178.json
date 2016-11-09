@@ -1,0 +1,76 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/EOL/564/43178.json", 
+    "id": "43178", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Education Building", 
+                "daysOfTheWeek": "S", 
+                "end": "04:00 PM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Welton, A", 
+                        "firstName": "A", 
+                        "lastName": "Welton"
+                    }
+                }, 
+                "roomNumber": "323", 
+                "start": "08:00 AM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }, 
+            {
+                "buildingName": "Education Building", 
+                "daysOfTheWeek": "F", 
+                "end": "09:20 PM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Welton, A", 
+                        "firstName": "A", 
+                        "lastName": "Welton"
+                    }
+                }, 
+                "roomNumber": "323", 
+                "start": "05:30 PM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Democracy/Politics", 
+            "href": "/2017/spring/EOL/564.json", 
+            "id": "564"
+        }, 
+        "subject": {
+            "content": "Educational Organization and Leadership", 
+            "href": "/2017/spring/EOL.json", 
+            "id": "EOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This section will meet on the following weekends: January 20-21, February 17-18, March 10-11, and April 14-15. The purpose of this course is to critically examine democratic principles of education, by asking the question, ?Who gets access to the fundamental right of education and how?? Students will also reflect on their role as school leaders in building socially just educational settings (Shields, 2004). The course will cover the following broad topics from a P-20 perspective: what is democracy; the politics of power and identity; critical pedagogy & participation in the democratic process: parents, youth, & community; and transformative school leadership for social justice. Some assignments include facilitating a class discussion/activity related to the assigned readings; participating in an interactive book group throughout the semester; and finally students will write a paper using a critical/transformative framework to develop an action plan for leaders to address a specific social justice issue in an educational setting (higher education, k-12, community/neighborhood, organization).", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

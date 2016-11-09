@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: CHEM 442 or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Lectures and laboratory on various aspects of X-ray diffraction studies of solids; topics include the properties of crystals, symmetry, diffraction techniques, data collection methods, and the determination and refinement of crystal structures. 4 undergraduate hours. 4 graduate hours. Prerequisite: CHEM 442 or consent of instructor.", 
+    "href": "/2017/spring/CHEM/483.json", 
+    "id": "CHEM 483", 
+    "label": "Solid State Structural Anlys", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ABA", 
+                "href": "/2017/spring/CHEM/483/32740.json", 
+                "id": "32740"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CHEM/483/32739.json", 
+                "id": "32739"
+            }
+        ]
+    }
+}

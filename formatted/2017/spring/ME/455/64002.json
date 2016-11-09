@@ -1,0 +1,56 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/ME/455/64002.json", 
+    "id": "64002", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Mechanical Engineering Bldg", 
+            "daysOfTheWeek": "TR", 
+            "end": "05:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kapoor, S", 
+                    "firstName": "S", 
+                    "lastName": "Kapoor"
+                }
+            }, 
+            "roomNumber": "260", 
+            "start": "03:30 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Micromanufacturing Process & Automation", 
+            "href": "/2017/spring/ME/455.json", 
+            "id": "455"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to students with Senior class standing. Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "U3", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

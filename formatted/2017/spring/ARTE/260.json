@@ -1,0 +1,31 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Considers how scholarly discourse in museum interpretation and educational program development are translated into practices that engage culturally diverse audiences. Readings, research, and professional activities provide students with opportunities for examination of museum interpretive practices, programming decisions, and public engagement activities, along with analysis of Krannert Art Museum's presence on the university campus, in the larger community, and on the World Wide Web.", 
+    "href": "/2017/spring/ARTE/260.json", 
+    "id": "ARTE 260", 
+    "label": "Museums in Action", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Education", 
+            "href": "/2017/spring/ARTE.json", 
+            "id": "ARTE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "AS", 
+            "href": "/2017/spring/ARTE/260/53195.json", 
+            "id": "53195"
+        }
+    }
+}

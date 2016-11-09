@@ -1,0 +1,58 @@
+{
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/SPAN/101/65385.json", 
+    "id": "65385", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Gonzalez Boluda, M", 
+                        "firstName": "M", 
+                        "lastName": "Gonzalez Boluda"
+                    }, 
+                    {
+                        "content": "Henshaw, F", 
+                        "firstName": "F", 
+                        "lastName": "Henshaw"
+                    }
+                ]
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Elementary Spanish I", 
+            "href": "/2017/spring/SPAN/101.json", 
+            "id": "101"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionNumber": "C", 
+    "sectionStatusCode": "A", 
+    "sectionText": "First 8 weeks - 1/17/17-3/10/17 \"Attendance to a total of 5 to several synchronous meetings online will be required. Students will be asked to sign up for one of the following time slots: Thursday 6:00-7:30 p.m. or Saturday 10:00-11:30 a.m.\"", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

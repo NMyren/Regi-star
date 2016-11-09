@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/BIOE/598/60232.json", 
+    "id": "60232", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Gregory Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Underhill, G", 
+                    "firstName": "G", 
+                    "lastName": "Underhill"
+                }
+            }, 
+            "roomNumber": "311", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/BIOE/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Bioengineering", 
+            "href": "/2017/spring/BIOE.json", 
+            "id": "BIOE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "GU", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Application of engineering approaches for the quantitative analysis of stem cell biology, including stem cell genetics and stem cell microenvironments.  Design principles underlying stem cell-based therapies and diagnostics.  Stem cell biomanufacturing.", 
+    "sectionTitle": "Stem Cell Bioengineering", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

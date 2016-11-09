@@ -1,0 +1,60 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "Prerequisite: Successful completion of MATH 234, or equivalent and CHEM 102 is required. CHEM 104 is recommended.", 
+    "creditHours": "4 hours.", 
+    "description": "The nature and properties of soil including origin, formation, and biological, chemical, and physical aspects. Prerequisite: Successful completion of MATH 234, or equivalent and CHEM 102 is required. CHEM 104 is recommended.", 
+    "href": "/2017/spring/NRES/201.json", 
+    "id": "NRES 201", 
+    "label": "Introductory Soils", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Natural Resources and Environmental Sciences", 
+            "href": "/2017/spring/NRES.json", 
+            "id": "NRES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/NRES/201/34987.json", 
+                "id": "34987"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/NRES/201/34978.json", 
+                "id": "34978"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/NRES/201/34965.json", 
+                "id": "34965"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/NRES/201/34955.json", 
+                "id": "34955"
+            }, 
+            {
+                "content": "AB5", 
+                "href": "/2017/spring/NRES/201/57984.json", 
+                "id": "57984"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/NRES/201/34993.json", 
+                "id": "34993"
+            }
+        ]
+    }
+}

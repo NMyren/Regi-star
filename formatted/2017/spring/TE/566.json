@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as ENG 566. See ENG 566.", 
+    "creditHours": "2 hours.", 
+    "description": "Same as ENG 566. See ENG 566.", 
+    "href": "/2017/spring/TE/566.json", 
+    "id": "TE 566", 
+    "label": "Finance for Engineering Mgmt", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Technology Entrepreneurship", 
+            "href": "/2017/spring/TE.json", 
+            "id": "TE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/TE/566/51370.json", 
+            "id": "51370"
+        }
+    }
+}

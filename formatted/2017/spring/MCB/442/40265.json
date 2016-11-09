@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/MCB/442/40265.json", 
+    "id": "40265", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Noyes Laboratory", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Steelman, A", 
+                    "firstName": "A", 
+                    "lastName": "Steelman"
+                }
+            }, 
+            "roomNumber": "165", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Comparative Immunobiology", 
+            "href": "/2017/spring/MCB/442.json", 
+            "id": "442"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Course is offered every other spring (even years).", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

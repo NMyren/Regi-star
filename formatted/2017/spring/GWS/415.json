@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as AFRO 415 and AFST 420. See AFRO 415.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as AFRO 415 and AFST 420. See AFRO 415.", 
+    "href": "/2017/spring/GWS/415.json", 
+    "id": "GWS 415", 
+    "label": "Africana Feminisms", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Gender and Women's Studies", 
+            "href": "/2017/spring/GWS.json", 
+            "id": "GWS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "1", 
+                "href": "/2017/spring/GWS/415/62163.json", 
+                "id": "62163"
+            }, 
+            {
+                "content": "G1", 
+                "href": "/2017/spring/GWS/415/62184.json", 
+                "id": "62184"
+            }
+        ]
+    }
+}

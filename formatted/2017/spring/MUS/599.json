@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated to a maximum of 16 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "0 TO 16 hours.", 
+    "description": "Research in special projects. Approved for S/U grading only. May be repeated to a maximum of 16 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/MUS/599.json", 
+    "id": "MUS 599", 
+    "label": "Thesis Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sectionRegistrationNotes": "Restricted to EDD:Music Education -UIUC, PHD: Music Education -UIUC, or PHD:Musicology -UIUC.", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/MUS/599/10030.json", 
+            "id": "10030"
+        }
+    }
+}

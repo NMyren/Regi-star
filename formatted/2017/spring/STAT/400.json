@@ -1,0 +1,130 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section.", 
+    "courseSectionInformation": "Same as MATH 463. 4 undergraduate hours. 4 graduate hours. Prerequisite: MATH 241 or equivalent.", 
+    "creditHours": "4 hours.", 
+    "description": "Introduction to mathematical statistics that develops probability as needed; includes the calculus of probability, random variables, expectation, distribution functions, central limit theorem, point estimation, confidence intervals, and hypothesis testing. Offers a basic one-term introduction to statistics and also prepares students for STAT 410. Same as MATH 463. 4 undergraduate hours. 4 graduate hours. Prerequisite: MATH 241 or equivalent.", 
+    "href": "/2017/spring/STAT/400.json", 
+    "id": "STAT 400", 
+    "label": "Statistics and Probability I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Statistics", 
+            "href": "/2017/spring/STAT.json", 
+            "id": "STAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/STAT/400/36129.json", 
+                "id": "36129"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/STAT/400/36130.json", 
+                "id": "36130"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/STAT/400/36131.json", 
+                "id": "36131"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/STAT/400/36132.json", 
+                "id": "36132"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/STAT/400/36134.json", 
+                "id": "36134"
+            }, 
+            {
+                "content": "BD1", 
+                "href": "/2017/spring/STAT/400/36135.json", 
+                "id": "36135"
+            }, 
+            {
+                "content": "BD2", 
+                "href": "/2017/spring/STAT/400/36136.json", 
+                "id": "36136"
+            }, 
+            {
+                "content": "BD3", 
+                "href": "/2017/spring/STAT/400/36137.json", 
+                "id": "36137"
+            }, 
+            {
+                "content": "BD4", 
+                "href": "/2017/spring/STAT/400/48336.json", 
+                "id": "48336"
+            }, 
+            {
+                "content": "BL1", 
+                "href": "/2017/spring/STAT/400/36138.json", 
+                "id": "36138"
+            }, 
+            {
+                "content": "CD1", 
+                "href": "/2017/spring/STAT/400/60238.json", 
+                "id": "60238"
+            }, 
+            {
+                "content": "CD2", 
+                "href": "/2017/spring/STAT/400/60241.json", 
+                "id": "60241"
+            }, 
+            {
+                "content": "CD3", 
+                "href": "/2017/spring/STAT/400/60243.json", 
+                "id": "60243"
+            }, 
+            {
+                "content": "CD4", 
+                "href": "/2017/spring/STAT/400/61076.json", 
+                "id": "61076"
+            }, 
+            {
+                "content": "CL1", 
+                "href": "/2017/spring/STAT/400/60237.json", 
+                "id": "60237"
+            }, 
+            {
+                "content": "DD1", 
+                "href": "/2017/spring/STAT/400/43007.json", 
+                "id": "43007"
+            }, 
+            {
+                "content": "DD2", 
+                "href": "/2017/spring/STAT/400/63541.json", 
+                "id": "63541"
+            }, 
+            {
+                "content": "DD3", 
+                "href": "/2017/spring/STAT/400/63543.json", 
+                "id": "63543"
+            }, 
+            {
+                "content": "DD4", 
+                "href": "/2017/spring/STAT/400/63545.json", 
+                "id": "63545"
+            }, 
+            {
+                "content": "DL1", 
+                "href": "/2017/spring/STAT/400/36133.json", 
+                "id": "36133"
+            }
+        ]
+    }
+}

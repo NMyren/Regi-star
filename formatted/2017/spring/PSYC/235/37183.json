@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/PSYC/235/37183.json", 
+    "id": "37183", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "David Kinley Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Wang, M", 
+                    "firstName": "M", 
+                    "lastName": "Wang"
+                }
+            }, 
+            "roomNumber": "317", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro to Statistics", 
+            "href": "/2017/spring/PSYC/235.json", 
+            "id": "235"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "CL1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "The course is taught primarily online using ALEKS. Lecture and lab attendance is required only under circumstances described in the syllabus.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

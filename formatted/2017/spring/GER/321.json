@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: GER 320 or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "German language as used in professional contexts involving economic matters: texts and documents relating to forms of enterprises and their financing, to macroeconomic structures of domestic and foreign trade, and to reports on the economies of German-speaking countries. Prerequisite: GER 320 or consent of instructor.", 
+    "href": "/2017/spring/GER/321.json", 
+    "id": "GER 321", 
+    "label": "German for Economics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "German", 
+            "href": "/2017/spring/GER.json", 
+            "id": "GER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "D", 
+            "href": "/2017/spring/GER/321/33579.json", 
+            "id": "33579"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "courseSectionInformation": "Prerequisite: Intended for brass majors in the BME instrumental concentration.", 
+    "creditHours": "0.5 hours.", 
+    "description": "Class instruction in the fundamentals of playing and teaching the trumpet. Acquire knowledge on recommended instruments and equipment, maintenance procedures, and training materials. Prerequisite: Intended for brass majors in the BME instrumental concentration.", 
+    "href": "/2017/spring/MUS/151.json", 
+    "id": "MUS 151", 
+    "label": "Supp Brass Inst: Trumpet", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sectionDeptRestriction": "Restricted to students in the Music department.", 
+    "sectionRegistrationNotes": "Restricted to BME:Music Education -UIUC, BME:MusEd:Instrmntl Music-UIUC, or BME:Mus Ed:Elem Gen Music-UIUC.", 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/MUS/151/35696.json", 
+            "id": "35696"
+        }
+    }
+}

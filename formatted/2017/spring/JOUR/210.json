@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "Credit is not given for JOUR 210 if credit for JOUR 400 has been earned. Prerequisite: JOUR 200.", 
+    "creditHours": "4 hours.", 
+    "description": "Fundamentals of journalistic reporting and writing across print, broadcast and digital platforms. Credit is not given for JOUR 210 if credit for JOUR 400 has been earned. Prerequisite: JOUR 200.", 
+    "href": "/2017/spring/JOUR/210.json", 
+    "id": "JOUR 210", 
+    "label": "Newsgathering Across Platforms", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Journalism", 
+            "href": "/2017/spring/JOUR.json", 
+            "id": "JOUR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/JOUR/210/61565.json", 
+                "id": "61565"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/JOUR/210/61566.json", 
+                "id": "61566"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/JOUR/210/61567.json", 
+                "id": "61567"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/JOUR/210/61568.json", 
+                "id": "61568"
+            }
+        ]
+    }
+}

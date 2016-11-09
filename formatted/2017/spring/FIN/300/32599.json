@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/FIN/300/32599.json", 
+    "id": "32599", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Wohlers Hall", 
+            "daysOfTheWeek": "MW", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Spencer, X", 
+                    "firstName": "X", 
+                    "lastName": "Spencer"
+                }
+            }, 
+            "roomNumber": "226", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Financial Markets", 
+            "href": "/2017/spring/FIN/300.json", 
+            "id": "300"
+        }, 
+        "subject": {
+            "content": "Finance", 
+            "href": "/2017/spring/FIN.json", 
+            "id": "FIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "E", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Registration restricted to Finance and Finance/Accountacy majors. On Monday, November 21, seats will be opened to all College of Business and Actuarial Science. Seatholders will be checked and dropped daily.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "1 undergraduate hour. 1 graduate hour. May be repeated in separate terms to a maximum of 6 undergraduate or 6 graduate hours.", 
+    "creditHours": "1 hours.", 
+    "description": "Addresses production and management issues surrounding Theater Department and KCPA productions. Guest speakers provide professional points of view on various management topics. 1 undergraduate hour. 1 graduate hour. May be repeated in separate terms to a maximum of 6 undergraduate or 6 graduate hours.", 
+    "href": "/2017/spring/THEA/450.json", 
+    "id": "THEA 450", 
+    "label": "Management Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to BFA:Theatre:Stage Mngmnt -UIUC or MFA:Theatre (MFA-Design) -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "SM", 
+            "href": "/2017/spring/THEA/450/51416.json", 
+            "id": "51416"
+        }
+    }
+}

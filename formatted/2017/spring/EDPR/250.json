@@ -1,0 +1,43 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated. Prerequisite: Consent of instructor.", 
+    "creditHours": "0 TO 4 hours.", 
+    "description": "Early field experiences in teacher education, including observation and laboratory experiences in public schools: designed to provide opportunities for career exploration, professional orientation, the development of insight into the interrelationship of theory and practice, and the place of the student in the educational process. Approved for S/U grading only. May be repeated. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/EDPR/250.json", 
+    "id": "EDPR 250", 
+    "label": "School & Community Experiences", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Practice", 
+            "href": "/2017/spring/EDPR.json", 
+            "id": "EDPR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/EDPR/250/10040.json", 
+                "id": "10040"
+            }, 
+            {
+                "content": "EL", 
+                "href": "/2017/spring/EDPR/250/65872.json", 
+                "id": "65872"
+            }, 
+            {
+                "content": "LBS", 
+                "href": "/2017/spring/EDPR/250/33748.json", 
+                "id": "33748"
+            }
+        ]
+    }
+}

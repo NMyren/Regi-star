@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated in separate terms to a maximum of 8 hours.", 
+    "creditHours": "1 hours.", 
+    "description": "Introduces basic yoga asanas (postures) and brief overview of the 8-limb system of yoga. Focus will be on understanding correct alignment and developing inner awareness. Weekly home practice, journal, and discussions about yoga philosophy are required. May be repeated in separate terms to a maximum of 8 hours.", 
+    "href": "/2017/spring/DANC/301.json", 
+    "id": "DANC 301", 
+    "label": "Yoga Practicum for Dancers", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Dance or Dance major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/DANC/301/57147.json", 
+            "id": "57147"
+        }
+    }
+}

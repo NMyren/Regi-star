@@ -1,0 +1,89 @@
+{
+    "courseSectionInformation": "Same as GEOG 287, NRES 287, PS 273 and SOC 287. See NRES 287.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as GEOG 287, NRES 287, PS 273 and SOC 287. See NRES 287.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Social & Behavioral Sciences", 
+                "id": "SBS", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1SS", 
+                        "content": "UIUC Social Sciences"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/ESE/287.json", 
+    "id": "ESE 287", 
+    "label": "Environment and Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Earth, Society, and Environment", 
+            "href": "/2017/spring/ESE.json", 
+            "id": "ESE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences, and Western Compartv Cult course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/ESE/287/54847.json", 
+                "id": "54847"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/ESE/287/54848.json", 
+                "id": "54848"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/ESE/287/54849.json", 
+                "id": "54849"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/ESE/287/54850.json", 
+                "id": "54850"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/ESE/287/54851.json", 
+                "id": "54851"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/ESE/287/55546.json", 
+                "id": "55546"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ESE/287/54846.json", 
+                "id": "54846"
+            }
+        ]
+    }
+}

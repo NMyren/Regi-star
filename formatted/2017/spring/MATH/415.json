@@ -1,0 +1,204 @@
+{
+    "courseSectionInformation": "3 or 4 undergraduate hours. 3 or 4 graduate hours. Credit is not given for both MATH 415 and any of MATH 125, MATH 225, MATH 410, or MATH 416. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241 or consent of instructor.", 
+    "creditHours": "3 or 4 hours.", 
+    "description": "Introductory course emphasizing techniques of linear algebra with applications to engineering; topics include matrix operations, determinants, linear equations, vector spaces, linear transformations, eigenvalues, and eigenvectors, inner products and norms, orthogonality, equilibrium, and linear dynamical systems. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Credit is not given for both MATH 415 and any of MATH 125, MATH 225, MATH 410, or MATH 416. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241 or consent of instructor.", 
+    "href": "/2017/spring/MATH/415.json", 
+    "id": "MATH 415", 
+    "label": "Applied Linear Algebra", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/MATH/415/37957.json", 
+                "id": "37957"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/MATH/415/37960.json", 
+                "id": "37960"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/MATH/415/37967.json", 
+                "id": "37967"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/MATH/415/37970.json", 
+                "id": "37970"
+            }, 
+            {
+                "content": "ADA", 
+                "href": "/2017/spring/MATH/415/60541.json", 
+                "id": "60541"
+            }, 
+            {
+                "content": "ADB", 
+                "href": "/2017/spring/MATH/415/60542.json", 
+                "id": "60542"
+            }, 
+            {
+                "content": "ADC", 
+                "href": "/2017/spring/MATH/415/60543.json", 
+                "id": "60543"
+            }, 
+            {
+                "content": "ADD", 
+                "href": "/2017/spring/MATH/415/60544.json", 
+                "id": "60544"
+            }, 
+            {
+                "content": "ADE", 
+                "href": "/2017/spring/MATH/415/60545.json", 
+                "id": "60545"
+            }, 
+            {
+                "content": "ADF", 
+                "href": "/2017/spring/MATH/415/60546.json", 
+                "id": "60546"
+            }, 
+            {
+                "content": "ADG", 
+                "href": "/2017/spring/MATH/415/60547.json", 
+                "id": "60547"
+            }, 
+            {
+                "content": "ADH", 
+                "href": "/2017/spring/MATH/415/60548.json", 
+                "id": "60548"
+            }, 
+            {
+                "content": "ADI", 
+                "href": "/2017/spring/MATH/415/53682.json", 
+                "id": "53682"
+            }, 
+            {
+                "content": "ADJ", 
+                "href": "/2017/spring/MATH/415/53683.json", 
+                "id": "53683"
+            }, 
+            {
+                "content": "ADK", 
+                "href": "/2017/spring/MATH/415/37980.json", 
+                "id": "37980"
+            }, 
+            {
+                "content": "ADL", 
+                "href": "/2017/spring/MATH/415/37983.json", 
+                "id": "37983"
+            }, 
+            {
+                "content": "ADM", 
+                "href": "/2017/spring/MATH/415/56172.json", 
+                "id": "56172"
+            }, 
+            {
+                "content": "ADN", 
+                "href": "/2017/spring/MATH/415/56173.json", 
+                "id": "56173"
+            }, 
+            {
+                "content": "ADO", 
+                "href": "/2017/spring/MATH/415/37972.json", 
+                "id": "37972"
+            }, 
+            {
+                "content": "ADP", 
+                "href": "/2017/spring/MATH/415/37974.json", 
+                "id": "37974"
+            }, 
+            {
+                "content": "ADQ", 
+                "href": "/2017/spring/MATH/415/37976.json", 
+                "id": "37976"
+            }, 
+            {
+                "content": "ADR", 
+                "href": "/2017/spring/MATH/415/37979.json", 
+                "id": "37979"
+            }, 
+            {
+                "content": "ADS", 
+                "href": "/2017/spring/MATH/415/37962.json", 
+                "id": "37962"
+            }, 
+            {
+                "content": "ADT", 
+                "href": "/2017/spring/MATH/415/37965.json", 
+                "id": "37965"
+            }, 
+            {
+                "content": "ADU", 
+                "href": "/2017/spring/MATH/415/37984.json", 
+                "id": "37984"
+            }, 
+            {
+                "content": "ADV", 
+                "href": "/2017/spring/MATH/415/37986.json", 
+                "id": "37986"
+            }, 
+            {
+                "content": "ADW", 
+                "href": "/2017/spring/MATH/415/37991.json", 
+                "id": "37991"
+            }, 
+            {
+                "content": "ADX", 
+                "href": "/2017/spring/MATH/415/37988.json", 
+                "id": "37988"
+            }, 
+            {
+                "content": "ADY", 
+                "href": "/2017/spring/MATH/415/52187.json", 
+                "id": "52187"
+            }, 
+            {
+                "content": "ADZ", 
+                "href": "/2017/spring/MATH/415/61550.json", 
+                "id": "61550"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/MATH/415/61542.json", 
+                "id": "61542"
+            }, 
+            {
+                "content": "AL2", 
+                "href": "/2017/spring/MATH/415/60540.json", 
+                "id": "60540"
+            }, 
+            {
+                "content": "AL3", 
+                "href": "/2017/spring/MATH/415/61545.json", 
+                "id": "61545"
+            }, 
+            {
+                "content": "AL4", 
+                "href": "/2017/spring/MATH/415/61546.json", 
+                "id": "61546"
+            }, 
+            {
+                "content": "AL5", 
+                "href": "/2017/spring/MATH/415/64940.json", 
+                "id": "64940"
+            }
+        ]
+    }
+}

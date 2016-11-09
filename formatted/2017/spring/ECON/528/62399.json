@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ECON/528/62399.json", 
+    "id": "62399", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "M", 
+            "end": "08:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Esfahani, H", 
+                    "firstName": "H", 
+                    "lastName": "Esfahani"
+                }
+            }, 
+            "start": "06:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Microeconomics for Business", 
+            "href": "/2017/spring/ECON/528.json", 
+            "id": "528"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 27-Feb-17 - 12-May-17.", 
+    "sectionNotes": "Restricted to MBA: (PT) Business Adm -- UIUC.", 
+    "sectionNumber": "PMB", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

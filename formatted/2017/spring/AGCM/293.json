@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated. Prerequisite: Sophomore standing. AGCM Program approval required.", 
+    "creditHours": "1 TO 3 hours.", 
+    "description": "Supervised experience in a field directly pertaining to agricultural communications. Approved for S/U grading only. May be repeated. Prerequisite: Sophomore standing. AGCM Program approval required.", 
+    "href": "/2017/spring/AGCM/293.json", 
+    "id": "AGCM 293", 
+    "label": "Communications Internship", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural Communications", 
+            "href": "/2017/spring/AGCM.json", 
+            "id": "AGCM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/AGCM/293/10214.json", 
+            "id": "10214"
+        }
+    }
+}

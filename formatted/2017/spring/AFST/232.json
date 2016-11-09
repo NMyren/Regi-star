@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as SWAH 202. See SWAH 202.", 
+    "creditHours": "5 hours.", 
+    "description": "Same as SWAH 202. See SWAH 202.", 
+    "href": "/2017/spring/AFST/232.json", 
+    "id": "AFST 232", 
+    "label": "Elementary Swahili II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "African Studies", 
+            "href": "/2017/spring/AFST.json", 
+            "id": "AFST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/AFST/232/63321.json", 
+                "id": "63321"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/AFST/232/63323.json", 
+                "id": "63323"
+            }
+        ]
+    }
+}

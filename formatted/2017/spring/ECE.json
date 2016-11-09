@@ -1,0 +1,495 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "2120 Electrical and Computer Eng. Bldg, 306 N. Wright Street, Urbana", 
+    "collegeCode": "KP", 
+    "collegeDepartmentDescription": "Head of Department: William H. Sanders\nDepartment Office, 2120 Electrical and Computer Eng. Bldg, 306 N. Wright Street, Urbana, 217-333-2300\nwww.ece.illinois.edu", 
+    "contactName": "William H. Sanders", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Introduction to Electronics", 
+                "href": "/2017/spring/ECE/110.json", 
+                "id": "110"
+            }, 
+            {
+                "content": "Introduction to Computing", 
+                "href": "/2017/spring/ECE/120.json", 
+                "id": "120"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/ECE/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Seminar", 
+                "href": "/2017/spring/ECE/200.json", 
+                "id": "200"
+            }, 
+            {
+                "content": "Elec & Electronic Circuits", 
+                "href": "/2017/spring/ECE/205.json", 
+                "id": "205"
+            }, 
+            {
+                "content": "Analog Signal Processing", 
+                "href": "/2017/spring/ECE/210.json", 
+                "id": "210"
+            }, 
+            {
+                "content": "Analog Circuits & Systems", 
+                "href": "/2017/spring/ECE/211.json", 
+                "id": "211"
+            }, 
+            {
+                "content": "Computer Systems & Programming", 
+                "href": "/2017/spring/ECE/220.json", 
+                "id": "220"
+            }, 
+            {
+                "content": "Individual Study", 
+                "href": "/2017/spring/ECE/297.json", 
+                "id": "297"
+            }, 
+            {
+                "content": "Techniques for Engrg Decisions", 
+                "href": "/2017/spring/ECE/307.json", 
+                "id": "307"
+            }, 
+            {
+                "content": "Digital Signal Processing", 
+                "href": "/2017/spring/ECE/310.json", 
+                "id": "310"
+            }, 
+            {
+                "content": "Digital Signal Processing Lab", 
+                "href": "/2017/spring/ECE/311.json", 
+                "id": "311"
+            }, 
+            {
+                "content": "Probability with Engrg Applic", 
+                "href": "/2017/spring/ECE/313.json", 
+                "id": "313"
+            }, 
+            {
+                "content": "Probability in Engineering Lab", 
+                "href": "/2017/spring/ECE/314.json", 
+                "id": "314"
+            }, 
+            {
+                "content": "Ethics and Engineering", 
+                "href": "/2017/spring/ECE/316.json", 
+                "id": "316"
+            }, 
+            {
+                "content": "ECE Technology & Management", 
+                "href": "/2017/spring/ECE/317.json", 
+                "id": "317"
+            }, 
+            {
+                "content": "Fields and Waves I", 
+                "href": "/2017/spring/ECE/329.json", 
+                "id": "329"
+            }, 
+            {
+                "content": "Power Ckts & Electromechanics", 
+                "href": "/2017/spring/ECE/330.json", 
+                "id": "330"
+            }, 
+            {
+                "content": "Green Electric Energy", 
+                "href": "/2017/spring/ECE/333.json", 
+                "id": "333"
+            }, 
+            {
+                "content": "Semiconductor Electronics", 
+                "href": "/2017/spring/ECE/340.json", 
+                "id": "340"
+            }, 
+            {
+                "content": "Electronic Circuits", 
+                "href": "/2017/spring/ECE/342.json", 
+                "id": "342"
+            }, 
+            {
+                "content": "Electronic Circuits Laboratory", 
+                "href": "/2017/spring/ECE/343.json", 
+                "id": "343"
+            }, 
+            {
+                "content": "Fields and Waves II", 
+                "href": "/2017/spring/ECE/350.json", 
+                "id": "350"
+            }, 
+            {
+                "content": "Digital Communications", 
+                "href": "/2017/spring/ECE/361.json", 
+                "id": "361"
+            }, 
+            {
+                "content": "Introduction to Algorithms & Models of Computation", 
+                "href": "/2017/spring/ECE/374.json", 
+                "id": "374"
+            }, 
+            {
+                "content": "Digital Systems Laboratory", 
+                "href": "/2017/spring/ECE/385.json", 
+                "id": "385"
+            }, 
+            {
+                "content": "Computer Systems Engineering", 
+                "href": "/2017/spring/ECE/391.json", 
+                "id": "391"
+            }, 
+            {
+                "content": "Advanced Digital Projects Lab", 
+                "href": "/2017/spring/ECE/395.json", 
+                "id": "395"
+            }, 
+            {
+                "content": "Honors Project", 
+                "href": "/2017/spring/ECE/396.json", 
+                "id": "396"
+            }, 
+            {
+                "content": "Individual Study in ECE", 
+                "href": "/2017/spring/ECE/397.json", 
+                "id": "397"
+            }, 
+            {
+                "content": "Special Topics in ECE", 
+                "href": "/2017/spring/ECE/398.json", 
+                "id": "398"
+            }, 
+            {
+                "content": "Signal and Image Analysis", 
+                "href": "/2017/spring/ECE/401.json", 
+                "id": "401"
+            }, 
+            {
+                "content": "Electronic Music Synthesis", 
+                "href": "/2017/spring/ECE/402.json", 
+                "id": "402"
+            }, 
+            {
+                "content": "Audio Engineering", 
+                "href": "/2017/spring/ECE/403.json", 
+                "id": "403"
+            }, 
+            {
+                "content": "Computer Organization & Design", 
+                "href": "/2017/spring/ECE/411.json", 
+                "id": "411"
+            }, 
+            {
+                "content": "Biomedical Instrumentation", 
+                "href": "/2017/spring/ECE/414.json", 
+                "id": "414"
+            }, 
+            {
+                "content": "Biomedical Instrumentation Lab", 
+                "href": "/2017/spring/ECE/415.json", 
+                "id": "415"
+            }, 
+            {
+                "content": "Biosensors", 
+                "href": "/2017/spring/ECE/416.json", 
+                "id": "416"
+            }, 
+            {
+                "content": "Image & Video Processing", 
+                "href": "/2017/spring/ECE/418.json", 
+                "id": "418"
+            }, 
+            {
+                "content": "Security Laboratory", 
+                "href": "/2017/spring/ECE/419.json", 
+                "id": "419"
+            }, 
+            {
+                "content": "Embedded DSP Laboratory", 
+                "href": "/2017/spring/ECE/420.json", 
+                "id": "420"
+            }, 
+            {
+                "content": "Computer Security I", 
+                "href": "/2017/spring/ECE/422.json", 
+                "id": "422"
+            }, 
+            {
+                "content": "Computer Security II", 
+                "href": "/2017/spring/ECE/424.json", 
+                "id": "424"
+            }, 
+            {
+                "content": "Distributed Systems", 
+                "href": "/2017/spring/ECE/428.json", 
+                "id": "428"
+            }, 
+            {
+                "content": "Electric Machinery", 
+                "href": "/2017/spring/ECE/431.json", 
+                "id": "431"
+            }, 
+            {
+                "content": "Sensors and Instrumentation", 
+                "href": "/2017/spring/ECE/437.json", 
+                "id": "437"
+            }, 
+            {
+                "content": "Communication Networks", 
+                "href": "/2017/spring/ECE/438.json", 
+                "id": "438"
+            }, 
+            {
+                "content": "Physcs & Modeling Semicond Dev", 
+                "href": "/2017/spring/ECE/441.json", 
+                "id": "441"
+            }, 
+            {
+                "content": "IC Device Theory & Fabrication", 
+                "href": "/2017/spring/ECE/444.json", 
+                "id": "444"
+            }, 
+            {
+                "content": "Senior Design Project Lab", 
+                "href": "/2017/spring/ECE/445.json", 
+                "id": "445"
+            }, 
+            {
+                "content": "Artificial Intelligence", 
+                "href": "/2017/spring/ECE/448.json", 
+                "id": "448"
+            }, 
+            {
+                "content": "Adv Microwave Measurements", 
+                "href": "/2017/spring/ECE/451.json", 
+                "id": "451"
+            }, 
+            {
+                "content": "Wireless Communication Systems", 
+                "href": "/2017/spring/ECE/453.json", 
+                "id": "453"
+            }, 
+            {
+                "content": "Microwave Devices & Circuits", 
+                "href": "/2017/spring/ECE/457.json", 
+                "id": "457"
+            }, 
+            {
+                "content": "Applic of Radio Wave Propag", 
+                "href": "/2017/spring/ECE/458.json", 
+                "id": "458"
+            }, 
+            {
+                "content": "Magnetic Resonance Imaging", 
+                "href": "/2017/spring/ECE/480.json", 
+                "id": "480"
+            }, 
+            {
+                "content": "Nanotechnology", 
+                "href": "/2017/spring/ECE/481.json", 
+                "id": "481"
+            }, 
+            {
+                "content": "Analog IC Design", 
+                "href": "/2017/spring/ECE/483.json", 
+                "id": "483"
+            }, 
+            {
+                "content": "Control Systems", 
+                "href": "/2017/spring/ECE/486.json", 
+                "id": "486"
+            }, 
+            {
+                "content": "Robot Dynamics and Control", 
+                "href": "/2017/spring/ECE/489.json", 
+                "id": "489"
+            }, 
+            {
+                "content": "Introduction to Optimization", 
+                "href": "/2017/spring/ECE/490.json", 
+                "id": "490"
+            }, 
+            {
+                "content": "Numerical Analysis", 
+                "href": "/2017/spring/ECE/491.json", 
+                "id": "491"
+            }, 
+            {
+                "content": "Advanced Engineering Math", 
+                "href": "/2017/spring/ECE/493.json", 
+                "id": "493"
+            }, 
+            {
+                "content": "Photonic Device Laboratory", 
+                "href": "/2017/spring/ECE/495.json", 
+                "id": "495"
+            }, 
+            {
+                "content": "Senior Research Project", 
+                "href": "/2017/spring/ECE/496.json", 
+                "id": "496"
+            }, 
+            {
+                "content": "Special Topics in ECE", 
+                "href": "/2017/spring/ECE/498.json", 
+                "id": "498"
+            }, 
+            {
+                "content": "Senior Thesis", 
+                "href": "/2017/spring/ECE/499.json", 
+                "id": "499"
+            }, 
+            {
+                "content": "ECE Colloquium", 
+                "href": "/2017/spring/ECE/500.json", 
+                "id": "500"
+            }, 
+            {
+                "content": "Manycore Parallel Algorithms", 
+                "href": "/2017/spring/ECE/508.json", 
+                "id": "508"
+            }, 
+            {
+                "content": "Vector Space Signal Processing", 
+                "href": "/2017/spring/ECE/513.json", 
+                "id": "513"
+            }, 
+            {
+                "content": "Control System Theory & Design", 
+                "href": "/2017/spring/ECE/515.json", 
+                "id": "515"
+            }, 
+            {
+                "content": "Analysis of Nonlinear Systems", 
+                "href": "/2017/spring/ECE/528.json", 
+                "id": "528"
+            }, 
+            {
+                "content": "Random Processes", 
+                "href": "/2017/spring/ECE/534.json", 
+                "id": "534"
+            }, 
+            {
+                "content": "Integ Optics & Optoelectronics", 
+                "href": "/2017/spring/ECE/536.json", 
+                "id": "536"
+            }, 
+            {
+                "content": "Statistical Learning Theory", 
+                "href": "/2017/spring/ECE/543.json", 
+                "id": "543"
+            }, 
+            {
+                "content": "Topics in Signal Processing", 
+                "href": "/2017/spring/ECE/544.json", 
+                "id": "544"
+            }, 
+            {
+                "content": "Advanced Physical Acoustics", 
+                "href": "/2017/spring/ECE/545.json", 
+                "id": "545"
+            }, 
+            {
+                "content": "Topics in Image Processing", 
+                "href": "/2017/spring/ECE/547.json", 
+                "id": "547"
+            }, 
+            {
+                "content": "Computer Vision", 
+                "href": "/2017/spring/ECE/549.json", 
+                "id": "549"
+            }, 
+            {
+                "content": "Dynamic System Reliability", 
+                "href": "/2017/spring/ECE/554.json", 
+                "id": "554"
+            }, 
+            {
+                "content": "Control of Stochastic Systems", 
+                "href": "/2017/spring/ECE/555.json", 
+                "id": "555"
+            }, 
+            {
+                "content": "Digital Imaging", 
+                "href": "/2017/spring/ECE/558.json", 
+                "id": "558"
+            }, 
+            {
+                "content": "Detection & Estimation Theory", 
+                "href": "/2017/spring/ECE/561.json", 
+                "id": "561"
+            }, 
+            {
+                "content": "Modern Light Microscopy", 
+                "href": "/2017/spring/ECE/564.json", 
+                "id": "564"
+            }, 
+            {
+                "content": "Nanophotonics", 
+                "href": "/2017/spring/ECE/574.json", 
+                "id": "574"
+            }, 
+            {
+                "content": "Advanced Antenna Theory", 
+                "href": "/2017/spring/ECE/577.json", 
+                "id": "577"
+            }, 
+            {
+                "content": "Computational Complexity", 
+                "href": "/2017/spring/ECE/579.json", 
+                "id": "579"
+            }, 
+            {
+                "content": "Grad Sem in Special Topics", 
+                "href": "/2017/spring/ECE/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Math Models of Language", 
+                "href": "/2017/spring/ECE/594.json", 
+                "id": "594"
+            }, 
+            {
+                "content": "Master's Project", 
+                "href": "/2017/spring/ECE/596.json", 
+                "id": "596"
+            }, 
+            {
+                "content": "Individual Study in ECE", 
+                "href": "/2017/spring/ECE/597.json", 
+                "id": "597"
+            }, 
+            {
+                "content": "Special Topics in ECE", 
+                "href": "/2017/spring/ECE/598.json", 
+                "id": "598"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/ECE/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1933", 
+    "id": "ECE", 
+    "label": "Electrical and Computer Engineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-2300", 
+    "unitName": "Electrical and Computer Engineering", 
+    "webSiteURL": "www.ece.illinois.edu"
+}

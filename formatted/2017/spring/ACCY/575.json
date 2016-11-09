@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional credit. Prerequisite: ACCY 570 and ACCY 571.", 
+    "creditHours": "4 hours.", 
+    "description": "Develops knowledge regarding the role, methods, and implications of business and data analytics in accounting. Building on prior coursework on the fundamentals of statistical analysis and business/data analytics, this course provides the opportunity to apply related theoretical and practical principles to a variety of accounting scenarios, including audit, tax, fraud identification and detection, financial reporting, and managerial accounting. 4 graduate hours. No professional credit. Prerequisite: ACCY 570 and ACCY 571.", 
+    "href": "/2017/spring/ACCY/575.json", 
+    "id": "ACCY 575", 
+    "label": "Data Analytics Applications in Accountancy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Accountancy", 
+            "href": "/2017/spring/ACCY.json", 
+            "id": "ACCY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ACCY/575/64806.json", 
+            "id": "64806"
+        }
+    }
+}

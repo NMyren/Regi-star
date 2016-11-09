@@ -1,0 +1,59 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/ENVS/310/60469.json", 
+    "id": "60469", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "F", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Brazee, R", 
+                        "firstName": "R", 
+                        "lastName": "Brazee"
+                    }, 
+                    {
+                        "content": "Green, E", 
+                        "firstName": "E", 
+                        "lastName": "Green"
+                    }
+                ]
+            }, 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Natural Resource Economics", 
+            "href": "/2017/spring/ENVS/310.json", 
+            "id": "310"
+        }, 
+        "subject": {
+            "content": "Environmental Studies", 
+            "href": "/2017/spring/ENVS.json", 
+            "id": "ENVS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AD2", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

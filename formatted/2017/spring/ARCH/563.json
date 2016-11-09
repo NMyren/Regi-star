@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as LA 563. Prerequisite: Graduate standing in architecture, landscape architecture, or urban and regional planning.", 
+    "creditHours": "4 hours.", 
+    "description": "Introduction to methods and techniques of systematically generating social and behavioral information relevant to the programming, design, and evaluation of physical environments. Same as LA 563. Prerequisite: Graduate standing in architecture, landscape architecture, or urban and regional planning.", 
+    "href": "/2017/spring/ARCH/563.json", 
+    "id": "ARCH 563", 
+    "label": "Soc/Beh Research Designed Env", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign. Restricted to PHD:Lndscpe Architecture -UIUC, PHD:Architecture -UIUC, PHD:Regional Planning -UIUC, or MS: Architectural Studies-UIUC.", 
+    "sections": {
+        "section": {
+            "content": "C", 
+            "href": "/2017/spring/ARCH/563/60417.json", 
+            "id": "60417"
+        }
+    }
+}

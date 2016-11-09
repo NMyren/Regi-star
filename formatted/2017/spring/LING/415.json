@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as TRST 415. See TRST 415.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as TRST 415. See TRST 415.", 
+    "href": "/2017/spring/LING/415.json", 
+    "id": "LING 415", 
+    "label": "Machine Translation: History and Applications", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Linguistics", 
+            "href": "/2017/spring/LING.json", 
+            "id": "LING"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G1", 
+                "href": "/2017/spring/LING/415/65275.json", 
+                "id": "65275"
+            }, 
+            {
+                "content": "U1", 
+                "href": "/2017/spring/LING/415/65274.json", 
+                "id": "65274"
+            }
+        ]
+    }
+}

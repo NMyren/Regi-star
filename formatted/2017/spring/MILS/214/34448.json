@@ -1,0 +1,89 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/MILS/214/34448.json", 
+    "id": "34448", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Armory", 
+                "daysOfTheWeek": "MWR", 
+                "end": "07:20 AM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Ashworth, E", 
+                            "firstName": "E", 
+                            "lastName": "Ashworth"
+                        }, 
+                        {
+                            "content": "Tanner, D", 
+                            "firstName": "D", 
+                            "lastName": "Tanner"
+                        }
+                    ]
+                }, 
+                "roomNumber": "100", 
+                "start": "06:00 AM", 
+                "type": {
+                    "code": "LAB", 
+                    "content": "Laboratory"
+                }
+            }, 
+            {
+                "buildingName": "Armory", 
+                "daysOfTheWeek": "R", 
+                "end": "05:50 PM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Ashworth, E", 
+                            "firstName": "E", 
+                            "lastName": "Ashworth"
+                        }, 
+                        {
+                            "content": "Tanner, D", 
+                            "firstName": "D", 
+                            "lastName": "Tanner"
+                        }
+                    ]
+                }, 
+                "roomNumber": "100", 
+                "start": "04:00 PM", 
+                "type": {
+                    "code": "LAB", 
+                    "content": "Laboratory"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Leadership Laboratory", 
+            "href": "/2017/spring/MILS/214.json", 
+            "id": "214"
+        }, 
+        "subject": {
+            "content": "Military Science", 
+            "href": "/2017/spring/MILS.json", 
+            "id": "MILS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

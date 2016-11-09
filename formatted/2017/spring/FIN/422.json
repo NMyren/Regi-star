@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. Prerequisite: FIN 300 and FIN 321.", 
+    "creditHours": "3 hours.", 
+    "description": "Course totally devoted to the study of financial management cases, provides students a hands-on learning experience. The case work helps students to develop their analytical and interpretative skills in solving unstructured real world problems. The theoretical concepts and tools learned in the introductory finance courses provide the foundation for the case studies. Topics discussed include financial forecasting and working capital management; capital budgeting and cost of capital; and capital structure, dividend policy, corporate financing, financial restructuring, financial distress, mergers, acquisitions and firm valuation. 3 undergraduate hours. No graduate credit. Prerequisite: FIN 300 and FIN 321.", 
+    "href": "/2017/spring/FIN/422.json", 
+    "id": "FIN 422", 
+    "label": "Cases in Corporate Finance", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Finance", 
+            "href": "/2017/spring/FIN.json", 
+            "id": "FIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to College of Business. Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "P", 
+            "href": "/2017/spring/FIN/422/58599.json", 
+            "id": "58599"
+        }
+    }
+}

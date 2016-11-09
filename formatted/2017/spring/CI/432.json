@@ -1,0 +1,51 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: CI 430 or CI 431; admission to the Elementary Teacher Education Program.", 
+    "creditHours": "3 hours.", 
+    "description": "Course will model and examine an investigative approach to elementary mathematics instruction, which is purposeful, inquiry-based, and meaningful mathematics instruction. Particular focus will be given to the teaching and learning of measurement, geometry and algebra/functions. 3 undergraduate hours. 3 graduate hours. Prerequisite: CI 430 or CI 431; admission to the Elementary Teacher Education Program.", 
+    "href": "/2017/spring/CI/432.json", 
+    "id": "CI 432", 
+    "label": "Invest Approach Elem Math Inst", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to Admitted Teacher Ed Student students.", 
+    "sectionRegistrationNotes": "Restricted to Elementary Education major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "C1", 
+                "href": "/2017/spring/CI/432/63324.json", 
+                "id": "63324"
+            }, 
+            {
+                "content": "C2", 
+                "href": "/2017/spring/CI/432/63325.json", 
+                "id": "63325"
+            }, 
+            {
+                "content": "C3", 
+                "href": "/2017/spring/CI/432/63326.json", 
+                "id": "63326"
+            }, 
+            {
+                "content": "C4", 
+                "href": "/2017/spring/CI/432/63327.json", 
+                "id": "63327"
+            }
+        ]
+    }
+}

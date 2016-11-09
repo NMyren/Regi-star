@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/AFST/490/64629.json", 
+    "id": "64629", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "International Studies Building", 
+            "daysOfTheWeek": "M", 
+            "end": "06:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Lutomia, A", 
+                    "firstName": "A", 
+                    "lastName": "Lutomia"
+                }
+            }, 
+            "roomNumber": "232", 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Independent Study", 
+            "href": "/2017/spring/AFST/490.json", 
+            "id": "490"
+        }, 
+        "subject": {
+            "content": "African Studies", 
+            "href": "/2017/spring/AFST.json", 
+            "id": "AFST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "AL", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course will be taught in Swahili. Course meets in Room 232 of International Studies Building, 910 S.Fifth St., C.", 
+    "sectionTitle": "Policy and Practical Divides", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

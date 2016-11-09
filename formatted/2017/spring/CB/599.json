@@ -1,0 +1,38 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated.", 
+    "creditHours": "0 TO 16 hours.", 
+    "description": "Individual direction of research and thesis writing. Approved for S/U grading only. May be repeated.", 
+    "href": "/2017/spring/CB/599.json", 
+    "id": "CB 599", 
+    "label": "Thesis Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Comparative Biosciences", 
+            "href": "/2017/spring/CB.json", 
+            "id": "CB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/CB/599/55186.json", 
+                "id": "55186"
+            }, 
+            {
+                "content": "IC", 
+                "href": "/2017/spring/CB/599/64614.json", 
+                "id": "64614"
+            }
+        ]
+    }
+}

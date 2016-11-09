@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ME/320/37323.json", 
+    "id": "37323", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Mechanical Engineering Bldg", 
+            "daysOfTheWeek": "MWF", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Pearlstein, A", 
+                    "firstName": "A", 
+                    "lastName": "Pearlstein"
+                }
+            }, 
+            "roomNumber": "218", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Heat Transfer", 
+            "href": "/2017/spring/ME/320.json", 
+            "id": "320"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Engineering Mechanics or Mechanical Engineering major(s). Restricted to students with Senior class standing.", 
+    "sectionNumber": "AE2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "ME students must obtain department approval from staff in 154 MEB to drop this course after the last day to add a class..", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

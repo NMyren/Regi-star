@@ -1,0 +1,71 @@
+{
+    "classScheduleInformation": "For school of music majors only. Must have completed MUS 101 or equivalent.", 
+    "courseSectionInformation": "This is the second of two courses that addresses the keyboard competency policy for non-piano majors. Prerequisite: MUS 101 and MUS 107; MUS 172 or equivalent; or consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "Continuation of skills introduced in MUS 172. Group instruction in elementary piano for music majors whose principal performing medium is voice, or an orchestral or band instrument. Sight-reading, harmonization, transposition, and improvisation.  Easy solos from the main historical periods with appropriate technical development; introduction to piano ensemble literature. This is the second of two courses that addresses the keyboard competency policy for non-piano majors. Prerequisite: MUS 101 and MUS 107; MUS 172 or equivalent; or consent of instructor.", 
+    "href": "/2017/spring/MUS/173.json", 
+    "id": "MUS 173", 
+    "label": "Grp Instr Pno for Mus Maj II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Music department.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/MUS/173/35640.json", 
+                "id": "35640"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/MUS/173/35642.json", 
+                "id": "35642"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/MUS/173/35646.json", 
+                "id": "35646"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/MUS/173/35647.json", 
+                "id": "35647"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/MUS/173/35649.json", 
+                "id": "35649"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/MUS/173/35651.json", 
+                "id": "35651"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/MUS/173/35653.json", 
+                "id": "35653"
+            }, 
+            {
+                "content": "H", 
+                "href": "/2017/spring/MUS/173/46436.json", 
+                "id": "46436"
+            }
+        ]
+    }
+}

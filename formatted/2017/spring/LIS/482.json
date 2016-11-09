@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as ENGL 482. See ENGL 482.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as ENGL 482. See ENGL 482.", 
+    "href": "/2017/spring/LIS/482.json", 
+    "id": "LIS 482", 
+    "label": "Writing Technologies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "1G", 
+                "href": "/2017/spring/LIS/482/39680.json", 
+                "id": "39680"
+            }, 
+            {
+                "content": "1U", 
+                "href": "/2017/spring/LIS/482/39679.json", 
+                "id": "39679"
+            }
+        ]
+    }
+}

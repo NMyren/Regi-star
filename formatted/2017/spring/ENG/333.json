@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as TE 333.", 
+    "creditHours": "4 hours.", 
+    "description": "Personal creativity enhancement via exploration of the nature of creativity, how creativity works, and how to envision what others may not. Practice of techniques and processes to enhance personal and group creativity and to nurture a creative lifestyle. Application to a major term project providing the opportunity to move an idea, product, process or service from vision to reality. Same as TE 333.", 
+    "href": "/2017/spring/ENG/333.json", 
+    "id": "ENG 333", 
+    "label": "Creativity, Innovation, Vision", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "CR2", 
+            "href": "/2017/spring/ENG/333/60527.json", 
+            "id": "60527"
+        }
+    }
+}

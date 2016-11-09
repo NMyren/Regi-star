@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as CS 543. Prerequisite: ECE 448 or CS 225.", 
+    "creditHours": "4 hours.", 
+    "description": "Information processing approaches to computer vision, algorithms, and architectures for artificial intelligence and robotics systems capable of vision: inference of three-dimensional properties of a scene from its images, such as distance, orientation, motion, size and shape, acquisition, and representation of spatial information for navigation and manipulation in robotics. Same as CS 543. Prerequisite: ECE 448 or CS 225.", 
+    "href": "/2017/spring/ECE/549.json", 
+    "id": "ECE 549", 
+    "label": "Computer Vision", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "R", 
+            "href": "/2017/spring/ECE/549/33994.json", 
+            "id": "33994"
+        }
+    }
+}

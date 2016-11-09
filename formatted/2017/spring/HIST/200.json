@@ -1,0 +1,50 @@
+{
+    "classScheduleInformation": "Topics will be listed in the department's course guide at http://www.history.illinois.edu.", 
+    "courseSectionInformation": "May be repeated to a maximum of 6 hours with permission of the Director of Undergraduate Studies.", 
+    "creditHours": "3 hours.", 
+    "description": "Through the careful examination of a specific topic or theme, this course provides a thorough introduction to historical interpretation. Particular attention will be devoted to research strategies, writing practices, handling primary and secondary sources, and the analysis of historiography. May be repeated to a maximum of 6 hours with permission of the Director of Undergraduate Studies.", 
+    "href": "/2017/spring/HIST/200.json", 
+    "id": "HIST 200", 
+    "label": "Intro Hist Interpretation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/HIST/200/34112.json", 
+                "id": "34112"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/HIST/200/34113.json", 
+                "id": "34113"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/HIST/200/34114.json", 
+                "id": "34114"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/HIST/200/39385.json", 
+                "id": "39385"
+            }
+        ]
+    }
+}

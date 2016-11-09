@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as MDVL 411. 3 undergraduate hours. 4 graduate hours. Prerequisite: One year of college literature or consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "A selection of Chaucer's major works read in Middle English. Instructors will usually emphasize either the Canterbury Tales or Troilus and Criseyde and the dream visions, but alternate combinations of texts are possible. Students will also be introduced to Chaucer's fourteenth-century context. Same as MDVL 411. 3 undergraduate hours. 4 graduate hours. Prerequisite: One year of college literature or consent of instructor.", 
+    "href": "/2017/spring/ENGL/411.json", 
+    "id": "ENGL 411", 
+    "label": "Chaucer", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "1G", 
+                "href": "/2017/spring/ENGL/411/32131.json", 
+                "id": "32131"
+            }, 
+            {
+                "content": "1U", 
+                "href": "/2017/spring/ENGL/411/32129.json", 
+                "id": "32129"
+            }
+        ]
+    }
+}

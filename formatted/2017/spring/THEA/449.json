@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: THEA 445 and THEA 446. Costume Majors or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Explores, through design projects, the appropriateness of various fabrics for specific costumes determined by historical accuracy, style, and constructability. 4 undergraduate hours. 4 graduate hours. Prerequisite: THEA 445 and THEA 446. Costume Majors or consent of instructor.", 
+    "href": "/2017/spring/THEA/449.json", 
+    "id": "THEA 449", 
+    "label": "Costume Fabrication", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/THEA/449/65721.json", 
+            "id": "65721"
+        }
+    }
+}

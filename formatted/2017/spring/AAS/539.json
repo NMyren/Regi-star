@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as EPS 539 and HDFS 539. See HDFS 539.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as EPS 539 and HDFS 539. See HDFS 539.", 
+    "href": "/2017/spring/AAS/539.json", 
+    "id": "AAS 539", 
+    "label": "Youth, Culture and Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Asian American Studies", 
+            "href": "/2017/spring/AAS.json", 
+            "id": "AAS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "100", 
+                "href": "/2017/spring/AAS/539/65078.json", 
+                "id": "65078"
+            }, 
+            {
+                "content": "A", 
+                "href": "/2017/spring/AAS/539/52111.json", 
+                "id": "52111"
+            }
+        ]
+    }
+}

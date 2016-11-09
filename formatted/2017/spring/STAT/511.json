@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: STAT 510.", 
+    "creditHours": "4 hours.", 
+    "description": "Bayes estimates, minimaxity, admissibility; maximum likelihood estimation, consistency, asymptotic efficiency; testing and confidence intervals; Neyman-Pearson lemma, uniformly most powerful tests; likelihood ratio tests and large-sample approximation; nonparametrics. Prerequisite: STAT 510.", 
+    "href": "/2017/spring/STAT/511.json", 
+    "id": "STAT 511", 
+    "label": "Mathematical Statistics II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Statistics", 
+            "href": "/2017/spring/STAT.json", 
+            "id": "STAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign. Restricted to MS:Statistics -UIUC, PHD:Statistics -UIUC, MS:Statistics -- Applied -UIUC, or MS: Statistics: Analytics.", 
+    "sections": {
+        "section": {
+            "content": "A1", 
+            "href": "/2017/spring/STAT/511/36203.json", 
+            "id": "36203"
+        }
+    }
+}

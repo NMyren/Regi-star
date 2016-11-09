@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Same as SCAN 215. See SCAN 215.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as SCAN 215. See SCAN 215.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Humanities & the Arts", 
+            "id": "HUM", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1LA", 
+                    "content": "UIUC: Literature and the Arts"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CWL/215.json", 
+    "id": "CWL 215", 
+    "label": "Madness, Myth, and Murder", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Comparative and World Literature", 
+            "href": "/2017/spring/CWL.json", 
+            "id": "CWL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Literature and the Arts course.", 
+    "sections": {
+        "section": {
+            "content": "S", 
+            "href": "/2017/spring/CWL/215/47987.json", 
+            "id": "47987"
+        }
+    }
+}

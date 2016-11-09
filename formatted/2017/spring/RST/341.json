@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Prerequisite: Junior standing; or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Studies the outdoor recreational use of lands in the public domain and their planning, concepts, and processes related to planning resource based systems; multiple-use in planning; planning criteria for outdoor recreation facilities. Additional fees may apply. See Class Schedule. Prerequisite: Junior standing; or consent of instructor.", 
+    "href": "/2017/spring/RST/341.json", 
+    "id": "RST 341", 
+    "label": "Community Recreation Planning", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to students with Junior or Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/RST/341/46291.json", 
+            "id": "46291"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as NPRE 483. See NPRE 483.", 
+    "creditHours": "1 hours.", 
+    "description": "Same as NPRE 483. See NPRE 483.", 
+    "href": "/2017/spring/GLBL/483.json", 
+    "id": "GLBL 483", 
+    "label": "Seminar on Security", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Global Studies", 
+            "href": "/2017/spring/GLBL.json", 
+            "id": "GLBL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GLBL/483/34792.json", 
+            "id": "34792"
+        }
+    }
+}

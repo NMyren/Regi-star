@@ -1,0 +1,125 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "1208 West Nevada, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Head of Department: Soo Ah Kwon\nDepartment Office, 1208 West Nevada, Urbana, 217-244-9530\nwww.aasp.illinois.edu", 
+    "contactName": "Soo Ah Kwon", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Intro Asian American Studies", 
+                "href": "/2017/spring/AAS/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "Intro to Asian Am Pop Culture", 
+                "href": "/2017/spring/AAS/120.json", 
+                "id": "120"
+            }, 
+            {
+                "content": "U.S. Race and Empire", 
+                "href": "/2017/spring/AAS/200.json", 
+                "id": "200"
+            }, 
+            {
+                "content": "US Racial & Ethnic Politics", 
+                "href": "/2017/spring/AAS/201.json", 
+                "id": "201"
+            }, 
+            {
+                "content": "US Citizenship Comparatively", 
+                "href": "/2017/spring/AAS/215.json", 
+                "id": "215"
+            }, 
+            {
+                "content": "Politics of Hip Hop", 
+                "href": "/2017/spring/AAS/265.json", 
+                "id": "265"
+            }, 
+            {
+                "content": "Asian American History", 
+                "href": "/2017/spring/AAS/283.json", 
+                "id": "283"
+            }, 
+            {
+                "content": "Asian Families in America", 
+                "href": "/2017/spring/AAS/297.json", 
+                "id": "297"
+            }, 
+            {
+                "content": "Begin Topics Asian Am Studies", 
+                "href": "/2017/spring/AAS/299.json", 
+                "id": "299"
+            }, 
+            {
+                "content": "Race and Cultural Diversity", 
+                "href": "/2017/spring/AAS/310.json", 
+                "id": "310"
+            }, 
+            {
+                "content": "War, Memory, and Cinema", 
+                "href": "/2017/spring/AAS/315.json", 
+                "id": "315"
+            }, 
+            {
+                "content": "Asian American Youth", 
+                "href": "/2017/spring/AAS/346.json", 
+                "id": "346"
+            }, 
+            {
+                "content": "Race and Mixed Race", 
+                "href": "/2017/spring/AAS/355.json", 
+                "id": "355"
+            }, 
+            {
+                "content": "Asian American Media and Film", 
+                "href": "/2017/spring/AAS/365.json", 
+                "id": "365"
+            }, 
+            {
+                "content": "Intermed Topics Asian Am St", 
+                "href": "/2017/spring/AAS/390.json", 
+                "id": "390"
+            }, 
+            {
+                "content": "Commodifying Difference", 
+                "href": "/2017/spring/AAS/435.json", 
+                "id": "435"
+            }, 
+            {
+                "content": "Race, Medicine, and Society", 
+                "href": "/2017/spring/AAS/479.json", 
+                "id": "479"
+            }, 
+            {
+                "content": "Youth, Culture and Society", 
+                "href": "/2017/spring/AAS/539.json", 
+                "id": "539"
+            }, 
+            {
+                "content": "Asian Am Studies Seminar", 
+                "href": "/2017/spring/AAS/590.json", 
+                "id": "590"
+            }
+        ]
+    }, 
+    "departmentCode": "1404", 
+    "id": "AAS", 
+    "label": "Asian American Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-244-9530", 
+    "unitName": "Asian American Studies", 
+    "webSiteURL": "www.aasp.illinois.edu"
+}

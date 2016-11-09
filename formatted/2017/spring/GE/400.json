@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. Prerequisite: RHET 105.", 
+    "creditHours": "3 hours.", 
+    "description": "Nature and development of the legal system; legal rights and duties important to engineers in their professions; contracts, uniform commercial code and sales of goods, torts, agency, worker's compensation, labor law, property, environmental law, intellectual property. 3 undergraduate hours. No graduate credit. Prerequisite: RHET 105.", 
+    "href": "/2017/spring/GE/400.json", 
+    "id": "GE 400", 
+    "label": "Engineering Law", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "General Engineering", 
+            "href": "/2017/spring/GE.json", 
+            "id": "GE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to students with Junior or Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/GE/400/33216.json", 
+            "id": "33216"
+        }
+    }
+}

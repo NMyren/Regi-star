@@ -1,0 +1,155 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "2522 Veterinary Medicine Basic Sciences Building, 2001 South Lincoln Avenue, Urbana", 
+    "collegeCode": "LC", 
+    "collegeDepartmentDescription": "Interim Head of Department: Philip Solter\nDepartment Office, 2522 Veterinary Medicine Basic Sciences Building, 2001 South Lincoln Avenue, Urbana, 333-2449\nwww.cvm.illinois.edu/path/", 
+    "contactName": "Philip Solter", 
+    "contactTitle": "Interim Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Undergraduate Research", 
+                "href": "/2017/spring/PATH/290.json", 
+                "id": "290"
+            }, 
+            {
+                "content": "Comparative Immunobiology", 
+                "href": "/2017/spring/PATH/410.json", 
+                "id": "410"
+            }, 
+            {
+                "content": "Virology & Viral Pathogenesis", 
+                "href": "/2017/spring/PATH/433.json", 
+                "id": "433"
+            }, 
+            {
+                "content": "Health Applications of GIS", 
+                "href": "/2017/spring/PATH/439.json", 
+                "id": "439"
+            }, 
+            {
+                "content": "Pathobiology", 
+                "href": "/2017/spring/PATH/494.json", 
+                "id": "494"
+            }, 
+            {
+                "content": "Parasitology/Epidemiology Sem", 
+                "href": "/2017/spring/PATH/527.json", 
+                "id": "527"
+            }, 
+            {
+                "content": "Ocular Pathology", 
+                "href": "/2017/spring/PATH/542.json", 
+                "id": "542"
+            }, 
+            {
+                "content": "Vet Diagnostic Path 1", 
+                "href": "/2017/spring/PATH/545.json", 
+                "id": "545"
+            }, 
+            {
+                "content": "Pathology Seminar", 
+                "href": "/2017/spring/PATH/547.json", 
+                "id": "547"
+            }, 
+            {
+                "content": "Gross Pathology", 
+                "href": "/2017/spring/PATH/549.json", 
+                "id": "549"
+            }, 
+            {
+                "content": "Interpretive Cytopathology", 
+                "href": "/2017/spring/PATH/551.json", 
+                "id": "551"
+            }, 
+            {
+                "content": "Diagnostic Cytology", 
+                "href": "/2017/spring/PATH/552.json", 
+                "id": "552"
+            }, 
+            {
+                "content": "Exotic/Wild Animal Diag Path 1", 
+                "href": "/2017/spring/PATH/556.json", 
+                "id": "556"
+            }, 
+            {
+                "content": "Exotic/Wild Animal Diag Path 2", 
+                "href": "/2017/spring/PATH/557.json", 
+                "id": "557"
+            }, 
+            {
+                "content": "Exotic/Wild Animal Path Sem", 
+                "href": "/2017/spring/PATH/558.json", 
+                "id": "558"
+            }, 
+            {
+                "content": "Surgical Pathology", 
+                "href": "/2017/spring/PATH/559.json", 
+                "id": "559"
+            }, 
+            {
+                "content": "Seminar", 
+                "href": "/2017/spring/PATH/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Special Problems", 
+                "href": "/2017/spring/PATH/592.json", 
+                "id": "592"
+            }, 
+            {
+                "content": "Interdisciplinary Tox Sem", 
+                "href": "/2017/spring/PATH/596.json", 
+                "id": "596"
+            }, 
+            {
+                "content": "Non-Thesis Research", 
+                "href": "/2017/spring/PATH/598.json", 
+                "id": "598"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/PATH/599.json", 
+                "id": "599"
+            }, 
+            {
+                "content": "Advanced Clinical Pathology", 
+                "href": "/2017/spring/PATH/636.json", 
+                "id": "636"
+            }, 
+            {
+                "content": "Geographic Methods for Health", 
+                "href": "/2017/spring/PATH/642.json", 
+                "id": "642"
+            }, 
+            {
+                "content": "Outbreak Investigation", 
+                "href": "/2017/spring/PATH/645.json", 
+                "id": "645"
+            }, 
+            {
+                "content": "Special Problems", 
+                "href": "/2017/spring/PATH/692.json", 
+                "id": "692"
+            }
+        ]
+    }, 
+    "departmentCode": "1282", 
+    "id": "PATH", 
+    "label": "Pathobiology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-2449", 
+    "unitName": "Pathobiology", 
+    "webSiteURL": "www.cvm.illinois.edu/path/"
+}

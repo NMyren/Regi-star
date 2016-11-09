@@ -1,0 +1,57 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Wrongdoing is part of the history of many, if not most, political communities around the globe. This course examines the moral questions that dealing with past wrongdoing raise. Our focus is specifically on political wrongdoing, that is, wrongdoing inflicted on individuals by the state or groups contesting the state. Such wrongdoing has taken different forms, from slavery, to forced disappearances, to programs of torture and of land appropriation. We also focus on two specific political contexts: the United States and South Africa. In this course, we survey a range of legal measures including criminal punishment, truth commissions, reparations, and apology, that have been, and can be used, to deal with legacies of wrongdoing. Not available for Graduate or Professional credit.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1US", 
+                        "content": "UIUC: US Minority Culture(s)"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/LAW/302.json", 
+    "id": "LAW 302", 
+    "label": "Transitional Justice", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and US Minority Culture(s) course.", 
+    "sectionDeptRestriction": "Not intended for students in the Law department.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/LAW/302/65462.json", 
+            "id": "65462"
+        }
+    }
+}

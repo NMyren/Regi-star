@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Prerequisite: SOC 100.", 
+    "creditHours": "3 hours.", 
+    "description": "Inequities in power, prestige, income, privilege, and lifestyles in the United States and other countries; class and status as determinants of group interests, ideologies, and interaction; and effects of social change and mobility. Prerequisite: SOC 100.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/SOC/373.json", 
+    "id": "SOC 373", 
+    "label": "Social Stratification", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Sociology", 
+            "href": "/2017/spring/SOC.json", 
+            "id": "SOC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "BS", 
+            "href": "/2017/spring/SOC/373/46861.json", 
+            "id": "46861"
+        }
+    }
+}

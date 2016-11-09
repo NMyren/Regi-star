@@ -1,0 +1,140 @@
+{
+    "classScheduleInformation": "Class meetings constitute half of the credit hour requirement, the other half is met by on-line, web-based work. Spanish native speakers should enroll in SPAN 125.", 
+    "courseSectionInformation": "Credit is not given for both SPAN 130 and SPAN 103. Prerequisite: SPAN 122 or equivalent placement score.", 
+    "creditHours": "4 hours.", 
+    "description": "Continued development of reading, writing and conversational skills. This is considered a third level course for purposes of fulfilling the University General Education Language requirement. Credit is not given for both SPAN 130 and SPAN 103. Prerequisite: SPAN 122 or equivalent placement score.", 
+    "href": "/2017/spring/SPAN/130.json", 
+    "id": "SPAN 130", 
+    "label": "Intermediate Spanish", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A2", 
+                "href": "/2017/spring/SPAN/130/64810.json", 
+                "id": "64810"
+            }, 
+            {
+                "content": "B1", 
+                "href": "/2017/spring/SPAN/130/64811.json", 
+                "id": "64811"
+            }, 
+            {
+                "content": "C1", 
+                "href": "/2017/spring/SPAN/130/64812.json", 
+                "id": "64812"
+            }, 
+            {
+                "content": "C2", 
+                "href": "/2017/spring/SPAN/130/64813.json", 
+                "id": "64813"
+            }, 
+            {
+                "content": "C3", 
+                "href": "/2017/spring/SPAN/130/64814.json", 
+                "id": "64814"
+            }, 
+            {
+                "content": "C4", 
+                "href": "/2017/spring/SPAN/130/64815.json", 
+                "id": "64815"
+            }, 
+            {
+                "content": "D1", 
+                "href": "/2017/spring/SPAN/130/64816.json", 
+                "id": "64816"
+            }, 
+            {
+                "content": "D2", 
+                "href": "/2017/spring/SPAN/130/64817.json", 
+                "id": "64817"
+            }, 
+            {
+                "content": "D3", 
+                "href": "/2017/spring/SPAN/130/64818.json", 
+                "id": "64818"
+            }, 
+            {
+                "content": "D4", 
+                "href": "/2017/spring/SPAN/130/64819.json", 
+                "id": "64819"
+            }, 
+            {
+                "content": "D6", 
+                "href": "/2017/spring/SPAN/130/64820.json", 
+                "id": "64820"
+            }, 
+            {
+                "content": "E1", 
+                "href": "/2017/spring/SPAN/130/64821.json", 
+                "id": "64821"
+            }, 
+            {
+                "content": "E2", 
+                "href": "/2017/spring/SPAN/130/64822.json", 
+                "id": "64822"
+            }, 
+            {
+                "content": "E3", 
+                "href": "/2017/spring/SPAN/130/64823.json", 
+                "id": "64823"
+            }, 
+            {
+                "content": "E4", 
+                "href": "/2017/spring/SPAN/130/64824.json", 
+                "id": "64824"
+            }, 
+            {
+                "content": "F1", 
+                "href": "/2017/spring/SPAN/130/64825.json", 
+                "id": "64825"
+            }, 
+            {
+                "content": "F2", 
+                "href": "/2017/spring/SPAN/130/64826.json", 
+                "id": "64826"
+            }, 
+            {
+                "content": "F3", 
+                "href": "/2017/spring/SPAN/130/64827.json", 
+                "id": "64827"
+            }, 
+            {
+                "content": "F4", 
+                "href": "/2017/spring/SPAN/130/64828.json", 
+                "id": "64828"
+            }, 
+            {
+                "content": "G5", 
+                "href": "/2017/spring/SPAN/130/64829.json", 
+                "id": "64829"
+            }, 
+            {
+                "content": "X1", 
+                "href": "/2017/spring/SPAN/130/64830.json", 
+                "id": "64830"
+            }, 
+            {
+                "content": "X2", 
+                "href": "/2017/spring/SPAN/130/64831.json", 
+                "id": "64831"
+            }
+        ]
+    }
+}

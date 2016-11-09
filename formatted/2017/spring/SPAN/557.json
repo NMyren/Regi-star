@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as FR 559, ITAL 559, LING 559, PORT 559, and RMLG 559. May be repeated if topics vary. Prerequisite: SPAN 435 and consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Selected topics in comparative Romance linguistics. Same as FR 559, ITAL 559, LING 559, PORT 559, and RMLG 559. May be repeated if topics vary. Prerequisite: SPAN 435 and consent of instructor.", 
+    "href": "/2017/spring/SPAN/557.json", 
+    "id": "SPAN 557", 
+    "label": "Sem Romance Ling", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/SPAN/557/54432.json", 
+            "id": "54432"
+        }
+    }
+}

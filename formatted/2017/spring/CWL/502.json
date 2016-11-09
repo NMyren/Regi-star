@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Knowledge of two languages other than English or (with instructor's consent) advanced knowledge of one foreign language.", 
+    "creditHours": "4 hours.", 
+    "description": "Problems and methods of cross-cultural literary studies, concentrating on the effects of historical encounters between different civilizations and on theoretical issues in comparing literatures across cultures. Prerequisite: Knowledge of two languages other than English or (with instructor's consent) advanced knowledge of one foreign language.", 
+    "href": "/2017/spring/CWL/502.json", 
+    "id": "CWL 502", 
+    "label": "Methods of Comparative Lit", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Comparative and World Literature", 
+            "href": "/2017/spring/CWL.json", 
+            "id": "CWL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "RH", 
+            "href": "/2017/spring/CWL/502/64916.json", 
+            "id": "64916"
+        }
+    }
+}

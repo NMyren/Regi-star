@@ -1,0 +1,99 @@
+{
+    "courseSectionInformation": "Credit is not given for both VCM 598 and VCM 599. (Summer Session, 1 to 2 hours.) Prerequisite: Must be enrolled in the departmental graduate program.", 
+    "creditHours": "0 TO 12 hours.", 
+    "description": "Independent research to fulfill requirement for non-thesis alternative in Master of Science Program. Credit is not given for both VCM 598 and VCM 599. (Summer Session, 1 to 2 hours.) Prerequisite: Must be enrolled in the departmental graduate program.", 
+    "href": "/2017/spring/VCM/598.json", 
+    "id": "VCM 598", 
+    "label": "Manuscript Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Veterinary Clinical Medicine", 
+            "href": "/2017/spring/VCM.json", 
+            "id": "VCM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "CFS", 
+                "href": "/2017/spring/VCM/598/60968.json", 
+                "id": "60968"
+            }, 
+            {
+                "content": "DAW", 
+                "href": "/2017/spring/VCM/598/62864.json", 
+                "id": "62864"
+            }, 
+            {
+                "content": "KLC", 
+                "href": "/2017/spring/VCM/598/51912.json", 
+                "id": "51912"
+            }, 
+            {
+                "content": "KML", 
+                "href": "/2017/spring/VCM/598/53858.json", 
+                "id": "53858"
+            }, 
+            {
+                "content": "MAO", 
+                "href": "/2017/spring/VCM/598/56219.json", 
+                "id": "56219"
+            }, 
+            {
+                "content": "MCA", 
+                "href": "/2017/spring/VCM/598/64683.json", 
+                "id": "64683"
+            }, 
+            {
+                "content": "MCS", 
+                "href": "/2017/spring/VCM/598/61278.json", 
+                "id": "61278"
+            }, 
+            {
+                "content": "MDR", 
+                "href": "/2017/spring/VCM/598/51771.json", 
+                "id": "51771"
+            }, 
+            {
+                "content": "MM", 
+                "href": "/2017/spring/VCM/598/51754.json", 
+                "id": "51754"
+            }, 
+            {
+                "content": "MMM", 
+                "href": "/2017/spring/VCM/598/54254.json", 
+                "id": "54254"
+            }, 
+            {
+                "content": "RCF", 
+                "href": "/2017/spring/VCM/598/64707.json", 
+                "id": "64707"
+            }, 
+            {
+                "content": "REH", 
+                "href": "/2017/spring/VCM/598/51753.json", 
+                "id": "51753"
+            }, 
+            {
+                "content": "SCP", 
+                "href": "/2017/spring/VCM/598/61184.json", 
+                "id": "61184"
+            }, 
+            {
+                "content": "SIR", 
+                "href": "/2017/spring/VCM/598/58776.json", 
+                "id": "58776"
+            }
+        ]
+    }
+}

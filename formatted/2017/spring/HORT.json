@@ -1,0 +1,131 @@
+{
+    "addressLine1": "Department Address", 
+    "addressLine2": "AW-101 Turner Hall, 1102 South Goodwin Avenue, Urbana", 
+    "collegeCode": "KL", 
+    "collegeDepartmentDescription": "Head of Department: German Bollero\nDepartment Address, AW-101 Turner Hall, 1102 South Goodwin Avenue, Urbana, 333-3420\nSubjects associated with this department include: Crop Sciences (CPSC), Horticulture (HORT), and Plant Pathology (PLPA).\nwww.cropsci.uiuc.edu", 
+    "contactName": "German Bollero", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Introduction to Horticulture", 
+                "href": "/2017/spring/HORT/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "Vegetable Gardening", 
+                "href": "/2017/spring/HORT/105.json", 
+                "id": "105"
+            }, 
+            {
+                "content": "The Sustainable Home Garden", 
+                "href": "/2017/spring/HORT/106.json", 
+                "id": "106"
+            }, 
+            {
+                "content": "Introduction to Floral Design", 
+                "href": "/2017/spring/HORT/107.json", 
+                "id": "107"
+            }, 
+            {
+                "content": "Medicinal Plants and Herbology", 
+                "href": "/2017/spring/HORT/180.json", 
+                "id": "180"
+            }, 
+            {
+                "content": "Biotechnology in Agriculture", 
+                "href": "/2017/spring/HORT/261.json", 
+                "id": "261"
+            }, 
+            {
+                "content": "Professional Internship", 
+                "href": "/2017/spring/HORT/293.json", 
+                "id": "293"
+            }, 
+            {
+                "content": "Resident Internship", 
+                "href": "/2017/spring/HORT/294.json", 
+                "id": "294"
+            }, 
+            {
+                "content": "Undergrad Research or Thesis", 
+                "href": "/2017/spring/HORT/295.json", 
+                "id": "295"
+            }, 
+            {
+                "content": "Greenhouse Mgmt and Production", 
+                "href": "/2017/spring/HORT/341.json", 
+                "id": "341"
+            }, 
+            {
+                "content": "Planting for Biodiversity and Aesthetics", 
+                "href": "/2017/spring/HORT/344.json", 
+                "id": "344"
+            }, 
+            {
+                "content": "Small Fruit Production", 
+                "href": "/2017/spring/HORT/361.json", 
+                "id": "361"
+            }, 
+            {
+                "content": "Ug Honors Research or Thesis", 
+                "href": "/2017/spring/HORT/396.json", 
+                "id": "396"
+            }, 
+            {
+                "content": "Children and Nature", 
+                "href": "/2017/spring/HORT/430.json", 
+                "id": "430"
+            }, 
+            {
+                "content": "Designing Urban Agriculture", 
+                "href": "/2017/spring/HORT/434.json", 
+                "id": "434"
+            }, 
+            {
+                "content": "Urban Food Production", 
+                "href": "/2017/spring/HORT/435.json", 
+                "id": "435"
+            }, 
+            {
+                "content": "Plant Nutrition", 
+                "href": "/2017/spring/HORT/442.json", 
+                "id": "442"
+            }, 
+            {
+                "content": "Principles of Plant Breeding", 
+                "href": "/2017/spring/HORT/453.json", 
+                "id": "453"
+            }, 
+            {
+                "content": "Growth and Dev of Hort Crops", 
+                "href": "/2017/spring/HORT/466.json", 
+                "id": "466"
+            }, 
+            {
+                "content": "Plant Gene Regulation", 
+                "href": "/2017/spring/HORT/566.json", 
+                "id": "566"
+            }
+        ]
+    }, 
+    "departmentCode": "1875", 
+    "id": "HORT", 
+    "label": "Horticulture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-3420", 
+    "subjectComment": "Subjects associated with this department include: Crop Sciences (CPSC), Horticulture (HORT), and Plant Pathology (PLPA).", 
+    "unitName": "Crop Sciences", 
+    "webSiteURL": "www.cropsci.uiuc.edu"
+}

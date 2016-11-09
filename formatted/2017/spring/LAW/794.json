@@ -1,0 +1,64 @@
+{
+    "courseSectionInformation": "1 to 4 graduate hours. 1 to 4 professional hours. Approved for letter and S/U grading. May be repeated if topics vary.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "This is an umbrella course listing in business law for specialty topics of current interest. 1 to 4 graduate hours. 1 to 4 professional hours. Approved for letter and S/U grading. May be repeated if topics vary.", 
+    "href": "/2017/spring/LAW/794.json", 
+    "id": "LAW 794", 
+    "label": "Adv Topics in Business Law", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/LAW/794/45035.json", 
+                "id": "45035"
+            }, 
+            {
+                "content": "DC", 
+                "href": "/2017/spring/LAW/794/65747.json", 
+                "id": "65747"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/LAW/794/45039.json", 
+                "id": "45039"
+            }, 
+            {
+                "content": "EG", 
+                "href": "/2017/spring/LAW/794/56048.json", 
+                "id": "56048"
+            }, 
+            {
+                "content": "F1", 
+                "href": "/2017/spring/LAW/794/64056.json", 
+                "id": "64056"
+            }, 
+            {
+                "content": "HC", 
+                "href": "/2017/spring/LAW/794/49168.json", 
+                "id": "49168"
+            }, 
+            {
+                "content": "J1", 
+                "href": "/2017/spring/LAW/794/64057.json", 
+                "id": "64057"
+            }
+        ]
+    }
+}

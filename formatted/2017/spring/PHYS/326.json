@@ -1,0 +1,55 @@
+{
+    "classScheduleInformation": "Register for the lecture and one of the discussion sections.", 
+    "courseSectionInformation": "Prerequisite: PHYS 325.", 
+    "creditHours": "3 hours.", 
+    "description": "Continuation of PHYS 325. Central force motion, collisions and scattering, rotational motion, coupled oscillations, continuous media, and fluid dynamics. Prerequisite: PHYS 325.", 
+    "href": "/2017/spring/PHYS/326.json", 
+    "id": "PHYS 326", 
+    "label": "Classical Mechanics II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/PHYS/326/38582.json", 
+                "id": "38582"
+            }, 
+            {
+                "content": "D0", 
+                "href": "/2017/spring/PHYS/326/58900.json", 
+                "id": "58900"
+            }, 
+            {
+                "content": "D1", 
+                "href": "/2017/spring/PHYS/326/38584.json", 
+                "id": "38584"
+            }, 
+            {
+                "content": "D2", 
+                "href": "/2017/spring/PHYS/326/38585.json", 
+                "id": "38585"
+            }, 
+            {
+                "content": "D3", 
+                "href": "/2017/spring/PHYS/326/38586.json", 
+                "id": "38586"
+            }
+        ]
+    }
+}

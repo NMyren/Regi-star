@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to concepts of naval weapons systems, their capabilities and limitations, and their individual and complementary roles in a wide variety of offensive and defensive situations. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/NS/306.json", 
+    "id": "NS 306", 
+    "label": "Naval Weapons Systems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Naval Science", 
+            "href": "/2017/spring/NS.json", 
+            "id": "NS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/NS/306/46710.json", 
+            "id": "46710"
+        }
+    }
+}

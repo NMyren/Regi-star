@@ -1,0 +1,130 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "Prerequisite: ME 310 or TAM 335.", 
+    "creditHours": "4 hours.", 
+    "description": "Principles and application of heat transfer by conduction, convection, and thermal radiation. Prerequisite: ME 310 or TAM 335.", 
+    "href": "/2017/spring/ME/320.json", 
+    "id": "ME 320", 
+    "label": "Heat Transfer", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ABA", 
+                "href": "/2017/spring/ME/320/37324.json", 
+                "id": "37324"
+            }, 
+            {
+                "content": "ABB", 
+                "href": "/2017/spring/ME/320/37325.json", 
+                "id": "37325"
+            }, 
+            {
+                "content": "ABC", 
+                "href": "/2017/spring/ME/320/37326.json", 
+                "id": "37326"
+            }, 
+            {
+                "content": "ABD", 
+                "href": "/2017/spring/ME/320/37327.json", 
+                "id": "37327"
+            }, 
+            {
+                "content": "ABE", 
+                "href": "/2017/spring/ME/320/37328.json", 
+                "id": "37328"
+            }, 
+            {
+                "content": "ABF", 
+                "href": "/2017/spring/ME/320/37329.json", 
+                "id": "37329"
+            }, 
+            {
+                "content": "ABG", 
+                "href": "/2017/spring/ME/320/37330.json", 
+                "id": "37330"
+            }, 
+            {
+                "content": "ABH", 
+                "href": "/2017/spring/ME/320/37331.json", 
+                "id": "37331"
+            }, 
+            {
+                "content": "ABI", 
+                "href": "/2017/spring/ME/320/37332.json", 
+                "id": "37332"
+            }, 
+            {
+                "content": "ABJ", 
+                "href": "/2017/spring/ME/320/37333.json", 
+                "id": "37333"
+            }, 
+            {
+                "content": "ABK", 
+                "href": "/2017/spring/ME/320/37335.json", 
+                "id": "37335"
+            }, 
+            {
+                "content": "ABL", 
+                "href": "/2017/spring/ME/320/37337.json", 
+                "id": "37337"
+            }, 
+            {
+                "content": "ABM", 
+                "href": "/2017/spring/ME/320/38958.json", 
+                "id": "38958"
+            }, 
+            {
+                "content": "ABN", 
+                "href": "/2017/spring/ME/320/45298.json", 
+                "id": "45298"
+            }, 
+            {
+                "content": "ABO", 
+                "href": "/2017/spring/ME/320/48024.json", 
+                "id": "48024"
+            }, 
+            {
+                "content": "ABP", 
+                "href": "/2017/spring/ME/320/48027.json", 
+                "id": "48027"
+            }, 
+            {
+                "content": "ABQ", 
+                "href": "/2017/spring/ME/320/64337.json", 
+                "id": "64337"
+            }, 
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/ME/320/36939.json", 
+                "id": "36939"
+            }, 
+            {
+                "content": "AE2", 
+                "href": "/2017/spring/ME/320/37323.json", 
+                "id": "37323"
+            }, 
+            {
+                "content": "AE3", 
+                "href": "/2017/spring/ME/320/64299.json", 
+                "id": "64299"
+            }
+        ]
+    }
+}

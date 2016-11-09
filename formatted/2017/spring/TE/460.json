@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as ENG 460. See ENG 460.", 
+    "creditHours": "1 hours.", 
+    "description": "Same as ENG 460. See ENG 460.", 
+    "href": "/2017/spring/TE/460.json", 
+    "id": "TE 460", 
+    "label": "Entrepreneurship for Engineers", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Technology Entrepreneurship", 
+            "href": "/2017/spring/TE.json", 
+            "id": "TE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/TE/460/54062.json", 
+            "id": "54062"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. May be repeated in the same term up to 12 hours and separate terms up to 18 hours; MARCH students are limited to 12 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "0 TO 8 hours.", 
+    "description": "Nature and scope of projects to be determined by consultation between student and faculty advisor; open to architecture and landscape architecture majors as well as those from other disciplines who wish to engage in interdisciplinary work. Approved for both letter and S/U grading. May be repeated in the same term up to 12 hours and separate terms up to 18 hours; MARCH students are limited to 12 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/ARCH/590.json", 
+    "id": "ARCH 590", 
+    "label": "Directed Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ARCH/590/54660.json", 
+            "id": "54660"
+        }
+    }
+}

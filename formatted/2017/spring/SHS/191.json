@@ -1,0 +1,38 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only.", 
+    "creditHours": "0 TO 9 hours.", 
+    "description": "Special experimental seminar or independent study course intended to cover topics not treated by regular course offerings; open to undergraduates at any level. Requests for activation of this course may be made by students or by faculty and should be directed to the head of the academic department concerned. Although credit toward graduation is normally granted, credit toward satisfying specific college or departmental requirements is contingent upon approval by the appropriate college or departmental committee. Approved for S/U grading only.", 
+    "href": "/2017/spring/SHS/191.json", 
+    "id": "SHS 191", 
+    "label": "Freshmen Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/SHS/191/10164.json", 
+                "id": "10164"
+            }, 
+            {
+                "content": "X", 
+                "href": "/2017/spring/SHS/191/37186.json", 
+                "id": "37186"
+            }
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule.", 
+    "creditHours": "1 hours.", 
+    "description": "Skills and knowledge essential for leisure-time activities which are classified as individual and dual activities. Prerequisites for each individual or dual activity are provided in the Class Schedule. More than one activity (Sections A through Z) may be taken in the same term. Additional fees may apply. See Class Schedule.", 
+    "href": "/2017/spring/KIN/102.json", 
+    "id": "KIN 102", 
+    "label": "Individual and Dual Activities", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionFeeAmount": "KIN/Illini Union Facility Fee $65.00 Flat Fee.", 
+    "sections": {
+        "section": [
+            {
+                "content": "E1", 
+                "href": "/2017/spring/KIN/102/34996.json", 
+                "id": "34996"
+            }, 
+            {
+                "content": "E2", 
+                "href": "/2017/spring/KIN/102/34999.json", 
+                "id": "34999"
+            }, 
+            {
+                "content": "E3", 
+                "href": "/2017/spring/KIN/102/35002.json", 
+                "id": "35002"
+            }
+        ]
+    }
+}

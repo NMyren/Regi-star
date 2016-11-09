@@ -1,0 +1,50 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/IE/598/65844.json", 
+    "id": "65844", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TR", 
+            "end": "06:20 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/IE/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Industrial Engineering", 
+            "href": "/2017/spring/IE.json", 
+            "id": "IE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "AS", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Prerequisite: IE 410 or an equivalent course on stochastic processes. This course is an introduction to queueing systems and their applications in engineering. Topics include both classical single-stage models and queueing networks. An emphasis will be placed on key methods, such as: imbedded Markov chains, PASTA property, reversibility, product-form stationary distributions, stochastic stability, asymptotic analysis.", 
+    "sectionTitle": "Queuing Systems", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

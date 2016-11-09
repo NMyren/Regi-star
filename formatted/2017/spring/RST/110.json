@@ -1,0 +1,33 @@
+{
+    "creditHours": "2 hours.", 
+    "description": "Introduces students to the concepts, principles, and practices related to the provision of leisure services; description of the various fields of professional practices and basic elements of leisure service systems such as budgeting, planning, staffing, and characteristics of client populations.", 
+    "href": "/2017/spring/RST/110.json", 
+    "id": "RST 110", 
+    "label": "Service Delivery in RST", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to EOAP Std Ath&Affil-LAS AAP, EOP - Obligatory, Pres Award Program Recip, President's Award Honors, or AAP - Undeclared students.", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": {
+            "content": "C", 
+            "href": "/2017/spring/RST/110/46271.json", 
+            "id": "46271"
+        }
+    }
+}

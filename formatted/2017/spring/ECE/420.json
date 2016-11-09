@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. 2 graduate hours. Prerequisite: ECE 310.", 
+    "creditHours": "2 hours.", 
+    "description": "Development of real-time digital signal processing (DSP) systems using a DSP microprocessor; several structured laboratory exercises, such as sampling and digital filtering; followed by an extensive DSP project of the student's choice. 2 undergraduate hours. 2 graduate hours. Prerequisite: ECE 310.", 
+    "href": "/2017/spring/ECE/420.json", 
+    "id": "ECE 420", 
+    "label": "Embedded DSP Laboratory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ABA", 
+                "href": "/2017/spring/ECE/420/33739.json", 
+                "id": "33739"
+            }, 
+            {
+                "content": "ABC", 
+                "href": "/2017/spring/ECE/420/33741.json", 
+                "id": "33741"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ECE/420/33744.json", 
+                "id": "33744"
+            }
+        ]
+    }
+}

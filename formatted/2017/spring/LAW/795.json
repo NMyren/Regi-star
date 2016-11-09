@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "1 to 4 graduate hours. 1 to 4 professional hours. May be repeated if topics vary.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "This is an umbrella course listing in criminal law for specialty topics of current interest. 1 to 4 graduate hours. 1 to 4 professional hours. May be repeated if topics vary.", 
+    "href": "/2017/spring/LAW/795.json", 
+    "id": "LAW 795", 
+    "label": "Adv Topics in Criminal Law", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "H", 
+                "href": "/2017/spring/LAW/795/53592.json", 
+                "id": "53592"
+            }, 
+            {
+                "content": "HG", 
+                "href": "/2017/spring/LAW/795/53784.json", 
+                "id": "53784"
+            }, 
+            {
+                "content": "L", 
+                "href": "/2017/spring/LAW/795/62451.json", 
+                "id": "62451"
+            }, 
+            {
+                "content": "LG", 
+                "href": "/2017/spring/LAW/795/62554.json", 
+                "id": "62554"
+            }
+        ]
+    }
+}

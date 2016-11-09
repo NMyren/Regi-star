@@ -1,0 +1,54 @@
+{
+    "courseSectionInformation": "Same as BIOE 415. See BIOE 415.", 
+    "creditHours": "2 hours.", 
+    "description": "Same as BIOE 415. See BIOE 415.", 
+    "href": "/2017/spring/ECE/415.json", 
+    "id": "ECE 415", 
+    "label": "Biomedical Instrumentation Lab", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ECE/415/33726.json", 
+                "id": "33726"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/ECE/415/33727.json", 
+                "id": "33727"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/ECE/415/33728.json", 
+                "id": "33728"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/ECE/415/33729.json", 
+                "id": "33729"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ECE/415/33730.json", 
+                "id": "33730"
+            }
+        ]
+    }
+}

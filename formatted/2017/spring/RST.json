@@ -1,0 +1,245 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "104 Huff Hall, 1206 South Fourth Street, Champaign", 
+    "collegeCode": "KY", 
+    "collegeDepartmentDescription": "Head of Department: Laurence Chalip\nDepartment Office, 104 Huff Hall, 1206 South Fourth Street, Champaign, 333-4410\nwww.rst.illinois.edu/", 
+    "contactName": "Laurence Chalip", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "RST in Modern Society", 
+                "href": "/2017/spring/RST/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "Orientation to RST", 
+                "href": "/2017/spring/RST/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "Service Delivery in RST", 
+                "href": "/2017/spring/RST/110.json", 
+                "id": "110"
+            }, 
+            {
+                "content": "Foundations of Recreation", 
+                "href": "/2017/spring/RST/120.json", 
+                "id": "120"
+            }, 
+            {
+                "content": "Foundations of Sport Mgt", 
+                "href": "/2017/spring/RST/130.json", 
+                "id": "130"
+            }, 
+            {
+                "content": "Foundations of Tourism", 
+                "href": "/2017/spring/RST/150.json", 
+                "id": "150"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/RST/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Leadership in RST", 
+                "href": "/2017/spring/RST/200.json", 
+                "id": "200"
+            }, 
+            {
+                "content": "Diversity in Recreation, Sport, and Tourism", 
+                "href": "/2017/spring/RST/230.json", 
+                "id": "230"
+            }, 
+            {
+                "content": "Nature and American Culture", 
+                "href": "/2017/spring/RST/242.json", 
+                "id": "242"
+            }, 
+            {
+                "content": "Ethical Issues in RST", 
+                "href": "/2017/spring/RST/255.json", 
+                "id": "255"
+            }, 
+            {
+                "content": "Leisure Programming", 
+                "href": "/2017/spring/RST/300.json", 
+                "id": "300"
+            }, 
+            {
+                "content": "Leisure and Human Development", 
+                "href": "/2017/spring/RST/316.json", 
+                "id": "316"
+            }, 
+            {
+                "content": "Leisure Services Marketing", 
+                "href": "/2017/spring/RST/320.json", 
+                "id": "320"
+            }, 
+            {
+                "content": "Leisure and Consumer Culture", 
+                "href": "/2017/spring/RST/330.json", 
+                "id": "330"
+            }, 
+            {
+                "content": "Facility Management in RST", 
+                "href": "/2017/spring/RST/340.json", 
+                "id": "340"
+            }, 
+            {
+                "content": "Community Recreation Planning", 
+                "href": "/2017/spring/RST/341.json", 
+                "id": "341"
+            }, 
+            {
+                "content": "Case Study: Endless Summer", 
+                "href": "/2017/spring/RST/346.json", 
+                "id": "346"
+            }, 
+            {
+                "content": "Cultural Aspects of Tourism", 
+                "href": "/2017/spring/RST/351.json", 
+                "id": "351"
+            }, 
+            {
+                "content": "Legal Aspects of Sport", 
+                "href": "/2017/spring/RST/354.json", 
+                "id": "354"
+            }, 
+            {
+                "content": "Civic Engagement in Wellness", 
+                "href": "/2017/spring/RST/365.json", 
+                "id": "365"
+            }, 
+            {
+                "content": "Research Methods & Analysis", 
+                "href": "/2017/spring/RST/370.json", 
+                "id": "370"
+            }, 
+            {
+                "content": "Administration of Leisure Serv", 
+                "href": "/2017/spring/RST/410.json", 
+                "id": "410"
+            }, 
+            {
+                "content": "HR Management in RST", 
+                "href": "/2017/spring/RST/420.json", 
+                "id": "420"
+            }, 
+            {
+                "content": "Contemporary Issues in RST", 
+                "href": "/2017/spring/RST/429.json", 
+                "id": "429"
+            }, 
+            {
+                "content": "Orientation to Practicum", 
+                "href": "/2017/spring/RST/480.json", 
+                "id": "480"
+            }, 
+            {
+                "content": "Practicum", 
+                "href": "/2017/spring/RST/484.json", 
+                "id": "484"
+            }, 
+            {
+                "content": "Concepts & Applications in Recreation, Sport & Tourism", 
+                "href": "/2017/spring/RST/501.json", 
+                "id": "501"
+            }, 
+            {
+                "content": "Critical Issues Recreation Mgt", 
+                "href": "/2017/spring/RST/502.json", 
+                "id": "502"
+            }, 
+            {
+                "content": "Adv Leisure Research Methods", 
+                "href": "/2017/spring/RST/503.json", 
+                "id": "503"
+            }, 
+            {
+                "content": "Managing Recreation, Sport & Tourism Organizations", 
+                "href": "/2017/spring/RST/512.json", 
+                "id": "512"
+            }, 
+            {
+                "content": "Marketing in RST", 
+                "href": "/2017/spring/RST/515.json", 
+                "id": "515"
+            }, 
+            {
+                "content": "Finance & Budgeting in RST", 
+                "href": "/2017/spring/RST/516.json", 
+                "id": "516"
+            }, 
+            {
+                "content": "Event Management", 
+                "href": "/2017/spring/RST/518.json", 
+                "id": "518"
+            }, 
+            {
+                "content": "Critical Issues Sport Mgt", 
+                "href": "/2017/spring/RST/520.json", 
+                "id": "520"
+            }, 
+            {
+                "content": "Critical Issues Tourism Mgt", 
+                "href": "/2017/spring/RST/530.json", 
+                "id": "530"
+            }, 
+            {
+                "content": "Contemporary Issues in Leisure", 
+                "href": "/2017/spring/RST/551.json", 
+                "id": "551"
+            }, 
+            {
+                "content": "Cultural Aspects of Tourism", 
+                "href": "/2017/spring/RST/570.json", 
+                "id": "570"
+            }, 
+            {
+                "content": "Management Internship", 
+                "href": "/2017/spring/RST/584.json", 
+                "id": "584"
+            }, 
+            {
+                "content": "Doctoral Research Seminar and Colloquium", 
+                "href": "/2017/spring/RST/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Special Problems", 
+                "href": "/2017/spring/RST/593.json", 
+                "id": "593"
+            }, 
+            {
+                "content": "Special Topics in Leisure", 
+                "href": "/2017/spring/RST/594.json", 
+                "id": "594"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/RST/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1714", 
+    "id": "RST", 
+    "label": "Recreation, Sport, and Tourism", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-4410", 
+    "unitName": "Recreation, Sport and Tourism", 
+    "webSiteURL": "www.rst.illinois.edu/"
+}

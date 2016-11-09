@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/LLS/396/65725.json", 
+    "id": "65725", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "MW", 
+            "end": "01:45 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Pritchard, E", 
+                    "firstName": "E", 
+                    "lastName": "Pritchard"
+                }
+            }, 
+            "roomNumber": "119", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Adv Topics Latina/o Studies", 
+            "href": "/2017/spring/LLS/396.json", 
+            "id": "396"
+        }, 
+        "subject": {
+            "content": "Latina/Latino Studies", 
+            "href": "/2017/spring/LLS.json", 
+            "id": "LLS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "X", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic \"Black Freedom Movement Rhetorics.\" Meets with ENGL 380. This course explores historical and contemporary rhetorics of freedom by people of the African diaspora as they emerge in social movements from the 19th century to the present. Merging rhetorical analysis with Black feminist and Black queer theory and praxis, we will examine the rhetorical strategies people of African descent have employed in speeches, essays, photography, visual arts, popular music, and fashion/style, to assert their right and desire to define their life on their own terms and discuss the world as they see and experience it. Among the movements explored will be those for the abolition of slavery, desegregation, voting rights, Black Power, Black Feminisms, Black LGBTQ sociopolitical activism, organizing against political imprisonment, #BlackLivesMatter, and the wave of student activism against racism and discrimination on college campuses. These movements for Black Freedom?varied and complex in their own right?will be discussed alongside assigned readings in rhetorical theory, Black feminist and Black queer theory, African American/African diasporic history, Women?s and Gender history, LGBT history, queer theory, and fashion studies. Doing so, students will gain a more complex understanding of Black Freedom Movement Rhetorics that spans time, circumstance, and a diversity of publics. Though not required, it would be helpful if students have taken a previous course in rhetoric, African American Studies, critical race/ethnic studies, feminist and gender studies, or LGBTQ studies. In sum, students will be expected to do the work required to become critically engaged readers and writers on the topic of the history and theory of Black Freedom Movement Rhetorics.", 
+    "sectionTitle": "Black Freedom Movement Rhet", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

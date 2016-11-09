@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as CWL 262 and GWS 240.", 
+    "creditHours": "3 hours.", 
+    "description": "Understanding of the place of women in ancient societies can be gained through the examination of the ways in which the ancients conceptualized sex and gender. The myths, religion, art and literature of Egypt, Greece, Rome and the Near East contain a wide array of representations of men and women, of their emotions, as well as of their social, legal and political status and relations. Same as CWL 262 and GWS 240.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1LA", 
+                        "content": "UIUC: Literature and the Arts"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/CLCV/240.json", 
+    "id": "CLCV 240", 
+    "label": "Sex & Gender in Antiquity", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Classical Civilization", 
+            "href": "/2017/spring/CLCV.json", 
+            "id": "CLCV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Literature and the Arts, and Western Compartv Cult course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CLCV/240/38748.json", 
+            "id": "38748"
+        }
+    }
+}

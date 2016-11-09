@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. Credit is not given for both NPRE 402 and NPRE 247.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Principles of utilization of fission energy in nuclear power engineering; includes such topics as fission processes and controlled chain reactions; nuclear reactor types, design principles, and operational characteristics; power reactor design criteria; radiation hazards and radioactive waste treatment; economics; other applications such as propulsion and research reactors. 3 undergraduate hours. 4 graduate hours. Credit is not given for both NPRE 402 and NPRE 247.", 
+    "href": "/2017/spring/NPRE/402.json", 
+    "id": "NPRE 402", 
+    "label": "Nuclear Power Engineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Nuclear, Plasma, and Radiological Engineering", 
+            "href": "/2017/spring/NPRE.json", 
+            "id": "NPRE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "D3", 
+                "href": "/2017/spring/NPRE/402/34697.json", 
+                "id": "34697"
+            }, 
+            {
+                "content": "D4", 
+                "href": "/2017/spring/NPRE/402/34702.json", 
+                "id": "34702"
+            }
+        ]
+    }
+}

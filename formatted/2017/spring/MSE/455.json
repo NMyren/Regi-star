@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: MSE 450.", 
+    "creditHours": "3 hours.", 
+    "description": "Mechanical behavior of amorphous and semi-crystalline polymers; overview of polymer structure and characterization; polymer morphology; orientation effects, rubber elasticity, polymer linear viscoelasticity using Boltzmann superposition and mechanical models; measurement of viscoelastic properties; relaxation and transitions; polymeric yield phenomena and plastic flow; deformation mechanisms; fracture and craze formation; impact and fatigue. 3 undergraduate hours. 3 graduate hours. Prerequisite: MSE 450.", 
+    "href": "/2017/spring/MSE/455.json", 
+    "id": "MSE 455", 
+    "label": "Macromolecular Solids", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Materials Science and Engineering", 
+            "href": "/2017/spring/MSE.json", 
+            "id": "MSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MSE/455/38259.json", 
+            "id": "38259"
+        }
+    }
+}

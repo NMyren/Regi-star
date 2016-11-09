@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: GEOL 101 or GEOL 107; CHEM 104; CHEM 105; MATH 220 or MATH 221; or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Fundamental chemical and physical concepts applied to geological processes; topics include: origin, distribution, and geochemical behavior of elements; chemical evolution of the Earth; geochemistry of natural waters and sedimentary rocks; isotope geochemistry, crystal chemistry, trace element geochemistry and organic geochemistry. 3 undergraduate hours. 3 graduate hours. Prerequisite: GEOL 101 or GEOL 107; CHEM 104; CHEM 105; MATH 220 or MATH 221; or consent of instructor.", 
+    "href": "/2017/spring/GEOL/460.json", 
+    "id": "GEOL 460", 
+    "label": "Geochemistry", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GEOL/460/33548.json", 
+            "id": "33548"
+        }
+    }
+}

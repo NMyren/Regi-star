@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours.", 
+    "creditHours": "4 hours.", 
+    "description": "Designed for terminal value for professional training of students not intending to pursue advanced graduate work, and for introductory value for students continuing graduate study in education; descriptive statistics, introduction to correlation and regression, the normal curve, statistical inference, and the presentation and interpretation of statistical data in educational literature. 4 undergraduate hours. 4 graduate hours.", 
+    "href": "/2017/spring/EPSY/480.json", 
+    "id": "EPSY 480", 
+    "label": "Educational Statistics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": {
+            "content": "OL", 
+            "href": "/2017/spring/EPSY/480/55700.json", 
+            "id": "55700"
+        }
+    }
+}

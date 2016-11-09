@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/CHBE/594/44876.json", 
+    "id": "44876", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Armory", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Yang, H", 
+                    "firstName": "H", 
+                    "lastName": "Yang"
+                }
+            }, 
+            "roomNumber": "134", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/CHBE/594.json", 
+            "id": "594"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "HY", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Electrochemistry and Energy Conversion.  This course focuses on fundamentals of electrochemical systems with application to engineering applications, in energy conversion and  storage in particular.  Energy technologies discussed in the course include batteries and supercapacitors, fuel cells, novel materials for electrodes, membrane materials and catalysts, electrochemical conversion of CO2,  and additional electrochemical energy conversion processes.  Meets with CHBE 594 HY.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

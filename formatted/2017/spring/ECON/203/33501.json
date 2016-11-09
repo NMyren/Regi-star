@@ -1,0 +1,68 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ECON/203/33501.json", 
+    "id": "33501", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "901 W Oregon", 
+            "daysOfTheWeek": "F", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Arga, D", 
+                        "firstName": "D", 
+                        "lastName": "Arga"
+                    }, 
+                    {
+                        "content": "Bottan, N", 
+                        "firstName": "N", 
+                        "lastName": "Bottan"
+                    }, 
+                    {
+                        "content": "Petry, J", 
+                        "firstName": "J", 
+                        "lastName": "Petry"
+                    }
+                ]
+            }, 
+            "roomNumber": "101", 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Economic Statistics II", 
+            "href": "/2017/spring/ECON/203.json", 
+            "id": "203"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Not intended for students in the Economics department.", 
+    "sectionNumber": "BQ2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "NOT FOR ECON STUDENTS", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

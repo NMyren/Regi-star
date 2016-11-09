@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as ME 510. See ME 510.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as ME 510. See ME 510.", 
+    "href": "/2017/spring/AE/510.json", 
+    "id": "AE 510", 
+    "label": "Advanced Gas Dynamics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Aerospace Engineering", 
+            "href": "/2017/spring/AE.json", 
+            "id": "AE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "AGD", 
+            "href": "/2017/spring/AE/510/65266.json", 
+            "id": "65266"
+        }
+    }
+}

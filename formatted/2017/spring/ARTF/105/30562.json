@@ -1,0 +1,61 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ARTF/105/30562.json", 
+    "id": "30562", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Art and Design Building", 
+            "daysOfTheWeek": "MW", 
+            "end": "11:40 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Lucero, J", 
+                        "firstName": "J", 
+                        "lastName": "Lucero"
+                    }, 
+                    {
+                        "content": "Reeder, K", 
+                        "firstName": "K", 
+                        "lastName": "Reeder"
+                    }
+                ]
+            }, 
+            "roomNumber": "319", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Design II", 
+            "href": "/2017/spring/ARTF/105.json", 
+            "id": "105"
+        }, 
+        "subject": {
+            "content": "Art--Foundation", 
+            "href": "/2017/spring/ARTF.json", 
+            "id": "ARTF"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

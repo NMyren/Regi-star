@@ -1,0 +1,51 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/NRES/102/35004.json", 
+    "id": "35004", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Ugarte, C", 
+                    "firstName": "C", 
+                    "lastName": "Ugarte"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Introduction to NRES", 
+            "href": "/2017/spring/NRES/102.json", 
+            "id": "102"
+        }, 
+        "subject": {
+            "content": "Natural Resources and Environmental Sciences", 
+            "href": "/2017/spring/NRES.json", 
+            "id": "NRES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "ONL", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This is an online course taught on Compass for non-NRES majors. There are no classroom sessions. However, you must be present for evening exams at 7:00 pm two dates to be determined in April, as well as a final exam during finals week. No waiting list will be maintained and no closed course overrides will be granted for this course.T here will be no exceptions, so please do NOT contact the instructor or the department to inquire.", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

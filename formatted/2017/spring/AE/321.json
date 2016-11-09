@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: MATH 285 and TAM 210.", 
+    "creditHours": "3 hours.", 
+    "description": "Fundamental concepts in the linear theory of elasticity, including stress, strain, equilibrium, compatibility, material constitution and properties. Failure mechanisms and criteria. Application to plane stress-strain problems, beams in extension and bending, and shafts in torsion. Prerequisite: MATH 285 and TAM 210.", 
+    "href": "/2017/spring/AE/321.json", 
+    "id": "AE 321", 
+    "label": "Mechs of Aerospace Structures", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Aerospace Engineering", 
+            "href": "/2017/spring/AE.json", 
+            "id": "AE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/AE/321/65568.json", 
+            "id": "65568"
+        }
+    }
+}

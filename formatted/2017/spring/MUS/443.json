@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "1 undergraduate hour. 1 graduate hour. May be repeated to a maximum of 4 undergraduate hours and 4 graduate hours. A maximum of 6 hours of credit is cumulative within either the BM or MM degree, or a combination of the two. Prerequisite: Consent of instructor in consultation with the appropriate studio teacher.", 
+    "creditHours": "1 hours.", 
+    "description": "Laboratory class designed for brass, woodwind, and percussion performance majors who wish to become more familiar with orchestral literature and a variety of interpretational orchestral techniques. Emphasis on individual and sectional parts of orchestral masterworks. 1 undergraduate hour. 1 graduate hour. May be repeated to a maximum of 4 undergraduate hours and 4 graduate hours. A maximum of 6 hours of credit is cumulative within either the BM or MM degree, or a combination of the two. Prerequisite: Consent of instructor in consultation with the appropriate studio teacher.", 
+    "href": "/2017/spring/MUS/443.json", 
+    "id": "MUS 443", 
+    "label": "Orchestral Repertory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Instrumental Music or Music major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/443/49686.json", 
+            "id": "49686"
+        }
+    }
+}

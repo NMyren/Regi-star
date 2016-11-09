@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: One year of college-level chemistry or consent of instructor required; one semester of college level biology recommended.", 
+    "creditHours": "4 hours.", 
+    "description": "Covers geomicrobiology as it relates to geochemistry with a primary focus on groundwater environments. Topics include energetics of microbial metabolism, influence of microorganisms on geochemistry, geochemical influences on microbial ecology, biogeochemical cycles and molecular biology tools in groundwater. Prerequisite: One year of college-level chemistry or consent of instructor required; one semester of college level biology recommended.", 
+    "href": "/2017/spring/GEOL/561.json", 
+    "id": "GEOL 561", 
+    "label": "Geomicrobiology & Geochemistry", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GEOL/561/61552.json", 
+            "id": "61552"
+        }
+    }
+}

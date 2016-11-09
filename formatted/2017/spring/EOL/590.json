@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Consent of instructor.", 
+    "creditHours": "0 TO 8 hours.", 
+    "description": "Open only to persons who have been admitted for doctoral study in the Department of Educational Organization and Leadership. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/EOL/590.json", 
+    "id": "EOL 590", 
+    "label": "Advanced Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Organization and Leadership", 
+            "href": "/2017/spring/EOL.json", 
+            "id": "EOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "WT3", 
+            "href": "/2017/spring/EOL/590/50994.json", 
+            "id": "50994"
+        }
+    }
+}

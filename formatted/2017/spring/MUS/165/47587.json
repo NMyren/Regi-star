@@ -1,0 +1,76 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MUS/165/47587.json", 
+    "id": "47587", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Smith Memorial Hall", 
+                "daysOfTheWeek": "F", 
+                "end": "02:50 PM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Gray, L", 
+                        "firstName": "L", 
+                        "lastName": "Gray"
+                    }
+                }, 
+                "roomNumber": "25", 
+                "start": "02:00 PM", 
+                "type": {
+                    "code": "CNF", 
+                    "content": "Conference"
+                }
+            }, 
+            {
+                "buildingName": "Smith Memorial Hall", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Gray, L", 
+                        "firstName": "L", 
+                        "lastName": "Gray"
+                    }
+                }, 
+                "roomNumber": "11", 
+                "start": "ARRANGED", 
+                "type": {
+                    "code": "CNF", 
+                    "content": "Conference"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Applied Jazz Instruction", 
+            "href": "/2017/spring/MUS/165.json", 
+            "id": "165"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Music department.", 
+    "sectionNotes": "Not intended for BA:Music  -UIUC.", 
+    "sectionNumber": "DB1", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Jazz Double Bass", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

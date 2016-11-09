@@ -1,0 +1,35 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 16 hours. Prerequisite: Admission into the doctoral concentration in wind band conducting; for doctoral cognate students, consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Advanced study in wind band conducting performance, pedagogy, score study/ analysis, and rehearsal techniques. May be repeated to a maximum of 16 hours. Prerequisite: Admission into the doctoral concentration in wind band conducting; for doctoral cognate students, consent of instructor.", 
+    "href": "/2017/spring/MUS/573.json", 
+    "id": "MUS 573", 
+    "label": "Doctoral Wind Band Conducting", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sectionDeptRestriction": "Restricted to students in the Music department.", 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/573/57261.json", 
+            "id": "57261"
+        }
+    }
+}

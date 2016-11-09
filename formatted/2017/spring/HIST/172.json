@@ -1,0 +1,90 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section.", 
+    "courseSectionInformation": "Credit is not given for both HIST 172 and HIST 173.", 
+    "creditHours": "3 hours.", 
+    "description": "Evolution of an industrial, urbanized, and pluralistic society, grappling with domestic and global problems. Credit is not given for both HIST 172 and HIST 173.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/HIST/172.json", 
+    "id": "HIST 172", 
+    "label": "US Hist Since 1877", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and Western Compartv Cult course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "ADA", 
+                "href": "/2017/spring/HIST/172/34062.json", 
+                "id": "34062"
+            }, 
+            {
+                "content": "ADB", 
+                "href": "/2017/spring/HIST/172/34063.json", 
+                "id": "34063"
+            }, 
+            {
+                "content": "ADE", 
+                "href": "/2017/spring/HIST/172/34066.json", 
+                "id": "34066"
+            }, 
+            {
+                "content": "ADG", 
+                "href": "/2017/spring/HIST/172/34068.json", 
+                "id": "34068"
+            }, 
+            {
+                "content": "ADH", 
+                "href": "/2017/spring/HIST/172/34069.json", 
+                "id": "34069"
+            }, 
+            {
+                "content": "ADO", 
+                "href": "/2017/spring/HIST/172/34076.json", 
+                "id": "34076"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/HIST/172/34078.json", 
+                "id": "34078"
+            }
+        ]
+    }
+}

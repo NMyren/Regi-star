@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Requires concurrent enrollment with AFAS 102. Prerequisite: AFAS 331 or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "\"The United States Air Force Leadership Studies,\" teaches cadets advanced skills and knowledge in management and leadership. Special emphasis is placed on enhancing leadership skill. Cadets have an opportunity to try out these leadership and management techniques in a supervised environment as juniors and seniors. Requires concurrent enrollment with AFAS 102. Prerequisite: AFAS 331 or consent of instructor.", 
+    "href": "/2017/spring/AFAS/332.json", 
+    "id": "AFAS 332", 
+    "label": "USAF Leadership Studies II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Air Force Aerospace Studies", 
+            "href": "/2017/spring/AFAS.json", 
+            "id": "AFAS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "W", 
+            "href": "/2017/spring/AFAS/332/30788.json", 
+            "id": "30788"
+        }
+    }
+}

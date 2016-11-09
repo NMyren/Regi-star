@@ -1,0 +1,48 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/TAM/335/36265.json", 
+    "id": "36265", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Talbot Laboratory", 
+            "daysOfTheWeek": "T", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "126", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Introductory Fluid Mechanics", 
+            "href": "/2017/spring/TAM/335.json", 
+            "id": "335"
+        }, 
+        "subject": {
+            "content": "Theoretical and Applied Mechanics", 
+            "href": "/2017/spring/TAM.json", 
+            "id": "TAM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AB4", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

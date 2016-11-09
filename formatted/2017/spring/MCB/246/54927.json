@@ -1,0 +1,66 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/MCB/246/54927.json", 
+    "id": "54927", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foellinger Auditorium", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Brown, C", 
+                        "firstName": "C", 
+                        "lastName": "Brown"
+                    }, 
+                    {
+                        "content": "Kwast, K", 
+                        "firstName": "K", 
+                        "lastName": "Kwast"
+                    }, 
+                    {
+                        "content": "Swigart, J", 
+                        "firstName": "J", 
+                        "lastName": "Swigart"
+                    }
+                ]
+            }, 
+            "roomNumber": "AUD", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Human Anatomy & Physiology II", 
+            "href": "/2017/spring/MCB/246.json", 
+            "id": "246"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

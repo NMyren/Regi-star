@@ -1,0 +1,44 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CI/395/10440.json", 
+    "id": "10440", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {}, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "IND", 
+                "content": "Independent Study"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Independent Study", 
+            "href": "/2017/spring/CI/395.json", 
+            "id": "395"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "2 or 3 hours. Prerequisite: Junior or senior standing; minimum GPA of 3.5; completion of Advanced Composition requirement, and consent of advisor and staff member supervising the work.  Instructor Approval Required.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

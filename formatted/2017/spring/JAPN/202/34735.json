@@ -1,0 +1,55 @@
+{
+    "creditHours": "5 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/JAPN/202/34735.json", 
+    "id": "34735", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foreign Languages Building", 
+            "daysOfTheWeek": "MTWRF", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Sadler, M", 
+                    "firstName": "M", 
+                    "lastName": "Sadler"
+                }
+            }, 
+            "roomNumber": "1134", 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Elementary Japanese II", 
+            "href": "/2017/spring/JAPN/202.json", 
+            "id": "202"
+        }, 
+        "subject": {
+            "content": "Japanese", 
+            "href": "/2017/spring/JAPN.json", 
+            "id": "JAPN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "C", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

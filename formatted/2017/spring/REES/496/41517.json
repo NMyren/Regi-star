@@ -1,0 +1,55 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/REES/496/41517.json", 
+    "id": "41517", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "W", 
+            "end": "02:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Pintar, J", 
+                    "firstName": "J", 
+                    "lastName": "Pintar"
+                }
+            }, 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics in REEE Studies", 
+            "href": "/2017/spring/REES/496.json", 
+            "id": "496"
+        }, 
+        "subject": {
+            "content": "Russian, East European and Eurasian Studies", 
+            "href": "/2017/spring/REES.json", 
+            "id": "REES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "RE", 
+    "sectionStatusCode": "A", 
+    "sectionText": "TOPIC: Genetic Technologies, Social Networks, and the Re-Imaginign of Race  This seminar/practicum examines the production of genetic knowledge and the ways in which this knowledge comes into play in the collective re-imagining of ethnic and racial categories, identities and futures, ranging from the pseudoscientific racist to the utopian \"post-racial.\" Students will engage in collaborative research as we track in real time the dissemination of genetic and other scientific and technological discoveries through diverse networks, (social, academic, religious, and genealogical, both hobbyist and commercial).  Meets with INFO 490/590 sections and REES 596", 
+    "sectionTitle": "GenTech, SocNet, Re-Image Race", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

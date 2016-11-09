@@ -1,0 +1,34 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. No graduate credit. Prerequisite: BIOE 435.", 
+    "creditHours": "2 hours.", 
+    "description": "Continuation of BIOE 435. Design teams finalize concepts, evaluate alternatives, model and analyze solutions, build and test a final product, and present the results professionally to project sponsors. 2 undergraduate hours. No graduate credit. Prerequisite: BIOE 435.", 
+    "href": "/2017/spring/BIOE/436.json", 
+    "id": "BIOE 436", 
+    "label": "Senior Design II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Bioengineering", 
+            "href": "/2017/spring/BIOE.json", 
+            "id": "BIOE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Bioengineering department.", 
+    "sectionRegistrationNotes": "Restricted to Bioengineering major(s).", 
+    "sections": {
+        "section": {
+            "content": "SD", 
+            "href": "/2017/spring/BIOE/436/65048.json", 
+            "id": "65048"
+        }
+    }
+}

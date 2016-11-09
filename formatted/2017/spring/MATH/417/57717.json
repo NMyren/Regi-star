@@ -1,0 +1,52 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/MATH/417/57717.json", 
+    "id": "57717", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Illini Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "2", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro to Abstract Algebra", 
+            "href": "/2017/spring/MATH/417.json", 
+            "id": "417"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Not intended for Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "M14", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Instructor approval forms available in 313 Altgeld Hall beginning on the first day of spring semester.", 
+    "specialApproval": "Departmental Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,31 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "The scope of this course begins amidst the devastation and geopolitical shifts that followed World War II and ends with the effects of globalization in the 1990s and 2000s. We will ask the same questions that faced artists and critics in between: Should art focus on its own material processes or open its borders to historical flux? Is it art's job to create the cultural myths that bind society together, or to deconstruct them? Who participates in modern and contemporary art, and who doesn't? What kinds of production should be considered art? How are specific formal strategies informed by the perspectives of different subject positions? What politics underwrite them? We will consider, and reconsider, the existing narratives about art during this period with a dual aim: first, to better understand the historical positions of the artists in question, and, second, to piece together a prehistory of the moment in which we currently find ourselves.", 
+    "href": "/2017/spring/ARTH/242.json", 
+    "id": "ARTH 242", 
+    "label": "Art Since 1940", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--History", 
+            "href": "/2017/spring/ARTH.json", 
+            "id": "ARTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "KR", 
+            "href": "/2017/spring/ARTH/242/65135.json", 
+            "id": "65135"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: ATMS 302, ATMS 303 or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Examines the tools and techniques of weather forecasting, with heavy emphasis on actual forecasting. Numerical models used to forecast weather are reviewed and compared. Forecasting using numerical, statistical and probabilistic forecasting techniques is studied. Forecasts of significant winter weather, convection, floods and other weather hazards are emphasized. Students learn the process behind Severe Weather Watches and Warnings, Quantitative Precipitation Forecasts, precipitation type forecasts, flood forecasts and forecasts of other significant weather. Prerequisite: ATMS 302, ATMS 303 or consent of instructor.", 
+    "href": "/2017/spring/ATMS/313.json", 
+    "id": "ATMS 313", 
+    "label": "Synoptic Weather Forecasting", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Atmospheric Sciences", 
+            "href": "/2017/spring/ATMS.json", 
+            "id": "ATMS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ATMS/313/57095.json", 
+                "id": "57095"
+            }, 
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/ATMS/313/51090.json", 
+                "id": "51090"
+            }
+        ]
+    }
+}

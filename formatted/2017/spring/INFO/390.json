@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "May be repeated up to 6 hours if topics vary.", 
+    "creditHours": "1 TO 3 hours.", 
+    "description": "Explores a variety of informatics topics. Topics and prerequisites vary by section; see current Class Schedule for details. May be repeated up to 6 hours if topics vary.", 
+    "href": "/2017/spring/INFO/390.json", 
+    "id": "INFO 390", 
+    "label": "Special Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Informatics", 
+            "href": "/2017/spring/INFO.json", 
+            "id": "INFO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "CC", 
+                "href": "/2017/spring/INFO/390/57902.json", 
+                "id": "57902"
+            }, 
+            {
+                "content": "HH", 
+                "href": "/2017/spring/INFO/390/65886.json", 
+                "id": "65886"
+            }, 
+            {
+                "content": "W1A", 
+                "href": "/2017/spring/INFO/390/62506.json", 
+                "id": "62506"
+            }
+        ]
+    }
+}

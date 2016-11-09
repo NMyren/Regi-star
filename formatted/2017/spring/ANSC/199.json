@@ -1,0 +1,43 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 12 hours. No more than 12 hours may be counted toward graduation.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "An experimental course on a special topic in animal sciences. Topic may not be repeated except in accordance with the Code. May be repeated to a maximum of 12 hours. No more than 12 hours may be counted toward graduation.", 
+    "href": "/2017/spring/ANSC/199.json", 
+    "id": "ANSC 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/ANSC/199/10232.json", 
+                "id": "10232"
+            }, 
+            {
+                "content": "KHK", 
+                "href": "/2017/spring/ANSC/199/11152.json", 
+                "id": "11152"
+            }, 
+            {
+                "content": "QQ", 
+                "href": "/2017/spring/ANSC/199/57445.json", 
+                "id": "57445"
+            }
+        ]
+    }
+}

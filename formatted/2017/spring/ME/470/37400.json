@@ -1,0 +1,50 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/ME/470/37400.json", 
+    "id": "37400", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Mechanical Engineering Bldg", 
+            "daysOfTheWeek": "TR", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "335", 
+            "start": "08:00 AM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Senior Design Project", 
+            "href": "/2017/spring/ME/470.json", 
+            "id": "470"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AY5", 
+    "sectionStatusCode": "A", 
+    "sectionText": "You will receive a TIME CONFLICT AND AN APPROVAL ERROR when registering for this course. Please contact the Mechanical Science and Engineering Undergraduate Programs Office in 154 MEB, 217-333-0366, MechSE-Undergrad@illinois.edu to receive the necessary overrides to register for the course.", 
+    "specialApproval": "Departmental Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

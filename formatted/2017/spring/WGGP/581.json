@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as GWS 512 and SOCW 581.", 
+    "creditHours": "4 hours.", 
+    "description": "Interdisciplinary seminar examining theoretical and empirical research on gender and the transformation of social and economic structures. Students will develop a comparative perspective on issues of women and public policy by contrasting and comparing such policies in North and South America, Eastern and Western Europe, Asia, and Africa. Same as GWS 512 and SOCW 581.", 
+    "href": "/2017/spring/WGGP/581.json", 
+    "id": "WGGP 581", 
+    "label": "Gender Relations & Intl Dev", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Women and Gender in Global Perspectives Program", 
+            "href": "/2017/spring/WGGP.json", 
+            "id": "WGGP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/WGGP/581/64395.json", 
+            "id": "64395"
+        }
+    }
+}

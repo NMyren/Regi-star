@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ENGL/218/32058.json", 
+    "id": "32058", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Newcomb, L", 
+                    "firstName": "L", 
+                    "lastName": "Newcomb"
+                }
+            }, 
+            "roomNumber": "108", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Introduction to Shakespeare", 
+            "href": "/2017/spring/ENGL/218.json", 
+            "id": "218"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "P", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course explores seven Shakespearean plays from a range of dramatic genres. We?ll look especially at the features that made these plays popular in their day: their open staging, their playful language, their laying bare of the period?s familial, national, gender, and racial tensions.  We?ll also consider how the meanings of ?Shakespeare? proliferate through the constant, sometimes subversive, reinvention of the plays by literary critics, performers, and adapters world-wide. Be ready for proactive discussion, performance experiments, a library visit, and attending at least on live production of a Shakespeare play on campus.   Written assignments include informal writings, focused short papers, and a final exam. TEXTS:\t(these print editions are required) Greenblatt et al, eds., Shakespeare: Essential Plays (3rd edition, 2015, ISBN 978-0-393-93863-0); McDonald, ed., Bedford Companion to Shakespeare (2nd edition, ISBN 978-0312248802).", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

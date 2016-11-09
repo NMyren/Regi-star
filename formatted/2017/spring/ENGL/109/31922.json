@@ -1,0 +1,49 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ENGL/109/31922.json", 
+    "id": "31922", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Illini Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:15 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "7", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro to Fiction-ACP", 
+            "href": "/2017/spring/ENGL/109.json", 
+            "id": "109"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "S", 
+    "sectionStatusCode": "A", 
+    "sectionText": "English 109 is designed to introduce students to the critical analysis of prose fiction. By reading a wide range of short and long fiction across several historical periods, we will examine how such narrative strategies as plot, character, point of view and language construct meaning.  Individual instructors will bring a variety of texts and interpretive methods to their courses, but special emphasis will be placed on concepts and skills central to good literary critical writing. Course requirements include papers and paper revisions totaling 25-30 pages. Papers are assigned according to the judgment of individual instructors, but will include assignments of various lengths and several opportunities for review and revision. TEXTS: Readings vary from section to section but always include an anthology of short fiction and three or four novels.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

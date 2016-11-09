@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as CPSC 336 and ENVS 336. See CPSC 336.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as CPSC 336 and ENVS 336. See CPSC 336.", 
+    "href": "/2017/spring/CHLH/336.json", 
+    "id": "CHLH 336", 
+    "label": "Tomorrow's Environment", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/CHLH/336/31529.json", 
+                "id": "31529"
+            }, 
+            {
+                "content": "JH", 
+                "href": "/2017/spring/CHLH/336/31531.json", 
+                "id": "31531"
+            }
+        ]
+    }
+}

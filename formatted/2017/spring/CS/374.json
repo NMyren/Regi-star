@@ -1,0 +1,84 @@
+{
+    "courseSectionInformation": "Same as ECE 374. Prerequisite: CS 225; MATH 225 or MATH 415.", 
+    "creditHours": "4 hours.", 
+    "description": "Analysis of algorithms, major paradigms of algorithm design including recursive algorithms, divide-and-conquer algorithms, dynamic programming, greedy algorithms, and graph algorithms. Formal models of computation including finite automata and Turing machines. Limitations of computation arising from fundamental notions of algorithm and from complexity-theoretic constraints. Reductions, undecidability and NP-completeness. Same as ECE 374. Prerequisite: CS 225; MATH 225 or MATH 415.", 
+    "href": "/2017/spring/CS/374.json", 
+    "id": "CS 374", 
+    "label": "Introduction to Algorithms & Models of Computation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CS/374/65088.json", 
+                "id": "65088"
+            }, 
+            {
+                "content": "AYB", 
+                "href": "/2017/spring/CS/374/65090.json", 
+                "id": "65090"
+            }, 
+            {
+                "content": "AYC", 
+                "href": "/2017/spring/CS/374/65091.json", 
+                "id": "65091"
+            }, 
+            {
+                "content": "AYD", 
+                "href": "/2017/spring/CS/374/65092.json", 
+                "id": "65092"
+            }, 
+            {
+                "content": "AYE", 
+                "href": "/2017/spring/CS/374/65093.json", 
+                "id": "65093"
+            }, 
+            {
+                "content": "AYF", 
+                "href": "/2017/spring/CS/374/65094.json", 
+                "id": "65094"
+            }, 
+            {
+                "content": "AYG", 
+                "href": "/2017/spring/CS/374/65095.json", 
+                "id": "65095"
+            }, 
+            {
+                "content": "AYH", 
+                "href": "/2017/spring/CS/374/65096.json", 
+                "id": "65096"
+            }, 
+            {
+                "content": "AYJ", 
+                "href": "/2017/spring/CS/374/65097.json", 
+                "id": "65097"
+            }, 
+            {
+                "content": "AYK", 
+                "href": "/2017/spring/CS/374/65098.json", 
+                "id": "65098"
+            }, 
+            {
+                "content": "AYL", 
+                "href": "/2017/spring/CS/374/65835.json", 
+                "id": "65835"
+            }
+        ]
+    }
+}

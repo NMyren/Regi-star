@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. Prerequisite: Previous coursework on Islam or consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Introduction to Islamic legal philosophy and the historical evolution of Islamic legal and jurisprudential system. Begins by studying the origins, nature, sources and interpretive methodologies of classical Islamic law, and the main institutions for upholding this law, the madhhab, or school of law, examining its development from the formative to the post-formative periods and highlighting important controversies generated along the way. Then looks at the early encounter of Islamic law with modernity. Followed by an exploration of several contemporary topics that have served as catalysts for new tensions and alternative approaches and interpretive theories. 3 undergraduate hours. 4 graduate hours. Prerequisite: Previous coursework on Islam or consent of instructor.", 
+    "href": "/2017/spring/RLST/480.json", 
+    "id": "RLST 480", 
+    "label": "Islamic Law", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Religious Studies", 
+            "href": "/2017/spring/RLST.json", 
+            "id": "RLST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "MD3", 
+                "href": "/2017/spring/RLST/480/63748.json", 
+                "id": "63748"
+            }, 
+            {
+                "content": "MD4", 
+                "href": "/2017/spring/RLST/480/63749.json", 
+                "id": "63749"
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "courseSectionInformation": "Prerequisite: MUS 201 and MUS 207, or placement by examination.", 
+    "creditHours": "2 hours.", 
+    "description": "Continuation of MUS 201. Study of twentieth century compositional methods. Prerequisite: MUS 201 and MUS 207, or placement by examination.", 
+    "href": "/2017/spring/MUS/202.json", 
+    "id": "MUS 202", 
+    "label": "Music Theory and Practice IV", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Music department.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/MUS/202/52949.json", 
+                "id": "52949"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/MUS/202/35426.json", 
+                "id": "35426"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/MUS/202/58888.json", 
+                "id": "58888"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/MUS/202/58889.json", 
+                "id": "58889"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/MUS/202/62937.json", 
+                "id": "62937"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/MUS/202/65704.json", 
+                "id": "65704"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/MUS/202/58887.json", 
+                "id": "58887"
+            }
+        ]
+    }
+}

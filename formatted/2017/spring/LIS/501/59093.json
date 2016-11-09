@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LIS/501/59093.json", 
+    "id": "59093", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "M", 
+            "end": "06:00 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Smith, L", 
+                    "firstName": "L", 
+                    "lastName": "Smith"
+                }
+            }, 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Info Org and Access", 
+            "href": "/2017/spring/LIS/501.json", 
+            "id": "501"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "LE", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Required core course for LIS M.S. students. See LIS 501for course desription.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

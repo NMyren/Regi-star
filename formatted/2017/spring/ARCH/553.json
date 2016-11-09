@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: ARCH 551; credit or concurrent registration in ARCH 560 or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Critical review of the analysis, methods, and specifications involved in the design and behavior of reinforced concrete structures for buildings, including tall buildings, plates, and shells; computer applications. Prerequisite: ARCH 551; credit or concurrent registration in ARCH 560 or consent of instructor.", 
+    "href": "/2017/spring/ARCH/553.json", 
+    "id": "ARCH 553", 
+    "label": "Adv Reinforced Concrete Design", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "D", 
+            "href": "/2017/spring/ARCH/553/30320.json", 
+            "id": "30320"
+        }
+    }
+}

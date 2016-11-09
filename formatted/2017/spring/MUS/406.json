@@ -1,0 +1,64 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. May be repeated to a maximum of 12 hours. Prerequisite: For undergraduates, MUS 206 and consent of composition faculty; for graduate students, consent of composition faculty.", 
+    "creditHours": "3 hours.", 
+    "description": "Individual instruction in contemporary musical practice. Students submit scores of their compositions to the composition faculty in order to obtain consent to register; consent is granted on the basis of the quality of the music the student has composed and the level of skill demonstrated in the work submitted. 3 undergraduate hours. 3 graduate hours. May be repeated to a maximum of 12 hours. Prerequisite: For undergraduates, MUS 206 and consent of composition faculty; for graduate students, consent of composition faculty.", 
+    "href": "/2017/spring/MUS/406.json", 
+    "id": "MUS 406", 
+    "label": "Advanced Composition", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AC1", 
+                "href": "/2017/spring/MUS/406/36434.json", 
+                "id": "36434"
+            }, 
+            {
+                "content": "AC2", 
+                "href": "/2017/spring/MUS/406/36439.json", 
+                "id": "36439"
+            }, 
+            {
+                "content": "AC4", 
+                "href": "/2017/spring/MUS/406/36432.json", 
+                "id": "36432"
+            }, 
+            {
+                "content": "AC8", 
+                "href": "/2017/spring/MUS/406/36441.json", 
+                "id": "36441"
+            }, 
+            {
+                "content": "AC9", 
+                "href": "/2017/spring/MUS/406/36435.json", 
+                "id": "36435"
+            }, 
+            {
+                "content": "ACA", 
+                "href": "/2017/spring/MUS/406/44433.json", 
+                "id": "44433"
+            }, 
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/MUS/406/36442.json", 
+                "id": "36442"
+            }
+        ]
+    }
+}

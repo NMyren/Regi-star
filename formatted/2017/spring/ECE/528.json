@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as GE 520 and ME 546. Prerequisite: ECE 515 and MATH 444 or MATH 447.", 
+    "creditHours": "4 hours.", 
+    "description": "Nonlinear dynamics, vector fields and flows, Lyapunov stability theory, regular and singular perturbations, averaging, integral manifolds, input-output and input-to-state stability, and various design applications in control systems and robotics. Same as GE 520 and ME 546. Prerequisite: ECE 515 and MATH 444 or MATH 447.", 
+    "href": "/2017/spring/ECE/528.json", 
+    "id": "ECE 528", 
+    "label": "Analysis of Nonlinear Systems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "R", 
+            "href": "/2017/spring/ECE/528/33986.json", 
+            "id": "33986"
+        }
+    }
+}

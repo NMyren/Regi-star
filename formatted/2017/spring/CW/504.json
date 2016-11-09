@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 16 hours. Prerequisite: Admission to the MFA program, or graduate standing in English with advanced submission of creative work and consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Directed individual projects, with group discussion in fiction. May be repeated to a maximum of 16 hours. Prerequisite: Admission to the MFA program, or graduate standing in English with advanced submission of creative work and consent of instructor.", 
+    "href": "/2017/spring/CW/504.json", 
+    "id": "CW 504", 
+    "label": "Writing Workshop in Fiction", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Creative Writing", 
+            "href": "/2017/spring/CW.json", 
+            "id": "CW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Creative Writing major(s) or minor(s). Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "W", 
+            "href": "/2017/spring/CW/504/43388.json", 
+            "id": "43388"
+        }
+    }
+}

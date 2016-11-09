@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: RST 100.", 
+    "creditHours": "3 hours.", 
+    "description": "Develops understanding of the process of leisure/recreation programming and the practical aspects of program design and delivery. Prerequisite: RST 100.", 
+    "href": "/2017/spring/RST/300.json", 
+    "id": "RST 300", 
+    "label": "Leisure Programming", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to students with Junior or Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/RST/300/43113.json", 
+            "id": "43113"
+        }
+    }
+}

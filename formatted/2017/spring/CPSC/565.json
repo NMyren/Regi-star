@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Prerequisite: Graduate status or consent of instructor. In addition, familiarity with DNA and protein sequence data, and basic Windows computing skills are required.", 
+    "creditHours": "2 hours.", 
+    "description": "This intensive course is an introduction to high-throughput bioinformatics and genome data analysis. An introduction to programming with Perl and Bioperl will be given, and students will learn to write scripts relevant to their own research goals.  We will also cover the use of UNIX and Perl for automating and customizing bioinformatics tools. Prerequisite: Graduate status or consent of instructor. In addition, familiarity with DNA and protein sequence data, and basic Windows computing skills are required.", 
+    "href": "/2017/spring/CPSC/565.json", 
+    "id": "CPSC 565", 
+    "label": "Perl & UNIX for Bioinformatics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/CPSC/565/46730.json", 
+                "id": "46730"
+            }, 
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/CPSC/565/46726.json", 
+                "id": "46726"
+            }
+        ]
+    }
+}

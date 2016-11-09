@@ -1,0 +1,63 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/MUS/272/36416.json", 
+    "id": "36416", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Harding Band Building", 
+            "daysOfTheWeek": "M", 
+            "end": "08:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Gardner, J", 
+                        "firstName": "J", 
+                        "lastName": "Gardner"
+                    }, 
+                    {
+                        "content": "Smith, S", 
+                        "firstName": "S", 
+                        "lastName": "Smith"
+                    }
+                ]
+            }, 
+            "roomNumber": "141", 
+            "start": "07:00 PM", 
+            "type": {
+                "code": "PR ", 
+                "content": "Practice"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Concert Band", 
+            "href": "/2017/spring/MUS/272.json", 
+            "id": "272"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "N", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Due to the nature of music ensembles, required performances will occur at times other than class times, and additional required rehearsals may be announced.  Auditions will be held at the beginning of the semester.", 
+    "sectionTitle": "University Band", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

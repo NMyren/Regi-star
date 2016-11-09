@@ -1,0 +1,41 @@
+{
+    "classScheduleInformation": "Summer session I, 4 Law or graduate hours; summer session II, 8 Law or graduate hours.", 
+    "courseSectionInformation": "0 to 8 undergraduate hours. 0 to 8 graduate hours. Approved for letter and S/U grading. Prerequisite: Full academic standing in the College of Law or Graduate College and consent of major department. Law students, successful completion of the year's requirements.", 
+    "creditHours": "0 TO 8 hours.", 
+    "description": "Provides campus credit for study at accredited foreign institutions or approved overseas programs. Final determination of credit granted is made after the student's successful completion of work. 0 to 8 undergraduate hours. 0 to 8 graduate hours. Approved for letter and S/U grading. Prerequisite: Full academic standing in the College of Law or Graduate College and consent of major department. Law students, successful completion of the year's requirements.", 
+    "href": "/2017/spring/LAW/499.json", 
+    "id": "LAW 499", 
+    "label": "LAW Study Abroad", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/LAW/499/61049.json", 
+                "id": "61049"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/LAW/499/61050.json", 
+                "id": "61050"
+            }
+        ]
+    }
+}

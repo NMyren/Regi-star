@@ -1,0 +1,32 @@
+{
+    "classScheduleInformation": "This course is offered exclusively online with weekly assignments, but no required class time except for exams. This section has one or more proctored exams, which may carry additional fees. Proctoring options include fee-based ProctorU and approved proctoring centers.", 
+    "creditHours": "2 hours.", 
+    "description": "Vocabulary building assistance for students through an analysis of Greek and Latin roots, prefixes, and suffixes found in English.", 
+    "href": "/2017/spring/CLCV/100.json", 
+    "id": "CLCV 100", 
+    "label": "Vocab Building-GRK & LAT Roots", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Classical Civilization", 
+            "href": "/2017/spring/CLCV.json", 
+            "id": "CLCV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CLCV/100/31316.json", 
+            "id": "31316"
+        }
+    }
+}

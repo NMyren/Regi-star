@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated.", 
+    "creditHours": "1 hours.", 
+    "description": "Lectures and discussions on current work in research and development in nuclear engineering and related fields by staff, advanced students, and visiting lecturers. Approved for S/U grading only. May be repeated.", 
+    "href": "/2017/spring/NPRE/596.json", 
+    "id": "NPRE 596", 
+    "label": "Seminar in Nuclear Sci & Engrg", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Nuclear, Plasma, and Radiological Engineering", 
+            "href": "/2017/spring/NPRE.json", 
+            "id": "NPRE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/NPRE/596/34941.json", 
+            "id": "34941"
+        }
+    }
+}

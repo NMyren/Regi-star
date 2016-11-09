@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "0 to 3 undergraduate hours. No graduate credit. Approved for letter and S/U grading. May be repeated in separate terms up to 6 hours. Prerequisite: Evidence of adequate preparation for such study; consent of faculty member supervising the work; and approval of the department head. Majors only. Not available to freshman and sophomores.", 
+    "creditHours": "0 TO 3 hours.", 
+    "description": "Conduct research study under the supervision of a departmental faculty member. Topics and nature of assistance vary. Capstone paper required. 0 to 3 undergraduate hours. No graduate credit. Approved for letter and S/U grading. May be repeated in separate terms up to 6 hours. Prerequisite: Evidence of adequate preparation for such study; consent of faculty member supervising the work; and approval of the department head. Majors only. Not available to freshman and sophomores.", 
+    "href": "/2017/spring/SOCW/480.json", 
+    "id": "SOCW 480", 
+    "label": "UG Research Project", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/SOCW/480/62042.json", 
+            "id": "62042"
+        }
+    }
+}

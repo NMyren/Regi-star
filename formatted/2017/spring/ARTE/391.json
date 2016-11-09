@@ -1,0 +1,33 @@
+{
+    "classScheduleInformation": "A student registered in one or more Art & Design course(s) exhibiting this message, will be assessed a $95 facility use fee once each term.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. May be repeated to a maximum of 6 hours. Prerequisite: Junior standing in art and design; and consent of instructor, advisor, and associate director of the School.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Directed independent research or creative activity. Additional fees may apply. See Class Schedule. May be repeated to a maximum of 6 hours. Prerequisite: Junior standing in art and design; and consent of instructor, advisor, and associate director of the School.", 
+    "href": "/2017/spring/ARTE/391.json", 
+    "id": "ARTE 391", 
+    "label": "Independent Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Education", 
+            "href": "/2017/spring/ARTE.json", 
+            "id": "ARTE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ARTE/391/10367.json", 
+            "id": "10367"
+        }
+    }
+}

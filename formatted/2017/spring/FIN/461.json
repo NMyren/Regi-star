@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. Prerequisite: FIN 300 or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Financial intermediaries survey of the structure, functions, regulation, and risk management activities of financial intermediaries; central banking and monetary policy effects on financial intermediaries. 3 undergraduate hours. No graduate credit. Prerequisite: FIN 300 or consent of instructor.", 
+    "href": "/2017/spring/FIN/461.json", 
+    "id": "FIN 461", 
+    "label": "Financial Intermediation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Finance", 
+            "href": "/2017/spring/FIN.json", 
+            "id": "FIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to College of Business. Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "F", 
+            "href": "/2017/spring/FIN/461/32604.json", 
+            "id": "32604"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as EPSY 405. 3 undergraduate hours. 4 graduate hours. Prerequisite: PSYC 216 or EPSY 236 or equivalent.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Major theories of personality and social development, with attention to processes of social learning, individual differences in personality development, and outcomes of social development; applications to school, home, and other field settings. Same as EPSY 405. 3 undergraduate hours. 4 graduate hours. Prerequisite: PSYC 216 or EPSY 236 or equivalent.", 
+    "href": "/2017/spring/PSYC/465.json", 
+    "id": "PSYC 465", 
+    "label": "Personality and Soc Dev", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AG4", 
+                "href": "/2017/spring/PSYC/465/37420.json", 
+                "id": "37420"
+            }, 
+            {
+                "content": "AU3", 
+                "href": "/2017/spring/PSYC/465/37417.json", 
+                "id": "37417"
+            }
+        ]
+    }
+}

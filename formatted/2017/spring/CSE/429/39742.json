@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/CSE/429/39742.json", 
+    "id": "39742", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Digital Computer Laboratory", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:45 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Xie, T", 
+                    "firstName": "T", 
+                    "lastName": "Xie"
+                }
+            }, 
+            "roomNumber": "1310", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Software Engineering II", 
+            "href": "/2017/spring/CSE/429.json", 
+            "id": "429"
+        }, 
+        "subject": {
+            "content": "Computational Science and Engineering", 
+            "href": "/2017/spring/CSE.json", 
+            "id": "CSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "Q4", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

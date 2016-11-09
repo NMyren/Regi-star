@@ -1,0 +1,50 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "Same as SHS 301. See SHS 301.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as SHS 301. See SHS 301.", 
+    "href": "/2017/spring/LING/303.json", 
+    "id": "LING 303", 
+    "label": "General Speech Science", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Linguistics", 
+            "href": "/2017/spring/LING.json", 
+            "id": "LING"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/LING/303/37322.json", 
+                "id": "37322"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/LING/303/37376.json", 
+                "id": "37376"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/LING/303/47515.json", 
+                "id": "47515"
+            }, 
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/LING/303/37382.json", 
+                "id": "37382"
+            }
+        ]
+    }
+}

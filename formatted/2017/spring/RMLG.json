@@ -1,0 +1,41 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "4080 Foreign Languages Building, 707 South Mathews, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Head of Department: Mariselle Mel\u00c3\u00a9ndez\nDepartment Office, 4080 Foreign Languages Building, 707 South Mathews, Urbana, 217-333-3390\nSubjects associated with this department include: Basque (BASQ), Catalan (CATL), Portuguese (PORT), Romance Languages (RMLG), and Spanish (SPAN).\nwww.sip.illinois.edu", 
+    "contactName": "Mariselle Mel\u00c3\u00a9ndez", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Introduction to Romance Linguistics", 
+                "href": "/2017/spring/RMLG/435.json", 
+                "id": "435"
+            }, 
+            {
+                "content": "Sem Romance Ling", 
+                "href": "/2017/spring/RMLG/559.json", 
+                "id": "559"
+            }
+        ]
+    }, 
+    "departmentCode": "1585", 
+    "id": "RMLG", 
+    "label": "Romance Linguistics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-3390", 
+    "subjectComment": "Subjects associated with this department include: Basque (BASQ), Catalan (CATL), Portuguese (PORT), Romance Languages (RMLG), and Spanish (SPAN).", 
+    "unitName": "Spanish and Portuguese", 
+    "webSiteURL": "www.sip.illinois.edu"
+}

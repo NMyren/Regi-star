@@ -1,0 +1,92 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. Departmental approval required. Prerequisite: Concurrent enrollment in no more than two required ME courses; completion of all required courses.", 
+    "creditHours": "3 hours.", 
+    "description": "Solution of a real-world design problem: development, evaluation, and recommendation of alternative solutions subject to realistic constraints that include most of the following considerations: economics, environment, sustainability, manufacturability, ethics, health and safety, society, and politics. 3 undergraduate hours. No graduate credit. Departmental approval required. Prerequisite: Concurrent enrollment in no more than two required ME courses; completion of all required courses.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/ME/470.json", 
+    "id": "ME 470", 
+    "label": "Senior Design Project", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ME/470/37401.json", 
+                "id": "37401"
+            }, 
+            {
+                "content": "AY1", 
+                "href": "/2017/spring/ME/470/37393.json", 
+                "id": "37393"
+            }, 
+            {
+                "content": "AY2", 
+                "href": "/2017/spring/ME/470/37395.json", 
+                "id": "37395"
+            }, 
+            {
+                "content": "AY3", 
+                "href": "/2017/spring/ME/470/37397.json", 
+                "id": "37397"
+            }, 
+            {
+                "content": "AY4", 
+                "href": "/2017/spring/ME/470/37398.json", 
+                "id": "37398"
+            }, 
+            {
+                "content": "AY5", 
+                "href": "/2017/spring/ME/470/37400.json", 
+                "id": "37400"
+            }, 
+            {
+                "content": "AY6", 
+                "href": "/2017/spring/ME/470/38942.json", 
+                "id": "38942"
+            }, 
+            {
+                "content": "AY7", 
+                "href": "/2017/spring/ME/470/38943.json", 
+                "id": "38943"
+            }, 
+            {
+                "content": "AY8", 
+                "href": "/2017/spring/ME/470/41473.json", 
+                "id": "41473"
+            }, 
+            {
+                "content": "SAE", 
+                "href": "/2017/spring/ME/470/57444.json", 
+                "id": "57444"
+            }
+        ]
+    }
+}

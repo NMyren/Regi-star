@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 8 hours. Prerequisite: Graduate standing in music education.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Independent critical readings and reflections of topics not treated in regularly scheduled courses. Includes program of approved research that culminates in a written report and/or formal presentations. May be repeated to a maximum of 8 hours. Prerequisite: Graduate standing in music education.", 
+    "href": "/2017/spring/MUS/530.json", 
+    "id": "MUS 530", 
+    "label": "Critical Readings in Mus Ed", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/MUS/530/10022.json", 
+            "id": "10022"
+        }
+    }
+}

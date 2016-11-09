@@ -1,0 +1,53 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-01-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LAW/682/35968.json", 
+    "id": "35968", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MTW", 
+            "end": "10:15 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Bilz, K", 
+                    "firstName": "K", 
+                    "lastName": "Bilz"
+                }
+            }, 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Evidence", 
+            "href": "/2017/spring/LAW/682.json", 
+            "id": "682"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "LF", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

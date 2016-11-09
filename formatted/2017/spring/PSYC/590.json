@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. Prerequisite: Consent of instructor.", 
+    "creditHours": "0 TO 16 hours.", 
+    "description": "For graduate students who wish to conduct research on special problems not included in graduate theses. Approved for S/U grading only. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/PSYC/590.json", 
+    "id": "PSYC 590", 
+    "label": "Individual Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/PSYC/590/10262.json", 
+            "id": "10262"
+        }
+    }
+}

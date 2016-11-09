@@ -1,0 +1,80 @@
+{
+    "classScheduleInformation": "Labs will not meet until the first full week of class. Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "Prerequisite: TAM 212.", 
+    "creditHours": "4 hours.", 
+    "description": "Fluid statics; continuity, momentum, and energy principles via control volumes; ideal and real fluid flow; introduction to the Navier-Stokes equation; similitude; laminar and turbulent boundary layers; closed-conduit flow, open-channel flow, and turbomachinery. Prerequisite: TAM 212.", 
+    "href": "/2017/spring/TAM/335.json", 
+    "id": "TAM 335", 
+    "label": "Introductory Fluid Mechanics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theoretical and Applied Mechanics", 
+            "href": "/2017/spring/TAM.json", 
+            "id": "TAM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/TAM/335/36262.json", 
+                "id": "36262"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/TAM/335/36263.json", 
+                "id": "36263"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/TAM/335/36265.json", 
+                "id": "36265"
+            }, 
+            {
+                "content": "AB5", 
+                "href": "/2017/spring/TAM/335/36266.json", 
+                "id": "36266"
+            }, 
+            {
+                "content": "AB6", 
+                "href": "/2017/spring/TAM/335/45456.json", 
+                "id": "45456"
+            }, 
+            {
+                "content": "AB7", 
+                "href": "/2017/spring/TAM/335/52256.json", 
+                "id": "52256"
+            }, 
+            {
+                "content": "AB8", 
+                "href": "/2017/spring/TAM/335/53796.json", 
+                "id": "53796"
+            }, 
+            {
+                "content": "ABA", 
+                "href": "/2017/spring/TAM/335/54169.json", 
+                "id": "54169"
+            }, 
+            {
+                "content": "ABB", 
+                "href": "/2017/spring/TAM/335/54170.json", 
+                "id": "54170"
+            }, 
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/TAM/335/36267.json", 
+                "id": "36267"
+            }
+        ]
+    }
+}

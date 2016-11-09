@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "A 21st century approach to music theory: fundamental elements of music illustrated through logical and mathematical concepts, unencumbered by stylistic considerations. Defines the internal structure of sounds and presents a few general methods of organizing them into complex compositions. Intended for musicians having limited familiarity with mathematics, as well as scientifically inclined students with little musical background. 3 undergraduate hours. 3 graduate hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/MUS/424.json", 
+    "id": "MUS 424", 
+    "label": "Musical Informatics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/424/65706.json", 
+            "id": "65706"
+        }
+    }
+}

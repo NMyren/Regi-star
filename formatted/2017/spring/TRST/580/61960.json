@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/TRST/580/61960.json", 
+    "id": "61960", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foreign Languages Building", 
+            "daysOfTheWeek": "T", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Jenkins, R", 
+                    "firstName": "R", 
+                    "lastName": "Jenkins"
+                }
+            }, 
+            "roomNumber": "1110", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics in Translation", 
+            "href": "/2017/spring/TRST/580.json", 
+            "id": "580"
+        }, 
+        "subject": {
+            "content": "Translation Studies", 
+            "href": "/2017/spring/TRST.json", 
+            "id": "TRST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "G4", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic:  Audiovisual Translation: Film Subtitling Instructor:  Robert Jenkins This course will provide students with a foundation in the theoretical issues of subtitling and practical instruction in the technological skills needed. The course is open to graduate students of all language pairs. The main semester project will consist of a film segment, short film, or other appropriate visual medium complete with audiovisual translations and embedded subtitles. An accompanying narrative description of the translation-subtitling process is additionally required.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

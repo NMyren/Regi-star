@@ -1,0 +1,33 @@
+{
+    "classScheduleInformation": "Student costs for supplies and concert tickets: Approx. $30. Written assignments and concert attendance is required.", 
+    "courseSectionInformation": "May be repeated to a maximum of 8 hours.", 
+    "creditHours": "2 hours.", 
+    "description": "Introduction to basic dance technique and movement improvisation; the study of motion as an art, group relationships in improvisation, and discussion of choreographic ideas. For non-dance majors. May be repeated to a maximum of 8 hours.", 
+    "href": "/2017/spring/DANC/101.json", 
+    "id": "DANC 101", 
+    "label": "Modern Dance I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/DANC/101/31808.json", 
+            "id": "31808"
+        }
+    }
+}

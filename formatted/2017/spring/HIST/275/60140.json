@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/HIST/275/60140.json", 
+    "id": "60140", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Armory", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Asaka, I", 
+                    "firstName": "I", 
+                    "lastName": "Asaka"
+                }
+            }, 
+            "roomNumber": "386", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Afro-American History to 1877", 
+            "href": "/2017/spring/HIST/275.json", 
+            "id": "275"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Description:  This course surveys the history of people of African descent in the United States from the colonial era to Reconstruction.  Key topics include Atlantic slavery, domestic slavery expansion, enslaved people's resistance strategies, social and political activism in free black communities, and emancipation.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

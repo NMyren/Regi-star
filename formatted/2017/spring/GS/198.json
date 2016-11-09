@@ -1,0 +1,41 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading.", 
+    "creditHours": "0 TO 3 hours.", 
+    "description": "Approved for both letter and S/U grading.", 
+    "href": "/2017/spring/GS/198.json", 
+    "id": "GS 198", 
+    "label": "DGS Honors Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "General Studies", 
+            "href": "/2017/spring/GS.json", 
+            "id": "GS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sectionDateRange": "Meets 17-Jan-17 - 07-Apr-17.", 
+    "sections": {
+        "section": [
+            {
+                "content": "JN1", 
+                "href": "/2017/spring/GS/198/65839.json", 
+                "id": "65839"
+            }, 
+            {
+                "content": "JN2", 
+                "href": "/2017/spring/GS/198/65840.json", 
+                "id": "65840"
+            }
+        ]
+    }
+}

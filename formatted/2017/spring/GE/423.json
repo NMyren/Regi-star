@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: GE 320.", 
+    "creditHours": "3 hours.", 
+    "description": "Mechatronics concepts and practice: computer interfacing of physical devices (sensors, actuators); data acquisition; real time programming and real time control; human-machine interfaces; design principles of mechatronics in manufacturing systems and in consumer systems. 3 undergraduate hours. 3 graduate hours. Prerequisite: GE 320.", 
+    "href": "/2017/spring/GE/423.json", 
+    "id": "GE 423", 
+    "label": "Mechatronics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "General Engineering", 
+            "href": "/2017/spring/GE.json", 
+            "id": "GE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/GE/423/33221.json", 
+                "id": "33221"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/GE/423/33222.json", 
+                "id": "33222"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/GE/423/33223.json", 
+                "id": "33223"
+            }
+        ]
+    }
+}

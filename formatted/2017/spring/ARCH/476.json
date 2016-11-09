@@ -1,0 +1,64 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: ARCH 475.", 
+    "creditHours": "6 hours.", 
+    "description": "Exploration of boundaries of architecture and the built environment. Focused exploration into specific design topics, such as issue-oriented building problems, urban design theory, intermediate building design and site planning theory, human-environment relationship theory, interdisciplinary design, and architectural design and presentation methods. 4 undergraduate hours. 4 graduate hours. Prerequisite: ARCH 475.", 
+    "href": "/2017/spring/ARCH/476.json", 
+    "id": "ARCH 476", 
+    "label": "Arch Design & Exploration", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "E0", 
+                "href": "/2017/spring/ARCH/476/52994.json", 
+                "id": "52994"
+            }, 
+            {
+                "content": "E1", 
+                "href": "/2017/spring/ARCH/476/30290.json", 
+                "id": "30290"
+            }, 
+            {
+                "content": "E2", 
+                "href": "/2017/spring/ARCH/476/51230.json", 
+                "id": "51230"
+            }, 
+            {
+                "content": "E3", 
+                "href": "/2017/spring/ARCH/476/30292.json", 
+                "id": "30292"
+            }, 
+            {
+                "content": "E4", 
+                "href": "/2017/spring/ARCH/476/56197.json", 
+                "id": "56197"
+            }, 
+            {
+                "content": "E5", 
+                "href": "/2017/spring/ARCH/476/59641.json", 
+                "id": "59641"
+            }, 
+            {
+                "content": "E6", 
+                "href": "/2017/spring/ARCH/476/59642.json", 
+                "id": "59642"
+            }
+        ]
+    }
+}

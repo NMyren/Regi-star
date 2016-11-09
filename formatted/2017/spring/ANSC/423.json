@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. 2 graduate hours. Prerequisites: ANSC 201 or equivalent, or consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "All aspects of dairy cattle nutrition will be discussed including nutrients, phase feeding (milk curve analysis, dry matter intake, and body weight loss), dry and transition cow programs, forage feeding systems, feed delivery approaches, metabolic disorders related to nutrition, and application of various dairy feeding guides. 2 undergraduate hours. 2 graduate hours. Prerequisites: ANSC 201 or equivalent, or consent of instructor.", 
+    "href": "/2017/spring/ANSC/423.json", 
+    "id": "ANSC 423", 
+    "label": "Advanced Dairy Nutrition", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 23-Jan-17 - 11-Apr-17.", 
+    "sections": {
+        "section": {
+            "content": "A1", 
+            "href": "/2017/spring/ANSC/423/65858.json", 
+            "id": "65858"
+        }
+    }
+}

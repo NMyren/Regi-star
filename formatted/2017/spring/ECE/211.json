@@ -1,0 +1,51 @@
+{
+    "courseSectionInformation": "Credit is not given for both ECE 211 and ECE 210. Prerequisite: ECE 110 and PHYS 212; credit or concurrent registration in MATH 285 or MATH 286.", 
+    "creditHours": "2 hours.", 
+    "description": "Concepts from circuit and system analysis: linear systems; review of elementary circuit analysis; op amps; transient analysis; differential equation models of linear circuits and systems; Laplace transform. Credit is not given for both ECE 211 and ECE 210. Prerequisite: ECE 110 and PHYS 212; credit or concurrent registration in MATH 285 or MATH 286.", 
+    "href": "/2017/spring/ECE/211.json", 
+    "id": "ECE 211", 
+    "label": "Analog Circuits & Systems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sectionRegistrationNotes": "Not intended for Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "B", 
+                "href": "/2017/spring/ECE/211/32581.json", 
+                "id": "32581"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/ECE/211/55639.json", 
+                "id": "55639"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/ECE/211/32620.json", 
+                "id": "32620"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/ECE/211/32660.json", 
+                "id": "32660"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as ENG 466. See ENG 466.", 
+    "creditHours": "2 hours.", 
+    "description": "Same as ENG 466. See ENG 466.", 
+    "href": "/2017/spring/TE/466.json", 
+    "id": "TE 466", 
+    "label": "High-Tech Venture Marketing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Technology Entrepreneurship", 
+            "href": "/2017/spring/TE.json", 
+            "id": "TE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/TE/466/62153.json", 
+            "id": "62153"
+        }
+    }
+}

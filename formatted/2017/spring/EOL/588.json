@@ -1,0 +1,51 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. May be repeated in separate terms to a maximum of 4 hours.", 
+    "creditHours": "2 hours.", 
+    "description": "Part I is the design of a research study (capstone project) that integrates literature covered in the degree program leading to a research question to be explored empirically. It includes literature review, problem statement, research design, methodology, identifying participants, IRB review and a final proposal paper. Students are expected to collect data for their study (project) between Parts I and II. Part II topics include data analysis, interpretation, discussion, implications, dissemination of findings, and future research. Leads to a final research (capstone) paper that synthesizes work from Part I and adds to it through data analysis, discussion of findings, implications, and ways to disseminate findings to relevant audiences. Approved for both letter and S/U grading. May be repeated in separate terms to a maximum of 4 hours.", 
+    "href": "/2017/spring/EOL/588.json", 
+    "id": "EOL 588", 
+    "label": "Capstone Experience I & II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Organization and Leadership", 
+            "href": "/2017/spring/EOL.json", 
+            "id": "EOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/EOL/588/65789.json", 
+                "id": "65789"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/EOL/588/65790.json", 
+                "id": "65790"
+            }, 
+            {
+                "content": "TL1", 
+                "href": "/2017/spring/EOL/588/64139.json", 
+                "id": "64139"
+            }, 
+            {
+                "content": "TL2", 
+                "href": "/2017/spring/EOL/588/64333.json", 
+                "id": "64333"
+            }
+        ]
+    }
+}

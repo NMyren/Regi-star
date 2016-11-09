@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: MATH 500.", 
+    "creditHours": "4 hours.", 
+    "description": "Modules over non commutative rings. Direct sums and products. Direct and inverse limits. Categories and  functors. Projective and injective modules. Noetherian and Artinian rings and modules. Semisimple modules. Wedderburn's theorem on semisimple Artinian rings. Application to representation theory of groups. Multilinear algebra, tensor products and flat modules. Tensor, symmetric and exterior algebras. Additional advanced topics.  Prerequisite: MATH 500.", 
+    "href": "/2017/spring/MATH/501.json", 
+    "id": "MATH 501", 
+    "label": "Abstract Algebra II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Undergrad - Urbana-Champaign. Not intended for MS:Economics:Policy Econ -UIUC or MS: Financial Engineering.", 
+    "sections": {
+        "section": {
+            "content": "C1", 
+            "href": "/2017/spring/MATH/501/38154.json", 
+            "id": "38154"
+        }
+    }
+}

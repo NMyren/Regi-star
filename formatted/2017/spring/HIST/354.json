@@ -1,0 +1,31 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Cultural history of Europe in an age of global warfare and political, social, and economic upheaval.", 
+    "href": "/2017/spring/HIST/354.json", 
+    "id": "HIST 354", 
+    "label": "Twentieth Century Europe", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/HIST/354/44276.json", 
+            "id": "44276"
+        }
+    }
+}

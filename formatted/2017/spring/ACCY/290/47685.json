@@ -1,0 +1,45 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ACCY/290/47685.json", 
+    "id": "47685", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {}, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Prof Internship in Accountancy", 
+            "href": "/2017/spring/ACCY/290.json", 
+            "id": "290"
+        }, 
+        "subject": {
+            "content": "Accountancy", 
+            "href": "/2017/spring/ACCY.json", 
+            "id": "ACCY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "O", 
+    "sectionStatusCode": "A", 
+    "sectionText": "SECTION O IS FOR ZERO CREDIT ONLY.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

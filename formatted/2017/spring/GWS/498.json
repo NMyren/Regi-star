@@ -1,0 +1,46 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. Prerequisite: Senior standing and enrollment as a major in Gender and Women's Studies, or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Considers the relationship between theory and research in Women's Studies. Reviews and examines the key issues of feminist scholarship. Provides students with the methodological knowledge and opportunity to carry out a research project. 3 undergraduate hours. No graduate credit. Prerequisite: Senior standing and enrollment as a major in Gender and Women's Studies, or consent of instructor.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/GWS/498.json", 
+    "id": "GWS 498", 
+    "label": "Senior Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Gender and Women's Studies", 
+            "href": "/2017/spring/GWS.json", 
+            "id": "GWS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Advisor Approval Required", 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sections": {
+        "section": {
+            "content": "KF", 
+            "href": "/2017/spring/GWS/498/48439.json", 
+            "id": "48439"
+        }
+    }
+}

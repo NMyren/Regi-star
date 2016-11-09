@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as CHEM 293. See CHEM 293.", 
+    "creditHours": "0 hours.", 
+    "description": "Same as CHEM 293. See CHEM 293.", 
+    "href": "/2017/spring/CHBE/202.json", 
+    "id": "CHBE 202", 
+    "label": "Cooperative Education Practice", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Chemical Engineering major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHBE/202/32570.json", 
+            "id": "32570"
+        }
+    }
+}

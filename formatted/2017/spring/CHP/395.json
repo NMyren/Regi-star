@@ -1,0 +1,42 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 6 hours. Prerequisite: Junior standing in the Campus Honors Program.", 
+    "creditHours": "3 hours.", 
+    "description": "Seminar on interdisciplinary topics in the natural sciences, social sciences, humanities, and arts. Open to Chancellor's Scholars and other honors students. May be repeated to a maximum of 6 hours. Prerequisite: Junior standing in the Campus Honors Program.", 
+    "href": "/2017/spring/CHP/395.json", 
+    "id": "CHP 395", 
+    "label": "Interdisciplinary Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Campus Honors Program Courses", 
+            "href": "/2017/spring/CHP.json", 
+            "id": "CHP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to Chancellor's Scholar-CHPHonors students.", 
+    "sectionDegreeAttributes": "Camp Honors/Chanc Schol course.", 
+    "sectionRegistrationNotes": "Not intended for students with Freshman class standing.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/CHP/395/31307.json", 
+                "id": "31307"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/CHP/395/40547.json", 
+                "id": "40547"
+            }
+        ]
+    }
+}

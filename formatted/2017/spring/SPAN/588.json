@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as EALC 588, FR 588, GER 588, ITAL 588, LING 588, and PORT 588. May be repeated to a maximum of 16 hours if topics vary. Prerequisite: SPAN 580 or equivalent or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Treats specific topics in second language learning that are of current research and/or theoretical interest. Topics vary from term to term. Same as EALC 588, FR 588, GER 588, ITAL 588, LING 588, and PORT 588. May be repeated to a maximum of 16 hours if topics vary. Prerequisite: SPAN 580 or equivalent or consent of instructor.", 
+    "href": "/2017/spring/SPAN/588.json", 
+    "id": "SPAN 588", 
+    "label": "Sem Second Lang Learn", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G", 
+                "href": "/2017/spring/SPAN/588/35660.json", 
+                "id": "35660"
+            }, 
+            {
+                "content": "SM", 
+                "href": "/2017/spring/SPAN/588/57103.json", 
+                "id": "57103"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated in the same or subsequent terms. No more than 12 hours of special problems, research, thesis and/or individual studies may be counted toward degree. Prerequisite: Junior standing, admission to the ACES Honors Program, and consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Individual research, special problems, thesis, development and/or design work under the direction of the Honors advisor. May be repeated in the same or subsequent terms. No more than 12 hours of special problems, research, thesis and/or individual studies may be counted toward degree. Prerequisite: Junior standing, admission to the ACES Honors Program, and consent of instructor.", 
+    "href": "/2017/spring/CPSC/396.json", 
+    "id": "CPSC 396", 
+    "label": "Undergrad Honors Res or Thesis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CPSC/396/10562.json", 
+            "id": "10562"
+        }
+    }
+}

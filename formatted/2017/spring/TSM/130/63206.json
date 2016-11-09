@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/TSM/130/63206.json", 
+    "id": "63206", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Agricultural Engr Sciences Bld", 
+            "daysOfTheWeek": "W", 
+            "end": "05:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Gates, R", 
+                    "firstName": "R", 
+                    "lastName": "Gates"
+                }
+            }, 
+            "roomNumber": "220", 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Basics of CAD", 
+            "href": "/2017/spring/TSM/130.json", 
+            "id": "130"
+        }, 
+        "subject": {
+            "content": "Technical Systems Management", 
+            "href": "/2017/spring/TSM.json", 
+            "id": "TSM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionNumber": "CAD", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

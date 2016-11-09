@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 9 hours. Prerequisite: PS 270, six hours of Political Science credit, or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Examines specific topics and writers of contemporary political theory. Recent themes have included conceptions of power, rights, justice, and radical political thought. May be repeated to a maximum of 9 hours. Prerequisite: PS 270, six hours of Political Science credit, or consent of instructor.", 
+    "href": "/2017/spring/PS/377.json", 
+    "id": "PS 377", 
+    "label": "Topics Contemp Pol Theory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Political Science major(s). Not intended for students with Freshman class standing.", 
+    "sections": {
+        "section": {
+            "content": "BM1", 
+            "href": "/2017/spring/PS/377/65268.json", 
+            "id": "65268"
+        }
+    }
+}

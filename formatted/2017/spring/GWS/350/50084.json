@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/GWS/350/50084.json", 
+    "id": "50084", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "David Kinley Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kashani, M", 
+                    "firstName": "M", 
+                    "lastName": "Kashani"
+                }
+            }, 
+            "roomNumber": "125", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Feminist & Gender Theory", 
+            "href": "/2017/spring/GWS/350.json", 
+            "id": "350"
+        }, 
+        "subject": {
+            "content": "Gender and Women's Studies", 
+            "href": "/2017/spring/GWS.json", 
+            "id": "GWS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "MK", 
+    "sectionStatusCode": "A", 
+    "sectionText": "For GWS majors, GWS Minors, and LGBT/Q minors.  Course will be released following initial registration period.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

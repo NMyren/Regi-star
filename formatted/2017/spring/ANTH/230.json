@@ -1,0 +1,48 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the anthropological study of contemporary human societies; emphasis on the comparative study of social organization, interpersonal relations, cultural ecology, and processes of sociocultural change, but also includes some consideration of the method and theory of ethnographic field research.", 
+    "href": "/2017/spring/ANTH/230.json", 
+    "id": "ANTH 230", 
+    "label": "Sociocultural Anthropology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Anthropology", 
+            "href": "/2017/spring/ANTH.json", 
+            "id": "ANTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ADA", 
+                "href": "/2017/spring/ANTH/230/30044.json", 
+                "id": "30044"
+            }, 
+            {
+                "content": "ADB", 
+                "href": "/2017/spring/ANTH/230/30045.json", 
+                "id": "30045"
+            }, 
+            {
+                "content": "ADC", 
+                "href": "/2017/spring/ANTH/230/30047.json", 
+                "id": "30047"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ANTH/230/30048.json", 
+                "id": "30048"
+            }
+        ]
+    }
+}

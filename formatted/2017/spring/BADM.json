@@ -1,0 +1,440 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "350 Wohlers Hall, 1206 South Sixth, Champaign", 
+    "collegeCode": "KM", 
+    "collegeDepartmentDescription": "Department Head: Aric Rindfleisch\nDepartment Office, 350 Wohlers Hall, 1206 South Sixth, Champaign, 333-4240\nwww.business.illinois.edu/ba", 
+    "contactName": "Aric Rindfleisch", 
+    "contactTitle": "Department Head", 
+    "courses": {
+        "course": [
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/BADM/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "The Legal Environment of Bus", 
+                "href": "/2017/spring/BADM/300.json", 
+                "id": "300"
+            }, 
+            {
+                "content": "Principles of Public Policy", 
+                "href": "/2017/spring/BADM/303.json", 
+                "id": "303"
+            }, 
+            {
+                "content": "Mgmt and Organizational Beh", 
+                "href": "/2017/spring/BADM/310.json", 
+                "id": "310"
+            }, 
+            {
+                "content": "Individual Behavior in Orgs", 
+                "href": "/2017/spring/BADM/311.json", 
+                "id": "311"
+            }, 
+            {
+                "content": "Org Design and Environment", 
+                "href": "/2017/spring/BADM/312.json", 
+                "id": "312"
+            }, 
+            {
+                "content": "Human Resource Management", 
+                "href": "/2017/spring/BADM/313.json", 
+                "id": "313"
+            }, 
+            {
+                "content": "Leading Negotiations", 
+                "href": "/2017/spring/BADM/314.json", 
+                "id": "314"
+            }, 
+            {
+                "content": "Principles of Marketing", 
+                "href": "/2017/spring/BADM/320.json", 
+                "id": "320"
+            }, 
+            {
+                "content": "Marketing Research", 
+                "href": "/2017/spring/BADM/322.json", 
+                "id": "322"
+            }, 
+            {
+                "content": "Marketing Communications", 
+                "href": "/2017/spring/BADM/323.json", 
+                "id": "323"
+            }, 
+            {
+                "content": "Purchasing and Supply Mgmnt", 
+                "href": "/2017/spring/BADM/324.json", 
+                "id": "324"
+            }, 
+            {
+                "content": "Consumer Behavior", 
+                "href": "/2017/spring/BADM/325.json", 
+                "id": "325"
+            }, 
+            {
+                "content": "Pricing Policies", 
+                "href": "/2017/spring/BADM/326.json", 
+                "id": "326"
+            }, 
+            {
+                "content": "Marketing to Business and Govt", 
+                "href": "/2017/spring/BADM/327.json", 
+                "id": "327"
+            }, 
+            {
+                "content": "Mktg Innov for Sub Mktplaces", 
+                "href": "/2017/spring/BADM/333.json", 
+                "id": "333"
+            }, 
+            {
+                "content": "Practicum in Supply Chain Mgt", 
+                "href": "/2017/spring/BADM/337.json", 
+                "id": "337"
+            }, 
+            {
+                "content": "Ethical Dilemmas of Business", 
+                "href": "/2017/spring/BADM/340.json", 
+                "id": "340"
+            }, 
+            {
+                "content": "IT for Networked Organizations", 
+                "href": "/2017/spring/BADM/350.json", 
+                "id": "350"
+            }, 
+            {
+                "content": "Database Design and Management", 
+                "href": "/2017/spring/BADM/352.json", 
+                "id": "352"
+            }, 
+            {
+                "content": "Info Sys Analysis and Design", 
+                "href": "/2017/spring/BADM/353.json", 
+                "id": "353"
+            }, 
+            {
+                "content": "Product Design and Development", 
+                "href": "/2017/spring/BADM/366.json", 
+                "id": "366"
+            }, 
+            {
+                "content": "Mgmt of Innov and Technology", 
+                "href": "/2017/spring/BADM/367.json", 
+                "id": "367"
+            }, 
+            {
+                "content": "Management Decision Models", 
+                "href": "/2017/spring/BADM/374.json", 
+                "id": "374"
+            }, 
+            {
+                "content": "Business Process Management", 
+                "href": "/2017/spring/BADM/375.json", 
+                "id": "375"
+            }, 
+            {
+                "content": "Logistics Management", 
+                "href": "/2017/spring/BADM/378.json", 
+                "id": "378"
+            }, 
+            {
+                "content": "Business Process Improvement", 
+                "href": "/2017/spring/BADM/379.json", 
+                "id": "379"
+            }, 
+            {
+                "content": "International Business", 
+                "href": "/2017/spring/BADM/380.json", 
+                "id": "380"
+            }, 
+            {
+                "content": "Multinational Management", 
+                "href": "/2017/spring/BADM/381.json", 
+                "id": "381"
+            }, 
+            {
+                "content": "International Marketing", 
+                "href": "/2017/spring/BADM/382.json", 
+                "id": "382"
+            }, 
+            {
+                "content": "Senior Research I", 
+                "href": "/2017/spring/BADM/394.json", 
+                "id": "394"
+            }, 
+            {
+                "content": "Senior Research II", 
+                "href": "/2017/spring/BADM/395.json", 
+                "id": "395"
+            }, 
+            {
+                "content": "Principles of Business Law", 
+                "href": "/2017/spring/BADM/403.json", 
+                "id": "403"
+            }, 
+            {
+                "content": "Advanced Marketing Management", 
+                "href": "/2017/spring/BADM/420.json", 
+                "id": "420"
+            }, 
+            {
+                "content": "Intl Business Immersion", 
+                "href": "/2017/spring/BADM/436.json", 
+                "id": "436"
+            }, 
+            {
+                "content": "Agri-food Strategic Management", 
+                "href": "/2017/spring/BADM/438.json", 
+                "id": "438"
+            }, 
+            {
+                "content": "Business Applications of GIS", 
+                "href": "/2017/spring/BADM/440.json", 
+                "id": "440"
+            }, 
+            {
+                "content": "Small Business Consulting", 
+                "href": "/2017/spring/BADM/445.json", 
+                "id": "445"
+            }, 
+            {
+                "content": "Entrepreneurship Sm Bus Form", 
+                "href": "/2017/spring/BADM/446.json", 
+                "id": "446"
+            }, 
+            {
+                "content": "Business Policy and Strategy", 
+                "href": "/2017/spring/BADM/449.json", 
+                "id": "449"
+            }, 
+            {
+                "content": "Decision Support Systems", 
+                "href": "/2017/spring/BADM/453.json", 
+                "id": "453"
+            }, 
+            {
+                "content": "Tech, Eng, & Mgt Final Project", 
+                "href": "/2017/spring/BADM/461.json", 
+                "id": "461"
+            }, 
+            {
+                "content": "Emp. Res. Methods in Bus. Adm.", 
+                "href": "/2017/spring/BADM/507.json", 
+                "id": "507"
+            }, 
+            {
+                "content": "Leadership and Teams", 
+                "href": "/2017/spring/BADM/508.json", 
+                "id": "508"
+            }, 
+            {
+                "content": "Managing Organizations", 
+                "href": "/2017/spring/BADM/509.json", 
+                "id": "509"
+            }, 
+            {
+                "content": "Founds of Organizational Behav", 
+                "href": "/2017/spring/BADM/510.json", 
+                "id": "510"
+            }, 
+            {
+                "content": "HR Management and Strategy", 
+                "href": "/2017/spring/BADM/512.json", 
+                "id": "512"
+            }, 
+            {
+                "content": "Oral Comm for Business", 
+                "href": "/2017/spring/BADM/515.json", 
+                "id": "515"
+            }, 
+            {
+                "content": "Marketing Management", 
+                "href": "/2017/spring/BADM/520.json", 
+                "id": "520"
+            }, 
+            {
+                "content": "Marketing Strategy", 
+                "href": "/2017/spring/BADM/521.json", 
+                "id": "521"
+            }, 
+            {
+                "content": "Pricing Strategy and Tactics", 
+                "href": "/2017/spring/BADM/524.json", 
+                "id": "524"
+            }, 
+            {
+                "content": "Promotional Strategy", 
+                "href": "/2017/spring/BADM/528.json", 
+                "id": "528"
+            }, 
+            {
+                "content": "Sustainable Prod & Bus Plans", 
+                "href": "/2017/spring/BADM/533.json", 
+                "id": "533"
+            }, 
+            {
+                "content": "Advanced Topics in Marketing", 
+                "href": "/2017/spring/BADM/537.json", 
+                "id": "537"
+            }, 
+            {
+                "content": "Frontiers in Technology", 
+                "href": "/2017/spring/BADM/540.json", 
+                "id": "540"
+            }, 
+            {
+                "content": "Technology Strategy", 
+                "href": "/2017/spring/BADM/543.json", 
+                "id": "543"
+            }, 
+            {
+                "content": "Strategic Management", 
+                "href": "/2017/spring/BADM/544.json", 
+                "id": "544"
+            }, 
+            {
+                "content": "Strategy Content Research", 
+                "href": "/2017/spring/BADM/546.json", 
+                "id": "546"
+            }, 
+            {
+                "content": "Current Strategy Research", 
+                "href": "/2017/spring/BADM/549.json", 
+                "id": "549"
+            }, 
+            {
+                "content": "Technology Practicum", 
+                "href": "/2017/spring/BADM/550.json", 
+                "id": "550"
+            }, 
+            {
+                "content": "Managing Intellectual Property", 
+                "href": "/2017/spring/BADM/551.json", 
+                "id": "551"
+            }, 
+            {
+                "content": "Legal Aspects of Mgt Decisions", 
+                "href": "/2017/spring/BADM/552.json", 
+                "id": "552"
+            }, 
+            {
+                "content": "Enterprise Database Management", 
+                "href": "/2017/spring/BADM/554.json", 
+                "id": "554"
+            }, 
+            {
+                "content": "Dec Support and Knowledge Mgt", 
+                "href": "/2017/spring/BADM/557.json", 
+                "id": "557"
+            }, 
+            {
+                "content": "Social Media Strategy", 
+                "href": "/2017/spring/BADM/562.json", 
+                "id": "562"
+            }, 
+            {
+                "content": "Operations Strategy", 
+                "href": "/2017/spring/BADM/563.json", 
+                "id": "563"
+            }, 
+            {
+                "content": "Business Process Improvement", 
+                "href": "/2017/spring/BADM/564.json", 
+                "id": "564"
+            }, 
+            {
+                "content": "Supply Chain Management", 
+                "href": "/2017/spring/BADM/566.json", 
+                "id": "566"
+            }, 
+            {
+                "content": "Process Management", 
+                "href": "/2017/spring/BADM/567.json", 
+                "id": "567"
+            }, 
+            {
+                "content": "Digital Business & IT Strategy", 
+                "href": "/2017/spring/BADM/571.json", 
+                "id": "571"
+            }, 
+            {
+                "content": "Stat for Mgt Decision Making", 
+                "href": "/2017/spring/BADM/572.json", 
+                "id": "572"
+            }, 
+            {
+                "content": "Quant Analysis of Decisions", 
+                "href": "/2017/spring/BADM/573.json", 
+                "id": "573"
+            }, 
+            {
+                "content": "Simulation and Risk Analysis", 
+                "href": "/2017/spring/BADM/574.json", 
+                "id": "574"
+            }, 
+            {
+                "content": "Current Topics in Intl Bus", 
+                "href": "/2017/spring/BADM/583.json", 
+                "id": "583"
+            }, 
+            {
+                "content": "Global Marketing", 
+                "href": "/2017/spring/BADM/584.json", 
+                "id": "584"
+            }, 
+            {
+                "content": "Intl Comparative Management", 
+                "href": "/2017/spring/BADM/586.json", 
+                "id": "586"
+            }, 
+            {
+                "content": "Project Management", 
+                "href": "/2017/spring/BADM/589.json", 
+                "id": "589"
+            }, 
+            {
+                "content": "Seminar in Business Admin", 
+                "href": "/2017/spring/BADM/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Proseminar in Business Admin", 
+                "href": "/2017/spring/BADM/591.json", 
+                "id": "591"
+            }, 
+            {
+                "content": "Research in Special Fields", 
+                "href": "/2017/spring/BADM/593.json", 
+                "id": "593"
+            }, 
+            {
+                "content": "Independent Study and Research", 
+                "href": "/2017/spring/BADM/594.json", 
+                "id": "594"
+            }, 
+            {
+                "content": "Dissertation Research", 
+                "href": "/2017/spring/BADM/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1902", 
+    "id": "BADM", 
+    "label": "Business Administration", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-4240", 
+    "unitName": "Business Administration", 
+    "webSiteURL": "www.business.illinois.edu/ba"
+}

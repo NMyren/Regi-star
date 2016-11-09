@@ -1,0 +1,57 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/PHIL/471/54669.json", 
+    "id": "54669", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "David Kinley Hall", 
+            "daysOfTheWeek": "MWF", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Livengood, J", 
+                    "firstName": "J", 
+                    "lastName": "Livengood"
+                }
+            }, 
+            "roomNumber": "212", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Contemporary Phil of Science", 
+            "href": "/2017/spring/PHIL/471.json", 
+            "id": "471"
+        }, 
+        "subject": {
+            "content": "Philosophy", 
+            "href": "/2017/spring/PHIL.json", 
+            "id": "PHIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "U1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "In this course, our focus will be on scientific method. In thinking about scientific method, we will consider three threads that run through the fabric of the philosophy of science. First, we will consider hypothesis formation, meaning, and testability. Second, we will look at induction and probability. Finally, we will look at causation and explanation. Throughout the course, we will be interested in the nature of evidence and in the relationship between evidence and theory choice.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

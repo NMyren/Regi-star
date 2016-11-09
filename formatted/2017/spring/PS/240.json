@@ -1,0 +1,61 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Surveys the basic concepts and principles of political analysis from a comparative perspective.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/PS/240.json", 
+    "id": "PS 240", 
+    "label": "Intro to Comp Politics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/PS/240/38131.json", 
+                "id": "38131"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/PS/240/38133.json", 
+                "id": "38133"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/PS/240/38134.json", 
+                "id": "38134"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/PS/240/38142.json", 
+                "id": "38142"
+            }
+        ]
+    }
+}

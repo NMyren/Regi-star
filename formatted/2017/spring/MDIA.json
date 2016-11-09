@@ -1,0 +1,95 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "119 Gregory Hall, 810 South Wright Street, Urbana", 
+    "collegeCode": "KT", 
+    "collegeDepartmentDescription": "Interim Head of Department: James Hay\nDepartment Office, 119 Gregory Hall, 810 South Wright Street, Urbana, 217-333-1549\nwww.media.illinois.edu/icr/index.html", 
+    "contactName": "James Hay", 
+    "contactTitle": "Interim Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Watching the Environment", 
+                "href": "/2017/spring/MDIA/223.json", 
+                "id": "223"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/MDIA/290.json", 
+                "id": "290"
+            }, 
+            {
+                "content": "Photography for Everyone", 
+                "href": "/2017/spring/MDIA/293.json", 
+                "id": "293"
+            }, 
+            {
+                "content": "Media Study Abroad", 
+                "href": "/2017/spring/MDIA/299.json", 
+                "id": "299"
+            }, 
+            {
+                "content": "Media Sales Management", 
+                "href": "/2017/spring/MDIA/320.json", 
+                "id": "320"
+            }, 
+            {
+                "content": "Advanced Media Sales", 
+                "href": "/2017/spring/MDIA/370.json", 
+                "id": "370"
+            }, 
+            {
+                "content": "21st Century Documentaries", 
+                "href": "/2017/spring/MDIA/380.json", 
+                "id": "380"
+            }, 
+            {
+                "content": "Special Topics in Media", 
+                "href": "/2017/spring/MDIA/390.json", 
+                "id": "390"
+            }, 
+            {
+                "content": "Dev Psycholinguistics", 
+                "href": "/2017/spring/MDIA/524.json", 
+                "id": "524"
+            }, 
+            {
+                "content": "Proseminar II", 
+                "href": "/2017/spring/MDIA/572.json", 
+                "id": "572"
+            }, 
+            {
+                "content": "Communication Ethics", 
+                "href": "/2017/spring/MDIA/578.json", 
+                "id": "578"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/MDIA/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/MDIA/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1646", 
+    "id": "MDIA", 
+    "label": "Media", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-1549", 
+    "unitName": "College of Media", 
+    "webSiteURL": "www.media.illinois.edu/icr/index.html"
+}

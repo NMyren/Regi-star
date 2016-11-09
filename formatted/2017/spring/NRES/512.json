@@ -1,0 +1,54 @@
+{
+    "courseSectionInformation": "Approved for Letter and S/U grading. May be repeated to a maximum of 4 hours.", 
+    "creditHours": "1 TO 2 hours.", 
+    "description": "Discussion of recent developments and current literature in natural resources and environmental sciences, with a term-long emphasis on a particular aspect of the subject matter. Approved for Letter and S/U grading. May be repeated to a maximum of 4 hours.", 
+    "href": "/2017/spring/NRES/512.json", 
+    "id": "NRES 512", 
+    "label": "Discussions in NRES", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Natural Resources and Environmental Sciences", 
+            "href": "/2017/spring/NRES.json", 
+            "id": "NRES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AER", 
+                "href": "/2017/spring/NRES/512/60709.json", 
+                "id": "60709"
+            }, 
+            {
+                "content": "CPE", 
+                "href": "/2017/spring/NRES/512/65926.json", 
+                "id": "65926"
+            }, 
+            {
+                "content": "CT2", 
+                "href": "/2017/spring/NRES/512/35352.json", 
+                "id": "35352"
+            }, 
+            {
+                "content": "EG", 
+                "href": "/2017/spring/NRES/512/59080.json", 
+                "id": "59080"
+            }, 
+            {
+                "content": "WE", 
+                "href": "/2017/spring/NRES/512/64391.json", 
+                "id": "64391"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: THEA 170.", 
+    "creditHours": "3 hours.", 
+    "description": "Exploration and communication of experience through speech and action on the stage. Prerequisite: THEA 170.", 
+    "href": "/2017/spring/THEA/175.json", 
+    "id": "THEA 175", 
+    "label": "Fundamentals of Acting II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/THEA/175/40111.json", 
+                "id": "40111"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/THEA/175/40113.json", 
+                "id": "40113"
+            }
+        ]
+    }
+}

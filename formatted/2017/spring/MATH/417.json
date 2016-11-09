@@ -1,0 +1,59 @@
+{
+    "courseSectionInformation": "3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: Either MATH 416 or one of MATH 410, MATH 415 together with one of MATH 347, MATH 348, CS 374; or consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Fundamental theorem of arithmetic, congruences. Permutations. Groups and subgroups, homomorphisms. Group actions with applications. Polynomials. Rings, subrings, and ideals. Integral domains and fields. Roots of polynomials. Maximal ideals, construction of fields. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: Either MATH 416 or one of MATH 410, MATH 415 together with one of MATH 347, MATH 348, CS 374; or consent of instructor.", 
+    "href": "/2017/spring/MATH/417.json", 
+    "id": "MATH 417", 
+    "label": "Intro to Abstract Algebra", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "B13", 
+                "href": "/2017/spring/MATH/417/37997.json", 
+                "id": "37997"
+            }, 
+            {
+                "content": "B14", 
+                "href": "/2017/spring/MATH/417/37999.json", 
+                "id": "37999"
+            }, 
+            {
+                "content": "D13", 
+                "href": "/2017/spring/MATH/417/37996.json", 
+                "id": "37996"
+            }, 
+            {
+                "content": "D14", 
+                "href": "/2017/spring/MATH/417/37994.json", 
+                "id": "37994"
+            }, 
+            {
+                "content": "M13", 
+                "href": "/2017/spring/MATH/417/57716.json", 
+                "id": "57716"
+            }, 
+            {
+                "content": "M14", 
+                "href": "/2017/spring/MATH/417/57717.json", 
+                "id": "57717"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. May be repeated, if topics vary. Prerequisite: Junior standing required.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Advanced topics course in Creative Writing. Students study selected topic through a workshop model, pursuing advanced development in one or more approaches to writing in a specialized field or genre. 3 undergraduate hours. 4 graduate hours. May be repeated, if topics vary. Prerequisite: Junior standing required.", 
+    "href": "/2017/spring/CW/463.json", 
+    "id": "CW 463", 
+    "label": "Adv Topics in Creative Writing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Creative Writing", 
+            "href": "/2017/spring/CW.json", 
+            "id": "CW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "1G", 
+                "href": "/2017/spring/CW/463/63372.json", 
+                "id": "63372"
+            }, 
+            {
+                "content": "1U", 
+                "href": "/2017/spring/CW/463/63371.json", 
+                "id": "63371"
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "creditHours": "1 hours", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ANSC/499/65882.json", 
+    "id": "65882", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "M", 
+            "end": "07:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Wallace, R", 
+                    "firstName": "R", 
+                    "lastName": "Wallace"
+                }
+            }, 
+            "start": "07:00 PM", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Seminar", 
+            "href": "/2017/spring/ANSC/499.json", 
+            "id": "499"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 23-Jan-17 - 11-Apr-17.", 
+    "sectionNumber": "D", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Course will meet every other week.", 
+    "sectionTitle": "Dairy Preventative Health Mgmt", 
+    "statusCode": "A"
+}

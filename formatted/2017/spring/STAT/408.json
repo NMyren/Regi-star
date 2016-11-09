@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "Same as MATH 408. 4 undergraduate hours. 4 graduate hours. Credit is not given for both STAT 408 and either MATH 461 or STAT 400. Prerequisite: MATH 241 or equivalent.", 
+    "creditHours": "4 hours.", 
+    "description": "Examines elementary theory of probability, including independence, conditional probability, and Bayes' theorem; combinations and permutations; random variables, expectations, and probability distributions; joint and conditional distributions; functions of random variables; sampling; central limit theorem. Same as MATH 408. 4 undergraduate hours. 4 graduate hours. Credit is not given for both STAT 408 and either MATH 461 or STAT 400. Prerequisite: MATH 241 or equivalent.", 
+    "href": "/2017/spring/STAT/408.json", 
+    "id": "STAT 408", 
+    "label": "Actuarial Statistics I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Statistics", 
+            "href": "/2017/spring/STAT.json", 
+            "id": "STAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/STAT/408/50228.json", 
+                "id": "50228"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/STAT/408/36101.json", 
+                "id": "36101"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/STAT/408/36104.json", 
+                "id": "36104"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/STAT/408/36110.json", 
+                "id": "36110"
+            }
+        ]
+    }
+}

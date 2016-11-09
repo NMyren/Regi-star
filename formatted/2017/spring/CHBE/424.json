@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: Credit or registration in CHBE 422.", 
+    "creditHours": "3 hours.", 
+    "description": "Chemical kinetics; chemical reactor design; the interrelationship between transport, thermodynamics, and chemical reaction in open and closed systems. 3 undergraduate hours. 3 graduate hours. Prerequisite: Credit or registration in CHBE 422.", 
+    "href": "/2017/spring/CHBE/424.json", 
+    "id": "CHBE 424", 
+    "label": "Chemical Reaction Engineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Chemical Engineering major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHBE/424/32041.json", 
+            "id": "32041"
+        }
+    }
+}

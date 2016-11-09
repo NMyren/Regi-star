@@ -1,0 +1,34 @@
+{
+    "courseSectionInformation": "Prerequisite: Music education majors accepted into Teacher Certification Track.", 
+    "creditHours": "1 hours.", 
+    "description": "Provides guided practice in observing music teaching and learning in large ensemble and classroom settings. Develops professional perspective and vocabulary for analyzing effective teaching, diverse learning styles, and patterns of music instruction in a variety of contexts. Includes 16 hours of early field experience. Must complete criminal background check prior to observing in schools. Prerequisite: Music education majors accepted into Teacher Certification Track.", 
+    "href": "/2017/spring/MUS/240.json", 
+    "id": "MUS 240", 
+    "label": "Orientation Mus Tchg Lrng K-HS", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to Admitted Teacher Ed Student students.", 
+    "sectionRegistrationNotes": "Restricted to Music Education major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/240/35542.json", 
+            "id": "35542"
+        }
+    }
+}

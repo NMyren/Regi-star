@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional credit.", 
+    "creditHours": "4 hours.", 
+    "description": "Lectures, discussions, demonstrations, and laboratory exercises dealing with methods and apparatus used in plant sciences research. 4 graduate hours. No professional credit.", 
+    "href": "/2017/spring/CPSC/505.json", 
+    "id": "CPSC 505", 
+    "label": "Research Methods in Plant Sci", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "XM", 
+            "href": "/2017/spring/CPSC/505/65758.json", 
+            "id": "65758"
+        }
+    }
+}

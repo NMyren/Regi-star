@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Credit is not given for both MSE 304 and PHYS 460. Prerequisite: PHYS 214.", 
+    "creditHours": "3 hours.", 
+    "description": "Electronic structure and bonding of materials, electrical conduction in metals and semiconductors, and dielectric and magnetic properties of solids. Credit is not given for both MSE 304 and PHYS 460. Prerequisite: PHYS 214.", 
+    "href": "/2017/spring/MSE/304.json", 
+    "id": "MSE 304", 
+    "label": "Electronic Properties of Matls", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Materials Science and Engineering", 
+            "href": "/2017/spring/MSE.json", 
+            "id": "MSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Materials Science & Engr major(s).", 
+    "sections": {
+        "section": {
+            "content": "C", 
+            "href": "/2017/spring/MSE/304/38206.json", 
+            "id": "38206"
+        }
+    }
+}

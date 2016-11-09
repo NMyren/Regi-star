@@ -1,0 +1,46 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. Credit is not given for both CS 493 and a project course in another engineering department for the same project. Prerequisite: CS 492.", 
+    "creditHours": "3 hours.", 
+    "description": "Continuation of CS 492. Identical to CS 494 except for an additional writing component. See CS 494. 3 undergraduate hours. No graduate credit. Credit is not given for both CS 493 and a project course in another engineering department for the same project. Prerequisite: CS 492.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CS/493.json", 
+    "id": "CS 493", 
+    "label": "Senior Project II, ACP", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sectionRegistrationNotes": "Restricted to Computer Science major(s). Restricted to students with Senior class standing. Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "CS", 
+            "href": "/2017/spring/CS/493/31260.json", 
+            "id": "31260"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading. Prerequisite: Master's degree in educational psychology or equivalent; consent of instructor.", 
+    "creditHours": "2 TO 8 hours.", 
+    "description": "Intensive supervised experiences in applied educational psychology; use of a wide variety of diagnostic and observational techniques and treatment. Students may take more than one section. Approved for letter and S/U grading. Prerequisite: Master's degree in educational psychology or equivalent; consent of instructor.", 
+    "href": "/2017/spring/EPSY/520.json", 
+    "id": "EPSY 520", 
+    "label": "Counseling Psych Practicum", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/EPSY/520/34329.json", 
+                "id": "34329"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/EPSY/520/34331.json", 
+                "id": "34331"
+            }
+        ]
+    }
+}

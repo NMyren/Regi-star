@@ -1,0 +1,55 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/CEE/553/58731.json", 
+    "id": "58731", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Civil Eng Hydrosystems Lab", 
+            "daysOfTheWeek": "TR", 
+            "end": "08:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Parker, G", 
+                    "firstName": "G", 
+                    "lastName": "Parker"
+                }
+            }, 
+            "roomNumber": "1518", 
+            "start": "06:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "River Morphodynamics", 
+            "href": "/2017/spring/CEE/553.json", 
+            "id": "553"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "G", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

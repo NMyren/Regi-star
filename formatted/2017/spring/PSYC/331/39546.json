@@ -1,0 +1,57 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/PSYC/331/39546.json", 
+    "id": "39546", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Psychology Building", 
+            "daysOfTheWeek": "M", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Hummel, J", 
+                    "firstName": "J", 
+                    "lastName": "Hummel"
+                }
+            }, 
+            "roomNumber": "31", 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Cognitive Psych Lab", 
+            "href": "/2017/spring/PSYC/331.json", 
+            "id": "331"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Psychology department.", 
+    "sectionNotes": "Restricted to students with Senior class standing.", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Senior priority enrollment begins November 2nd. Junior priority enrollment begins November 9th. Sophomore priority enrollment begins November 14th.Freshman on November 16th. Open enrollment begins at 10am on November 21st. **Approved for Cognitive and General Concentration**", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

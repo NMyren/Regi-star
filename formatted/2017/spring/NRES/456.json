@@ -1,0 +1,34 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. 3 undergraduate hours. 3 graduate hours. Prerequisite: Senior standing; NRES 219 and NRES 287.", 
+    "creditHours": "3 hours.", 
+    "description": "Examines ecological and human dimensions of ecosystem management through case studies in settings such as the Pacific Northwest, Southwest, Great Lakes, Gulf Coast, and Mississippi River Basin ecosystems. Capstone course for seniors in the NRES major. Additional fees may apply. See Class Schedule. 3 undergraduate hours. 3 graduate hours. Prerequisite: Senior standing; NRES 219 and NRES 287.", 
+    "href": "/2017/spring/NRES/456.json", 
+    "id": "NRES 456", 
+    "label": "Integrative Ecosystem Mgmt", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Natural Resources and Environmental Sciences", 
+            "href": "/2017/spring/NRES.json", 
+            "id": "NRES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionFeeAmount": "NRES field trips $10.00 Flat Fee.", 
+    "sectionRegistrationNotes": "Restricted to Natural Resrcs & Environ Sci major(s). Restricted to students with Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/NRES/456/46996.json", 
+            "id": "46996"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. May be repeated to a maximum of 6 hours. Students may register in more than one section per term. Prerequisite: Consent of instructor.", 
+    "creditHours": "0 TO 3 hours.", 
+    "description": "Study of selected topics. Approved for both letter and S/U grading. May be repeated to a maximum of 6 hours. Students may register in more than one section per term. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/ENGL/290.json", 
+    "id": "ENGL 290", 
+    "label": "Individual Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ENGL/290/10067.json", 
+            "id": "10067"
+        }
+    }
+}

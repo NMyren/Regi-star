@@ -1,0 +1,555 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/VM/604/53068.json", 
+    "id": "53068", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Vet Med Basic Sciences Bldg", 
+                "daysOfTheWeek": "M", 
+                "end": "11:50 AM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Bagchi, I", 
+                            "firstName": "I", 
+                            "lastName": "Bagchi"
+                        }, 
+                        {
+                            "content": "Brummet, G", 
+                            "firstName": "G", 
+                            "lastName": "Brummet"
+                        }, 
+                        {
+                            "content": "Coleman, D", 
+                            "firstName": "D", 
+                            "lastName": "Coleman"
+                        }, 
+                        {
+                            "content": "Els, W", 
+                            "firstName": "W", 
+                            "lastName": "Els"
+                        }, 
+                        {
+                            "content": "Ferguson, D", 
+                            "firstName": "D", 
+                            "lastName": "Ferguson"
+                        }, 
+                        {
+                            "content": "Frederico Canisso, I", 
+                            "firstName": "I", 
+                            "lastName": "Frederico Canisso"
+                        }, 
+                        {
+                            "content": "Joslyn, S", 
+                            "firstName": "S", 
+                            "lastName": "Joslyn"
+                        }, 
+                        {
+                            "content": "Ko, C", 
+                            "firstName": "C", 
+                            "lastName": "Ko"
+                        }, 
+                        {
+                            "content": "Lima, F", 
+                            "firstName": "F", 
+                            "lastName": "Lima"
+                        }, 
+                        {
+                            "content": "Mahoney, M", 
+                            "firstName": "M", 
+                            "lastName": "Mahoney"
+                        }, 
+                        {
+                            "content": "McNeil, L", 
+                            "firstName": "L", 
+                            "lastName": "McNeil"
+                        }, 
+                        {
+                            "content": "Miller, S", 
+                            "firstName": "S", 
+                            "lastName": "Miller"
+                        }, 
+                        {
+                            "content": "Rubin, S", 
+                            "firstName": "S", 
+                            "lastName": "Rubin"
+                        }, 
+                        {
+                            "content": "Swanson, K", 
+                            "firstName": "K", 
+                            "lastName": "Swanson"
+                        }
+                    ]
+                }, 
+                "roomNumber": "2251", 
+                "start": "08:00 AM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }, 
+            {
+                "buildingName": "Vet Med Basic Sciences Bldg", 
+                "daysOfTheWeek": "TR", 
+                "end": "09:50 AM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Bagchi, I", 
+                            "firstName": "I", 
+                            "lastName": "Bagchi"
+                        }, 
+                        {
+                            "content": "Brummet, G", 
+                            "firstName": "G", 
+                            "lastName": "Brummet"
+                        }, 
+                        {
+                            "content": "Coleman, D", 
+                            "firstName": "D", 
+                            "lastName": "Coleman"
+                        }, 
+                        {
+                            "content": "Els, W", 
+                            "firstName": "W", 
+                            "lastName": "Els"
+                        }, 
+                        {
+                            "content": "Ferguson, D", 
+                            "firstName": "D", 
+                            "lastName": "Ferguson"
+                        }, 
+                        {
+                            "content": "Frederico Canisso, I", 
+                            "firstName": "I", 
+                            "lastName": "Frederico Canisso"
+                        }, 
+                        {
+                            "content": "Joslyn, S", 
+                            "firstName": "S", 
+                            "lastName": "Joslyn"
+                        }, 
+                        {
+                            "content": "Ko, C", 
+                            "firstName": "C", 
+                            "lastName": "Ko"
+                        }, 
+                        {
+                            "content": "Lima, F", 
+                            "firstName": "F", 
+                            "lastName": "Lima"
+                        }, 
+                        {
+                            "content": "Mahoney, M", 
+                            "firstName": "M", 
+                            "lastName": "Mahoney"
+                        }, 
+                        {
+                            "content": "McNeil, L", 
+                            "firstName": "L", 
+                            "lastName": "McNeil"
+                        }, 
+                        {
+                            "content": "Miller, S", 
+                            "firstName": "S", 
+                            "lastName": "Miller"
+                        }, 
+                        {
+                            "content": "Rubin, S", 
+                            "firstName": "S", 
+                            "lastName": "Rubin"
+                        }, 
+                        {
+                            "content": "Swanson, K", 
+                            "firstName": "K", 
+                            "lastName": "Swanson"
+                        }
+                    ]
+                }, 
+                "roomNumber": "2251", 
+                "start": "08:00 AM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }, 
+            {
+                "buildingName": "Vet Med Basic Sciences Bldg", 
+                "daysOfTheWeek": "F", 
+                "end": "10:50 AM", 
+                "id": "2", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Bagchi, I", 
+                            "firstName": "I", 
+                            "lastName": "Bagchi"
+                        }, 
+                        {
+                            "content": "Brummet, G", 
+                            "firstName": "G", 
+                            "lastName": "Brummet"
+                        }, 
+                        {
+                            "content": "Coleman, D", 
+                            "firstName": "D", 
+                            "lastName": "Coleman"
+                        }, 
+                        {
+                            "content": "Els, W", 
+                            "firstName": "W", 
+                            "lastName": "Els"
+                        }, 
+                        {
+                            "content": "Ferguson, D", 
+                            "firstName": "D", 
+                            "lastName": "Ferguson"
+                        }, 
+                        {
+                            "content": "Frederico Canisso, I", 
+                            "firstName": "I", 
+                            "lastName": "Frederico Canisso"
+                        }, 
+                        {
+                            "content": "Joslyn, S", 
+                            "firstName": "S", 
+                            "lastName": "Joslyn"
+                        }, 
+                        {
+                            "content": "Ko, C", 
+                            "firstName": "C", 
+                            "lastName": "Ko"
+                        }, 
+                        {
+                            "content": "Lima, F", 
+                            "firstName": "F", 
+                            "lastName": "Lima"
+                        }, 
+                        {
+                            "content": "Mahoney, M", 
+                            "firstName": "M", 
+                            "lastName": "Mahoney"
+                        }, 
+                        {
+                            "content": "McNeil, L", 
+                            "firstName": "L", 
+                            "lastName": "McNeil"
+                        }, 
+                        {
+                            "content": "Miller, S", 
+                            "firstName": "S", 
+                            "lastName": "Miller"
+                        }, 
+                        {
+                            "content": "Rubin, S", 
+                            "firstName": "S", 
+                            "lastName": "Rubin"
+                        }, 
+                        {
+                            "content": "Swanson, K", 
+                            "firstName": "K", 
+                            "lastName": "Swanson"
+                        }
+                    ]
+                }, 
+                "roomNumber": "2251", 
+                "start": "08:00 AM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }, 
+            {
+                "buildingName": "Vet Med Basic Sciences Bldg", 
+                "daysOfTheWeek": "W", 
+                "end": "11:50 AM", 
+                "id": "3", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Bagchi, I", 
+                            "firstName": "I", 
+                            "lastName": "Bagchi"
+                        }, 
+                        {
+                            "content": "Brummet, G", 
+                            "firstName": "G", 
+                            "lastName": "Brummet"
+                        }, 
+                        {
+                            "content": "Coleman, D", 
+                            "firstName": "D", 
+                            "lastName": "Coleman"
+                        }, 
+                        {
+                            "content": "Els, W", 
+                            "firstName": "W", 
+                            "lastName": "Els"
+                        }, 
+                        {
+                            "content": "Ferguson, D", 
+                            "firstName": "D", 
+                            "lastName": "Ferguson"
+                        }, 
+                        {
+                            "content": "Frederico Canisso, I", 
+                            "firstName": "I", 
+                            "lastName": "Frederico Canisso"
+                        }, 
+                        {
+                            "content": "Joslyn, S", 
+                            "firstName": "S", 
+                            "lastName": "Joslyn"
+                        }, 
+                        {
+                            "content": "Ko, C", 
+                            "firstName": "C", 
+                            "lastName": "Ko"
+                        }, 
+                        {
+                            "content": "Lima, F", 
+                            "firstName": "F", 
+                            "lastName": "Lima"
+                        }, 
+                        {
+                            "content": "Mahoney, M", 
+                            "firstName": "M", 
+                            "lastName": "Mahoney"
+                        }, 
+                        {
+                            "content": "McNeil, L", 
+                            "firstName": "L", 
+                            "lastName": "McNeil"
+                        }, 
+                        {
+                            "content": "Miller, S", 
+                            "firstName": "S", 
+                            "lastName": "Miller"
+                        }, 
+                        {
+                            "content": "Rubin, S", 
+                            "firstName": "S", 
+                            "lastName": "Rubin"
+                        }, 
+                        {
+                            "content": "Swanson, K", 
+                            "firstName": "K", 
+                            "lastName": "Swanson"
+                        }
+                    ]
+                }, 
+                "roomNumber": "2251", 
+                "start": "09:00 AM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }, 
+            {
+                "buildingName": "Vet Med Basic Sciences Bldg", 
+                "daysOfTheWeek": "MWF", 
+                "end": "01:50 PM", 
+                "id": "4", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Bagchi, I", 
+                            "firstName": "I", 
+                            "lastName": "Bagchi"
+                        }, 
+                        {
+                            "content": "Brummet, G", 
+                            "firstName": "G", 
+                            "lastName": "Brummet"
+                        }, 
+                        {
+                            "content": "Coleman, D", 
+                            "firstName": "D", 
+                            "lastName": "Coleman"
+                        }, 
+                        {
+                            "content": "Els, W", 
+                            "firstName": "W", 
+                            "lastName": "Els"
+                        }, 
+                        {
+                            "content": "Ferguson, D", 
+                            "firstName": "D", 
+                            "lastName": "Ferguson"
+                        }, 
+                        {
+                            "content": "Frederico Canisso, I", 
+                            "firstName": "I", 
+                            "lastName": "Frederico Canisso"
+                        }, 
+                        {
+                            "content": "Joslyn, S", 
+                            "firstName": "S", 
+                            "lastName": "Joslyn"
+                        }, 
+                        {
+                            "content": "Ko, C", 
+                            "firstName": "C", 
+                            "lastName": "Ko"
+                        }, 
+                        {
+                            "content": "Lima, F", 
+                            "firstName": "F", 
+                            "lastName": "Lima"
+                        }, 
+                        {
+                            "content": "Mahoney, M", 
+                            "firstName": "M", 
+                            "lastName": "Mahoney"
+                        }, 
+                        {
+                            "content": "McNeil, L", 
+                            "firstName": "L", 
+                            "lastName": "McNeil"
+                        }, 
+                        {
+                            "content": "Miller, S", 
+                            "firstName": "S", 
+                            "lastName": "Miller"
+                        }, 
+                        {
+                            "content": "Rubin, S", 
+                            "firstName": "S", 
+                            "lastName": "Rubin"
+                        }, 
+                        {
+                            "content": "Swanson, K", 
+                            "firstName": "K", 
+                            "lastName": "Swanson"
+                        }
+                    ]
+                }, 
+                "roomNumber": "2251", 
+                "start": "01:00 PM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }, 
+            {
+                "buildingName": "Vet Med Basic Sciences Bldg", 
+                "daysOfTheWeek": "T", 
+                "end": "02:50 PM", 
+                "id": "5", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Bagchi, I", 
+                            "firstName": "I", 
+                            "lastName": "Bagchi"
+                        }, 
+                        {
+                            "content": "Brummet, G", 
+                            "firstName": "G", 
+                            "lastName": "Brummet"
+                        }, 
+                        {
+                            "content": "Coleman, D", 
+                            "firstName": "D", 
+                            "lastName": "Coleman"
+                        }, 
+                        {
+                            "content": "Els, W", 
+                            "firstName": "W", 
+                            "lastName": "Els"
+                        }, 
+                        {
+                            "content": "Ferguson, D", 
+                            "firstName": "D", 
+                            "lastName": "Ferguson"
+                        }, 
+                        {
+                            "content": "Frederico Canisso, I", 
+                            "firstName": "I", 
+                            "lastName": "Frederico Canisso"
+                        }, 
+                        {
+                            "content": "Joslyn, S", 
+                            "firstName": "S", 
+                            "lastName": "Joslyn"
+                        }, 
+                        {
+                            "content": "Ko, C", 
+                            "firstName": "C", 
+                            "lastName": "Ko"
+                        }, 
+                        {
+                            "content": "Lima, F", 
+                            "firstName": "F", 
+                            "lastName": "Lima"
+                        }, 
+                        {
+                            "content": "Mahoney, M", 
+                            "firstName": "M", 
+                            "lastName": "Mahoney"
+                        }, 
+                        {
+                            "content": "McNeil, L", 
+                            "firstName": "L", 
+                            "lastName": "McNeil"
+                        }, 
+                        {
+                            "content": "Miller, S", 
+                            "firstName": "S", 
+                            "lastName": "Miller"
+                        }, 
+                        {
+                            "content": "Rubin, S", 
+                            "firstName": "S", 
+                            "lastName": "Rubin"
+                        }, 
+                        {
+                            "content": "Swanson, K", 
+                            "firstName": "K", 
+                            "lastName": "Swanson"
+                        }
+                    ]
+                }, 
+                "roomNumber": "2251", 
+                "start": "01:00 PM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Structure and Function III", 
+            "href": "/2017/spring/VM/604.json", 
+            "id": "604"
+        }, 
+        "subject": {
+            "content": "Veterinary Medicine Courses", 
+            "href": "/2017/spring/VM.json", 
+            "id": "VM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNotes": "Restricted to VetMed - Urbana-Champaign.", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

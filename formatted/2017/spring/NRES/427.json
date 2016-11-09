@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: One of MATH 220, MATH 221, MATH 234.", 
+    "creditHours": "4 hours.", 
+    "description": "Examines basic modeling concepts and methods. Modeling skills, model development, and natural resource issues and problems will be emphasized. Content areas include fisheries, forests, wildlife, economics, human dimensions, groundwater and surface water. 4 undergraduate hours. 4 graduate hours. Prerequisite: One of MATH 220, MATH 221, MATH 234.", 
+    "href": "/2017/spring/NRES/427.json", 
+    "id": "NRES 427", 
+    "label": "Modeling Natural Resources", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Natural Resources and Environmental Sciences", 
+            "href": "/2017/spring/NRES.json", 
+            "id": "NRES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/NRES/427/60538.json", 
+            "id": "60538"
+        }
+    }
+}

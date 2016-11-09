@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/LA/336/64186.json", 
+    "id": "64186", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Temple Hoyne Buell Hall", 
+            "daysOfTheWeek": "MWF", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kraszewska, K", 
+                    "firstName": "K", 
+                    "lastName": "Kraszewska"
+                }
+            }, 
+            "roomNumber": "18", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Design Workshop Studio I", 
+            "href": "/2017/spring/LA/336.json", 
+            "id": "336"
+        }, 
+        "subject": {
+            "content": "Landscape Architecture", 
+            "href": "/2017/spring/LA.json", 
+            "id": "LA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionFeeAmount": "LA Field Trip $75.00 Flat Fee.", 
+    "sectionNumber": "EUG", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

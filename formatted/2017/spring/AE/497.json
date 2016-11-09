@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Independent theoretical and experimental projects in aerospace engineering. 1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/AE/497.json", 
+    "id": "AE 497", 
+    "label": "Independent Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Aerospace Engineering", 
+            "href": "/2017/spring/AE.json", 
+            "id": "AE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/AE/497/10019.json", 
+            "id": "10019"
+        }
+    }
+}

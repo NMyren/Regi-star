@@ -1,0 +1,75 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/PS/225/65227.json", 
+    "id": "65227", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Foreign Languages Building", 
+                "daysOfTheWeek": "F", 
+                "end": "09:50 AM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Pahre, R", 
+                        "firstName": "R", 
+                        "lastName": "Pahre"
+                    }
+                }, 
+                "roomNumber": "G8A", 
+                "start": "09:00 AM", 
+                "type": {
+                    "code": "LAB", 
+                    "content": "Laboratory"
+                }
+            }, 
+            {
+                "buildingName": "Bevier Hall", 
+                "daysOfTheWeek": "MW", 
+                "end": "09:50 AM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Pahre, R", 
+                        "firstName": "R", 
+                        "lastName": "Pahre"
+                    }
+                }, 
+                "roomNumber": "132", 
+                "start": "09:00 AM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Environmental Politics & Policy", 
+            "href": "/2017/spring/PS/225.json", 
+            "id": "225"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

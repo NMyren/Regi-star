@@ -1,0 +1,74 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/CPSC/199/65422.json", 
+    "id": "65422", 
+    "meetings": {
+        "meeting": [
+            {
+                "daysOfTheWeek": "F", 
+                "end": "11:50 AM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Hudson, M", 
+                        "firstName": "M", 
+                        "lastName": "Hudson"
+                    }
+                }, 
+                "start": "11:00 AM", 
+                "type": {
+                    "code": "DIS", 
+                    "content": "Discussion/Recitation"
+                }
+            }, 
+            {
+                "daysOfTheWeek": "TR", 
+                "end": "12:20 PM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Hudson, M", 
+                        "firstName": "M", 
+                        "lastName": "Hudson"
+                    }
+                }, 
+                "start": "11:00 AM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/CPSC/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "MH", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Focuses on the use of computing and data analysis to solve problems in biology and agriculture and includes an overview of computer methods and limitations of current computer, network and storage hardware for big datasets. The nature, use and future potential of different types of computer hardware and software in biology and agriculture will be discussed. Examples of computing-related and computing-limited problems in biology and agriculture, such as image analysis, remote sensing and genetic analysis will be used as case studies. The potential of computing to improve the food system, medicine and other applications will be presented.", 
+    "sectionTitle": "Data in Biology & Agriculture", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

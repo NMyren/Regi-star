@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: CHEM 104.", 
+    "creditHours": "3 hours.", 
+    "description": "Sources, characteristics, transport, and effects of air and water contaminants; biological, chemical, and physical processes in water; atmospheric structure and composition; unit operations for air and water quality control; solid waste management; environmental quality standards. Prerequisite: CHEM 104.", 
+    "href": "/2017/spring/CEE/330.json", 
+    "id": "CEE 330", 
+    "label": "Environmental Engineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "PQ", 
+            "href": "/2017/spring/CEE/330/31700.json", 
+            "id": "31700"
+        }
+    }
+}

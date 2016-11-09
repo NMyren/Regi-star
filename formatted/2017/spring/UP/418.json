@@ -1,0 +1,45 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section, except in summer terms when labs are not offered.", 
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: Upper division undergaraduate or graduate standing.", 
+    "creditHours": "4 hours.", 
+    "description": "Detailed introduction to the design and use of computerized geographic information systems, focusing on their significance for planning. Emphasizes GIS within an institutional setting, covering not only fundamental technical concepts, but also organizational, management, and legal issues. Students will be introduced to GIS applications and products through readings, videos, demonstrations, and exercises. Computer laboratory work is included. 4 undergraduate hours. 4 graduate hours. Prerequisite: Upper division undergaraduate or graduate standing.", 
+    "href": "/2017/spring/UP/418.json", 
+    "id": "UP 418", 
+    "label": "GIS for Planners", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Urban and Regional Planning", 
+            "href": "/2017/spring/UP.json", 
+            "id": "UP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ALD", 
+                "href": "/2017/spring/UP/418/53058.json", 
+                "id": "53058"
+            }, 
+            {
+                "content": "AY1", 
+                "href": "/2017/spring/UP/418/53059.json", 
+                "id": "53059"
+            }, 
+            {
+                "content": "AY3", 
+                "href": "/2017/spring/UP/418/57236.json", 
+                "id": "57236"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/PHYS/598/52571.json", 
+    "id": "52571", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Loomis Laboratory", 
+            "daysOfTheWeek": "MW", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Fradkin, E", 
+                    "firstName": "E", 
+                    "lastName": "Fradkin"
+                }
+            }, 
+            "roomNumber": "158", 
+            "start": "03:30 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics in Physics", 
+            "href": "/2017/spring/PHYS/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "TPH", 
+    "sectionStatusCode": "A", 
+    "sectionText": "TOPOLOGICAL PHASES IN QUANTUM CONDENSED MATTER.  This course will cover current developments on topological phases in condensed matter physics, including: the theory of the fractional quantum Hall states, spin liquids, topological insulators and superconductors, effective field theories of topological phases, quasiparticles, fractional statistics (Abelian and non-Abelian), experimental detection of quasiparticles, quantum interferometers and the manipulation of quasiparticles, topological phases and topological quantum computing, quantum entanglement at quantum criticality and in topological phases.  The course material will consist primarily of a review of recent literature in leading journals.", 
+    "sectionTitle": "Topologcl Phases in Quantum CM", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

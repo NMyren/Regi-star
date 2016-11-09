@@ -1,0 +1,69 @@
+{
+    "courseSectionInformation": "2 or 4 graduate hours. No professional credit. May be repeated if topics vary.", 
+    "creditHours": "2 or 4 hours.", 
+    "description": "Discussion of current topics in their historical setting, with special emphasis on research problems. 4 graduate hours. No professional credit. May be repeated if topics vary.", 
+    "href": "/2017/spring/PSYC/593.json", 
+    "id": "PSYC 593", 
+    "label": "Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB", 
+                "href": "/2017/spring/PSYC/593/41667.json", 
+                "id": "41667"
+            }, 
+            {
+                "content": "CF", 
+                "href": "/2017/spring/PSYC/593/41665.json", 
+                "id": "41665"
+            }, 
+            {
+                "content": "DB", 
+                "href": "/2017/spring/PSYC/593/43474.json", 
+                "id": "43474"
+            }, 
+            {
+                "content": "DC", 
+                "href": "/2017/spring/PSYC/593/37755.json", 
+                "id": "37755"
+            }, 
+            {
+                "content": "FLD", 
+                "href": "/2017/spring/PSYC/593/52683.json", 
+                "id": "52683"
+            }, 
+            {
+                "content": "FW2", 
+                "href": "/2017/spring/PSYC/593/45689.json", 
+                "id": "45689"
+            }, 
+            {
+                "content": "MF", 
+                "href": "/2017/spring/PSYC/593/48190.json", 
+                "id": "48190"
+            }, 
+            {
+                "content": "TS", 
+                "href": "/2017/spring/PSYC/593/54609.json", 
+                "id": "54609"
+            }
+        ]
+    }
+}

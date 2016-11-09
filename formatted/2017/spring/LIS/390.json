@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "May be repeated. Prerequisite: Sophomore standing.", 
+    "creditHours": "1 TO 3 hours.", 
+    "description": "Directed and supervised investigation of selected topics in information studies that may include among others computers and culture; information policy; community information systems; production, retrieval and evaluation of scientific or social science knowledge; computer-mediated communication; and computer-supported cooperative work. May be repeated. Prerequisite: Sophomore standing.", 
+    "href": "/2017/spring/LIS/390.json", 
+    "id": "LIS 390", 
+    "label": "Special Topics Info Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "CC", 
+                "href": "/2017/spring/LIS/390/48725.json", 
+                "id": "48725"
+            }, 
+            {
+                "content": "HH", 
+                "href": "/2017/spring/LIS/390/65885.json", 
+                "id": "65885"
+            }, 
+            {
+                "content": "W1A", 
+                "href": "/2017/spring/LIS/390/36577.json", 
+                "id": "36577"
+            }
+        ]
+    }
+}

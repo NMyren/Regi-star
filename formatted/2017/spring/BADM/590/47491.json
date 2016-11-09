@@ -1,0 +1,54 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/BADM/590/47491.json", 
+    "id": "47491", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Echambadi, R", 
+                    "firstName": "R", 
+                    "lastName": "Echambadi"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "S2 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Seminar in Business Admin", 
+            "href": "/2017/spring/BADM/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionDateRange": "Meets 06-Jan-17 - 02-Mar-17.", 
+    "sectionNotes": "Restricted to MBA:Exec MBA Ilini Ctr-UIUC.", 
+    "sectionNumber": "X1", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Strategic Innovation", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

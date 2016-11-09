@@ -1,0 +1,35 @@
+{
+    "classScheduleInformation": "A student registered in one or more Art & Design course(s) exhibiting this message will be assessed a $95 facility use fee once each term.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Prerequisite: ARTS 231 and enrollment in the crafts curriculum. For Art majors only.", 
+    "creditHours": "3 hours.", 
+    "description": "The design and production of jewelry and related objects with additional experience in manipulative techniques such as casting, electroforming, surface decoration, enamelling, complex construction and forming. Additional fees may apply. See Class Schedule. Prerequisite: ARTS 231 and enrollment in the crafts curriculum. For Art majors only.", 
+    "href": "/2017/spring/ARTS/330.json", 
+    "id": "ARTS 330", 
+    "label": "Jewelry Metals III", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Studio", 
+            "href": "/2017/spring/ARTS.json", 
+            "id": "ARTS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionFeeAmount": "Art  Design Metals $95.00 Flat Fee.", 
+    "sectionRegistrationNotes": "Restricted to Graphic Design or Crafts or History of Art or Photography or Industrial Design or Painting or Sculpture or Art Education or New Media major(s).", 
+    "sections": {
+        "section": {
+            "content": "MX", 
+            "href": "/2017/spring/ARTS/330/30380.json", 
+            "id": "30380"
+        }
+    }
+}

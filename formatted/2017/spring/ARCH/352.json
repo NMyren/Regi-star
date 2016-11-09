@@ -1,0 +1,54 @@
+{
+    "courseSectionInformation": "Prerequisite: ARCH 351.", 
+    "creditHours": "4 hours.", 
+    "description": "Study of stresses, strains, and deformations in axially loaded members; direct shear and bearing stresses; torsion; beam stresses and deflections; stresses under combined loading; column buckling; design of structural members; introduction to statically indeterminate structures; architectural applications. Prerequisite: ARCH 351.", 
+    "href": "/2017/spring/ARCH/352.json", 
+    "id": "ARCH 352", 
+    "label": "Mech of Mat & Design Appl", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ARCH/352/30235.json", 
+                "id": "30235"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/ARCH/352/40287.json", 
+                "id": "40287"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/ARCH/352/40289.json", 
+                "id": "40289"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/ARCH/352/41518.json", 
+                "id": "41518"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ARCH/352/30236.json", 
+                "id": "30236"
+            }
+        ]
+    }
+}

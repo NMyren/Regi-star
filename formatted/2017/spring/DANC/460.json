@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "1 to 3 undergraduate hours. 1 to 3 graduate hours. May be repeated to a maximum of 16 hours. Prerequisite: Major standing in dance or consent of instructor; or departmental placement.", 
+    "creditHours": "1 TO 3 hours.", 
+    "description": "Modern technique for advanced graduate students. 1 to 3 undergraduate hours. 1 to 3 graduate hours. May be repeated to a maximum of 16 hours. Prerequisite: Major standing in dance or consent of instructor; or departmental placement.", 
+    "href": "/2017/spring/DANC/460.json", 
+    "id": "DANC 460", 
+    "label": "Adv Contemp Modern Tech Core", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Dance or Dance major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "CO", 
+                "href": "/2017/spring/DANC/460/63410.json", 
+                "id": "63410"
+            }, 
+            {
+                "content": "Q", 
+                "href": "/2017/spring/DANC/460/40812.json", 
+                "id": "40812"
+            }
+        ]
+    }
+}

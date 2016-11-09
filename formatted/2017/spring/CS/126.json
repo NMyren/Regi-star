@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Credit is not given for both CS 242 and CS 126. Prerequisite: CS 125. For majors only.", 
+    "creditHours": "3 hours.", 
+    "description": "Fundamental principles and techniques of software development. Design, documentation, testing, and debugging software, with a significant emphasis on code review. Credit is not given for both CS 242 and CS 126. Prerequisite: CS 125. For majors only.", 
+    "href": "/2017/spring/CS/126.json", 
+    "id": "CS 126", 
+    "label": "Software Design Studio", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Computer Science or Statistics & Computer Science or Math & Computer Science or Computer Sci & Anthropology or Computer Sci & Astronomy or Computer Sci & Chemistry or Computer Sci & Linguistics major(s). Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "SD1", 
+                "href": "/2017/spring/CS/126/65120.json", 
+                "id": "65120"
+            }, 
+            {
+                "content": "SD2", 
+                "href": "/2017/spring/CS/126/65684.json", 
+                "id": "65684"
+            }
+        ]
+    }
+}

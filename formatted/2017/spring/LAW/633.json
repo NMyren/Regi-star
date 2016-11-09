@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "4 graduate hours. 3 or 4 professional hours.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Examines the basic legal consequences for individuals, organizations, and society of the formation, control, and financing of organizations. Surveys agency relationships, partnerships, and close and public corporations. 4 graduate hours. 3 or 4 professional hours.", 
+    "href": "/2017/spring/LAW/633.json", 
+    "id": "LAW 633", 
+    "label": "Business Associations I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Law department.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/LAW/633/47030.json", 
+                "id": "47030"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/LAW/633/53570.json", 
+                "id": "53570"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/LAW/633/53793.json", 
+                "id": "53793"
+            }
+        ]
+    }
+}

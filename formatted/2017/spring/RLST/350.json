@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as CWL 350 and SAME 350.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the most well-known Hindu goddesses, at both the pan-Hindu and local level, and explores their mythical narratives, associated powers, iconography, and rituals of worship. Presents different methodological approaches scholars employ in the interpretation of goddess worship in South Asia and abroad. Materials are drawn from textual, historical sources as well as contemporary ethnographic research, and seek to include representative figures from different regions throughout India and the Himalayan region. Same as CWL 350 and SAME 350.", 
+    "href": "/2017/spring/RLST/350.json", 
+    "id": "RLST 350", 
+    "label": "South Asian Goddesses", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Religious Studies", 
+            "href": "/2017/spring/RLST.json", 
+            "id": "RLST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/RLST/350/61735.json", 
+            "id": "61735"
+        }
+    }
+}

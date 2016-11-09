@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "Approved for S/U grading only. May be repeated.", 
+    "href": "/2017/spring/EDPR/199.json", 
+    "id": "EDPR 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Practice", 
+            "href": "/2017/spring/EDPR.json", 
+            "id": "EDPR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/EDPR/199/10042.json", 
+                "id": "10042"
+            }, 
+            {
+                "content": "J", 
+                "href": "/2017/spring/EDPR/199/33752.json", 
+                "id": "33752"
+            }
+        ]
+    }
+}

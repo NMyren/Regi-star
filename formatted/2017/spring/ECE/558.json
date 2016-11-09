@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: ECE 310 and ECE 313.", 
+    "creditHours": "4 hours.", 
+    "description": "Multidimensional signals, convolution, transforms, sampling, and interpolation; design of two-dimensional digital filters; sensor array processing and range-doppler imaging; applications to synthetic aperture radar, optics, tomography, radio astronomy, and beam-forming sonar; image estimation from partial data. Prerequisite: ECE 310 and ECE 313.", 
+    "href": "/2017/spring/ECE/558.json", 
+    "id": "ECE 558", 
+    "label": "Digital Imaging", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "D", 
+            "href": "/2017/spring/ECE/558/34000.json", 
+            "id": "34000"
+        }
+    }
+}

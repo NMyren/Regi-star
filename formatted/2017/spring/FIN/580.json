@@ -1,0 +1,79 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading. May be repeated to a maximum of 18 hours in a semester; may be repeated to a maximum of 32 hours in subsequent semesters. Prerequisite: Varies by section.", 
+    "creditHours": "0 TO 4 hours.", 
+    "description": "Approved for letter and S/U grading. May be repeated to a maximum of 18 hours in a semester; may be repeated to a maximum of 32 hours in subsequent semesters. Prerequisite: Varies by section.", 
+    "href": "/2017/spring/FIN/580.json", 
+    "id": "FIN 580", 
+    "label": "Special Topics in Finance", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Finance", 
+            "href": "/2017/spring/FIN.json", 
+            "id": "FIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "BP1", 
+                "href": "/2017/spring/FIN/580/62355.json", 
+                "id": "62355"
+            }, 
+            {
+                "content": "BP2", 
+                "href": "/2017/spring/FIN/580/62354.json", 
+                "id": "62354"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/FIN/580/49200.json", 
+                "id": "49200"
+            }, 
+            {
+                "content": "GCF", 
+                "href": "/2017/spring/FIN/580/62533.json", 
+                "id": "62533"
+            }, 
+            {
+                "content": "IMB", 
+                "href": "/2017/spring/FIN/580/65753.json", 
+                "id": "65753"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/FIN/580/65773.json", 
+                "id": "65773"
+            }, 
+            {
+                "content": "PHD", 
+                "href": "/2017/spring/FIN/580/47517.json", 
+                "id": "47517"
+            }, 
+            {
+                "content": "REC", 
+                "href": "/2017/spring/FIN/580/63738.json", 
+                "id": "63738"
+            }, 
+            {
+                "content": "SEM", 
+                "href": "/2017/spring/FIN/580/46904.json", 
+                "id": "46904"
+            }, 
+            {
+                "content": "ST1", 
+                "href": "/2017/spring/FIN/580/46905.json", 
+                "id": "46905"
+            }
+        ]
+    }
+}

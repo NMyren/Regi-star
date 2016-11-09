@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/IB/364/58831.json", 
+    "id": "58831", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Gregory Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Hansen, A", 
+                    "firstName": "A", 
+                    "lastName": "Hansen"
+                }
+            }, 
+            "roomNumber": "311", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Genomics and Human Health", 
+            "href": "/2017/spring/IB/364.json", 
+            "id": "364"
+        }, 
+        "subject": {
+            "content": "Integrative Biology", 
+            "href": "/2017/spring/IB.json", 
+            "id": "IB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Highlights advances in understanding the human genome, by utilizing the latest techniques in bioinformatics, i.e. acquiring, analyzing, storing, and displaying the information from the entire genome and protein sequences. The course describes the theory and practices behind modern sequencing techniques and explores the genome with a particular emphasis on the use of extensive online databases and software. Students will analyze one human disorder using bioinformatics software and databases in order to update older published literature about the genomics underpinning the disorder. Prerequisite: IB 204 or consent of instructor.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

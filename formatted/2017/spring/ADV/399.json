@@ -1,0 +1,34 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. May be repeated in the same or separate terms to a maximum of 18 hours. Final determination of appropriate credit will be made upon completion of the work done abroad and/or on campus. Prerequisite: One academic year (or one semester in the case of transfer students) in residence at UIUC, good academic standing, completion of at least thirty semester hours toward the bachelor's degree, and prior approval of the Department of Advertising. Some programs have additional requirements.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "Provides credit toward undergraduate degree for undertaking study and/or a research project through faculty led programs or from an accredited foreign institution or approved overseas program. Approved for both letter and S/U grading. May be repeated in the same or separate terms to a maximum of 18 hours. Final determination of appropriate credit will be made upon completion of the work done abroad and/or on campus. Prerequisite: One academic year (or one semester in the case of transfer students) in residence at UIUC, good academic standing, completion of at least thirty semester hours toward the bachelor's degree, and prior approval of the Department of Advertising. Some programs have additional requirements.", 
+    "href": "/2017/spring/ADV/399.json", 
+    "id": "ADV 399", 
+    "label": "Advertising Study Abroad", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Advertising", 
+            "href": "/2017/spring/ADV.json", 
+            "id": "ADV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": {
+            "content": "L&R", 
+            "href": "/2017/spring/ADV/399/54569.json", 
+            "id": "54569"
+        }
+    }
+}

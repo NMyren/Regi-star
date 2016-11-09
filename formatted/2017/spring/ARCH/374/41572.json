@@ -1,0 +1,70 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/ARCH/374/41572.json", 
+    "id": "41572", 
+    "meetings": {
+        "meeting": [
+            {
+                "daysOfTheWeek": "MW", 
+                "end": "04:50 PM", 
+                "id": "0", 
+                "instructors": {}, 
+                "start": "01:00 PM", 
+                "type": {
+                    "code": "LAB", 
+                    "content": "Laboratory"
+                }
+            }, 
+            {
+                "daysOfTheWeek": "F", 
+                "end": "04:50 PM", 
+                "id": "1", 
+                "instructors": {}, 
+                "start": "02:30 PM", 
+                "type": {
+                    "code": "LAB", 
+                    "content": "Laboratory"
+                }
+            }, 
+            {
+                "daysOfTheWeek": "F", 
+                "end": "02:20 PM", 
+                "id": "2", 
+                "instructors": {}, 
+                "start": "01:00 PM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Arch Design and the City", 
+            "href": "/2017/spring/ARCH/374.json", 
+            "id": "374"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "E6", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

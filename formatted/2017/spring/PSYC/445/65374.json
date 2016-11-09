@@ -1,0 +1,57 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/PSYC/445/65374.json", 
+    "id": "65374", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Psychology Building", 
+            "daysOfTheWeek": "W", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Friberg, S", 
+                    "firstName": "S", 
+                    "lastName": "Friberg"
+                }
+            }, 
+            "roomNumber": "289", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Cognitive Neuroscience Lab", 
+            "href": "/2017/spring/PSYC/445.json", 
+            "id": "445"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Psychology department.", 
+    "sectionNotes": "Restricted to students with Senior class standing. Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "AB2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Undergraduates should register for this Lab. Senior priority enrollment begins November 2nd. Junior priority enrollment begins November 9th. Open enrollment begins at 10am on November 21st.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

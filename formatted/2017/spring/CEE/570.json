@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as CSE 551. Prerequisite: CEE 471 or TAM 551.", 
+    "creditHours": "4 hours.", 
+    "description": "Theory and application of the finite element method; stiffness matrices for triangular, quadrilateral, and isoparametric elements; two- and three-dimensional elements; algorithms necessary for the assembly and solution; direct stress and plate bending problems for static, nonlinear buckling and dynamic load conditions; displacement, hybrid, and mixed models together with their origin in variational methods. Same as CSE 551. Prerequisite: CEE 471 or TAM 551.", 
+    "href": "/2017/spring/CEE/570.json", 
+    "id": "CEE 570", 
+    "label": "Finite Element Methods", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "D", 
+                "href": "/2017/spring/CEE/570/31749.json", 
+                "id": "31749"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CEE/570/60854.json", 
+                "id": "60854"
+            }
+        ]
+    }
+}

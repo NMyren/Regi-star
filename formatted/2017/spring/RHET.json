@@ -1,0 +1,56 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "208 English Building, 608 South Wright, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Head of Department: Michael Rothberg\nDepartment Office, 208 English Building, 608 South Wright, Urbana, 333-2391\nSubjects associated with this department include:  Business and Technical Writing (BTW),  Creative Writing (CW), English (ENGL), and Rhetoric and Composition (RHET).\nwww.english.uiuc.edu", 
+    "contactName": "Michael Rothberg", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Rhetoric Tutorial", 
+                "href": "/2017/spring/RHET/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "Principles of Research", 
+                "href": "/2017/spring/RHET/102.json", 
+                "id": "102"
+            }, 
+            {
+                "content": "Writing and Research", 
+                "href": "/2017/spring/RHET/105.json", 
+                "id": "105"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/RHET/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Adv Rhetoric & Composition", 
+                "href": "/2017/spring/RHET/233.json", 
+                "id": "233"
+            }
+        ]
+    }, 
+    "departmentCode": "1499", 
+    "id": "RHET", 
+    "label": "Rhetoric and Composition", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-2391", 
+    "subjectComment": "Subjects associated with this department include:  Business and Technical Writing (BTW),  Creative Writing (CW), English (ENGL), and Rhetoric and Composition (RHET).", 
+    "unitName": "English", 
+    "webSiteURL": "www.english.uiuc.edu"
+}

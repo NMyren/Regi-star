@@ -1,0 +1,64 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/JAPN/441/41671.json", 
+    "id": "41671", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Lincoln Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Matsushita, H", 
+                        "firstName": "H", 
+                        "lastName": "Matsushita"
+                    }, 
+                    {
+                        "content": "Sadler, M", 
+                        "firstName": "M", 
+                        "lastName": "Sadler"
+                    }
+                ]
+            }, 
+            "roomNumber": "1020", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Fourth Year Japanese II", 
+            "href": "/2017/spring/JAPN/441.json", 
+            "id": "441"
+        }, 
+        "subject": {
+            "content": "Japanese", 
+            "href": "/2017/spring/JAPN.json", 
+            "id": "JAPN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "CG", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This section for Graduate students only.  Meets with CRN 38946.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

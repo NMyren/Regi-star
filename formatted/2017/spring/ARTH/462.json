@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as ANTH 462 and LA 472. See ANTH 462.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as ANTH 462 and LA 472. See ANTH 462.", 
+    "href": "/2017/spring/ARTH/462.json", 
+    "id": "ARTH 462", 
+    "label": "Museum Theory and Practice", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--History", 
+            "href": "/2017/spring/ARTH.json", 
+            "id": "ARTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "1G", 
+                "href": "/2017/spring/ARTH/462/47360.json", 
+                "id": "47360"
+            }, 
+            {
+                "content": "1U", 
+                "href": "/2017/spring/ARTH/462/47361.json", 
+                "id": "47361"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: Sophomore standing in voice or consent of instructor.", 
+    "creditHours": "1 hours.", 
+    "description": "German pronunciation applied to German vocal literature; class and individual clinical analysis and practice. To be taken with MUS 181. Prerequisite: Sophomore standing in voice or consent of instructor.", 
+    "href": "/2017/spring/MUS/122.json", 
+    "id": "MUS 122", 
+    "label": "German Diction", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Music department.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/122/35681.json", 
+            "id": "35681"
+        }
+    }
+}

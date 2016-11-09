@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LIS/590/51315.json", 
+    "id": "51315", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "R", 
+            "end": "08:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Organisciak, P", 
+                    "firstName": "P", 
+                    "lastName": "Organisciak"
+                }
+            }, 
+            "start": "06:15 PM", 
+            "type": {
+                "code": "E9 ", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Problems in LIS", 
+            "href": "/2017/spring/LIS/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Information Sciences department.", 
+    "sectionNumber": "TXL", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course introduces students to the knowledge discovery process and methods used to mine patterns from a collection of text. We will critically review text mining methods developed in the knowledge discovery and databases, information science, and computational linguistics communities. Students will develop proficiency with modeling text through individual projects. [First offered Spring 2010] Restricted to graduate students in the School of Information Sciences. All other students need department approval. Email ischool-advising@illinois.edu.", 
+    "sectionTitle": "Text Mining", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

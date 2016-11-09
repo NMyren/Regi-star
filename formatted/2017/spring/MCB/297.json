@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "May be repeated in separate terms to a maximum of 3 hours.", 
+    "creditHours": "1 hours.", 
+    "description": "Honors discussion section associated with MCB 250, MCB 252, and MCB 354. Concurrent enrollment in the appropriate lecture course is required. May be repeated in separate terms to a maximum of 3 hours.", 
+    "href": "/2017/spring/MCB/297.json", 
+    "id": "MCB 297", 
+    "label": "MCB Honors Discussion", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/MCB/297/59633.json", 
+                "id": "59633"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/MCB/297/60984.json", 
+                "id": "60984"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/MCB/297/53122.json", 
+                "id": "53122"
+            }
+        ]
+    }
+}

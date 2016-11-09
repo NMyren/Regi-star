@@ -1,0 +1,165 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "288 Education Building, 1310 South Sixth, Champaign", 
+    "collegeCode": "KN", 
+    "collegeDepartmentDescription": "Interim Head of Department: Michaelene Ostrosky\nDepartment Office, 288 Education Building, 1310 South Sixth, Champaign, 333-0260\nwww.ed.uiuc.edu/COE/SPED", 
+    "contactName": "Michaelene Ostrosky", 
+    "contactTitle": "Interim Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "The Culture of Disability", 
+                "href": "/2017/spring/SPED/117.json", 
+                "id": "117"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/SPED/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Introduction to Educational Technology", 
+                "href": "/2017/spring/SPED/312.json", 
+                "id": "312"
+            }, 
+            {
+                "content": "Characteristics & Eligibility", 
+                "href": "/2017/spring/SPED/317.json", 
+                "id": "317"
+            }, 
+            {
+                "content": "Intro Intellectual Disability", 
+                "href": "/2017/spring/SPED/322.json", 
+                "id": "322"
+            }, 
+            {
+                "content": "Thesis", 
+                "href": "/2017/spring/SPED/391.json", 
+                "id": "391"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/SPED/395.json", 
+                "id": "395"
+            }, 
+            {
+                "content": "Foundations of Assessment", 
+                "href": "/2017/spring/SPED/424.json", 
+                "id": "424"
+            }, 
+            {
+                "content": "Collaboration and Teaming", 
+                "href": "/2017/spring/SPED/426.json", 
+                "id": "426"
+            }, 
+            {
+                "content": "Collaborating with Families", 
+                "href": "/2017/spring/SPED/438.json", 
+                "id": "438"
+            }, 
+            {
+                "content": "Instructional Strategies II", 
+                "href": "/2017/spring/SPED/441.json", 
+                "id": "441"
+            }, 
+            {
+                "content": "Curriculum Development II", 
+                "href": "/2017/spring/SPED/447.json", 
+                "id": "447"
+            }, 
+            {
+                "content": "Curriculum Development III", 
+                "href": "/2017/spring/SPED/448.json", 
+                "id": "448"
+            }, 
+            {
+                "content": "Communication and Phys Disab", 
+                "href": "/2017/spring/SPED/460.json", 
+                "id": "460"
+            }, 
+            {
+                "content": "Learning Environments II", 
+                "href": "/2017/spring/SPED/471.json", 
+                "id": "471"
+            }, 
+            {
+                "content": "Equity Issues in Spec Educatio", 
+                "href": "/2017/spring/SPED/514.json", 
+                "id": "514"
+            }, 
+            {
+                "content": "Psycho-Social Aspects", 
+                "href": "/2017/spring/SPED/520.json", 
+                "id": "520"
+            }, 
+            {
+                "content": "Supervised Prac in SPED", 
+                "href": "/2017/spring/SPED/524.json", 
+                "id": "524"
+            }, 
+            {
+                "content": "Collaborative Leaders in SPED", 
+                "href": "/2017/spring/SPED/526.json", 
+                "id": "526"
+            }, 
+            {
+                "content": "Methods of Educational Inquiry", 
+                "href": "/2017/spring/SPED/550.json", 
+                "id": "550"
+            }, 
+            {
+                "content": "Leadership in ECSE", 
+                "href": "/2017/spring/SPED/566.json", 
+                "id": "566"
+            }, 
+            {
+                "content": "Individual Differences: B to 6", 
+                "href": "/2017/spring/SPED/585.json", 
+                "id": "585"
+            }, 
+            {
+                "content": "Seminar for Advanced Students", 
+                "href": "/2017/spring/SPED/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Field Study and Thesis Seminar", 
+                "href": "/2017/spring/SPED/591.json", 
+                "id": "591"
+            }, 
+            {
+                "content": "Concepts and Issues in SPED II", 
+                "href": "/2017/spring/SPED/593.json", 
+                "id": "593"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/SPED/595.json", 
+                "id": "595"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/SPED/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1570", 
+    "id": "SPED", 
+    "label": "Special Education", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-0260", 
+    "unitName": "Special Education", 
+    "webSiteURL": "www.ed.uiuc.edu/COE/SPED"
+}

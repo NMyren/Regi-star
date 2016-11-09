@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: CHEM 540.", 
+    "creditHours": "4 hours.", 
+    "description": "Continuation of CHEM 540. Focusing on molecular spectroscopy, nonlinear spectroscopy, kinetics and application of quantum mechanics to dissipative systems. Prerequisite: CHEM 540.", 
+    "href": "/2017/spring/CHEM/542.json", 
+    "id": "CHEM 542", 
+    "label": "Quantum Mech and Spectroscopy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHEM/542/32738.json", 
+            "id": "32738"
+        }
+    }
+}

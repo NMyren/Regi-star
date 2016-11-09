@@ -1,0 +1,64 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MCB/199/46942.json", 
+    "id": "46942", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Burrill Hall", 
+            "daysOfTheWeek": "R", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Reedy, M", 
+                        "firstName": "M", 
+                        "lastName": "Reedy"
+                    }, 
+                    {
+                        "content": "Stenger, A", 
+                        "firstName": "A", 
+                        "lastName": "Stenger"
+                    }
+                ]
+            }, 
+            "roomNumber": "101A", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/MCB/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "M1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Departmental Approval Required.  Merit section for MCB 150.  Contact Alejandra Stenger at astenger@illinois.edu for details.", 
+    "specialApproval": "Departmental Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

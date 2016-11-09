@@ -1,0 +1,46 @@
+{
+    "courseSectionInformation": "Prerequisite: HDFS 105.", 
+    "creditHours": "4 hours.", 
+    "description": "Introduction to quantitative and qualitative research methods used to study human development and families. Provides experience conducting observations and survey interviews, evaluating research results, and writing research reports. Prerequisite: HDFS 105.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/HDFS/290.json", 
+    "id": "HDFS 290", 
+    "label": "Intro to Research Methods", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Human Development and Family Studies", 
+            "href": "/2017/spring/HDFS.json", 
+            "id": "HDFS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sectionRegistrationNotes": "Restricted to Human Development & Family St major(s). Not intended for students with Freshman class standing.", 
+    "sections": {
+        "section": {
+            "content": "AE1", 
+            "href": "/2017/spring/HDFS/290/44214.json", 
+            "id": "44214"
+        }
+    }
+}

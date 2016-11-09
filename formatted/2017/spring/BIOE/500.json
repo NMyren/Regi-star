@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated to a maximum of 2 hours.", 
+    "creditHours": "1 hours.", 
+    "description": "Lecture surveying a broad range of Bioengineering topics. Approved for S/U grading only. May be repeated to a maximum of 2 hours.", 
+    "href": "/2017/spring/BIOE/500.json", 
+    "id": "BIOE 500", 
+    "label": "Graduate Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Bioengineering", 
+            "href": "/2017/spring/BIOE.json", 
+            "id": "BIOE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/BIOE/500/45301.json", 
+            "id": "45301"
+        }
+    }
+}

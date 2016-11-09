@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as BADM 510, PS 514, and SOC 575. See BADM 510.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as BADM 510, PS 514, and SOC 575. See BADM 510.", 
+    "href": "/2017/spring/PSYC/553.json", 
+    "id": "PSYC 553", 
+    "label": "Founds of Organizational Behav", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to PHD:Business Administrtn -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PSYC/553/52784.json", 
+            "id": "52784"
+        }
+    }
+}

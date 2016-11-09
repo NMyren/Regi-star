@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/EALC/490/49380.json", 
+    "id": "49380", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MWF", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Tierney, R", 
+                    "firstName": "R", 
+                    "lastName": "Tierney"
+                }
+            }, 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Individual Study", 
+            "href": "/2017/spring/EALC/490.json", 
+            "id": "490"
+        }, 
+        "subject": {
+            "content": "East Asian Language and Culture", 
+            "href": "/2017/spring/EALC.json", 
+            "id": "EALC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "D", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Graduate section. Meets with EALC 306.", 
+    "sectionTitle": "Japan Lit in Translation II", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

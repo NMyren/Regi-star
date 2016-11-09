@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: Three semesters of college German or equivalent.", 
+    "creditHours": "4 hours.", 
+    "description": "Continuation of GER 103. Prerequisite: Three semesters of college German or equivalent.", 
+    "href": "/2017/spring/GER/104.json", 
+    "id": "GER 104", 
+    "label": "Intermediate German II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "German", 
+            "href": "/2017/spring/GER.json", 
+            "id": "GER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "E", 
+                "href": "/2017/spring/GER/104/33573.json", 
+                "id": "33573"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/GER/104/33574.json", 
+                "id": "33574"
+            }
+        ]
+    }
+}

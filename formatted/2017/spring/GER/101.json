@@ -1,0 +1,48 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "Oral practice, reading, and grammar for beginners.", 
+    "href": "/2017/spring/GER/101.json", 
+    "id": "GER 101", 
+    "label": "Beginning German I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "German", 
+            "href": "/2017/spring/GER.json", 
+            "id": "GER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "C", 
+                "href": "/2017/spring/GER/101/33558.json", 
+                "id": "33558"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/GER/101/33559.json", 
+                "id": "33559"
+            }, 
+            {
+                "content": "D2", 
+                "href": "/2017/spring/GER/101/33560.json", 
+                "id": "33560"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/GER/101/33561.json", 
+                "id": "33561"
+            }
+        ]
+    }
+}

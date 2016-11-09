@@ -1,0 +1,62 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/TE/498/65320.json", 
+    "id": "65320", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MW", 
+            "end": "05:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Hoag, B", 
+                        "firstName": "B", 
+                        "lastName": "Hoag"
+                    }, 
+                    {
+                        "content": "Spencer, G", 
+                        "firstName": "G", 
+                        "lastName": "Spencer"
+                    }
+                ]
+            }, 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics III", 
+            "href": "/2017/spring/TE/498.json", 
+            "id": "498"
+        }, 
+        "subject": {
+            "content": "Technology Entrepreneurship", 
+            "href": "/2017/spring/TE.json", 
+            "id": "TE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "GS", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Theories and process of change; systems thinking concerning change consequences; building coalitions and communities to support change; implementing and managing projects effectively.  Processes to plan, implement, manage, and sustain change with an organization through alignment of change strategies with organizational and individual concerns.", 
+    "sectionTitle": "Leading Sustainable Change", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

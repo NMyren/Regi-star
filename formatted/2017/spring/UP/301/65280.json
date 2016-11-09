@@ -1,0 +1,51 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/UP/301/65280.json", 
+    "id": "65280", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Greenlee, A", 
+                    "firstName": "A", 
+                    "lastName": "Greenlee"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Capstone Preparation", 
+            "href": "/2017/spring/UP/301.json", 
+            "id": "301"
+        }, 
+        "subject": {
+            "content": "Urban and Regional Planning", 
+            "href": "/2017/spring/UP.json", 
+            "id": "UP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AG", 
+    "sectionStatusCode": "A", 
+    "sectionText": "THIS CRN IS THE SOCIAL JUSTICE CONCENTRATION For juniors in Urban Studies and Planning only. Students must select the section for their concentration:  Sustainability, Daniel Schneider; Policy & Planning, Arnab Chakraborty; Social Justice, Andrew Greenlee; or Global Cities, Faranak Miraftab. Students with two concentrations must register for sections with both concentration advisors to ensure proper capstone advising. Students will continue to see the BAUSP Program Director for general advising, including any registration issues with UP 301.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Offered in alternate years. Prerequisite: CPSC 426 and CPSC 484.", 
+    "creditHours": "4 hours.", 
+    "description": "Study of various chemicals used to inhibit plant growth, including their uptake, translocation, mode of action, metabolism and resistance mechanisms in plants; and the relationship of chemical structure to the environmental fate of herbicides. Offered in alternate years. Prerequisite: CPSC 426 and CPSC 484.", 
+    "href": "/2017/spring/CPSC/526.json", 
+    "id": "CPSC 526", 
+    "label": "Herbicide Action in Plants", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CPSC/526/39177.json", 
+            "id": "39177"
+        }
+    }
+}

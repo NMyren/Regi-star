@@ -1,0 +1,34 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "Analyze special events from theoretical and applied perspectives and draw from the social sciences, management, the arts, and related professional fields to analyze the experience and attributed meanings of planned events. Students will acquire an in-depth knowledge of the specialized field of event management and become familiar with techniques and strategies required for successful planning, promotion, implementation and evaluation of special events within recreation, sport and tourism contexts.", 
+    "href": "/2017/spring/RST/518.json", 
+    "id": "RST 518", 
+    "label": "Event Management", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 01-Mar-17 - 25-Apr-17.", 
+    "sectionDescription": "Online", 
+    "sectionRegistrationNotes": "Restricted to MS : Rec, Sport, Tourism -UIUC or MS: Rec,Sport,Tourism -UCGC.", 
+    "sections": {
+        "section": {
+            "content": "XM", 
+            "href": "/2017/spring/RST/518/57959.json", 
+            "id": "57959"
+        }
+    }
+}

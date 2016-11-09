@@ -1,0 +1,64 @@
+{
+    "courseSectionInformation": "Credit is not given for both CS 210 and ECE 316. Prerequisite: CS 225. Junior standing required.", 
+    "creditHours": "2 hours.", 
+    "description": "Ethics for the computing profession. Ethical decision-making; licensing; intellectual property, freedom of information, and privacy. Credit is not given for both CS 210 and ECE 316. Prerequisite: CS 225. Junior standing required.", 
+    "href": "/2017/spring/CS/210.json", 
+    "id": "CS 210", 
+    "label": "Ethical & Professional Issues", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CS/210/31205.json", 
+                "id": "31205"
+            }, 
+            {
+                "content": "AYA", 
+                "href": "/2017/spring/CS/210/31206.json", 
+                "id": "31206"
+            }, 
+            {
+                "content": "AYB", 
+                "href": "/2017/spring/CS/210/39312.json", 
+                "id": "39312"
+            }, 
+            {
+                "content": "AYC", 
+                "href": "/2017/spring/CS/210/39313.json", 
+                "id": "39313"
+            }, 
+            {
+                "content": "AYD", 
+                "href": "/2017/spring/CS/210/63350.json", 
+                "id": "63350"
+            }, 
+            {
+                "content": "AYE", 
+                "href": "/2017/spring/CS/210/63351.json", 
+                "id": "63351"
+            }, 
+            {
+                "content": "AYF", 
+                "href": "/2017/spring/CS/210/63352.json", 
+                "id": "63352"
+            }
+        ]
+    }
+}

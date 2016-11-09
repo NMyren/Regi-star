@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as ARTH 360. See ARTH 360.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as ARTH 360. See ARTH 360.", 
+    "href": "/2017/spring/GWS/360.json", 
+    "id": "GWS 360", 
+    "label": "Women and the Visual Arts", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Gender and Women's Studies", 
+            "href": "/2017/spring/GWS.json", 
+            "id": "GWS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GWS/360/40427.json", 
+            "id": "40427"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: PS 521 or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Provides an overview of research techniques for answering questions of concern in political science; indicates the range of available tools; discusses problems in concept formation; and presents current methods of concept measurement. Prerequisite: PS 521 or consent of instructor.", 
+    "href": "/2017/spring/PS/522.json", 
+    "id": "PS 522", 
+    "label": "Research Design and Techniques", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "JK", 
+            "href": "/2017/spring/PS/522/39238.json", 
+            "id": "39238"
+        }
+    }
+}

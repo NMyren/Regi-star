@@ -1,0 +1,167 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/VM/616/58787.json", 
+    "id": "58787", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Aldridge, B", 
+                        "firstName": "B", 
+                        "lastName": "Aldridge"
+                    }, 
+                    {
+                        "content": "Austin, S", 
+                        "firstName": "S", 
+                        "lastName": "Austin"
+                    }, 
+                    {
+                        "content": "Boesch, J", 
+                        "firstName": "J", 
+                        "lastName": "Boesch"
+                    }, 
+                    {
+                        "content": "Campbell, K", 
+                        "firstName": "K", 
+                        "lastName": "Campbell"
+                    }, 
+                    {
+                        "content": "Clark-Price, S", 
+                        "firstName": "S", 
+                        "lastName": "Clark-Price"
+                    }, 
+                    {
+                        "content": "Fan, T", 
+                        "firstName": "T", 
+                        "lastName": "Fan"
+                    }, 
+                    {
+                        "content": "French, D", 
+                        "firstName": "D", 
+                        "lastName": "French"
+                    }, 
+                    {
+                        "content": "Garrett, E", 
+                        "firstName": "E", 
+                        "lastName": "Garrett"
+                    }, 
+                    {
+                        "content": "Garrett, L", 
+                        "firstName": "L", 
+                        "lastName": "Garrett"
+                    }, 
+                    {
+                        "content": "Gutierrez Nibeyro, S", 
+                        "firstName": "S", 
+                        "lastName": "Gutierrez Nibeyro"
+                    }, 
+                    {
+                        "content": "Hague, D", 
+                        "firstName": "D", 
+                        "lastName": "Hague"
+                    }, 
+                    {
+                        "content": "Hamor, R", 
+                        "firstName": "R", 
+                        "lastName": "Hamor"
+                    }, 
+                    {
+                        "content": "Harper, T", 
+                        "firstName": "T", 
+                        "lastName": "Harper"
+                    }, 
+                    {
+                        "content": "Herrmann, J", 
+                        "firstName": "J", 
+                        "lastName": "Herrmann"
+                    }, 
+                    {
+                        "content": "Kubier, A", 
+                        "firstName": "A", 
+                        "lastName": "Kubier"
+                    }, 
+                    {
+                        "content": "Lascola, K", 
+                        "firstName": "K", 
+                        "lastName": "Lascola"
+                    }, 
+                    {
+                        "content": "Matheson, J", 
+                        "firstName": "J", 
+                        "lastName": "Matheson"
+                    }, 
+                    {
+                        "content": "McFadden, M", 
+                        "firstName": "M", 
+                        "lastName": "McFadden"
+                    }, 
+                    {
+                        "content": "McMichael, M", 
+                        "firstName": "M", 
+                        "lastName": "McMichael"
+                    }, 
+                    {
+                        "content": "O'Brien, M", 
+                        "firstName": "M", 
+                        "lastName": "O'Brien"
+                    }, 
+                    {
+                        "content": "Phillips, H", 
+                        "firstName": "H", 
+                        "lastName": "Phillips"
+                    }, 
+                    {
+                        "content": "Ridgway, M", 
+                        "firstName": "M", 
+                        "lastName": "Ridgway"
+                    }, 
+                    {
+                        "content": "Rubin, S", 
+                        "firstName": "S", 
+                        "lastName": "Rubin"
+                    }, 
+                    {
+                        "content": "Wilkins, P", 
+                        "firstName": "P", 
+                        "lastName": "Wilkins"
+                    }
+                ]
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Clinical Practice VII", 
+            "href": "/2017/spring/VM/616.json", 
+            "id": "616"
+        }, 
+        "subject": {
+            "content": "Veterinary Medicine Courses", 
+            "href": "/2017/spring/VM.json", 
+            "id": "VM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,62 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/TAM/500/36380.json", 
+    "id": "36380", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Engineering Sciences Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Saif, M", 
+                        "firstName": "M", 
+                        "lastName": "Saif"
+                    }, 
+                    {
+                        "content": "Smith, K", 
+                        "firstName": "K", 
+                        "lastName": "Smith"
+                    }
+                ]
+            }, 
+            "roomNumber": "190", 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Seminar", 
+            "href": "/2017/spring/TAM/500.json", 
+            "id": "500"
+        }, 
+        "subject": {
+            "content": "Theoretical and Applied Mechanics", 
+            "href": "/2017/spring/TAM.json", 
+            "id": "TAM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "T", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Meets with ME 590", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

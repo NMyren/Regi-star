@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as PHIL 420. 2 undergraduate hours. 2 graduate hours. Credit is not given for both PHYS 420 and PHYS 419. Prerequisite: PHIL 101; PHYS 101 or PHYS 211.", 
+    "creditHours": "2 hours.", 
+    "description": "Philosophical examination of some fundamental concepts and theories of the physical world, such as time, matter, space, and geometry; interpretation of quantum theory. Same as PHIL 420. 2 undergraduate hours. 2 graduate hours. Credit is not given for both PHYS 420 and PHYS 419. Prerequisite: PHIL 101; PHYS 101 or PHYS 211.", 
+    "href": "/2017/spring/PHYS/420.json", 
+    "id": "PHYS 420", 
+    "label": "Space, Time, and Matter", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PHYS/420/43171.json", 
+            "id": "43171"
+        }
+    }
+}

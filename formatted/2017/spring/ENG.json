@@ -1,0 +1,166 @@
+{
+    "addressLine1": "Program Office", 
+    "addressLine2": "206 Engineering Hall, 1308 West Green, Urbana", 
+    "collegeCode": "KP", 
+    "collegeDepartmentDescription": "Program Administrator: Umberto Ravaioli\nProgram Office, 206 Engineering Hall, 1308 West Green, Urbana, 217-333-2280\nSubjects associated with this department include: Engineering  (ENG) and Technology and Management (TMGT)\nwww.engr.illinois.edu", 
+    "contactName": "Umberto Ravaioli", 
+    "contactTitle": "Program Administrator", 
+    "courses": {
+        "course": [
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/ENG/198.json", 
+                "id": "198"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/ENG/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "From Idea to Enterprise", 
+                "href": "/2017/spring/ENG/250.json", 
+                "id": "250"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/ENG/298.json", 
+                "id": "298"
+            }, 
+            {
+                "content": "Engineering Study Abroad", 
+                "href": "/2017/spring/ENG/299.json", 
+                "id": "299"
+            }, 
+            {
+                "content": "Engrg Transfer Orientation", 
+                "href": "/2017/spring/ENG/300.json", 
+                "id": "300"
+            }, 
+            {
+                "content": "Engineering Internship", 
+                "href": "/2017/spring/ENG/310.json", 
+                "id": "310"
+            }, 
+            {
+                "content": "Creativity, Innovation, Vision", 
+                "href": "/2017/spring/ENG/333.json", 
+                "id": "333"
+            }, 
+            {
+                "content": "Lectures in Engineering Entrepreneurship", 
+                "href": "/2017/spring/ENG/360.json", 
+                "id": "360"
+            }, 
+            {
+                "content": "Undergraduate Research Abroad", 
+                "href": "/2017/spring/ENG/397.json", 
+                "id": "397"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/ENG/398.json", 
+                "id": "398"
+            }, 
+            {
+                "content": "Developing Breakthrough Projects", 
+                "href": "/2017/spring/ENG/401.json", 
+                "id": "401"
+            }, 
+            {
+                "content": "Startups: Inc, Fund, Contracts, IP", 
+                "href": "/2017/spring/ENG/450.json", 
+                "id": "450"
+            }, 
+            {
+                "content": "Entrepreneurship for Engineers", 
+                "href": "/2017/spring/ENG/460.json", 
+                "id": "460"
+            }, 
+            {
+                "content": "Technology Entrepreneurship", 
+                "href": "/2017/spring/ENG/461.json", 
+                "id": "461"
+            }, 
+            {
+                "content": "High-Tech Venture Marketing", 
+                "href": "/2017/spring/ENG/466.json", 
+                "id": "466"
+            }, 
+            {
+                "content": "Seminar Energy & Sustain Engrg", 
+                "href": "/2017/spring/ENG/471.json", 
+                "id": "471"
+            }, 
+            {
+                "content": "Interdisciplinary Design Proj", 
+                "href": "/2017/spring/ENG/491.json", 
+                "id": "491"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/ENG/498.json", 
+                "id": "498"
+            }, 
+            {
+                "content": "Engineering Practice", 
+                "href": "/2017/spring/ENG/510.json", 
+                "id": "510"
+            }, 
+            {
+                "content": "Technol Innovation & Strategy", 
+                "href": "/2017/spring/ENG/565.json", 
+                "id": "565"
+            }, 
+            {
+                "content": "Finance for Engineering Mgmt", 
+                "href": "/2017/spring/ENG/566.json", 
+                "id": "566"
+            }, 
+            {
+                "content": "Venture Funded Startups", 
+                "href": "/2017/spring/ENG/567.json", 
+                "id": "567"
+            }, 
+            {
+                "content": "Theory Energy & Sustain Engrg", 
+                "href": "/2017/spring/ENG/571.json", 
+                "id": "571"
+            }, 
+            {
+                "content": "Energy Systems Practicum", 
+                "href": "/2017/spring/ENG/572.json", 
+                "id": "572"
+            }, 
+            {
+                "content": "Energy Systems Project", 
+                "href": "/2017/spring/ENG/573.json", 
+                "id": "573"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/ENG/598.json", 
+                "id": "598"
+            }
+        ]
+    }, 
+    "departmentCode": "1545", 
+    "id": "ENG", 
+    "label": "Engineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-2280", 
+    "subjectComment": "Subjects associated with this department include: Engineering  (ENG) and Technology and Management (TMGT)", 
+    "unitName": "Engineering", 
+    "webSiteURL": "www.engr.illinois.edu"
+}

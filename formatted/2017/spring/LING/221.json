@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Same as SHS 221. See SHS 221.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as SHS 221. See SHS 221.", 
+    "href": "/2017/spring/LING/221.json", 
+    "id": "LING 221", 
+    "label": "American Sign Language II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Linguistics", 
+            "href": "/2017/spring/LING.json", 
+            "id": "LING"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "D", 
+                "href": "/2017/spring/LING/221/58333.json", 
+                "id": "58333"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/LING/221/49800.json", 
+                "id": "49800"
+            }, 
+            {
+                "content": "P", 
+                "href": "/2017/spring/LING/221/55725.json", 
+                "id": "55725"
+            }
+        ]
+    }
+}

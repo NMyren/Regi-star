@@ -1,0 +1,51 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/MATH/490/45683.json", 
+    "id": "45683", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MWF", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Topics in Mathematics", 
+            "href": "/2017/spring/MATH/490.json", 
+            "id": "490"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to MS:App Mth-Actuarial Sci -UIUC.", 
+    "sectionNumber": "E14", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Stochastic Processes for Finance and Insurance.  Prerequisite: Math 408 or equivalent.  Section restricted to Actuarial Science graduate students..", 
+    "sectionTitle": "Stoch Proc for Fin & Insurance", 
+    "specialApproval": "Departmental Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "2 to 12 undergraduate hours. 2 to 12 graduate hours. Approved for S/U grading only. May be repeated for 18 hours, 12 of which may be taken in the same term. Prerequisite: Satisfactory completion of all requirements of the Council on Teacher Education Undergraduate or Graduate Common Assessment Plan for Initial Certification (http://www.cote.uiuc.edu).", 
+    "creditHours": "2 TO 12 hours.", 
+    "description": "Course in practice teaching which provides teaching experience with exceptional children. 2 to 12 undergraduate hours. 2 to 12 graduate hours. Approved for S/U grading only. May be repeated for 18 hours, 12 of which may be taken in the same term. Prerequisite: Satisfactory completion of all requirements of the Council on Teacher Education Undergraduate or Graduate Common Assessment Plan for Initial Certification (http://www.cote.uiuc.edu).", 
+    "href": "/2017/spring/EDPR/420.json", 
+    "id": "EDPR 420", 
+    "label": "Ed Prac Students with Sp Needs", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Practice", 
+            "href": "/2017/spring/EDPR.json", 
+            "id": "EDPR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Special Education major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "LBE", 
+                "href": "/2017/spring/EDPR/420/33754.json", 
+                "id": "33754"
+            }, 
+            {
+                "content": "LBS", 
+                "href": "/2017/spring/EDPR/420/33755.json", 
+                "id": "33755"
+            }, 
+            {
+                "content": "LBT", 
+                "href": "/2017/spring/EDPR/420/33756.json", 
+                "id": "33756"
+            }
+        ]
+    }
+}

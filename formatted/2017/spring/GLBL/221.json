@@ -1,0 +1,62 @@
+{
+    "courseSectionInformation": "Same as GEOG 221. See GEOG 221.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as GEOG 221. See GEOG 221.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/GLBL/221.json", 
+    "id": "GLBL 221", 
+    "label": "Geographies of Global Conflict", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Global Studies", 
+            "href": "/2017/spring/GLBL.json", 
+            "id": "GLBL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/GLBL/221/65045.json", 
+                "id": "65045"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/GLBL/221/65046.json", 
+                "id": "65046"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/GLBL/221/65047.json", 
+                "id": "65047"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/GLBL/221/65044.json", 
+                "id": "65044"
+            }
+        ]
+    }
+}

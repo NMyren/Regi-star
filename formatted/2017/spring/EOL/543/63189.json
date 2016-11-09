@@ -1,0 +1,51 @@
+{
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/EOL/543/63189.json", 
+    "id": "63189", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "W", 
+            "end": "09:30 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Filippi, J", 
+                    "firstName": "J", 
+                    "lastName": "Filippi"
+                }
+            }, 
+            "start": "05:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Leading School Improvement", 
+            "href": "/2017/spring/EOL/543.json", 
+            "id": "543"
+        }, 
+        "subject": {
+            "content": "Educational Organization and Leadership", 
+            "href": "/2017/spring/EOL.json", 
+            "id": "EOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 25-Jan-17 - 19-Apr-17.", 
+    "sectionNotes": "Restricted to CAS:Educ Org & Leadershp -UIUC, EDM:Educ Org & Leadershp -UIUC, EDM: Ed Pol Org & Ldrshp -UIUC, or CAS: Ed Pol Org & Ldrshp -UIUC.", 
+    "sectionNumber": "CHI", 
+    "sectionStatusCode": "A", 
+    "statusCode": "A"
+}

@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Same as ENVS 469. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CHLH 274 or equivalent.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Appreciation of the concepts and mechanisms used to prevent or control environmental conditions that may lead to infectious or other environmentally induced diseases. Presents topics from a public health perspective that include air pollution, water supply management, waste management, radiation protection, food hygiene, occupational health and disaster management. Same as ENVS 469. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CHLH 274 or equivalent.", 
+    "href": "/2017/spring/CHLH/469.json", 
+    "id": "CHLH 469", 
+    "label": "Environmental Health", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G4", 
+                "href": "/2017/spring/CHLH/469/53526.json", 
+                "id": "53526"
+            }, 
+            {
+                "content": "GMP", 
+                "href": "/2017/spring/CHLH/469/57045.json", 
+                "id": "57045"
+            }, 
+            {
+                "content": "U3", 
+                "href": "/2017/spring/CHLH/469/53527.json", 
+                "id": "53527"
+            }
+        ]
+    }
+}

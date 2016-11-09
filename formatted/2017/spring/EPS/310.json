@@ -1,0 +1,64 @@
+{
+    "courseSectionInformation": "Same as AAS 310, AFRO 310, and LLS 310. Prerequisite: Completion of campus Composition I general education requirement.", 
+    "creditHours": "4 hours.", 
+    "description": "Study of race and cultural diversity from Colonial era to present; the evolution of racial ideology in an ethnically heterogeneous society; the impact of race on the structures and operations of fundamental social institutions; the role of race in contemporary politics and popular culture. Same as AAS 310, AFRO 310, and LLS 310. Prerequisite: Completion of campus Composition I general education requirement.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1US", 
+                        "content": "UIUC: US Minority Culture(s)"
+                    }
+                }
+            }, 
+            {
+                "description": "Advanced Composition", 
+                "id": "ACP", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1CLL", 
+                        "content": "UIUC: Advanced Composition"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/EPS/310.json", 
+    "id": "EPS 310", 
+    "label": "Race and Cultural Diversity", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Policy Studies", 
+            "href": "/2017/spring/EPS.json", 
+            "id": "EPS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition, and US Minority Culture(s) course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/EPS/310/33062.json", 
+                "id": "33062"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/EPS/310/33065.json", 
+                "id": "33065"
+            }
+        ]
+    }
+}

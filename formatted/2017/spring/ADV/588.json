@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: The grade of B or better in ADV 587.", 
+    "creditHours": "3 hours.", 
+    "description": "Students write research proposals in this course. Prerequisite: The grade of B or better in ADV 587.", 
+    "href": "/2017/spring/ADV/588.json", 
+    "id": "ADV 588", 
+    "label": "Graduate Seminar II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Advertising", 
+            "href": "/2017/spring/ADV.json", 
+            "id": "ADV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Advertising major(s). Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ADV/588/57001.json", 
+            "id": "57001"
+        }
+    }
+}

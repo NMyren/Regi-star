@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/SCAN/104/45904.json", 
+    "id": "45904", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foreign Languages Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Safstrom, M", 
+                    "firstName": "M", 
+                    "lastName": "Safstrom"
+                }
+            }, 
+            "roomNumber": "ARR", 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intermediate Scandinavian II", 
+            "href": "/2017/spring/SCAN/104.json", 
+            "id": "104"
+        }, 
+        "subject": {
+            "content": "Scandinavian", 
+            "href": "/2017/spring/SCAN.json", 
+            "id": "SCAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "C", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Spring 2017  This class will be held ini 3114 FLB", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

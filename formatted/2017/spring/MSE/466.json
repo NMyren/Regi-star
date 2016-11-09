@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Credit is not given for both MSE 466 and CHEM 524.", 
+    "creditHours": "3 hours.", 
+    "description": "Materials issues in electrochemical systems including fundamental thermodynamics, kinetics and electrode processes in electrochemical systems and materials specific issues in the materials design, materials in energy storage and conversion systems, and electrochemical corrosion. Emphasis placed on issues of materials selection, microstructure, systems design, materials limitations, and data analysis. 3 undergraduate hours. 3 graduate hours. Credit is not given for both MSE 466 and CHEM 524.", 
+    "href": "/2017/spring/MSE/466.json", 
+    "id": "MSE 466", 
+    "label": "Materials in Electrochem Syst", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Materials Science and Engineering", 
+            "href": "/2017/spring/MSE.json", 
+            "id": "MSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MSE/466/61513.json", 
+            "id": "61513"
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/GLBL/199/57328.json", 
+    "id": "57328", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Psychology Building", 
+                "daysOfTheWeek": "MWF", 
+                "end": "01:50 PM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Niekerk, C", 
+                        "firstName": "C", 
+                        "lastName": "Niekerk"
+                    }
+                }, 
+                "roomNumber": "32", 
+                "start": "01:00 PM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }, 
+            {
+                "daysOfTheWeek": "R", 
+                "end": "07:50 PM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Niekerk, C", 
+                        "firstName": "C", 
+                        "lastName": "Niekerk"
+                    }
+                }, 
+                "start": "05:00 PM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/GLBL/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Global Studies", 
+            "href": "/2017/spring/GLBL.json", 
+            "id": "GLBL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "EU", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Europe in Trouble:  European Politics, Society, and Culture since 1945. The course will focus on important societal, political, and cultural issues that shape discussions and debates in Europe today.  It will seek to understand these debates in their historical contexts.  The central thesis of this course is that the history of postwar Europe can be read as a series of crises, starting with the aftermath of World War II, but also including the revolutionary year 1968, the fall of the Wall, the war in Yugoslavia, etc.  While the course focuses on important societal and political developments, it also argues that culture not only played an important role in the series of crises that constitute Europe?s postwar history, but also that cultural artifacts can function as an important resource for understanding the conflicts and debates that shaped the public debate in Europe since 1945.   Format:  3 lectures per week; one film screening each week.   Meets with: GER 199,  GLBL 199 and EURO 199.", 
+    "sectionTitle": "Europe in Trouble", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,65 @@
+{
+    "courseSectionInformation": "Prerequisite: ACCY 202 or equivalent; ECON 203 or equivalent or concurrent enrollment; and concurrent enrollment in ACCY 301 by students majoring in Accountancy (recommended for non-Accountancy majors); or consent of department.", 
+    "creditHours": "3 hours.", 
+    "description": "Decision making implications of information provided to organization managers and to external stakeholders such as investors, creditors, customers, and regulators. Concepts from economics, statistics, and psychology emphasize the use of quantitative techniques to comprehend uncertainty and risk. Projects, together with a series of practical workshops, facilitate self-discovery of knowledge and development of a variety of professional skills and attitudes. Prerequisite: ACCY 202 or equivalent; ECON 203 or equivalent or concurrent enrollment; and concurrent enrollment in ACCY 301 by students majoring in Accountancy (recommended for non-Accountancy majors); or consent of department.", 
+    "href": "/2017/spring/ACCY/302.json", 
+    "id": "ACCY 302", 
+    "label": "Decision Making for Atg", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Accountancy", 
+            "href": "/2017/spring/ACCY.json", 
+            "id": "ACCY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Accountancy or Finance major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/ACCY/302/60043.json", 
+                "id": "60043"
+            }, 
+            {
+                "content": "AE2", 
+                "href": "/2017/spring/ACCY/302/30211.json", 
+                "id": "30211"
+            }, 
+            {
+                "content": "AE3", 
+                "href": "/2017/spring/ACCY/302/30212.json", 
+                "id": "30212"
+            }, 
+            {
+                "content": "AE5", 
+                "href": "/2017/spring/ACCY/302/30228.json", 
+                "id": "30228"
+            }, 
+            {
+                "content": "AE6", 
+                "href": "/2017/spring/ACCY/302/30232.json", 
+                "id": "30232"
+            }, 
+            {
+                "content": "AE7", 
+                "href": "/2017/spring/ACCY/302/30255.json", 
+                "id": "30255"
+            }, 
+            {
+                "content": "AY1", 
+                "href": "/2017/spring/ACCY/302/30260.json", 
+                "id": "30260"
+            }
+        ]
+    }
+}

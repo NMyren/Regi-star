@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/HRD/534/60747.json", 
+    "id": "60747", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Inst Labor &  Industrial Rel", 
+            "daysOfTheWeek": "R", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Forsythe, E", 
+                    "firstName": "E", 
+                    "lastName": "Forsythe"
+                }
+            }, 
+            "roomNumber": "35", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Economics of Human Resources", 
+            "href": "/2017/spring/HRD/534.json", 
+            "id": "534"
+        }, 
+        "subject": {
+            "content": "Human Resource Development", 
+            "href": "/2017/spring/HRD.json", 
+            "id": "HRD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "001", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

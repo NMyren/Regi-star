@@ -1,0 +1,51 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/ECON/490/59299.json", 
+    "id": "59299", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TR", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "S9 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics in Economics", 
+            "href": "/2017/spring/ECON/490.json", 
+            "id": "490"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Economics department.", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "G1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This section is restricted to undergraduate students. This section is restricted to Economics students until the morning of January 9th. The course aims to cover three inter-related topics: inter-country way, internal conflicts (including civil war and ethnic conflicts), and terrorism. It would discuss why countries may go to or prepare for war at phenomenal economic cost when negotiated settlement is an option, choice and efficiency of alternative methods of raising an army and economic costs of war, determinants of internal conflicts such as inequality, ethnic diversity, poverty and macroeconomic shocks, and their characteristics, causes and patterns of terrorism, trade off between defensive and offensive counter-terrorism strategies and economic impacts of terrorism.", 
+    "sectionTitle": "Econ of Terror, War & Conflict", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

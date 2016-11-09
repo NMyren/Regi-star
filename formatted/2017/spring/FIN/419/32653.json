@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/FIN/419/32653.json", 
+    "id": "32653", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Wohlers Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Waspi, K", 
+                    "firstName": "K", 
+                    "lastName": "Waspi"
+                }
+            }, 
+            "roomNumber": "166", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Real Client Managed Portfolios", 
+            "href": "/2017/spring/FIN/419.json", 
+            "id": "419"
+        }, 
+        "subject": {
+            "content": "Finance", 
+            "href": "/2017/spring/FIN.json", 
+            "id": "FIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "N", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Registration requires students to complete an application available in 340 Wohlers.  Acceptance is contingent upon an admission screening process.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

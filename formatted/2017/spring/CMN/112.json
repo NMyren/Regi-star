@@ -1,0 +1,144 @@
+{
+    "classScheduleInformation": "All sections are restricted to Undergraduate students. Engineering students must obtain a dean's approval to drop this course after the second week of instruction.", 
+    "courseSectionInformation": "Credit is not given for both CMN 111+CMN 112 and other courses that fulfill the Composition I requirement (i.e., RHET 100; RHET 101+ RHET 102; RHET 103+RHET 104; RHET 105; ESL 114+ESL 115). Credit is also not given for both CMN 111+CMN 112 and CMN 101. CMN 111+CMN 112 may not be taken by students who have completed the University's Composition I requirement. Prerequisite: CMN 111.", 
+    "creditHours": "3 hours.", 
+    "description": "Continuation of Oral & Written Comm I; stress on deliberation and fundamentals of communication and public argument through speaking and writing. The campus rhetoric requirement is fulfilled by this course in conjunction with CMN 111. Credit is not given for both CMN 111+CMN 112 and other courses that fulfill the Composition I requirement (i.e., RHET 100; RHET 101+ RHET 102; RHET 103+RHET 104; RHET 105; ESL 114+ESL 115). Credit is also not given for both CMN 111+CMN 112 and CMN 101. CMN 111+CMN 112 may not be taken by students who have completed the University's Composition I requirement. Prerequisite: CMN 111.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Composition I", 
+            "id": "COMP1", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1FC1", 
+                    "content": "UIUC: Freshman Composition I"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CMN/112.json", 
+    "id": "CMN 112", 
+    "label": "Oral & Written Comm II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Not intended for ESL-placed students.", 
+    "sectionDegreeAttributes": "Freshman Composition I course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A1", 
+                "href": "/2017/spring/CMN/112/50539.json", 
+                "id": "50539"
+            }, 
+            {
+                "content": "B1", 
+                "href": "/2017/spring/CMN/112/50541.json", 
+                "id": "50541"
+            }, 
+            {
+                "content": "B3", 
+                "href": "/2017/spring/CMN/112/50543.json", 
+                "id": "50543"
+            }, 
+            {
+                "content": "C1", 
+                "href": "/2017/spring/CMN/112/50544.json", 
+                "id": "50544"
+            }, 
+            {
+                "content": "C2", 
+                "href": "/2017/spring/CMN/112/50545.json", 
+                "id": "50545"
+            }, 
+            {
+                "content": "C3", 
+                "href": "/2017/spring/CMN/112/50546.json", 
+                "id": "50546"
+            }, 
+            {
+                "content": "D1", 
+                "href": "/2017/spring/CMN/112/50548.json", 
+                "id": "50548"
+            }, 
+            {
+                "content": "D2", 
+                "href": "/2017/spring/CMN/112/50549.json", 
+                "id": "50549"
+            }, 
+            {
+                "content": "E1", 
+                "href": "/2017/spring/CMN/112/50551.json", 
+                "id": "50551"
+            }, 
+            {
+                "content": "E2", 
+                "href": "/2017/spring/CMN/112/50552.json", 
+                "id": "50552"
+            }, 
+            {
+                "content": "E3", 
+                "href": "/2017/spring/CMN/112/50553.json", 
+                "id": "50553"
+            }, 
+            {
+                "content": "F1", 
+                "href": "/2017/spring/CMN/112/50554.json", 
+                "id": "50554"
+            }, 
+            {
+                "content": "F2", 
+                "href": "/2017/spring/CMN/112/50555.json", 
+                "id": "50555"
+            }, 
+            {
+                "content": "L1", 
+                "href": "/2017/spring/CMN/112/50557.json", 
+                "id": "50557"
+            }, 
+            {
+                "content": "M1", 
+                "href": "/2017/spring/CMN/112/50559.json", 
+                "id": "50559"
+            }, 
+            {
+                "content": "M2", 
+                "href": "/2017/spring/CMN/112/50560.json", 
+                "id": "50560"
+            }, 
+            {
+                "content": "P1", 
+                "href": "/2017/spring/CMN/112/50563.json", 
+                "id": "50563"
+            }, 
+            {
+                "content": "P2", 
+                "href": "/2017/spring/CMN/112/50564.json", 
+                "id": "50564"
+            }, 
+            {
+                "content": "Q1", 
+                "href": "/2017/spring/CMN/112/50566.json", 
+                "id": "50566"
+            }, 
+            {
+                "content": "Q2", 
+                "href": "/2017/spring/CMN/112/50567.json", 
+                "id": "50567"
+            }
+        ]
+    }
+}

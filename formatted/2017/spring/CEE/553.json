@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as GEOL 573. Prerequisite: TAM 335.", 
+    "creditHours": "4 hours.", 
+    "description": "River morphology and characteristics of river sediment. Response of alluvial and bedrock rivers to changes in sediment supply, hydrology, and tectonics. Numerical modeling of river morphodynamics in gravel and sand bed rivers and deltas. Same as GEOL 573. Prerequisite: TAM 335.", 
+    "href": "/2017/spring/CEE/553.json", 
+    "id": "CEE 553", 
+    "label": "River Morphodynamics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "G", 
+            "href": "/2017/spring/CEE/553/58731.json", 
+            "id": "58731"
+        }
+    }
+}

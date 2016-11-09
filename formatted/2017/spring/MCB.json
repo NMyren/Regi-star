@@ -1,0 +1,291 @@
+{
+    "addressLine1": "School Office", 
+    "addressLine2": "393 Morrill Hall, 505 South Goodwin Avenue, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Director of School: Stephen Sligar\nSchool Office, 393 Morrill Hall, 505 South Goodwin Avenue, Urbana, 217-333-3166\nSubjects associated with this department include: Biophysics (BIOP) and Molecular and Cellular Biology (MCB).\nwww.mcb.illinois.edu", 
+    "contactName": "Stephen Sligar", 
+    "contactTitle": "Director of School", 
+    "courses": {
+        "course": [
+            {
+                "content": "Introductory Microbiology", 
+                "href": "/2017/spring/MCB/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "Intro Microbiology Laboratory", 
+                "href": "/2017/spring/MCB/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "Molec & Cellular Basis of Life", 
+                "href": "/2017/spring/MCB/150.json", 
+                "id": "150"
+            }, 
+            {
+                "content": "Molec & Cellular Laboratory", 
+                "href": "/2017/spring/MCB/151.json", 
+                "id": "151"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/MCB/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Human Anatomy & Physiology II", 
+                "href": "/2017/spring/MCB/246.json", 
+                "id": "246"
+            }, 
+            {
+                "content": "Human Anat & Physiol Lab II", 
+                "href": "/2017/spring/MCB/247.json", 
+                "id": "247"
+            }, 
+            {
+                "content": "Molecular Genetics", 
+                "href": "/2017/spring/MCB/250.json", 
+                "id": "250"
+            }, 
+            {
+                "content": "Exp Techniqs in Molecular Biol", 
+                "href": "/2017/spring/MCB/251.json", 
+                "id": "251"
+            }, 
+            {
+                "content": "Cells, Tissues & Development", 
+                "href": "/2017/spring/MCB/252.json", 
+                "id": "252"
+            }, 
+            {
+                "content": "Exp Techniqs in Cellular Biol", 
+                "href": "/2017/spring/MCB/253.json", 
+                "id": "253"
+            }, 
+            {
+                "content": "Medical Genetics", 
+                "href": "/2017/spring/MCB/270.json", 
+                "id": "270"
+            }, 
+            {
+                "content": "Undergraduate Research", 
+                "href": "/2017/spring/MCB/290.json", 
+                "id": "290"
+            }, 
+            {
+                "content": "MCB Honors Discussion", 
+                "href": "/2017/spring/MCB/297.json", 
+                "id": "297"
+            }, 
+            {
+                "content": "MCB Honors Lab Discussion", 
+                "href": "/2017/spring/MCB/298.json", 
+                "id": "298"
+            }, 
+            {
+                "content": "MCB Merit Program Discussion", 
+                "href": "/2017/spring/MCB/299.json", 
+                "id": "299"
+            }, 
+            {
+                "content": "Microbiology", 
+                "href": "/2017/spring/MCB/300.json", 
+                "id": "300"
+            }, 
+            {
+                "content": "Experimental Microbiology", 
+                "href": "/2017/spring/MCB/301.json", 
+                "id": "301"
+            }, 
+            {
+                "content": "Genetics and Genomics", 
+                "href": "/2017/spring/MCB/317.json", 
+                "id": "317"
+            }, 
+            {
+                "content": "Mechanisms of Human Disease", 
+                "href": "/2017/spring/MCB/320.json", 
+                "id": "320"
+            }, 
+            {
+                "content": "Biochem & Phys Basis of Life", 
+                "href": "/2017/spring/MCB/354.json", 
+                "id": "354"
+            }, 
+            {
+                "content": "Special Topics Brain Physiol", 
+                "href": "/2017/spring/MCB/396.json", 
+                "id": "396"
+            }, 
+            {
+                "content": "Sys & Integrative Physiology", 
+                "href": "/2017/spring/MCB/402.json", 
+                "id": "402"
+            }, 
+            {
+                "content": "Gene Expression & Regulation", 
+                "href": "/2017/spring/MCB/406.json", 
+                "id": "406"
+            }, 
+            {
+                "content": "Developmental Biology", 
+                "href": "/2017/spring/MCB/410.json", 
+                "id": "410"
+            }, 
+            {
+                "content": "Brain, Behavior & Info Process", 
+                "href": "/2017/spring/MCB/419.json", 
+                "id": "419"
+            }, 
+            {
+                "content": "Microbial Genetics", 
+                "href": "/2017/spring/MCB/421.json", 
+                "id": "421"
+            }, 
+            {
+                "content": "Cellular Microbiology &Disease", 
+                "href": "/2017/spring/MCB/429.json", 
+                "id": "429"
+            }, 
+            {
+                "content": "Computing in Molecular Biology", 
+                "href": "/2017/spring/MCB/432.json", 
+                "id": "432"
+            }, 
+            {
+                "content": "Virology & Viral Pathogenesis", 
+                "href": "/2017/spring/MCB/433.json", 
+                "id": "433"
+            }, 
+            {
+                "content": "Food & Industrial Microbiology", 
+                "href": "/2017/spring/MCB/434.json", 
+                "id": "434"
+            }, 
+            {
+                "content": "Evolution of Infectious Disease", 
+                "href": "/2017/spring/MCB/435.json", 
+                "id": "435"
+            }, 
+            {
+                "content": "Comparative Immunobiology", 
+                "href": "/2017/spring/MCB/442.json", 
+                "id": "442"
+            }, 
+            {
+                "content": "Physical Biochemistry", 
+                "href": "/2017/spring/MCB/446.json", 
+                "id": "446"
+            }, 
+            {
+                "content": "Introductory Biochemistry", 
+                "href": "/2017/spring/MCB/450.json", 
+                "id": "450"
+            }, 
+            {
+                "content": "Basic Human Pathology", 
+                "href": "/2017/spring/MCB/458.json", 
+                "id": "458"
+            }, 
+            {
+                "content": "Integrative Neuroscience", 
+                "href": "/2017/spring/MCB/462.json", 
+                "id": "462"
+            }, 
+            {
+                "content": "Human Metabolic Disease", 
+                "href": "/2017/spring/MCB/465.json", 
+                "id": "465"
+            }, 
+            {
+                "content": "Eukaryotic Cell Signaling", 
+                "href": "/2017/spring/MCB/480.json", 
+                "id": "480"
+            }, 
+            {
+                "content": "Senior Thesis", 
+                "href": "/2017/spring/MCB/492.json", 
+                "id": "492"
+            }, 
+            {
+                "content": "Special Topics Mol Cell Biol", 
+                "href": "/2017/spring/MCB/493.json", 
+                "id": "493"
+            }, 
+            {
+                "content": "Curr Topics Mol & Int Physiol", 
+                "href": "/2017/spring/MCB/509.json", 
+                "id": "509"
+            }, 
+            {
+                "content": "Mol Bio of Microbe-Plant Inter", 
+                "href": "/2017/spring/MCB/511.json", 
+                "id": "511"
+            }, 
+            {
+                "content": "Special Topics Cell Devel Biol", 
+                "href": "/2017/spring/MCB/529.json", 
+                "id": "529"
+            }, 
+            {
+                "content": "Reproductive Physiol Seminar", 
+                "href": "/2017/spring/MCB/530.json", 
+                "id": "530"
+            }, 
+            {
+                "content": "Advanced Cellular Microbiology", 
+                "href": "/2017/spring/MCB/539.json", 
+                "id": "539"
+            }, 
+            {
+                "content": "Scientific Writing", 
+                "href": "/2017/spring/MCB/540.json", 
+                "id": "540"
+            }, 
+            {
+                "content": "Bioinformatics", 
+                "href": "/2017/spring/MCB/571.json", 
+                "id": "571"
+            }, 
+            {
+                "content": "Laboratory Rotation I", 
+                "href": "/2017/spring/MCB/581.json", 
+                "id": "581"
+            }, 
+            {
+                "content": "Laboratory Rotation II", 
+                "href": "/2017/spring/MCB/582.json", 
+                "id": "582"
+            }, 
+            {
+                "content": "Laboratory Rotation III", 
+                "href": "/2017/spring/MCB/583.json", 
+                "id": "583"
+            }, 
+            {
+                "content": "Current Topics in Microbiology", 
+                "href": "/2017/spring/MCB/585.json", 
+                "id": "585"
+            }
+        ]
+    }, 
+    "departmentCode": "1415", 
+    "id": "MCB", 
+    "label": "Molecular and Cell Biology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-3166", 
+    "subjectComment": "Subjects associated with this department include: Biophysics (BIOP) and Molecular and Cellular Biology (MCB).", 
+    "unitName": "Molecular and Cellular Biology, School of", 
+    "webSiteURL": "www.mcb.illinois.edu"
+}

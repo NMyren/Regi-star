@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: FIN 300; either FIN 230 or FIN 232; MATH 409; MATH 415; electronic spreadsheet proficiency.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Introduces basic concepts in financial economics used in the analysis and management of financial risks, with an emphasis on the applications by insurers and pension plans; topics include decision making under uncertainty, economic statistics, deterministic and stochastic interest rate models, derivative securities, valuation, binomial models and option pricing models. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: FIN 300; either FIN 230 or FIN 232; MATH 409; MATH 415; electronic spreadsheet proficiency.", 
+    "href": "/2017/spring/FIN/432.json", 
+    "id": "FIN 432", 
+    "label": "Managing Fin Risk for Insurers", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Finance", 
+            "href": "/2017/spring/FIN.json", 
+            "id": "FIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "C3", 
+                "href": "/2017/spring/FIN/432/40378.json", 
+                "id": "40378"
+            }, 
+            {
+                "content": "C4", 
+                "href": "/2017/spring/FIN/432/41093.json", 
+                "id": "41093"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. May be repeated to a maximum of 6 hours. Prerequisite: Junior standing.", 
+    "creditHours": "3 hours.", 
+    "description": "Focuses on the relationship between artworks and their historical, institutional, spatial, geographic, architectural or other contexts for the purpose of engaging in a critical analysis of artworks, as well as developing informed, intentional studio production. Students will encounter topics related to a critical and ethical understanding of context including site-specificity, phenomenology, public art, Situationism, relational aesthetics, and the production of space through social and political process such as building and mapping. The goal is to investigate and understand the dynamic relationship between art and its context. 3 undergraduate hours. No graduate credit. May be repeated to a maximum of 6 hours. Prerequisite: Junior standing.", 
+    "href": "/2017/spring/ARTS/457.json", 
+    "id": "ARTS 457", 
+    "label": "Art in Context", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Studio", 
+            "href": "/2017/spring/ARTS.json", 
+            "id": "ARTS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graphic Design or Crafts or History of Art or Photography or Industrial Design or Painting or Sculpture or Art Education or New Media major(s).", 
+    "sections": {
+        "section": {
+            "content": "PA1", 
+            "href": "/2017/spring/ARTS/457/54739.json", 
+            "id": "54739"
+        }
+    }
+}

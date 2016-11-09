@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/PSYC/496/65785.json", 
+    "id": "65785", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "F", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Dolcos, F", 
+                    "firstName": "F", 
+                    "lastName": "Dolcos"
+                }
+            }, 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Adv Current Topics in Psych", 
+            "href": "/2017/spring/PSYC/496.json", 
+            "id": "496"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "FD2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Graduate Students should enroll for this section.", 
+    "sectionTitle": "Prac Issues in Emotion Researc", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

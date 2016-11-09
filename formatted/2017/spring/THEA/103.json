@@ -1,0 +1,32 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "Provides a broad overview of the essential functions and practices of the following foundational technical theatre areas: Scenic Technology, Costume Technology, Lighting Technology, Sound technology, Properties Construction Scene Painting, and Stage/Production Management. Through lectures and labs the course provides students with practical application and basic skills essential in the areas of Design, Technology, and Stage Management.", 
+    "href": "/2017/spring/THEA/103.json", 
+    "id": "THEA 103", 
+    "label": "Survey of Theatre Production", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Theatre department.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/THEA/103/57300.json", 
+            "id": "57300"
+        }
+    }
+}

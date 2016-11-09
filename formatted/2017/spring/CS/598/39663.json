@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CS/598/39663.json", 
+    "id": "39663", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Siebel Center for Comp Sci", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Nahrstedt, K", 
+                    "firstName": "K", 
+                    "lastName": "Nahrstedt"
+                }
+            }, 
+            "roomNumber": "1105", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "S1 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/CS/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "KN", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic:  Advanced Multimedia Systems   Successful multimedia systems researchers need knowledge at the intersection of signal processing, coding, networking, distributed systems, operating systems and human-computer interfaces to achieve the high quality end-to-end experience expectation when watching television or movie, listing to radio, or skyping with friends and family anywhere and anytime. This course will aim to convey in detail the integrated view of distributed multimedia systems. The course will explore digital video, images, and audio representations, characteristics and compression techniques such as the JPEG2000, MP4, and HEVC/H.265 to understand the properties of compressed media needed for multimedia transmission, processing and storage; multimedia networking aspects, including Quality of Service  concepts such as bandwidth and delay, multimedia communication protocols such as RTP, RTCP, RTSP, SIP, DASH;  resource allocation frameworks for data streaming and peer-to-peer streaming;  algorithms and protocols for multimedia storage and distribution to enable efficient video-on-demand delivery including patching, batching techniques; and approaches, architectures, and Quality of Experience issues to be found in multimedia distributed services such as Skype, YouTube, 3D Teleimmersion, and other multimedia services and applications.   The course will be a mixture of lectures by the instructor and presentations by students of recent publications in premier multimedia system and networking conferences. The course will have a midterm, two machine problems, one final project and reviews of discussed publications. The course is for 1 unit credit. Prerequisites: cs425, or cs438  or cs423 or equivalent.", 
+    "sectionTitle": "Advanced Multimedia Systems", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

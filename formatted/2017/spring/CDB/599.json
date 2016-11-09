@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "pproved for S/U grading only. May be repeated to a maximum of 16 hours. Summer: 0 to 8 hours. (Summer session may be repeated to a maximum of 8 hours.)", 
+    "creditHours": "0 TO 16 hours.", 
+    "description": "Research on the thesis and preparation of the thesis. pproved for S/U grading only. May be repeated to a maximum of 16 hours. Summer: 0 to 8 hours. (Summer session may be repeated to a maximum of 8 hours.)", 
+    "href": "/2017/spring/CDB/599.json", 
+    "id": "CDB 599", 
+    "label": "Thesis Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Cell and Developmental Biology", 
+            "href": "/2017/spring/CDB.json", 
+            "id": "CDB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CDB/599/44922.json", 
+            "id": "44922"
+        }
+    }
+}

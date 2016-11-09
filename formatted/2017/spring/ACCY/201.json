@@ -1,0 +1,65 @@
+{
+    "classScheduleInformation": "Students must register for one lecture and one discussion.", 
+    "courseSectionInformation": "Credit is not given for both ACCY 201 and ACCY 200. Prerequisite: ECON 102, and credit or concurrent enrollment in ECON 103.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the role of accounting information in establishing organization objectives and goals and identification of strategies to best achieve such objectives and goals. Topics focus on the utility of information necessary for the formation, execution and monitoring of the variety of contracts embedded in organization strategies. Projects facilitate self-discovery of knowledge and development of a variety of professional skills and attitudes. Credit is not given for both ACCY 201 and ACCY 200. Prerequisite: ECON 102, and credit or concurrent enrollment in ECON 103.", 
+    "href": "/2017/spring/ACCY/201.json", 
+    "id": "ACCY 201", 
+    "label": "Accounting and Accountancy I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Accountancy", 
+            "href": "/2017/spring/ACCY.json", 
+            "id": "ACCY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/ACCY/201/30112.json", 
+                "id": "30112"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/ACCY/201/30113.json", 
+                "id": "30113"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/ACCY/201/30115.json", 
+                "id": "30115"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/ACCY/201/30116.json", 
+                "id": "30116"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/ACCY/201/30117.json", 
+                "id": "30117"
+            }, 
+            {
+                "content": "AD7", 
+                "href": "/2017/spring/ACCY/201/45631.json", 
+                "id": "45631"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ACCY/201/30118.json", 
+                "id": "30118"
+            }
+        ]
+    }
+}

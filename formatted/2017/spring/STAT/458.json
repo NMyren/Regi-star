@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as ANSC 448 and IB 487. See ANSC 448.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as ANSC 448 and IB 487. See ANSC 448.", 
+    "href": "/2017/spring/STAT/458.json", 
+    "id": "STAT 458", 
+    "label": "Math Modeling in Life Sciences", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Statistics", 
+            "href": "/2017/spring/STAT.json", 
+            "id": "STAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/STAT/458/29988.json", 
+            "id": "29988"
+        }
+    }
+}

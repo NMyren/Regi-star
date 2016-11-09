@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as AAS 265.", 
+    "creditHours": "3 hours.", 
+    "description": "Examines hip hop as politics, culture, and commodity. Emphasis given to hip hop's relation to urban spaces deeply impacted by state surveillance, cuts in social welfare programs, immigration, and the global restructuring of capital. Also considers the viability of a \"politics of hip hop\" in the wake of the music's rising value as a global commodity and analyzes hip hop as a transnational site in which gendered and sexual identities are created, contested, and rearticulated. Same as AAS 265.", 
+    "href": "/2017/spring/LLS/265.json", 
+    "id": "LLS 265", 
+    "label": "Politics of Hip Hop", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latina/Latino Studies", 
+            "href": "/2017/spring/LLS.json", 
+            "id": "LLS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/LLS/265/60382.json", 
+            "id": "60382"
+        }
+    }
+}

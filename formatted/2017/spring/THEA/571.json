@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 6 hours. Prerequisite: Enrollment limited to graduate acting students; concurrent registration in THEA 572, THEA 573 and THEA 574.", 
+    "creditHours": "1 hours.", 
+    "description": "Intensive professional training in voice and movement skills for the actor. May be repeated to a maximum of 6 hours. Prerequisite: Enrollment limited to graduate acting students; concurrent registration in THEA 572, THEA 573 and THEA 574.", 
+    "href": "/2017/spring/THEA/571.json", 
+    "id": "THEA 571", 
+    "label": "Colloquium in Acting: Dynamics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign. Restricted to MFA:Theatre (MFA-Acting) -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/THEA/571/37136.json", 
+            "id": "37136"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "courseSectionInformation": "Credit is not given for both BTW 263 and either BTW 250 or BTW 261. Prerequisite: Junior standing and completion of campus Composition I requirement.", 
+    "creditHours": "3 hours.", 
+    "description": "Teaches students to apply principles of professional communication to the writing tasks typical of specific disciplines or professions. Assignments will vary, depending on the focus of the course, but will include a substantial report or project. Credit is not given for both BTW 263 and either BTW 250 or BTW 261. Prerequisite: Junior standing and completion of campus Composition I requirement.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/BTW/263.json", 
+    "id": "BTW 263", 
+    "label": "Writing in the Disciplines", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business and Technical Writing", 
+            "href": "/2017/spring/BTW.json", 
+            "id": "BTW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sectionRegistrationNotes": "Restricted to students with Junior or Senior class standing.", 
+    "sections": {
+        "section": [
+            {
+                "content": "BE", 
+                "href": "/2017/spring/BTW/263/40320.json", 
+                "id": "40320"
+            }, 
+            {
+                "content": "P", 
+                "href": "/2017/spring/BTW/263/40318.json", 
+                "id": "40318"
+            }, 
+            {
+                "content": "X", 
+                "href": "/2017/spring/BTW/263/31555.json", 
+                "id": "31555"
+            }
+        ]
+    }
+}

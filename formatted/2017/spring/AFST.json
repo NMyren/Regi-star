@@ -1,0 +1,105 @@
+{
+    "addressLine1": "Center Office", 
+    "addressLine2": "Room 210, International Studies Building, 910 South Fifth Street, Champaign", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Director: Assata Zerai\nCenter Office, Room 210, International Studies Building, 910 South Fifth Street, Champaign, 333-6335\nwww.afrst.illinois.edu", 
+    "contactName": "Assata Zerai", 
+    "contactTitle": "Director", 
+    "courses": {
+        "course": [
+            {
+                "content": "Black Women in the Diaspora", 
+                "href": "/2017/spring/AFST/103.json", 
+                "id": "103"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/AFST/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Elementary Swahili II", 
+                "href": "/2017/spring/AFST/232.json", 
+                "id": "232"
+            }, 
+            {
+                "content": "Pan Africanism", 
+                "href": "/2017/spring/AFST/243.json", 
+                "id": "243"
+            }, 
+            {
+                "content": "Economic Systems in Africa", 
+                "href": "/2017/spring/AFST/254.json", 
+                "id": "254"
+            }, 
+            {
+                "content": "Topics Swahili Lang & Lit II", 
+                "href": "/2017/spring/AFST/406.json", 
+                "id": "406"
+            }, 
+            {
+                "content": "Modern African Fiction", 
+                "href": "/2017/spring/AFST/410.json", 
+                "id": "410"
+            }, 
+            {
+                "content": "Africana Feminisms", 
+                "href": "/2017/spring/AFST/420.json", 
+                "id": "420"
+            }, 
+            {
+                "content": "Advanced Swahili II", 
+                "href": "/2017/spring/AFST/436.json", 
+                "id": "436"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/AFST/490.json", 
+                "id": "490"
+            }, 
+            {
+                "content": "Seminar in African Art", 
+                "href": "/2017/spring/AFST/509.json", 
+                "id": "509"
+            }, 
+            {
+                "content": "Practicum in African Studies", 
+                "href": "/2017/spring/AFST/515.json", 
+                "id": "515"
+            }, 
+            {
+                "content": "Development of African Studies", 
+                "href": "/2017/spring/AFST/522.json", 
+                "id": "522"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/AFST/550.json", 
+                "id": "550"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/AFST/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1461", 
+    "id": "AFST", 
+    "label": "African Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-6335", 
+    "unitName": "African Studies, Center for", 
+    "webSiteURL": "www.afrst.illinois.edu"
+}

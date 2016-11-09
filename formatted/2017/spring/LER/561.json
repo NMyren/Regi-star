@@ -1,0 +1,32 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "Compensation theory and practice. Course addresses the theoretical and practical issues associated with the design of effective compensation systems. The design phases include establishing internal equity, external equity, and individual equity. Budgeting and administration are also addressed. Case analyses and computer simulations may be used to supplement course materials.", 
+    "href": "/2017/spring/LER/561.json", 
+    "id": "LER 561", 
+    "label": "Compensation Systems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Labor and Employment Relations", 
+            "href": "/2017/spring/LER.json", 
+            "id": "LER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Human Res & Industrial Rels major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/LER/561/53168.json", 
+            "id": "53168"
+        }
+    }
+}

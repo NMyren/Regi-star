@@ -1,0 +1,31 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "Continuation of LAT 201, with readings chiefly in Latin poetic literature.", 
+    "href": "/2017/spring/LAT/202.json", 
+    "id": "LAT 202", 
+    "label": "Intro to Latin Literature", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latin", 
+            "href": "/2017/spring/LAT.json", 
+            "id": "LAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/LAT/202/65189.json", 
+            "id": "65189"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/DANC/260/63390.json", 
+    "id": "63390", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Krannert Center for Perf Arts", 
+            "daysOfTheWeek": "MWF", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Oliver, C", 
+                    "firstName": "C", 
+                    "lastName": "Oliver"
+                }
+            }, 
+            "roomNumber": "2500", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Int Contemp Modern Tech Core", 
+            "href": "/2017/spring/DANC/260.json", 
+            "id": "260"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "CO", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: FR 207 or equivalent.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to concepts of modernity and questions of representation, through French texts from the nineteenth through the twenty-first centuries. Analysis of diverse literary forms (poems, plays, narratives), and use of resources for literary, historical and cultural research. Strengthening of reading, writing and speaking skills in French through research projects, writing assignments and revisions, and oral presentations. Prerequisite: FR 207 or equivalent.", 
+    "href": "/2017/spring/FR/211.json", 
+    "id": "FR 211", 
+    "label": "Introduction to Literary Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "French", 
+            "href": "/2017/spring/FR.json", 
+            "id": "FR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/FR/211/64954.json", 
+            "id": "64954"
+        }
+    }
+}

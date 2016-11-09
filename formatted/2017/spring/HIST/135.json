@@ -1,0 +1,56 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Introduction to fourteen centuries of Middle East history from the rise of Islam to modern times. Examines the development of Islamic thought, and of religious, social, and political institutions; as well as the transformations of the 19th and 20th centuries in the area consisting of Egypt, the Fertile Crescent, Arabia, Turkey, and Iran.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/HIST/135.json", 
+    "id": "HIST 135", 
+    "label": "History of Islamic Middle East", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and Non-Western Cultures course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/HIST/135/56819.json", 
+            "id": "56819"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: TURK 201 or equivalent.", 
+    "creditHours": "5 hours.", 
+    "description": "Continuation of TURK 201, with introduction of more advanced grammar; emphasis on more fluency in speaking, reading, and writing simple sentences in standard Turkish. Participation in the language laboratory required. Prerequisite: TURK 201 or equivalent.", 
+    "href": "/2017/spring/TURK/202.json", 
+    "id": "TURK 202", 
+    "label": "Elementary Turkish II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Turkish", 
+            "href": "/2017/spring/TURK.json", 
+            "id": "TURK"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "AE1", 
+            "href": "/2017/spring/TURK/202/46250.json", 
+            "id": "46250"
+        }
+    }
+}

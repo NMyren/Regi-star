@@ -1,0 +1,86 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/NRES/285/48842.json", 
+    "id": "48842", 
+    "meetings": {
+        "meeting": [
+            {
+                "id": "0", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Morgan, S", 
+                            "firstName": "S", 
+                            "lastName": "Morgan"
+                        }, 
+                        {
+                            "content": "Schooley, R", 
+                            "firstName": "R", 
+                            "lastName": "Schooley"
+                        }
+                    ]
+                }, 
+                "start": "ARRANGED", 
+                "type": {
+                    "code": "LBD", 
+                    "content": "Laboratory-Discussion"
+                }
+            }, 
+            {
+                "id": "1", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Morgan, S", 
+                            "firstName": "S", 
+                            "lastName": "Morgan"
+                        }, 
+                        {
+                            "content": "Schooley, R", 
+                            "firstName": "R", 
+                            "lastName": "Schooley"
+                        }
+                    ]
+                }, 
+                "start": "ARRANGED", 
+                "type": {
+                    "code": "STA", 
+                    "content": "Study Abroad"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Field Experience", 
+            "href": "/2017/spring/NRES/285.json", 
+            "id": "285"
+        }, 
+        "subject": {
+            "content": "Natural Resources and Environmental Sciences", 
+            "href": "/2017/spring/NRES.json", 
+            "id": "NRES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 04-Jun-17 - 29-Jul-17.", 
+    "sectionNumber": "CWC", 
+    "sectionStatusCode": "A", 
+    "sectionText": "WILDLIFE CONSERVATION AND COMMUNITIES - BOTSWANA This collaboration between NRES and Wildtrax presents students with classroom instruction and a hands-on research experience through a 2-month summer module on Communities & Wildlife Conservation Research Field Training Studies in Botswana. Students will attend class during spring semester, and begin the summer module with a 1 week lecture series to better prepare them for their time as being part of a research team. After the course work, students will head into the wilderness join the research camp for 7 weeks. The student's time in the field will include fulfilling the objectives of the two main research focuses of Wildtrax's partners, Wildlife ACT: implementing a standardized biodiversity monitoring protocol for Botswana's Department of Wildlife & National Parks and conducting human-wildlife conflict studies and implementing mitigation strategies with the University of Botswana's Okavango Research Institute. Students will play an active role in the research from project design, to data collection and implementation and will gain valuable skills and knowledge to equip them for their future. See https://app.studyabroad.illinois.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=11117 for more information. Students should also enroll in NRES 293 section CIB (CRN: 24238). STUDY ABROAD FEES APPLY.", 
+    "sectionTitle": "Communities & Wildlife Conserv", 
+    "specialApproval": "Instructor Approval Required", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

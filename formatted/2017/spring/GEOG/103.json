@@ -1,0 +1,63 @@
+{
+    "classScheduleInformation": "Students must register for the lecture and one lab-discussion section.", 
+    "courseSectionInformation": "Same as ESE 103.", 
+    "creditHours": "4 hours.", 
+    "description": "A basic introduction to the environmental systems of the Earth's surface, including landforms, soils, and ecosystems and how these systems are affected by global change. Emphasizes the importance of human-Earth relations and a holistic view of environmental systems. Same as ESE 103.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Natural Sciences & Technology", 
+            "id": "NAT", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1PS", 
+                    "content": "UIUC: Physical Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/GEOG/103.json", 
+    "id": "GEOG 103", 
+    "label": "Earth's Physical Systems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geography", 
+            "href": "/2017/spring/GEOG.json", 
+            "id": "GEOG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Physical Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/GEOG/103/33267.json", 
+                "id": "33267"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/GEOG/103/33292.json", 
+                "id": "33292"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/GEOG/103/33295.json", 
+                "id": "33295"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/GEOG/103/33301.json", 
+                "id": "33301"
+            }
+        ]
+    }
+}

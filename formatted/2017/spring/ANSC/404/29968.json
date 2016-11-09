@@ -1,0 +1,62 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/ANSC/404/29968.json", 
+    "id": "29968", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Animal Sciences Laboratory", 
+            "daysOfTheWeek": "MWF", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Koelkebeck, K", 
+                        "firstName": "K", 
+                        "lastName": "Koelkebeck"
+                    }, 
+                    {
+                        "content": "Parsons, C", 
+                        "firstName": "C", 
+                        "lastName": "Parsons"
+                    }
+                ]
+            }, 
+            "roomNumber": "107", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Poultry Science", 
+            "href": "/2017/spring/ANSC/404.json", 
+            "id": "404"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "2", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

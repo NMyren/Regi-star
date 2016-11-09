@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: Three years of modern Japanese language or equivalent.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the grammar, morphology, vocabulary, and style of classical Japanese language as found in premodern Japanese literary and historical writings. 3 undergraduate hours. 3 graduate hours. Prerequisite: Three years of modern Japanese language or equivalent.", 
+    "href": "/2017/spring/JAPN/407.json", 
+    "id": "JAPN 407", 
+    "label": "Intro to Classical Japanese", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Japanese", 
+            "href": "/2017/spring/JAPN.json", 
+            "id": "JAPN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/JAPN/407/34752.json", 
+            "id": "34752"
+        }
+    }
+}

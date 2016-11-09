@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated in separate terms to a maximum of 4 hours. Prerequisite: Graduate standing in Sociology and consent of the Director of Graduate Studies.", 
+    "creditHours": "2 hours.", 
+    "description": "Introduction to the graduate program in Sociology and to graduate study in the discipline of Sociology. Approved for S/U grading only. May be repeated in separate terms to a maximum of 4 hours. Prerequisite: Graduate standing in Sociology and consent of the Director of Graduate Studies.", 
+    "href": "/2017/spring/SOC/510.json", 
+    "id": "SOC 510", 
+    "label": "Professionalization Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Sociology", 
+            "href": "/2017/spring/SOC.json", 
+            "id": "SOC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "content": "03", 
+            "href": "/2017/spring/SOC/510/51765.json", 
+            "id": "51765"
+        }
+    }
+}

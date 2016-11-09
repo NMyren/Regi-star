@@ -1,0 +1,43 @@
+{
+    "creditHours": "1 hours.", 
+    "description": "Skills and knowledge essential for leisure-time activities which are classified as team sport activities. Prerequisites for each team sport activity are provided in the Class Schedule. More than one activity (Sections A through Z) may be taken in the same term.", 
+    "href": "/2017/spring/KIN/109.json", 
+    "id": "KIN 109", 
+    "label": "Team Sport Activities", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A1", 
+                "href": "/2017/spring/KIN/109/35053.json", 
+                "id": "35053"
+            }, 
+            {
+                "content": "C1", 
+                "href": "/2017/spring/KIN/109/35055.json", 
+                "id": "35055"
+            }, 
+            {
+                "content": "C2", 
+                "href": "/2017/spring/KIN/109/35060.json", 
+                "id": "35060"
+            }
+        ]
+    }
+}

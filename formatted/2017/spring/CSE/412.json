@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Same as ME 412. See ME 412.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Same as ME 412. See ME 412.", 
+    "href": "/2017/spring/CSE/412.json", 
+    "id": "CSE 412", 
+    "label": "Numerical Thermo-Fluid Mechs", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computational Science and Engineering", 
+            "href": "/2017/spring/CSE.json", 
+            "id": "CSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "F2", 
+                "href": "/2017/spring/CSE/412/61262.json", 
+                "id": "61262"
+            }, 
+            {
+                "content": "F3", 
+                "href": "/2017/spring/CSE/412/61337.json", 
+                "id": "61337"
+            }, 
+            {
+                "content": "F4", 
+                "href": "/2017/spring/CSE/412/61340.json", 
+                "id": "61340"
+            }
+        ]
+    }
+}

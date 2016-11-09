@@ -1,0 +1,57 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/ENGL/418/54465.json", 
+    "id": "54465", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Newcomb, L", 
+                    "firstName": "L", 
+                    "lastName": "Newcomb"
+                }
+            }, 
+            "roomNumber": "108", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Shakespeare", 
+            "href": "/2017/spring/ENGL/418.json", 
+            "id": "418"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "1G", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course explores seven Shakespearean plays from a range of dramatic genres and from a variety of critical approaches.  We?ll look especially at the features that made these plays popular in their day:  their open staging, their playful language, and their laying bare of the period?s familial, national, gender, and racial tensions.  We?ll also consider how the meanings of ?Shakespeare? keep multiplying, thanks to the constant, sometimes subversive, reinvention of the plays by literary critics, performers, and adapters world-wide.  That diversity compels us to use multiple interpretive frames to look at the plays:  close reading; informal staging; film analysis; feminist, historicist, postcolonial, and queer studies critical approaches.  Be ready for proactive discussion, performance experiments, a rare-book library visit, and attending at least one live production of a Shakespeare play on campus.  Written assignments include informal writings, two focused short papers, a longer paper based on guided research (7-9 pp.), and a final exam. TEXTS:\t(these print editions are required) Greenblatt et al, eds., Shakespeare: Essential Plays (3rd edition, 2016, ISBN 978-0-393-93863-0); McDonald, ed., Bedford Companion to Shakespeare (2nd edition, 2001, ISBN 978-0312248802); one individual play edition TBA.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

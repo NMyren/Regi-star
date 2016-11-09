@@ -1,0 +1,55 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/STAT/428/36196.json", 
+    "id": "36196", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MWF", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Douglas, J", 
+                    "firstName": "J", 
+                    "lastName": "Douglas"
+                }
+            }, 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Statistical Computing", 
+            "href": "/2017/spring/STAT/428.json", 
+            "id": "428"
+        }, 
+        "subject": {
+            "content": "Statistics", 
+            "href": "/2017/spring/STAT.json", 
+            "id": "STAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign. Restricted to MS:Statistics -UIUC, PHD:Statistics -UIUC, MS:Statistics -- Applied -UIUC, or MS: Statistics: Analytics.", 
+    "sectionNumber": "1GR", 
+    "sectionStatusCode": "A", 
+    "sectionText": "For up-to-date information about statistics course registration, please see our registration page: https://illinois.edu/blog/view/7118.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

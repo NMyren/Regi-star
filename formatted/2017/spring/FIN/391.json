@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "May be repeated for a maximum of 6 hours in separate terms. Prerequisite: Admission by application only.", 
+    "creditHours": "1 hours.", 
+    "description": "A diversified curriculum designed to prepare students for a successful career in investment banking; course incorporates peer mentorship, guest lectures (from bankers, accountants, private equity associates and hedge fund analysts), a case competition and a field trip. Course will not satisfy Finance major requirements. May be repeated for a maximum of 6 hours in separate terms. Prerequisite: Admission by application only.", 
+    "href": "/2017/spring/FIN/391.json", 
+    "id": "FIN 391", 
+    "label": "Investment Banking Academy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Finance", 
+            "href": "/2017/spring/FIN.json", 
+            "id": "FIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": [
+            {
+                "content": "IBA", 
+                "href": "/2017/spring/FIN/391/62414.json", 
+                "id": "62414"
+            }, 
+            {
+                "content": "SR", 
+                "href": "/2017/spring/FIN/391/65594.json", 
+                "id": "65594"
+            }
+        ]
+    }
+}

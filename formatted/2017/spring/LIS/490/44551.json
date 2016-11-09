@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LIS/490/44551.json", 
+    "id": "44551", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "R", 
+            "end": "08:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Twidale, M", 
+                    "firstName": "M", 
+                    "lastName": "Twidale"
+                }
+            }, 
+            "start": "06:15 PM", 
+            "type": {
+                "code": "S1 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Topics Info Studies", 
+            "href": "/2017/spring/LIS/490.json", 
+            "id": "490"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "MUG", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Graduate student enrollment section. This is a HYBRID course. Meets with online section. Elective for Graduate Certificate in Special Collections. Covers information organization and access in museums, exploring the relationship between information technology and modern museum environments. Students learn about classification systems for museums, computer systems for information storage and retrieval, universal access to shared electronic data, copyright in the digital world, virtual museums, interactive exhibits, and information management in museums, through lectures, computer-based activities, and interactive discussions. The final project involves design of an electronic portfolio of virtual museum resources. Students are encouraged to approach class topics from their individual backgrounds in the humanities, sciences, or social sciences. There will be additional assignments required of graduate students. [Elective for Graduate Certificate in Special Collections] [First offered as 350MUI in Fall 2001]", 
+    "sectionTitle": "Museum Informatics", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

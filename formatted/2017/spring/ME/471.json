@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as AE 420 and CSE 451. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Credit is not given for both ME 471 and CEE 470. Prerequisite: CS 101 and ME 370.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "The finite element method and its application to engineering problems: truss and frame structures, heat conduction, and linear elasticity; use of application software; overview of advanced topics such as structural dynamics, fluid flow, and nonlinear structural analysis. Same as AE 420 and CSE 451. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Credit is not given for both ME 471 and CEE 470. Prerequisite: CS 101 and ME 370.", 
+    "href": "/2017/spring/ME/471.json", 
+    "id": "ME 471", 
+    "label": "Finite Element Analysis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "B3", 
+                "href": "/2017/spring/ME/471/37472.json", 
+                "id": "37472"
+            }, 
+            {
+                "content": "B4", 
+                "href": "/2017/spring/ME/471/59654.json", 
+                "id": "59654"
+            }
+        ]
+    }
+}

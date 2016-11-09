@@ -1,0 +1,98 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Topical introduction to Japanese cultural and aesthetic life with attention to cultural and aesthetic patterns as they are reflected in literature, language, and the arts.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Social & Behavioral Sciences", 
+                "id": "SBS", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1SS", 
+                        "content": "UIUC Social Sciences"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/EALC/250.json", 
+    "id": "EALC 250", 
+    "label": "Intro to Japanese Culture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "East Asian Language and Culture", 
+            "href": "/2017/spring/EALC.json", 
+            "id": "EALC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Non-Western Cultures, and Social Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/EALC/250/46154.json", 
+                "id": "46154"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/EALC/250/46155.json", 
+                "id": "46155"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/EALC/250/46156.json", 
+                "id": "46156"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/EALC/250/46157.json", 
+                "id": "46157"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/EALC/250/46161.json", 
+                "id": "46161"
+            }, 
+            {
+                "content": "AD7", 
+                "href": "/2017/spring/EALC/250/46162.json", 
+                "id": "46162"
+            }, 
+            {
+                "content": "AD8", 
+                "href": "/2017/spring/EALC/250/46163.json", 
+                "id": "46163"
+            }, 
+            {
+                "content": "AD9", 
+                "href": "/2017/spring/EALC/250/46164.json", 
+                "id": "46164"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/EALC/250/46121.json", 
+                "id": "46121"
+            }
+        ]
+    }
+}

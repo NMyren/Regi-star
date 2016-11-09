@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Prerequisite: PHYS 211.", 
+    "creditHours": "3 hours.", 
+    "description": "Survey of modern astronomy for students with background in physics. Topics include: the solar system; nature and evolution of stars; white dwarfs, neutron stars, and black holes; galaxies, quasars and dark matter; large scale structure of the universe; the Big Bang; and Inflation. Emphasis will be on the physical principles underlying the astronomical phenomena. Prerequisite: PHYS 211.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Natural Sciences & Technology", 
+            "id": "NAT", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1PS", 
+                    "content": "UIUC: Physical Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/ASTR/210.json", 
+    "id": "ASTR 210", 
+    "label": "Introduction to Astrophysics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Astronomy", 
+            "href": "/2017/spring/ASTR.json", 
+            "id": "ASTR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Physical Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "1", 
+            "href": "/2017/spring/ASTR/210/30855.json", 
+            "id": "30855"
+        }
+    }
+}

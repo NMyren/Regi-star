@@ -1,0 +1,76 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/RUSS/522/54756.json", 
+    "id": "54756", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Foreign Languages Building", 
+                "daysOfTheWeek": "R", 
+                "end": "04:20 PM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Murav, H", 
+                        "firstName": "H", 
+                        "lastName": "Murav"
+                    }
+                }, 
+                "roomNumber": "1024", 
+                "start": "02:00 PM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }, 
+            {
+                "buildingName": "Foreign Languages Building", 
+                "daysOfTheWeek": "T", 
+                "end": "03:20 PM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Murav, H", 
+                        "firstName": "H", 
+                        "lastName": "Murav"
+                    }
+                }, 
+                "roomNumber": "1024", 
+                "start": "02:00 PM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Dostoevsky", 
+            "href": "/2017/spring/RUSS/522.json", 
+            "id": "522"
+        }, 
+        "subject": {
+            "content": "Russian", 
+            "href": "/2017/spring/RUSS.json", 
+            "id": "RUSS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "G4", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic:  Dostoevsky: The Brothers Karamazov", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

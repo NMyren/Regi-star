@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/MATH/561/38173.json", 
+    "id": "38173", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Altgeld Hall", 
+            "daysOfTheWeek": "MWF", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Song, R", 
+                    "firstName": "R", 
+                    "lastName": "Song"
+                }
+            }, 
+            "roomNumber": "445", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Theory of Probability I", 
+            "href": "/2017/spring/MATH/561.json", 
+            "id": "561"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "P1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Restricted to Mathematics graduate students until November 17, 2014. Undergraduates seeking approval to enroll should go to 313 Altgeld Hall for information. Undergraduates who receive approval may enroll starting November 17 if seats remain. Students from the following programs must contact the Director of Graduate Studies in Mathematics <Laugesen@illinois.edu> to request permission to register for the course: MS:Economics:Policy Econ -UIUC or MS: Financial Engineering.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only.", 
+    "creditHours": "0 hours.", 
+    "description": "Required of all graduate students. Approved for S/U grading only.", 
+    "href": "/2017/spring/ECE/500.json", 
+    "id": "ECE 500", 
+    "label": "ECE Colloquium", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "U", 
+                "href": "/2017/spring/ECE/500/33981.json", 
+                "id": "33981"
+            }, 
+            {
+                "content": "U1", 
+                "href": "/2017/spring/ECE/500/40290.json", 
+                "id": "40290"
+            }
+        ]
+    }
+}

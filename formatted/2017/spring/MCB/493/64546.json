@@ -1,0 +1,62 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/MCB/493/64546.json", 
+    "id": "64546", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "T", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Degnan, P", 
+                        "firstName": "P", 
+                        "lastName": "Degnan"
+                    }, 
+                    {
+                        "content": "Whitaker, R", 
+                        "firstName": "R", 
+                        "lastName": "Whitaker"
+                    }
+                ]
+            }, 
+            "start": "02:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics Mol Cell Biol", 
+            "href": "/2017/spring/MCB/493.json", 
+            "id": "493"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "EGD", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Students will learn to work with processing, assembly, and analysis of next generation sequencing data in order to harness the true power of genome sequencing.  Each semester a class project will be developed, analyzed and completed by students meeting once a week for one hour to work with primary sequence data with instructor guidance and infrastructure provided. This section of MCB 493 counts as advanced MCB course credit. This course will meet in 164 Burrill.", 
+    "sectionTitle": "Exploring Genome Data", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

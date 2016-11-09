@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: SOCW 516 or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Examines laws, scientific concepts, ethical dilemmas, and new practice directions with respect to protecting children, preserving families, regulating foster care, achieving family permanency, and assisting foster youth in transitioning to independence. Review of legislative, court, and administrative frameworks for promoting these outcomes at the city, state, and federal levels. The course analyzes and critiques historical and contemporary social science, public policy, community organization, and legal advocacy perspectives on child protection and child welfare. Contemporary topics and issues are discussed and debated. Prerequisite: SOCW 516 or consent of instructor.", 
+    "href": "/2017/spring/SOCW/580.json", 
+    "id": "SOCW 580", 
+    "label": "Advanced Child Welfare", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SOCW/580/32863.json", 
+            "id": "32863"
+        }
+    }
+}

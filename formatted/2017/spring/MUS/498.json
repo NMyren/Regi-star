@@ -1,0 +1,42 @@
+{
+    "classScheduleInformation": "Non-music majors will be assessed a fee.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. 2 to 4 undergraduate hours. 2 to 4 graduate hours. May be repeated to a maximum of 16 hours. Prerequisite: Primarily for music majors; junior standing. Passing of an audition is required prior to initial registration in any applied music course as approved by the faculty of the appropriate applied music division.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Instruction in percussion at the advanced undergraduate and graduate level. Additional fees may apply. See Class Schedule. 2 to 4 undergraduate hours. 2 to 4 graduate hours. May be repeated to a maximum of 16 hours. Prerequisite: Primarily for music majors; junior standing. Passing of an audition is required prior to initial registration in any applied music course as approved by the faculty of the appropriate applied music division.", 
+    "href": "/2017/spring/MUS/498.json", 
+    "id": "MUS 498", 
+    "label": "Percussion", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Music department.", 
+    "sectionRegistrationNotes": "Not intended for BA:Music  -UIUC.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/MUS/498/36761.json", 
+                "id": "36761"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/MUS/498/36763.json", 
+                "id": "36763"
+            }
+        ]
+    }
+}

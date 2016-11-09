@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ECON/220/49158.json", 
+    "id": "49158", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "David Kinley Hall", 
+            "daysOfTheWeek": "MW", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Leite Estanislau do Amaral, L", 
+                    "firstName": "L", 
+                    "lastName": "Leite Estanislau do Amaral"
+                }
+            }, 
+            "roomNumber": "108", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intl Economic Principles", 
+            "href": "/2017/spring/ECON/220.json", 
+            "id": "220"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Not available to Economics students.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

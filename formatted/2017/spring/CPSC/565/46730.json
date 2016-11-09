@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/CPSC/565/46730.json", 
+    "id": "46730", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "W", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Hudson, M", 
+                    "firstName": "M", 
+                    "lastName": "Hudson"
+                }
+            }, 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Perl & UNIX for Bioinformatics", 
+            "href": "/2017/spring/CPSC/565.json", 
+            "id": "565"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "AB1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Class meets in IGB 607.", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as ECE 554. See ECE 554.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as ECE 554. See ECE 554.", 
+    "href": "/2017/spring/ME/544.json", 
+    "id": "ME 544", 
+    "label": "Dyanmic System Reliability", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ME/544/61658.json", 
+            "id": "61658"
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "2090 Foreign Languages Building, 707 South Mathews, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Head of Department: Gary Xu\nDepartment Office, 2090 Foreign Languages Building, 707 South Mathews, Urbana, 244-1432\nSubjects associated with this department include: Asian Studies (ASST), Chinese (CHIN), East Asian Languages and Cultures (EALC), Japanese (JAPN), and Korean (KOR).\nwww.ealc.uiuc.edu", 
+    "contactName": "Gary Xu", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Elementary Chinese II", 
+                "href": "/2017/spring/CHIN/202.json", 
+                "id": "202"
+            }, 
+            {
+                "content": "Intermediate Chinese II", 
+                "href": "/2017/spring/CHIN/204.json", 
+                "id": "204"
+            }, 
+            {
+                "content": "Elementary Spoken Mandarin II", 
+                "href": "/2017/spring/CHIN/222.json", 
+                "id": "222"
+            }, 
+            {
+                "content": "Chinese Reading and Writing", 
+                "href": "/2017/spring/CHIN/242.json", 
+                "id": "242"
+            }, 
+            {
+                "content": "Advanced Chinese II", 
+                "href": "/2017/spring/CHIN/306.json", 
+                "id": "306"
+            }, 
+            {
+                "content": "Readings in Literary Chinese", 
+                "href": "/2017/spring/CHIN/408.json", 
+                "id": "408"
+            }, 
+            {
+                "content": "Fourth-Year Chinese II", 
+                "href": "/2017/spring/CHIN/441.json", 
+                "id": "441"
+            }, 
+            {
+                "content": "Readings in Chinese Lit", 
+                "href": "/2017/spring/CHIN/490.json", 
+                "id": "490"
+            }
+        ]
+    }, 
+    "departmentCode": "1362", 
+    "id": "CHIN", 
+    "label": "Chinese", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "244-1432", 
+    "subjectComment": "Subjects associated with this department include: Asian Studies (ASST), Chinese (CHIN), East Asian Languages and Cultures (EALC), Japanese (JAPN), and Korean (KOR).", 
+    "unitName": "East Asian Languages and Cultures", 
+    "webSiteURL": "www.ealc.uiuc.edu"
+}

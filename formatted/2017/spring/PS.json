@@ -1,0 +1,265 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "420 David Kinley Hall, 1407 W. Gregory Dr., Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Head of Department: Robert Pahre\nDepartment Office, 420 David Kinley Hall, 1407 W. Gregory Dr., Urbana, 333-3881\nwww.pol.illinois.edu", 
+    "contactName": "Robert Pahre", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Intro to Political Science", 
+                "href": "/2017/spring/PS/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "Intro to US Gov & Pol", 
+                "href": "/2017/spring/PS/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "The New Middle East", 
+                "href": "/2017/spring/PS/152.json", 
+                "id": "152"
+            }, 
+            {
+                "content": "Topics in Civic Leadership", 
+                "href": "/2017/spring/PS/191.json", 
+                "id": "191"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/PS/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "US Racial & Ethnic Politics", 
+                "href": "/2017/spring/PS/201.json", 
+                "id": "201"
+            }, 
+            {
+                "content": "Intro to Public Policy", 
+                "href": "/2017/spring/PS/220.json", 
+                "id": "220"
+            }, 
+            {
+                "content": "Environmental Politics & Policy", 
+                "href": "/2017/spring/PS/225.json", 
+                "id": "225"
+            }, 
+            {
+                "content": "Intro to Pol Research", 
+                "href": "/2017/spring/PS/230.json", 
+                "id": "230"
+            }, 
+            {
+                "content": "Strategic Models", 
+                "href": "/2017/spring/PS/231.json", 
+                "id": "231"
+            }, 
+            {
+                "content": "Intro to Comp Politics", 
+                "href": "/2017/spring/PS/240.json", 
+                "id": "240"
+            }, 
+            {
+                "content": "Comp Politics in Dev Nations", 
+                "href": "/2017/spring/PS/241.json", 
+                "id": "241"
+            }, 
+            {
+                "content": "Environment and Society", 
+                "href": "/2017/spring/PS/273.json", 
+                "id": "273"
+            }, 
+            {
+                "content": "Intro to Intl Relations", 
+                "href": "/2017/spring/PS/280.json", 
+                "id": "280"
+            }, 
+            {
+                "content": "Intro to Intl Relations-ACP", 
+                "href": "/2017/spring/PS/281.json", 
+                "id": "281"
+            }, 
+            {
+                "content": "Governing Globalization", 
+                "href": "/2017/spring/PS/282.json", 
+                "id": "282"
+            }, 
+            {
+                "content": "Study Abroad", 
+                "href": "/2017/spring/PS/299.json", 
+                "id": "299"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/PS/300.json", 
+                "id": "300"
+            }, 
+            {
+                "content": "The US Constitution I", 
+                "href": "/2017/spring/PS/301.json", 
+                "id": "301"
+            }, 
+            {
+                "content": "The US Constitution II", 
+                "href": "/2017/spring/PS/302.json", 
+                "id": "302"
+            }, 
+            {
+                "content": "Law and Public Policy", 
+                "href": "/2017/spring/PS/322.json", 
+                "id": "322"
+            }, 
+            {
+                "content": "Law and Representation", 
+                "href": "/2017/spring/PS/323.json", 
+                "id": "323"
+            }, 
+            {
+                "content": "Gov & Pol of Middle East", 
+                "href": "/2017/spring/PS/347.json", 
+                "id": "347"
+            }, 
+            {
+                "content": "Gov & Pol Post-Soviet States", 
+                "href": "/2017/spring/PS/351.json", 
+                "id": "351"
+            }, 
+            {
+                "content": "Gov & Pol of Latin America", 
+                "href": "/2017/spring/PS/353.json", 
+                "id": "353"
+            }, 
+            {
+                "content": "Comparative Political Behavior", 
+                "href": "/2017/spring/PS/358.json", 
+                "id": "358"
+            }, 
+            {
+                "content": "Modern Political Theory", 
+                "href": "/2017/spring/PS/372.json", 
+                "id": "372"
+            }, 
+            {
+                "content": "American Political Theory", 
+                "href": "/2017/spring/PS/376.json", 
+                "id": "376"
+            }, 
+            {
+                "content": "Topics Contemp Pol Theory", 
+                "href": "/2017/spring/PS/377.json", 
+                "id": "377"
+            }, 
+            {
+                "content": "International Law", 
+                "href": "/2017/spring/PS/386.json", 
+                "id": "386"
+            }, 
+            {
+                "content": "International Communications", 
+                "href": "/2017/spring/PS/389.json", 
+                "id": "389"
+            }, 
+            {
+                "content": "Campaigning to Win", 
+                "href": "/2017/spring/PS/411.json", 
+                "id": "411"
+            }, 
+            {
+                "content": "Language&Minorities in Europe", 
+                "href": "/2017/spring/PS/418.json", 
+                "id": "418"
+            }, 
+            {
+                "content": "Individual Study", 
+                "href": "/2017/spring/PS/490.json", 
+                "id": "490"
+            }, 
+            {
+                "content": "Internship", 
+                "href": "/2017/spring/PS/491.json", 
+                "id": "491"
+            }, 
+            {
+                "content": "Junior Honors Seminar", 
+                "href": "/2017/spring/PS/494.json", 
+                "id": "494"
+            }, 
+            {
+                "content": "Senior Honors Thesis", 
+                "href": "/2017/spring/PS/496.json", 
+                "id": "496"
+            }, 
+            {
+                "content": "Founds of Organizational Behav", 
+                "href": "/2017/spring/PS/514.json", 
+                "id": "514"
+            }, 
+            {
+                "content": "Topics in American Politics", 
+                "href": "/2017/spring/PS/519.json", 
+                "id": "519"
+            }, 
+            {
+                "content": "Research Design and Techniques", 
+                "href": "/2017/spring/PS/522.json", 
+                "id": "522"
+            }, 
+            {
+                "content": "Quant Pol Analysis III", 
+                "href": "/2017/spring/PS/532.json", 
+                "id": "532"
+            }, 
+            {
+                "content": "Topics in Comparative Politics", 
+                "href": "/2017/spring/PS/549.json", 
+                "id": "549"
+            }, 
+            {
+                "content": "Research Seminar in IR", 
+                "href": "/2017/spring/PS/587.json", 
+                "id": "587"
+            }, 
+            {
+                "content": "Research in Selected Topics", 
+                "href": "/2017/spring/PS/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Evaluating New Research", 
+                "href": "/2017/spring/PS/596.json", 
+                "id": "596"
+            }, 
+            {
+                "content": "Dissertation Design Seminar", 
+                "href": "/2017/spring/PS/598.json", 
+                "id": "598"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/PS/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1710", 
+    "id": "PS", 
+    "label": "Political Science", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-3881", 
+    "unitName": "Political Science", 
+    "webSiteURL": "www.pol.illinois.edu"
+}

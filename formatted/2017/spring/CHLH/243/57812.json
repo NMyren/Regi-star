@@ -1,0 +1,53 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CHLH/243/57812.json", 
+    "id": "57812", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kersh, R", 
+                    "firstName": "R", 
+                    "lastName": "Kersh"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Drug Use and Abuse", 
+            "href": "/2017/spring/CHLH/243.json", 
+            "id": "243"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "ONL", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Registration for this course will close at 9 AM on the first day of instruction.  No overrides will be given after that time.", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

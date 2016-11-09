@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/HIST/240/65578.json", 
+    "id": "65578", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TR", 
+            "end": "09:20 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Mathisen, R", 
+                    "firstName": "R", 
+                    "lastName": "Mathisen"
+                }
+            }, 
+            "start": "08:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Ancient Greek Civilization", 
+            "href": "/2017/spring/HIST/240.json", 
+            "id": "240"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Title:  History of Ancient Greece Topic:  The course will examine the political, social, economic, religious, and cultural developments of the Ancient Greek world ca. 3000-30 BCE, from the rise of Mesopotamian and Egyptian civilization to the Roman defeat of Cleopatra.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

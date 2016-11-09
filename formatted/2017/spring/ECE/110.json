@@ -1,0 +1,210 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section. 1 hour of credit may be given for the lab taken alone with approval of the department.", 
+    "creditHours": "1 to 3 hours.", 
+    "description": "Introduction to selected fundamental concepts and principles in electrical engineering. Emphasis on measurement, modeling, and analysis of circuits and electronics while introducing numerous applications. Includes sub-discipline topics of electrical and computer engineering, for example, electromagnetics, control, signal processing, microelectronics, communications, and scientific computing basics. Lab work incorporates sensors and motors into an autonomous moving vehicle, designed and constructed to perform tasks jointly determined by the instructors and students.", 
+    "href": "/2017/spring/ECE/110.json", 
+    "id": "ECE 110", 
+    "label": "Introduction to Electronics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB0", 
+                "href": "/2017/spring/ECE/110/32463.json", 
+                "id": "32463"
+            }, 
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ECE/110/32465.json", 
+                "id": "32465"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/ECE/110/32460.json", 
+                "id": "32460"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/ECE/110/52912.json", 
+                "id": "52912"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/ECE/110/32470.json", 
+                "id": "32470"
+            }, 
+            {
+                "content": "AB5", 
+                "href": "/2017/spring/ECE/110/52914.json", 
+                "id": "52914"
+            }, 
+            {
+                "content": "AB6", 
+                "href": "/2017/spring/ECE/110/52910.json", 
+                "id": "52910"
+            }, 
+            {
+                "content": "AB7", 
+                "href": "/2017/spring/ECE/110/32466.json", 
+                "id": "32466"
+            }, 
+            {
+                "content": "AB8", 
+                "href": "/2017/spring/ECE/110/32461.json", 
+                "id": "32461"
+            }, 
+            {
+                "content": "AB9", 
+                "href": "/2017/spring/ECE/110/52913.json", 
+                "id": "52913"
+            }, 
+            {
+                "content": "ABA", 
+                "href": "/2017/spring/ECE/110/32456.json", 
+                "id": "32456"
+            }, 
+            {
+                "content": "ABB", 
+                "href": "/2017/spring/ECE/110/52911.json", 
+                "id": "52911"
+            }, 
+            {
+                "content": "ABC", 
+                "href": "/2017/spring/ECE/110/32467.json", 
+                "id": "32467"
+            }, 
+            {
+                "content": "ABD", 
+                "href": "/2017/spring/ECE/110/32462.json", 
+                "id": "32462"
+            }, 
+            {
+                "content": "ABE", 
+                "href": "/2017/spring/ECE/110/32469.json", 
+                "id": "32469"
+            }, 
+            {
+                "content": "ABF", 
+                "href": "/2017/spring/ECE/110/63640.json", 
+                "id": "63640"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ECE/110/32464.json", 
+                "id": "32464"
+            }, 
+            {
+                "content": "AL2", 
+                "href": "/2017/spring/ECE/110/32471.json", 
+                "id": "32471"
+            }, 
+            {
+                "content": "AL3", 
+                "href": "/2017/spring/ECE/110/52909.json", 
+                "id": "52909"
+            }, 
+            {
+                "content": "AL4", 
+                "href": "/2017/spring/ECE/110/61723.json", 
+                "id": "61723"
+            }, 
+            {
+                "content": "BB0", 
+                "href": "/2017/spring/ECE/110/57693.json", 
+                "id": "57693"
+            }, 
+            {
+                "content": "BB1", 
+                "href": "/2017/spring/ECE/110/57704.json", 
+                "id": "57704"
+            }, 
+            {
+                "content": "BB2", 
+                "href": "/2017/spring/ECE/110/57705.json", 
+                "id": "57705"
+            }, 
+            {
+                "content": "BB3", 
+                "href": "/2017/spring/ECE/110/57707.json", 
+                "id": "57707"
+            }, 
+            {
+                "content": "BB4", 
+                "href": "/2017/spring/ECE/110/57708.json", 
+                "id": "57708"
+            }, 
+            {
+                "content": "BB5", 
+                "href": "/2017/spring/ECE/110/57709.json", 
+                "id": "57709"
+            }, 
+            {
+                "content": "BB6", 
+                "href": "/2017/spring/ECE/110/57711.json", 
+                "id": "57711"
+            }, 
+            {
+                "content": "BB7", 
+                "href": "/2017/spring/ECE/110/57713.json", 
+                "id": "57713"
+            }, 
+            {
+                "content": "BB8", 
+                "href": "/2017/spring/ECE/110/57714.json", 
+                "id": "57714"
+            }, 
+            {
+                "content": "BB9", 
+                "href": "/2017/spring/ECE/110/57725.json", 
+                "id": "57725"
+            }, 
+            {
+                "content": "BBA", 
+                "href": "/2017/spring/ECE/110/57726.json", 
+                "id": "57726"
+            }, 
+            {
+                "content": "BBB", 
+                "href": "/2017/spring/ECE/110/57728.json", 
+                "id": "57728"
+            }, 
+            {
+                "content": "BBC", 
+                "href": "/2017/spring/ECE/110/57729.json", 
+                "id": "57729"
+            }, 
+            {
+                "content": "BBD", 
+                "href": "/2017/spring/ECE/110/57730.json", 
+                "id": "57730"
+            }, 
+            {
+                "content": "BBE", 
+                "href": "/2017/spring/ECE/110/57731.json", 
+                "id": "57731"
+            }, 
+            {
+                "content": "BBF", 
+                "href": "/2017/spring/ECE/110/63641.json", 
+                "id": "63641"
+            }
+        ]
+    }
+}

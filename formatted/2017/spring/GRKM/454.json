@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Offered Spring terms only. Prerequisite: GRKM 453 or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Continued practice to enable students to improve their fluency and use Modern Greek effectively in a variety of contexts. 4 undergraduate hours. 4 graduate hours. Offered Spring terms only. Prerequisite: GRKM 453 or consent of instructor.", 
+    "href": "/2017/spring/GRKM/454.json", 
+    "id": "GRKM 454", 
+    "label": "Advanced Modern Greek II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Modern Greek", 
+            "href": "/2017/spring/GRKM.json", 
+            "id": "GRKM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "C", 
+            "href": "/2017/spring/GRKM/454/61045.json", 
+            "id": "61045"
+        }
+    }
+}

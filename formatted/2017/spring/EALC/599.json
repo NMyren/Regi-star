@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated to a maximum of 16 hours. Prerequisite: Satisfactory completion of the preliminary examinations.", 
+    "creditHours": "0 TO 16 hours.", 
+    "description": "Research and guidance in writing theses for advanced degrees. Approved for S/U grading only. May be repeated to a maximum of 16 hours. Prerequisite: Satisfactory completion of the preliminary examinations.", 
+    "href": "/2017/spring/EALC/599.json", 
+    "id": "EALC 599", 
+    "label": "Thesis Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "East Asian Language and Culture", 
+            "href": "/2017/spring/EALC.json", 
+            "id": "EALC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/EALC/599/10007.json", 
+            "id": "10007"
+        }
+    }
+}

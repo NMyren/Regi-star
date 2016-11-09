@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: MCB 300 and MCB 354 or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Emphasizes cell biology of infectious diseases, using cellular, molecular, and animal models. Will stress molecular cross-talk that drives host-pathogen interactions, state-of-the art approaches for investigating host and microbial cell and molecular biology, latest paradigms in host cell biology, and, the evolutionary basis by which pathogens can manipulate host cell cytoskeleton, membranes, organelles, cell cycle, gene expression, and signaling in eukaryotic cells. 3 undergraduate hours. 3 graduate hours. Prerequisite: MCB 300 and MCB 354 or consent of instructor.", 
+    "href": "/2017/spring/MCB/429.json", 
+    "id": "MCB 429", 
+    "label": "Cellular Microbiology &Disease", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MCB/429/48830.json", 
+            "id": "48830"
+        }
+    }
+}

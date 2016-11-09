@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated in separate terms. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Individual investigations or studies of any phase of Industrial Engineering. May be repeated in separate terms. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/IE/397.json", 
+    "id": "IE 397", 
+    "label": "Independent Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Industrial Engineering", 
+            "href": "/2017/spring/IE.json", 
+            "id": "IE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/IE/397/64063.json", 
+            "id": "64063"
+        }
+    }
+}

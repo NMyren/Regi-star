@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ARTH/541/51045.json", 
+    "id": "51045", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Flagg Hall", 
+            "daysOfTheWeek": "W", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Romberg, K", 
+                    "firstName": "K", 
+                    "lastName": "Romberg"
+                }
+            }, 
+            "roomNumber": "404", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Seminar in Modern Art", 
+            "href": "/2017/spring/ARTH/541.json", 
+            "id": "541"
+        }, 
+        "subject": {
+            "content": "Art--History", 
+            "href": "/2017/spring/ARTH.json", 
+            "id": "ARTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "KR", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic: Structure and Agency (Seminar in Modern Art). This seminar considers the ongoing negotiation between structure and agency in modern and contemporary art. An understanding of modernism based on autonomy and personal freedom will be put in tension with conceptualizations of flattened, non-sovereign, or broadly based notions of authorship. Readings will be drawn from the history of art and design, sociology, political theory, and aesthetic theory and will touch on ideas of political realism, embeddedness, likeness, low theory, disciplinary decolonizing, and non-sovereignty. Although we will consider a number of art-historical case studies, class meetings will revolve around the reading, with no particular period or regional focus. Participants will need to work independently to develop a seminar project that is in dialogue with our shared themes.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

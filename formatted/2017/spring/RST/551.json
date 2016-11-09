@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: RST 550.", 
+    "creditHours": "4 hours.", 
+    "description": "Provides students with a greater understanding and appreciation of the various disciplines that influence, and are related to, leisure. Examines how these disciplines might influence future research in leisure studies. Prerequisite: RST 550.", 
+    "href": "/2017/spring/RST/551.json", 
+    "id": "RST 551", 
+    "label": "Contemporary Issues in Leisure", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/RST/551/58745.json", 
+            "id": "58745"
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "courseSectionInformation": "Same as SHS 222. See SHS 222.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as SHS 222. See SHS 222.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Social & Behavioral Sciences", 
+                "id": "SBS", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1SS", 
+                        "content": "UIUC Social Sciences"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1US", 
+                        "content": "UIUC: US Minority Culture(s)"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/EPSY/222.json", 
+    "id": "EPSY 222", 
+    "label": "Language & Culture of Deaf Communities", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sectionDegreeAttributes": "Grand Challenge-Health/Well, Social Sciences, and US Minority Culture(s) course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "C01", 
+                "href": "/2017/spring/EPSY/222/62229.json", 
+                "id": "62229"
+            }, 
+            {
+                "content": "C04", 
+                "href": "/2017/spring/EPSY/222/62232.json", 
+                "id": "62232"
+            }, 
+            {
+                "content": "C05", 
+                "href": "/2017/spring/EPSY/222/62233.json", 
+                "id": "62233"
+            }, 
+            {
+                "content": "C06", 
+                "href": "/2017/spring/EPSY/222/62234.json", 
+                "id": "62234"
+            }, 
+            {
+                "content": "C08", 
+                "href": "/2017/spring/EPSY/222/62236.json", 
+                "id": "62236"
+            }, 
+            {
+                "content": "C10", 
+                "href": "/2017/spring/EPSY/222/62238.json", 
+                "id": "62238"
+            }
+        ]
+    }
+}

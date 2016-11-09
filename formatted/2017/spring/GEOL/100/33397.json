@@ -1,0 +1,66 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/GEOL/100/33397.json", 
+    "id": "33397", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Davenport Hall", 
+            "daysOfTheWeek": "T", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Conroy, J", 
+                        "firstName": "J", 
+                        "lastName": "Conroy"
+                    }, 
+                    {
+                        "content": "Jin, J", 
+                        "firstName": "J", 
+                        "lastName": "Jin"
+                    }, 
+                    {
+                        "content": "Long, A", 
+                        "firstName": "A", 
+                        "lastName": "Long"
+                    }
+                ]
+            }, 
+            "roomNumber": "219", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Planet Earth", 
+            "href": "/2017/spring/GEOL/100.json", 
+            "id": "100"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "ADD", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

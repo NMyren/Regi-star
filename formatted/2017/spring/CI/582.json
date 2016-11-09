@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: CI 475 and CI 476, or equivalent methods course in reading and language arts.", 
+    "creditHours": "4 hours.", 
+    "description": "Designed for elementary and middle school educators, this course focuses on theory and practice related to both intradisciplinary integration (across the language arts) and interdisciplinary integration (across the content areas). Specific methods and strategies for fostering effective integrated literacy instruction are explored. Prerequisite: CI 475 and CI 476, or equivalent methods course in reading and language arts.", 
+    "href": "/2017/spring/CI/582.json", 
+    "id": "CI 582", 
+    "label": "Rdg and Wrtg Across the Curr", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CI/582/30920.json", 
+            "id": "30920"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/BADM/326/61562.json", 
+    "id": "61562", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Wohlers Hall", 
+            "daysOfTheWeek": "MW", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Liu, Y", 
+                    "firstName": "Y", 
+                    "lastName": "Liu"
+                }
+            }, 
+            "roomNumber": "130", 
+            "start": "03:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Pricing Policies", 
+            "href": "/2017/spring/BADM/326.json", 
+            "id": "326"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Prerequisites will be enforced.  This course will open to all students in the College of Business on Monday, November 14, 2016 at approximately 9:00 a.m.  There are currently 10 reserved seats for College of Business international exchange students; any unused seats will be released to students meeting the restrictions on Friday, January 20, 2017 at approximately 9:00 a.m.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

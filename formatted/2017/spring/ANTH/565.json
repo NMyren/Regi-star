@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as AAS 561, AFRO 531, GWS 561, and LLS 561. See AAS 561.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as AAS 561, AFRO 531, GWS 561, and LLS 561. See AAS 561.", 
+    "href": "/2017/spring/ANTH/565.json", 
+    "id": "ANTH 565", 
+    "label": "Race and Cultural Critique", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Anthropology", 
+            "href": "/2017/spring/ANTH.json", 
+            "id": "ANTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ANTH/565/52841.json", 
+            "id": "52841"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/CS/498/61859.json", 
+    "id": "61859", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Siebel Center for Comp Sci", 
+            "daysOfTheWeek": "MW", 
+            "end": "05:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Erickson, J", 
+                    "firstName": "J", 
+                    "lastName": "Erickson"
+                }
+            }, 
+            "roomNumber": "1404", 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "L2 ", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/CS/498.json", 
+            "id": "498"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "DL1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course is a second algorithms course intended for students who have taken CS 374  or previously CS 498 section BL1.", 
+    "sectionTitle": "Theory II", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

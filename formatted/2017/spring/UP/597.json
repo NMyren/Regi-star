@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated to a maximum of 8 hours. May be used by doctoral students for the research paper requirement. Prerequisite: Graduate Standing in Urban and Regional Planning, consent of instructor, and consent of the Department.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Individual research work under the supervision of an appropriate member of the faculty. Approved for S/U grading only. May be repeated to a maximum of 8 hours. May be used by doctoral students for the research paper requirement. Prerequisite: Graduate Standing in Urban and Regional Planning, consent of instructor, and consent of the Department.", 
+    "href": "/2017/spring/UP/597.json", 
+    "id": "UP 597", 
+    "label": "Urban Planning Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Urban and Regional Planning", 
+            "href": "/2017/spring/UP.json", 
+            "id": "UP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/UP/597/10269.json", 
+            "id": "10269"
+        }
+    }
+}

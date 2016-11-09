@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 8 hours. Prerequisite: Major standing in dance or consent of instructor; or Departmental placement.", 
+    "creditHours": "1 OR 2 hours.", 
+    "description": "Intermediate/Advanced ballet for dance majors; a progressive development of movement concepts and vocabulary in DANC 266 and DANC 267. For dancers of advanced technical level with the ability to execute the ballet vocabulary. May be repeated to a maximum of 8 hours. Prerequisite: Major standing in dance or consent of instructor; or Departmental placement.", 
+    "href": "/2017/spring/DANC/367.json", 
+    "id": "DANC 367", 
+    "label": "Int/Adv Ballet Tech Elect", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Dance or Dance major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "E", 
+                "href": "/2017/spring/DANC/367/31888.json", 
+                "id": "31888"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/DANC/367/31889.json", 
+                "id": "31889"
+            }
+        ]
+    }
+}

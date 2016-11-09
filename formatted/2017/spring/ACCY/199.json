@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "May be repeated.", 
+    "href": "/2017/spring/ACCY/199.json", 
+    "id": "ACCY 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Accountancy", 
+            "href": "/2017/spring/ACCY.json", 
+            "id": "ACCY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ACCY/199/10033.json", 
+            "id": "10033"
+        }
+    }
+}

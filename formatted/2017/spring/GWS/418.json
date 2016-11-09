@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as THEA 418. See THEA 418.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as THEA 418. See THEA 418.", 
+    "href": "/2017/spring/GWS/418.json", 
+    "id": "GWS 418", 
+    "label": "Devising Social Issues Theatre", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Gender and Women's Studies", 
+            "href": "/2017/spring/GWS.json", 
+            "id": "GWS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A3", 
+                "href": "/2017/spring/GWS/418/37113.json", 
+                "id": "37113"
+            }, 
+            {
+                "content": "A4", 
+                "href": "/2017/spring/GWS/418/37114.json", 
+                "id": "37114"
+            }
+        ]
+    }
+}

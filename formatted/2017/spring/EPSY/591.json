@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Limited to students who have been admitted for doctoral study.", 
+    "creditHours": "4 TO 8 hours.", 
+    "description": "Assists doctoral candidates in planning field studies and thesis problems. Students are expected to present their studies at each of four stages: (1) the inception, delimitation, tentative design stage; (2) the proposed design stage; (3) the revised design stage; and (4) the final design stage. Students are expected to analyze critically all presentations. Prerequisite: Limited to students who have been admitted for doctoral study.", 
+    "href": "/2017/spring/EPSY/591.json", 
+    "id": "EPSY 591", 
+    "label": "Field Study and Thesis Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/EPSY/591/10380.json", 
+            "id": "10380"
+        }
+    }
+}

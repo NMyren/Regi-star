@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/GEOL/440/33546.json", 
+    "id": "33546", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Davenport Hall", 
+            "daysOfTheWeek": "MWF", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Best, J", 
+                    "firstName": "J", 
+                    "lastName": "Best"
+                }
+            }, 
+            "roomNumber": "122", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Sedimentology and Stratigraphy", 
+            "href": "/2017/spring/GEOL/440.json", 
+            "id": "440"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionFeeAmount": "GEOL 440 Field Trip $80.00 Flat Fee.", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Access the waitlist for GEOL 440 here <a herf=\"http://illinois.edu/fb/sec/8510797\">waitlist</a>", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

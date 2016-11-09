@@ -1,0 +1,61 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MUS/481/58287.json", 
+    "id": "58287", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Denham, E", 
+                        "firstName": "E", 
+                        "lastName": "Denham"
+                    }, 
+                    {
+                        "content": "Stone, S", 
+                        "firstName": "S", 
+                        "lastName": "Stone"
+                    }
+                ]
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Voice", 
+            "href": "/2017/spring/MUS/481.json", 
+            "id": "481"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionFeeAmount": "Non Major Music Lesson Fee $300.00 Flat Fee.", 
+    "sectionNumber": "NMK", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Non-Music Major Section 1/2 Hour a week lesson Audition is required  THE FEE IS NON-REFUNDABLE", 
+    "specialApproval": "Instructor Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

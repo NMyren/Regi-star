@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/FR/588/35698.json", 
+    "id": "35698", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "R", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Mroz, A", 
+                    "firstName": "A", 
+                    "lastName": "Mroz"
+                }
+            }, 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Sem Second Lang Learn", 
+            "href": "/2017/spring/FR/588.json", 
+            "id": "588"
+        }, 
+        "subject": {
+            "content": "French", 
+            "href": "/2017/spring/FR.json", 
+            "id": "FR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "G", 
+    "sectionStatusCode": "A", 
+    "sectionText": "TOPIC TITLE: Oral Skills in SLATE Overview of research, as well as teaching, learning, and assessment practices for acquisition of oral skills in SLATE. Readings and activities to process and apply the multifaceted aspects of oral skills, and their implications in terms of theoretical and hands-on scholarly research, and best curricular practices.", 
+    "sectionTitle": "Oral Skills in SLATE", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

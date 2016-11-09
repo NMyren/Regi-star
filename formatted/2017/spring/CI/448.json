@@ -1,0 +1,51 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: Admission to the Elementary Teacher Education Program.", 
+    "creditHours": "3 hours.", 
+    "description": "Course examines the nature and role of social studies in elementary schools, both in terms of the formal curriculum and of the impact of the school as a social system on children's social learning. Examines multiple approaches to what should be experienced and learned in social studies as well as the nature of social inquiry. Various instructional methods emphasizing direct experiences as well as reading are emphasized. Local, state, and national trends in curriculum and evaluation are addressed. Students engage in social inquiry, as well as develop, implement, and evaluate an action research project focusing in depth on a particular practice of social education. 3 undergraduate hours. 3 graduate hours. Prerequisite: Admission to the Elementary Teacher Education Program.", 
+    "href": "/2017/spring/CI/448.json", 
+    "id": "CI 448", 
+    "label": "Tchg Elem Social Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to Admitted Teacher Ed Student students.", 
+    "sectionRegistrationNotes": "Restricted to Elementary Education major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "C1", 
+                "href": "/2017/spring/CI/448/63328.json", 
+                "id": "63328"
+            }, 
+            {
+                "content": "C2", 
+                "href": "/2017/spring/CI/448/63329.json", 
+                "id": "63329"
+            }, 
+            {
+                "content": "C3", 
+                "href": "/2017/spring/CI/448/63330.json", 
+                "id": "63330"
+            }, 
+            {
+                "content": "C4", 
+                "href": "/2017/spring/CI/448/63331.json", 
+                "id": "63331"
+            }
+        ]
+    }
+}

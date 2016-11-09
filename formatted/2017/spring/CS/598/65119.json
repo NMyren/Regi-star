@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CS/598/65119.json", 
+    "id": "65119", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Siebel Center for Comp Sci", 
+            "daysOfTheWeek": "WF", 
+            "end": "03:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Rosu, G", 
+                    "firstName": "G", 
+                    "lastName": "Rosu"
+                }
+            }, 
+            "roomNumber": "1131", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "S12", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/CS/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "GR", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Runtime verification (RV) is a software analysis approach where programs are formally analyzed as they execute.  This can be done using program instrumentation, or using special execution environments (for example, a semantics-based symbolic execution engine), or both. In its most simplistic form, RV can be used to detect or predict bugs in programs.  In a more sophisticated form, RV can be used to prove programs correct by systematically executing programs on all their (symbolic) paths.  The course will cover the major RV approaches and techniques, as well as semantic foundations.", 
+    "sectionTitle": "Runtime Verification", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

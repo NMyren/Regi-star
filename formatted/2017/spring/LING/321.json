@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Same as SHS 321. See SHS 321.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as SHS 321. See SHS 321.", 
+    "href": "/2017/spring/LING/321.json", 
+    "id": "LING 321", 
+    "label": "American Sign Language III", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Linguistics", 
+            "href": "/2017/spring/LING.json", 
+            "id": "LING"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/LING/321/58335.json", 
+                "id": "58335"
+            }, 
+            {
+                "content": "Q", 
+                "href": "/2017/spring/LING/321/58334.json", 
+                "id": "58334"
+            }, 
+            {
+                "content": "R", 
+                "href": "/2017/spring/LING/321/60686.json", 
+                "id": "60686"
+            }
+        ]
+    }
+}

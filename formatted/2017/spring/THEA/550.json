@@ -1,0 +1,54 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 32 hours. Prerequisite: Enrollment limited to graduate students in theatre design and technology.", 
+    "creditHours": "4 OR 8 hours.", 
+    "description": "Projects in design for the theatre or in theatre technology, including stage scenery, costuming, lighting, makeup, projections, and sound and stage systems. May be repeated to a maximum of 32 hours. Prerequisite: Enrollment limited to graduate students in theatre design and technology.", 
+    "href": "/2017/spring/THEA/550.json", 
+    "id": "THEA 550", 
+    "label": "Colloquium Design & Theat Tech", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A2", 
+                "href": "/2017/spring/THEA/550/37130.json", 
+                "id": "37130"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/THEA/550/37131.json", 
+                "id": "37131"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/THEA/550/54108.json", 
+                "id": "54108"
+            }, 
+            {
+                "content": "S&R", 
+                "href": "/2017/spring/THEA/550/61035.json", 
+                "id": "61035"
+            }, 
+            {
+                "content": "TOM", 
+                "href": "/2017/spring/THEA/550/51461.json", 
+                "id": "51461"
+            }
+        ]
+    }
+}

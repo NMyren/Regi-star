@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "0 or 2 graduate hours. No professional credit. Prerequisite: Graduate standing in music education.", 
+    "creditHours": "2 hours.", 
+    "description": "Weekly seminar involving special topic discussions on critical issues within the profession. Required each semester for all resident doctoral students in music education during their residency. 0 or 2 graduate hours. No professional credit. Prerequisite: Graduate standing in music education.", 
+    "href": "/2017/spring/MUS/544.json", 
+    "id": "MUS 544", 
+    "label": "Doctoral Seminar in Music Education", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Music Education major(s). Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/544/34926.json", 
+            "id": "34926"
+        }
+    }
+}

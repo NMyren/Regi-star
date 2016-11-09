@@ -1,0 +1,75 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "274 Bevier Hall, 950 South Goodwin Ave., Urbana", 
+    "collegeCode": "KT", 
+    "collegeDepartmentDescription": "Program Director: Lulu Rodriguez\nDepartment Office, 274 Bevier Hall, 950 South Goodwin Ave., Urbana, 217-300-1045\n//agcomm.illinois.edu/", 
+    "contactName": "Lulu Rodriguez", 
+    "contactTitle": "Program Director", 
+    "courses": {
+        "course": [
+            {
+                "content": "Communicating Agriculture", 
+                "href": "/2017/spring/AGCM/220.json", 
+                "id": "220"
+            }, 
+            {
+                "content": "Agricultural and Environmental Photography", 
+                "href": "/2017/spring/AGCM/230.json", 
+                "id": "230"
+            }, 
+            {
+                "content": "Communications Internship", 
+                "href": "/2017/spring/AGCM/293.json", 
+                "id": "293"
+            }, 
+            {
+                "content": "Research Internship", 
+                "href": "/2017/spring/AGCM/294.json", 
+                "id": "294"
+            }, 
+            {
+                "content": "Independent Study or Research", 
+                "href": "/2017/spring/AGCM/295.json", 
+                "id": "295"
+            }, 
+            {
+                "content": "Emerging Media", 
+                "href": "/2017/spring/AGCM/315.json", 
+                "id": "315"
+            }, 
+            {
+                "content": "Public Information Campaigns", 
+                "href": "/2017/spring/AGCM/320.json", 
+                "id": "320"
+            }, 
+            {
+                "content": "Environmental Communications", 
+                "href": "/2017/spring/AGCM/330.json", 
+                "id": "330"
+            }, 
+            {
+                "content": "Honors Research or Thesis", 
+                "href": "/2017/spring/AGCM/396.json", 
+                "id": "396"
+            }
+        ]
+    }, 
+    "departmentCode": "1646", 
+    "id": "AGCM", 
+    "label": "Agricultural Communications", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-300-1045", 
+    "unitName": "College of Media", 
+    "webSiteURL": "//agcomm.illinois.edu/"
+}

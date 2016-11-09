@@ -1,0 +1,49 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/MATH/220/37538.json", 
+    "id": "37538", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Altgeld Hall", 
+            "daysOfTheWeek": "MWF", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "314", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Calculus", 
+            "href": "/2017/spring/MATH/220.json", 
+            "id": "220"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AL2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Placement in this course requires a recent, adaquate score on a U of I math placement exam. For dates and details see http://math.illinois.edu/ALEKS.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

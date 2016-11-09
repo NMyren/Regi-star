@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. 3 undergraduate hours. 3 graduate hours. Prerequisite: NRES 201.", 
+    "creditHours": "3 hours.", 
+    "description": "Application of principles of soil conservation and management to the solution of land-use problems; influence of soil characteristics on erosion control, cropping intensity, water management, and land-use planning. Includes a field trip. Additional fees may apply. See Class Schedule. 3 undergraduate hours. 3 graduate hours. Prerequisite: NRES 201.", 
+    "href": "/2017/spring/NRES/474.json", 
+    "id": "NRES 474", 
+    "label": "Soil and Water Conservation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Natural Resources and Environmental Sciences", 
+            "href": "/2017/spring/NRES.json", 
+            "id": "NRES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "AL1", 
+            "href": "/2017/spring/NRES/474/35177.json", 
+            "id": "35177"
+        }
+    }
+}

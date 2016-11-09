@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours.", 
+    "creditHours": "4 hours.", 
+    "description": "Contracts, sales, debtor-creditor relations, negotiable instruments, property, business organizations. 4 undergraduate hours. 4 graduate hours.", 
+    "href": "/2017/spring/BADM/403.json", 
+    "id": "BADM 403", 
+    "label": "Principles of Business Law", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to students with Junior, Senior, or Graduate class standing. Restricted to BS:Accountancy -UIUC, BS:Finance -UIUC, BS: Marketing - UIUC, BS: Inf Sys & Info Tech -UIUC, BS: Supply Chain Mgmt -UIUC, BS: Business Process Mgt -UIUC, BS: Management -UIUC, BS: Business Multi Majors-UIUC, MAS:Accountancy -UIUC, MS: Accy - Cost Rec -UIUC, MS: Finance Cost Rec -UIUC, or MBA:Bus Administration -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "OL", 
+            "href": "/2017/spring/BADM/403/58743.json", 
+            "id": "58743"
+        }
+    }
+}

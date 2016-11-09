@@ -1,0 +1,34 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. 2 graduate hours. Prerequisite: Must have completed one of the following: ANSC 293, ANSC 294, ANSC 295, ANSC 299, ANSC 396, ANSC 398, ACES 293, ACES 298 or ACES 299.", 
+    "creditHours": "2 hours.", 
+    "description": "Introduction to the theoretical basis of and skills associated with leadership, inquiry, and collaborative learning. Capstone experience in integrating knowledge, practicing skills, and applying theory through collaborative projects that address current issues in animal sciences. Projects relate to the impact of animals and animal use on humans and societal issues facing the world today. 2 undergraduate hours. 2 graduate hours. Prerequisite: Must have completed one of the following: ANSC 293, ANSC 294, ANSC 295, ANSC 299, ANSC 396, ANSC 398, ACES 293, ACES 298 or ACES 299.", 
+    "href": "/2017/spring/ANSC/498.json", 
+    "id": "ANSC 498", 
+    "label": "Integrating Animal Sciences", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Animal Sciences department.", 
+    "sectionRegistrationNotes": "Restricted to students with Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ANSC/498/56799.json", 
+            "id": "56799"
+        }
+    }
+}

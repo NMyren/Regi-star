@@ -1,0 +1,74 @@
+{
+    "courseSectionInformation": "2 to 4 undergraduate hours.  2 to 4 graduate hours. May be repeated to a maximum of 9 hours. Prerequisite: PSYC 100 and junior standing, or consent of instructor; particular sections may have additional 200-level and/or 300-level prerequisites.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Advanced treatment of current topics in the field of psychology. 2 to 4 undergraduate hours.  2 to 4 graduate hours. May be repeated to a maximum of 9 hours. Prerequisite: PSYC 100 and junior standing, or consent of instructor; particular sections may have additional 200-level and/or 300-level prerequisites.", 
+    "href": "/2017/spring/PSYC/496.json", 
+    "id": "PSYC 496", 
+    "label": "Adv Current Topics in Psych", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "CCP", 
+                "href": "/2017/spring/PSYC/496/37462.json", 
+                "id": "37462"
+            }, 
+            {
+                "content": "FD", 
+                "href": "/2017/spring/PSYC/496/65471.json", 
+                "id": "65471"
+            }, 
+            {
+                "content": "FD2", 
+                "href": "/2017/spring/PSYC/496/65785.json", 
+                "id": "65785"
+            }, 
+            {
+                "content": "ID3", 
+                "href": "/2017/spring/PSYC/496/53615.json", 
+                "id": "53615"
+            }, 
+            {
+                "content": "ID4", 
+                "href": "/2017/spring/PSYC/496/39620.json", 
+                "id": "39620"
+            }, 
+            {
+                "content": "JD3", 
+                "href": "/2017/spring/PSYC/496/45975.json", 
+                "id": "45975"
+            }, 
+            {
+                "content": "JD4", 
+                "href": "/2017/spring/PSYC/496/45990.json", 
+                "id": "45990"
+            }, 
+            {
+                "content": "TK", 
+                "href": "/2017/spring/PSYC/496/64951.json", 
+                "id": "64951"
+            }, 
+            {
+                "content": "TK2", 
+                "href": "/2017/spring/PSYC/496/64953.json", 
+                "id": "64953"
+            }
+        ]
+    }
+}

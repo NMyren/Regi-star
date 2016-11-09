@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Provides an in-depth examination into the body of research of effectively facilitating groups, including the nature of groups, the dynamics of individuals within groups, effective planning, role clarification, identification of intervention points in groups, and effective use of tools and techniques. The theoretical foundations for the course reside in theories of human values, group dynamics, decision-making, communication, managing conflicts, and effective group intervention. Course emphasis is on experiential learning, with students practicing self-reflection and self-directed facilitations. 3 undergraduate hours. 4 graduate hours.", 
+    "href": "/2017/spring/HRD/414.json", 
+    "id": "HRD 414", 
+    "label": "Facilitation Skills", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Human Resource Development", 
+            "href": "/2017/spring/HRD.json", 
+            "id": "HRD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/HRD/414/64982.json", 
+                "id": "64982"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/HRD/414/64983.json", 
+                "id": "64983"
+            }
+        ]
+    }
+}

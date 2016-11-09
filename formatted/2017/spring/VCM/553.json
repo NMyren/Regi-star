@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated in separate terms for unlimited graduate credit.", 
+    "creditHours": "1 hours.", 
+    "description": "Reviews the physics, clinical indications and technical aspects of advanced diagnostic imaging. The course will utilize clinical case examples. Studies are required to prepare one lecture and take a final examination. Attendance at 80% of the classes is required. May be repeated in separate terms for unlimited graduate credit.", 
+    "href": "/2017/spring/VCM/553.json", 
+    "id": "VCM 553", 
+    "label": "Advanced Diagnostic Imaging", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Veterinary Clinical Medicine", 
+            "href": "/2017/spring/VCM.json", 
+            "id": "VCM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/VCM/553/59536.json", 
+            "id": "59536"
+        }
+    }
+}

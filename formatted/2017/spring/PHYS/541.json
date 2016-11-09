@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as ASTR 541. Prerequisite: PHYS 436.", 
+    "creditHours": "4 hours.", 
+    "description": "Rigorous survey of the physical properties of black holes, white dwarfs, and neutron stars. Formation of compact objects. Equilibrium configurations, equations of state, stability criteria, and mass limits: the influence of rotation and magnetic fields. Pulsar phenomena. Black hole spacetimes. Hawking radiation. Mass flow in binary systems; spherical and disk accretion; high-temperature radiation processes; pulsar spin-up. Compact x-ray sources and x-ray bursts. Supermassive black holes in star clusters and dense galactic nuclei. Gravitational and neutrino radiation from supernova collapse and binary coalescence. Same as ASTR 541. Prerequisite: PHYS 436.", 
+    "href": "/2017/spring/PHYS/541.json", 
+    "id": "PHYS 541", 
+    "label": "Physics of Compact Objects", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PHYS/541/40321.json", 
+            "id": "40321"
+        }
+    }
+}

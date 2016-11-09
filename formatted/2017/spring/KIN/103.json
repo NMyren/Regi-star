@@ -1,0 +1,38 @@
+{
+    "creditHours": "1 hours.", 
+    "description": "Skills and knowledge essential for leisure-time activities which are classified as indoor court activities. Prerequisites for each indoor court activity are provided in the Class Schedule. More than one activity (Sections A through Z) may be taken in the same term.", 
+    "href": "/2017/spring/KIN/103.json", 
+    "id": "KIN 103", 
+    "label": "Indoor Court Activities", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "C1", 
+                "href": "/2017/spring/KIN/103/35006.json", 
+                "id": "35006"
+            }, 
+            {
+                "content": "D1", 
+                "href": "/2017/spring/KIN/103/64972.json", 
+                "id": "64972"
+            }
+        ]
+    }
+}

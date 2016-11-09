@@ -1,0 +1,55 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ENG/298/52786.json", 
+    "id": "52786", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Amos, J", 
+                    "firstName": "J", 
+                    "lastName": "Amos"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/ENG/298.json", 
+            "id": "298"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "JA", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Understanding design for international standards, defining needs of a community, use of locally available materials, low-tech but game-changing innovations, sustainability concerns in resource-limited settings, and involving stakeholders and engaging the community. Students will discuss ethical, social, and political concerns as part of the design process.", 
+    "sectionTitle": "Intro to Sustainable Eng", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

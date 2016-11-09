@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 2 or 4 graduate hours.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Explores cultural, political, and social factors that affect learning and teaching. Introduces students to the fields of educational anthropology and multicultural education and to the application of cultural information to curriculum development and classroom practice. The 3-hour undergraduate version and 4-hour graduate version meet the Cross-Cultural Studies for Teaching Limited-English-Proficient Students requirement for Bilingual and/or ESL Teaching Approval or Endorsement from the Illinois State Board of Education. 3 undergraduate hours. 2 or 4 graduate hours.", 
+    "href": "/2017/spring/CI/446.json", 
+    "id": "CI 446", 
+    "label": "Culture in the Classroom", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CI/446/64886.json", 
+            "id": "64886"
+        }
+    }
+}

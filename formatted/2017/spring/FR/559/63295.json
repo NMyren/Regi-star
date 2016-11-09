@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/FR/559/63295.json", 
+    "id": "63295", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foreign Languages Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "MacDonald, J", 
+                    "firstName": "J", 
+                    "lastName": "MacDonald"
+                }
+            }, 
+            "roomNumber": "1048", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Sem Romance Ling", 
+            "href": "/2017/spring/FR/559.json", 
+            "id": "559"
+        }, 
+        "subject": {
+            "content": "French", 
+            "href": "/2017/spring/FR.json", 
+            "id": "FR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "B", 
+    "sectionStatusCode": "A", 
+    "sectionText": "TOPIC TITLE: \"Topics in Romance Syntax\"", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

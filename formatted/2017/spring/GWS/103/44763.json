@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/GWS/103/44763.json", 
+    "id": "44763", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MW", 
+            "end": "10:20 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Flynn, K", 
+                    "firstName": "K", 
+                    "lastName": "Flynn"
+                }
+            }, 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Black Women in the Diaspora", 
+            "href": "/2017/spring/GWS/103.json", 
+            "id": "103"
+        }, 
+        "subject": {
+            "content": "Gender and Women's Studies", 
+            "href": "/2017/spring/GWS.json", 
+            "id": "GWS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Same as AFRO 103 (CRN 44761) and AFST 103 (CRN 44764).", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Credit is not given for both CEE 470 and ME 471. Prerequisite: CEE 360.", 
+    "creditHours": "4 hours.", 
+    "description": "Direct stiffness method of structural analysis; fundamentals and algorithms; numerical analysis of plane trusses, grids and frames; virtual work and energy principles; finite element method for plane stress and plane strain. 4 undergraduate hours. 4 graduate hours. Credit is not given for both CEE 470 and ME 471. Prerequisite: CEE 360.", 
+    "href": "/2017/spring/CEE/470.json", 
+    "id": "CEE 470", 
+    "label": "Structural Analysis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CEE/470/60847.json", 
+                "id": "60847"
+            }, 
+            {
+                "content": "RS", 
+                "href": "/2017/spring/CEE/470/31729.json", 
+                "id": "31729"
+            }
+        ]
+    }
+}

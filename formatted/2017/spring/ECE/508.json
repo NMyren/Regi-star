@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as CS 508. 4 graduate hours. No professional credit. Prerequisite: ECE 408 or CS 420.", 
+    "creditHours": "4 hours.", 
+    "description": "Algorithm techniques for enhancing the scalability of parallel software: scatter vs. gather, problem decomposition, spatial sorting and binning, privatization for reduced conflicts, tiling for data locality, regularization for improved load balance, compaction to conserve memory bandwidth, double-buffering to overlap latencies, and data layout for improved efficiency of DRAM accesses. Same as CS 508. 4 graduate hours. No professional credit. Prerequisite: ECE 408 or CS 420.", 
+    "href": "/2017/spring/ECE/508.json", 
+    "id": "ECE 508", 
+    "label": "Manycore Parallel Algorithms", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "E", 
+            "href": "/2017/spring/ECE/508/65719.json", 
+            "id": "65719"
+        }
+    }
+}

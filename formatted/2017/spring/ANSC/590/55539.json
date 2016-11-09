@@ -1,0 +1,57 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/ANSC/590/55539.json", 
+    "id": "55539", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Animal Sciences Laboratory", 
+            "daysOfTheWeek": "R", 
+            "end": "12:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Rodriguez-Zas, S", 
+                    "firstName": "S", 
+                    "lastName": "Rodriguez-Zas"
+                }
+            }, 
+            "roomNumber": "292", 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Animal Sciences Seminar", 
+            "href": "/2017/spring/ANSC/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "N2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Meets with INFO 591.", 
+    "sectionTitle": "Bioinformatics", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

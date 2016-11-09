@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional credit. Credit is not given for MATH 472 and MATH 565. Prerequisite: MATH 471.", 
+    "creditHours": "4 hours.", 
+    "description": "Tabular and parametric survival models with single or multiple-life states; life insurance and annuity premium calculations; reserving, and profit measures; introduction to universal life insurances, participating insurances, pension plans and retirement benefits. 4 graduate hours. No professional credit. Credit is not given for MATH 472 and MATH 565. Prerequisite: MATH 471.", 
+    "href": "/2017/spring/MATH/565.json", 
+    "id": "MATH 565", 
+    "label": "Actuarial Models for Life Contingencies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "content": "D1", 
+            "href": "/2017/spring/MATH/565/65637.json", 
+            "id": "65637"
+        }
+    }
+}

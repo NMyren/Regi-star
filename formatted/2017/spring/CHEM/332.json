@@ -1,0 +1,89 @@
+{
+    "courseSectionInformation": "Credit is not given for both CHEM 332 and CHEM 436. This course should not be taken by students who have completed CHEM 236. Prerequisite: CHEM 232 and CHEM 233.", 
+    "creditHours": "4 hours.", 
+    "description": "Continuation of CHEM 232 focuses on organic chemistry and its applications to biochemistry, enzyme mechanisms and the life sciences. Credit is not given for both CHEM 332 and CHEM 436. This course should not be taken by students who have completed CHEM 236. Prerequisite: CHEM 232 and CHEM 233.", 
+    "href": "/2017/spring/CHEM/332.json", 
+    "id": "CHEM 332", 
+    "label": "Elementary Organic Chem II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CHEM/332/60621.json", 
+                "id": "60621"
+            }, 
+            {
+                "content": "AQ1", 
+                "href": "/2017/spring/CHEM/332/63781.json", 
+                "id": "63781"
+            }, 
+            {
+                "content": "AQ2", 
+                "href": "/2017/spring/CHEM/332/63782.json", 
+                "id": "63782"
+            }, 
+            {
+                "content": "AQ3", 
+                "href": "/2017/spring/CHEM/332/63784.json", 
+                "id": "63784"
+            }, 
+            {
+                "content": "AQ4", 
+                "href": "/2017/spring/CHEM/332/64047.json", 
+                "id": "64047"
+            }, 
+            {
+                "content": "BL1", 
+                "href": "/2017/spring/CHEM/332/60622.json", 
+                "id": "60622"
+            }, 
+            {
+                "content": "BQ1", 
+                "href": "/2017/spring/CHEM/332/63785.json", 
+                "id": "63785"
+            }, 
+            {
+                "content": "BQ2", 
+                "href": "/2017/spring/CHEM/332/63786.json", 
+                "id": "63786"
+            }, 
+            {
+                "content": "BQ3", 
+                "href": "/2017/spring/CHEM/332/63787.json", 
+                "id": "63787"
+            }, 
+            {
+                "content": "BQ4", 
+                "href": "/2017/spring/CHEM/332/64048.json", 
+                "id": "64048"
+            }, 
+            {
+                "content": "CDA", 
+                "href": "/2017/spring/CHEM/332/65693.json", 
+                "id": "65693"
+            }, 
+            {
+                "content": "CL1", 
+                "href": "/2017/spring/CHEM/332/52261.json", 
+                "id": "52261"
+            }
+        ]
+    }
+}

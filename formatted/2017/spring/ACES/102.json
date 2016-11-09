@@ -1,0 +1,44 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "An objective approach towards critical systems thinking and towards collaborative analysis across multiple disciplines for the development, production, preparation, consumption, and utilization of food, feed, fiber and energy, while managing the disposal and reuse of byproducts, within complex socioeconomic, ecological and environmental systems. Students will be introduced to the fundamentals of modern crop, livestock, and other agricultural production systems, and consider the future challenges and opportunities in producing enough for a growing world population.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Natural Sciences & Technology", 
+            "id": "NAT", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1LS", 
+                    "content": "UIUC: Life Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/ACES/102.json", 
+    "id": "ACES 102", 
+    "label": "Intro Sustainable Food Systems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural, Consumer and Environmental Sciences", 
+            "href": "/2017/spring/ACES.json", 
+            "id": "ACES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Life Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "LR", 
+            "href": "/2017/spring/ACES/102/63906.json", 
+            "id": "63906"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LAW/792/49233.json", 
+    "id": "49233", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "R", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Dash, L", 
+                    "firstName": "L", 
+                    "lastName": "Dash"
+                }
+            }, 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "S6 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Current Legal Problems", 
+            "href": "/2017/spring/LAW/792.json", 
+            "id": "792"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Law department.", 
+    "sectionNumber": "T", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Immersion Journalism", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

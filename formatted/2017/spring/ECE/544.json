@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated 8 hours in a term to a total of 20 hours. Credit towards a degree from multiple offerings of this course is not given if those offerings have significant overlap, as determined by the ECE department. Prerequisite: As specified each term. It is expected that each offering will have a 500-level course as prerequisite or co-requisite.", 
+    "creditHours": "4 hours.", 
+    "description": "Lectures and discussions related to advanced topics and new areas of interest in signal processing: speech, image, and multidimensional processing. May be repeated 8 hours in a term to a total of 20 hours. Credit towards a degree from multiple offerings of this course is not given if those offerings have significant overlap, as determined by the ECE department. Prerequisite: As specified each term. It is expected that each offering will have a 500-level course as prerequisite or co-requisite.", 
+    "href": "/2017/spring/ECE/544.json", 
+    "id": "ECE 544", 
+    "label": "Topics in Signal Processing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "NA", 
+            "href": "/2017/spring/ECE/544/57172.json", 
+            "id": "57172"
+        }
+    }
+}

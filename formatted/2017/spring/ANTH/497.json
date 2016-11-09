@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Prerequisite: ANTH 230; some knowledge of the language of the area concerned; consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Analysis, interpretation, evaluation, and organization of field data in cultural anthropology; preparation of written reports on research in ethnography, ethnology, linguistics, or social anthropology. May be taken concurrently with ANTH 496 or subsequently. 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Prerequisite: ANTH 230; some knowledge of the language of the area concerned; consent of instructor.", 
+    "href": "/2017/spring/ANTH/497.json", 
+    "id": "ANTH 497", 
+    "label": "Individual Field Data Analysis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Anthropology", 
+            "href": "/2017/spring/ANTH.json", 
+            "id": "ANTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ANTH/497/10310.json", 
+            "id": "10310"
+        }
+    }
+}

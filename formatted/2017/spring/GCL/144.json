@@ -1,0 +1,47 @@
+{
+    "courseSectionInformation": "Prerequisite: Restricted to first-year freshman and transfer students.", 
+    "creditHours": "3 hours.", 
+    "description": "Grand Challenge Learning course in Inequality & Cultural Understanding provides an interdisciplinary introduction to questions related to societal inequality. Each section emphasizes experiential learning through, for example, field trips or hands-on, community-based research projects. Prerequisite: Restricted to first-year freshman and transfer students.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1BSC", 
+                    "content": "UIUC: Behavioral Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/GCL/144.json", 
+    "id": "GCL 144", 
+    "label": "Stereotypes, Prejudice & Discrimination", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Grand Challenge Learning", 
+            "href": "/2017/spring/GCL.json", 
+            "id": "GCL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to First Time Freshman or Transfer student - first time students.", 
+    "sectionDegreeAttributes": "Behavioral Sciences, and Grand Challenge-Inequality course.", 
+    "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GCL/144/65053.json", 
+            "id": "65053"
+        }
+    }
+}

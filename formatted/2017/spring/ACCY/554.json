@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional credit. Prerequisite: ACCY 451, credit or concurrent enrollment in ACCY 556; or equivalent, or consent of department. Restricted to students enrolled in the MS Tax Program or MAS with Tax Concentration.", 
+    "creditHours": "4 hours.", 
+    "description": "This course analyzes the tax treatment, issues, planning techniques and underlying government policies involved in doing business internationally. The course incorporates concepts learned in all of the tax courses as they relate to the impact on cross border transactions, including source of income, inbound and outbound transfers, foreign tax credits, foreign currency transactions, controlled foreign corporations, Subpart F income, foreign taxpayers with US activities, treaties, and transfer pricing. 4 graduate hours. No professional credit. Prerequisite: ACCY 451, credit or concurrent enrollment in ACCY 556; or equivalent, or consent of department. Restricted to students enrolled in the MS Tax Program or MAS with Tax Concentration.", 
+    "href": "/2017/spring/ACCY/554.json", 
+    "id": "ACCY 554", 
+    "label": "International Taxation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Accountancy", 
+            "href": "/2017/spring/ACCY.json", 
+            "id": "ACCY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/ACCY/554/65171.json", 
+                "id": "65171"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/ACCY/554/65172.json", 
+                "id": "65172"
+            }
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Same as AHS 375 and KIN 375. May be repeated in separate terms to a maximum of 6 hours.", 
+    "creditHours": "3 hours.", 
+    "description": "Combines a community-based volunteer experience with class-based readings/discussion to introduce students to the study of communication in context. Students will use learning journals to document their volunteer experiences, describe the characteristics of conversational interactions they observe, and reflect on their own skills as flexible communication partners with people of various backgrounds and abilities and in a variety of clinical and professional settings. Includes a one-hour weekly discussion section (taught by SHS faculty/instructional staff) and three-four hour weekly community volunteer experiences (supervised by volunteer site employees). Same as AHS 375 and KIN 375. May be repeated in separate terms to a maximum of 6 hours.", 
+    "href": "/2017/spring/SHS/375.json", 
+    "id": "SHS 375", 
+    "label": "Comm Partners & Health", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/SHS/375/53347.json", 
+                "id": "53347"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/SHS/375/53386.json", 
+                "id": "53386"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/SHS/375/55409.json", 
+                "id": "55409"
+            }
+        ]
+    }
+}

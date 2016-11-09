@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: PHYS 212; credit or concurrent registration in MATH 285.", 
+    "creditHours": "3 hours.", 
+    "description": "Applications of elementary nuclear physics in nuclear engineering. Nuclear reactor materials and components. Steady-state and transient operation of nuclear reactors. Nuclear energy removal and conversion. Radiation shielding. Prerequisite: PHYS 212; credit or concurrent registration in MATH 285.", 
+    "href": "/2017/spring/NPRE/247.json", 
+    "id": "NPRE 247", 
+    "label": "Modeling Nuclear Energy System", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Nuclear, Plasma, and Radiological Engineering", 
+            "href": "/2017/spring/NPRE.json", 
+            "id": "NPRE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "C", 
+            "href": "/2017/spring/NPRE/247/34695.json", 
+            "id": "34695"
+        }
+    }
+}

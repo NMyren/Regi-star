@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "Approval of the department is required to register. Prerequisite: Credit or concurrent registration in MATH 220 or MATH 221.", 
+    "creditHours": "1 or 2 hours.", 
+    "description": "Conceptual and problem solving skills in preparation for PHYS 211. Part I (first eight weeks, 1 credit hour): analysis and mathematical descriptions of physical situations; understanding the meaning of the solutions. Part II (remainder of term, 2 credit hours for full term): development of problem solving skills and content from Part I. Approval of the department is required to register. Prerequisite: Credit or concurrent registration in MATH 220 or MATH 221.", 
+    "href": "/2017/spring/PHYS/100.json", 
+    "id": "PHYS 100", 
+    "label": "Thinking About Physics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/PHYS/100/48977.json", 
+                "id": "48977"
+            }, 
+            {
+                "content": "D1", 
+                "href": "/2017/spring/PHYS/100/54816.json", 
+                "id": "54816"
+            }, 
+            {
+                "content": "D2", 
+                "href": "/2017/spring/PHYS/100/54817.json", 
+                "id": "54817"
+            }, 
+            {
+                "content": "D3", 
+                "href": "/2017/spring/PHYS/100/58049.json", 
+                "id": "58049"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as EPSY 581. See EPSY 581.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as EPSY 581. See EPSY 581.", 
+    "href": "/2017/spring/PSYC/581.json", 
+    "id": "PSYC 581", 
+    "label": "Applied Regression Analysis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PSYC/581/40010.json", 
+            "id": "40010"
+        }
+    }
+}

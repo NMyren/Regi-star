@@ -1,0 +1,34 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "4080 Foreign Languages Building, 707 South Mathews, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Head of Department: Mariselle Mel\u00c3\u00a9ndez\nDepartment Office, 4080 Foreign Languages Building, 707 South Mathews, Urbana, 333-3390\nSubjects associated with this department include: Basque (BASQ), Catalan (CATL), Portuguese (PORT), Romance Languages (RMLG), and Spanish (SPAN).\n//www.spanport.illinois.edu/undergrad/catalan/", 
+    "contactName": "Mariselle Mel\u00c3\u00a9ndez", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": {
+            "content": "Studies in Catalan Literature", 
+            "href": "/2017/spring/CATL/402.json", 
+            "id": "402"
+        }
+    }, 
+    "departmentCode": "1585", 
+    "id": "CATL", 
+    "label": "Catalan", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-3390", 
+    "subjectComment": "Subjects associated with this department include: Basque (BASQ), Catalan (CATL), Portuguese (PORT), Romance Languages (RMLG), and Spanish (SPAN).", 
+    "unitName": "Spanish and Portuguese", 
+    "webSiteURL": "//www.spanport.illinois.edu/undergrad/catalan/"
+}

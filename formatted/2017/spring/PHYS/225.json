@@ -1,0 +1,69 @@
+{
+    "courseSectionInformation": "Prerequisite: Credit or concurrent registration in PHYS 212.", 
+    "creditHours": "2 hours.", 
+    "description": "Theory of Special Relativity, with applications to kinematics and dynamics. Key mathematical methods as they apply to aspects of electromagnetic theory and classical mechanics, including vector analysis, series expansions, matrices, Fourier analysis, partial differentiation, three-dimensional calculus, and simple differential equations. Prerequisite: Credit or concurrent registration in PHYS 212.", 
+    "href": "/2017/spring/PHYS/225.json", 
+    "id": "PHYS 225", 
+    "label": "Relativity & Math Applications", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/PHYS/225/53724.json", 
+                "id": "53724"
+            }, 
+            {
+                "content": "D4A", 
+                "href": "/2017/spring/PHYS/225/57367.json", 
+                "id": "57367"
+            }, 
+            {
+                "content": "D4E", 
+                "href": "/2017/spring/PHYS/225/58891.json", 
+                "id": "58891"
+            }, 
+            {
+                "content": "D4J", 
+                "href": "/2017/spring/PHYS/225/58892.json", 
+                "id": "58892"
+            }, 
+            {
+                "content": "D4M", 
+                "href": "/2017/spring/PHYS/225/58894.json", 
+                "id": "58894"
+            }, 
+            {
+                "content": "D4U", 
+                "href": "/2017/spring/PHYS/225/63302.json", 
+                "id": "63302"
+            }, 
+            {
+                "content": "D5A", 
+                "href": "/2017/spring/PHYS/225/53725.json", 
+                "id": "53725"
+            }, 
+            {
+                "content": "D5E", 
+                "href": "/2017/spring/PHYS/225/53726.json", 
+                "id": "53726"
+            }
+        ]
+    }
+}

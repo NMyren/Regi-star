@@ -1,0 +1,34 @@
+{
+    "classScheduleInformation": "For art majors only.", 
+    "courseSectionInformation": "May be repeated to a maximum of 6 hours. Prerequisite: Junior standing in Fine and Applied Arts or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Seminar with readings, lectures, discussions on ideas and issues affecting contemporary art. Attendance is required at visiting artists' and scholars' lectures and field trips. May be repeated to a maximum of 6 hours. Prerequisite: Junior standing in Fine and Applied Arts or consent of instructor.", 
+    "href": "/2017/spring/ARTS/392.json", 
+    "id": "ARTS 392", 
+    "label": "Current Art Issues Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Studio", 
+            "href": "/2017/spring/ARTS.json", 
+            "id": "ARTS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graphic Design or Crafts or History of Art or Photography or Industrial Design or Painting or Sculpture or Art Education or New Media major(s).", 
+    "sections": {
+        "section": {
+            "content": "T6", 
+            "href": "/2017/spring/ARTS/392/30723.json", 
+            "id": "30723"
+        }
+    }
+}

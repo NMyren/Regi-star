@@ -1,0 +1,58 @@
+{
+    "courseSectionInformation": "Same as AFRO 340.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduces students to black dance aesthetics and its interconnectedness with American popular culture. By exploring its cultural, political and historical roots, coupled with theoretical concepts of \"the popular\" and ties to the vernacular, the course will be organized around significant markers that have shaped black dance's development. Same as AFRO 340.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1US", 
+                        "content": "UIUC: US Minority Culture(s)"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/DANC/340.json", 
+    "id": "DANC 340", 
+    "label": "Dancing Black Popular Culture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and US Minority Culture(s) course.", 
+    "sections": {
+        "section": {
+            "content": "ONL", 
+            "href": "/2017/spring/DANC/340/65069.json", 
+            "id": "65069"
+        }
+    }
+}

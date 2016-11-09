@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as CWL 257. Prerequisite: Completion of the Composition I requirement.", 
+    "creditHours": "3 hours.", 
+    "description": "Study in Anglophone and global texts from the period 1600 to 1800, with attention to cultural and historical contexts. Same as CWL 257. Prerequisite: Completion of the Composition I requirement.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1LA", 
+                        "content": "UIUC: Literature and the Arts"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/ENGL/206.json", 
+    "id": "ENGL 206", 
+    "label": "Enlightenment Lit and Culture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Literature and the Arts, and Western Compartv Cult course.", 
+    "sections": {
+        "section": {
+            "content": "M", 
+            "href": "/2017/spring/ENGL/206/31983.json", 
+            "id": "31983"
+        }
+    }
+}

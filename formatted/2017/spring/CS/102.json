@@ -1,0 +1,63 @@
+{
+    "courseSectionInformation": "Same as INFO 102. See INFO 102.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as INFO 102. See INFO 102.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Quantitative Reasoning", 
+            "id": "QR", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1QR1", 
+                    "content": "UIUC: Quant Reasoning I"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CS/102.json", 
+    "id": "CS 102", 
+    "label": "Little Bits to Big Ideas", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Quant Reasoning I course.", 
+    "sectionRegistrationNotes": "Restricted to Informatics major(s) or minor(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/CS/102/63230.json", 
+                "id": "63230"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/CS/102/63231.json", 
+                "id": "63231"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/CS/102/63232.json", 
+                "id": "63232"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CS/102/63225.json", 
+                "id": "63225"
+            }
+        ]
+    }
+}

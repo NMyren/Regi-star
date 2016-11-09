@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 12 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Supervised laboratory experiences in kinesiology research; individual work under the supervision of members of the faculty in their respective fields. The student assists with data collection, processing, and analysis for research in progress. May be repeated to a maximum of 12 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/KIN/385.json", 
+    "id": "KIN 385", 
+    "label": "Exper in Kinesiology Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/KIN/385/10475.json", 
+            "id": "10475"
+        }
+    }
+}

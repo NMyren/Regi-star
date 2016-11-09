@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as ANTH, IB 432, and PSYC 432. See IB 432.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as ANTH, IB 432, and PSYC 432. See IB 432.", 
+    "href": "/2017/spring/NEUR/432.json", 
+    "id": "NEUR 432", 
+    "label": "Genes and Behavior", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Neuroscience", 
+            "href": "/2017/spring/NEUR.json", 
+            "id": "NEUR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "AL1", 
+            "href": "/2017/spring/NEUR/432/47551.json", 
+            "id": "47551"
+        }
+    }
+}

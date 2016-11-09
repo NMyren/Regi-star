@@ -1,0 +1,31 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Examines historical and philosophical foundations of various organizations responsible for providing recreation opportunities and services. Program planning, evaluation, and marketing and financing strategies are examined in the public, not-for-profit and private recreation delivery systems.", 
+    "href": "/2017/spring/RST/120.json", 
+    "id": "RST 120", 
+    "label": "Foundations of Recreation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/RST/120/43101.json", 
+            "id": "43101"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated in separate terms to a maximum of 4 hours. Prerequisite: Clinical/Community Psychology graduate students only; or consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "Addresses issues of human diversity in the research and applied work of Clinical/Community Psychologists. Diversity is broadly defined and includes attention to, for example: national origin, culture, race, ethnicity, social class, physical ability, cognitive ability, sexual orientation, gender identity, and privilege/oppression. Utilizes both the scholarly literature on diversity, and experiential exercises to develop knowledge and cultural competence. Approved for S/U grading only. May be repeated in separate terms to a maximum of 4 hours. Prerequisite: Clinical/Community Psychology graduate students only; or consent of instructor.", 
+    "href": "/2017/spring/PSYC/575.json", 
+    "id": "PSYC 575", 
+    "label": "Clinical/Community: Diversity", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PSYC/575/54709.json", 
+            "id": "54709"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/SLCL/200/65425.json", 
+    "id": "65425", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "MW", 
+            "end": "01:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Derhemi, E", 
+                    "firstName": "E", 
+                    "lastName": "Derhemi"
+                }
+            }, 
+            "roomNumber": "304", 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics in Global Culture", 
+            "href": "/2017/spring/SLCL/200.json", 
+            "id": "200"
+        }, 
+        "subject": {
+            "content": "Literatures, Cultures, and Linguistics", 
+            "href": "/2017/spring/SLCL.json", 
+            "id": "SLCL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "LCM", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic:  Languages and Cultures of the Mediterranean.  This course covers over a dozen languages and cultures of the Mediterranean, where civilizations, cultures and languages have intermingled and competed for thousands of years. These interactions are still crucial to understanding contemporary events in the Mediterranean countries as well as in other parts of Europe, Northern Africa and Middle East. An introduction to the social and cultural history of languages spoken in countries like Greece and Egypt, Morocco and Spain, Italy and Turkey, Albania and Croatia, France and Algeria, Syria and Israel and more will be offered in this course. The starting point will be the Mediterranean of today, tracing the historical development of the languages as an ongoing process in relation to historical events, culture, politics and religion. The main requirement for the course is to complete four take-home papers, each 3-4 pages long.", 
+    "sectionTitle": "Lang&Cult of the Mediterranean", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

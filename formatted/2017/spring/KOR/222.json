@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Credit is not given for KOR 222 if credit for KOR 202 has been earned; determination is based on the placement test. Prerequisite: KOR 221 or as determined by a placement test and an instructor. Students must have taken KOR 221 at this University. Otherwise, those with prior knowledge of Korean must take placement test in January. Sign up for the test in the office of the EALC Department (244-2725).", 
+    "creditHours": "4 hours.", 
+    "description": "Continuation of KOR 221 and second semester of spoken and written Korean for the students with background in Korean. Students learn basic grammar, vocabulary, and commonly used expressions, to achieve the beginning-intermediate level proficiency in reading and writing as well as in speaking of Korean. Credit is not given for KOR 222 if credit for KOR 202 has been earned; determination is based on the placement test. Prerequisite: KOR 221 or as determined by a placement test and an instructor. Students must have taken KOR 221 at this University. Otherwise, those with prior knowledge of Korean must take placement test in January. Sign up for the test in the office of the EALC Department (244-2725).", 
+    "href": "/2017/spring/KOR/222.json", 
+    "id": "KOR 222", 
+    "label": "Korean Reading and Writing II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Korean", 
+            "href": "/2017/spring/KOR.json", 
+            "id": "KOR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "D", 
+            "href": "/2017/spring/KOR/222/35286.json", 
+            "id": "35286"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: Credit or concurrent registration in TSM 421 or TSM 422, or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Management aspects of farm and agriculturally related business safety and health. Topics include: orientation to farm and agricultural related business safety and health issues, legal and ethical responsibilities, liability issues, injury/illness incident investigation, agricultural safety and health resources, how to approach and organize a safety and health management plan, and safety and health worker education and training. Case study approach to devise a safety and health management plan for an existing farm or agricultural related business. Team work to emulate development of safety management programs in general industry. Student exposure through class discussion exercises to recent agricultural safety and health research studies conducted in North America and Europe. 3 undergraduate hours. 3 graduate hours. Prerequisite: Credit or concurrent registration in TSM 421 or TSM 422, or consent of instructor.", 
+    "href": "/2017/spring/TSM/425.json", 
+    "id": "TSM 425", 
+    "label": "Managing Ag Safety Risk", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Technical Systems Management", 
+            "href": "/2017/spring/TSM.json", 
+            "id": "TSM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/TSM/425/47285.json", 
+            "id": "47285"
+        }
+    }
+}

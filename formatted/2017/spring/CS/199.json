@@ -1,0 +1,54 @@
+{
+    "courseSectionInformation": "May be repeated.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "May be repeated.", 
+    "href": "/2017/spring/CS/199.json", 
+    "id": "CS 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "CH", 
+                "href": "/2017/spring/CS/199/48739.json", 
+                "id": "48739"
+            }, 
+            {
+                "content": "DYB", 
+                "href": "/2017/spring/CS/199/63080.json", 
+                "id": "63080"
+            }, 
+            {
+                "content": "LA1", 
+                "href": "/2017/spring/CS/199/31197.json", 
+                "id": "31197"
+            }, 
+            {
+                "content": "PUR", 
+                "href": "/2017/spring/CS/199/56371.json", 
+                "id": "56371"
+            }, 
+            {
+                "content": "US", 
+                "href": "/2017/spring/CS/199/65871.json", 
+                "id": "65871"
+            }
+        ]
+    }
+}

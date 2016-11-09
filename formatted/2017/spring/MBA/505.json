@@ -1,0 +1,84 @@
+{
+    "courseSectionInformation": "May be repeated in the same term. Prerequisite: Enrollment in good standing in the MBA program.", 
+    "creditHours": "2 hours.", 
+    "description": "Special topics important to the study of business and management. Examples of topics include international business, strategic thinking, operations analysis, project management, information technology, negotiations. May be repeated in the same term. Prerequisite: Enrollment in good standing in the MBA program.", 
+    "href": "/2017/spring/MBA/505.json", 
+    "id": "MBA 505", 
+    "label": "Topics in Management", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Regular MBA Program Administration", 
+            "href": "/2017/spring/MBA.json", 
+            "id": "MBA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/MBA/505/38397.json", 
+                "id": "38397"
+            }, 
+            {
+                "content": "GB", 
+                "href": "/2017/spring/MBA/505/38382.json", 
+                "id": "38382"
+            }, 
+            {
+                "content": "GE1", 
+                "href": "/2017/spring/MBA/505/53163.json", 
+                "id": "53163"
+            }, 
+            {
+                "content": "NG1", 
+                "href": "/2017/spring/MBA/505/52987.json", 
+                "id": "52987"
+            }, 
+            {
+                "content": "NG2", 
+                "href": "/2017/spring/MBA/505/38381.json", 
+                "id": "38381"
+            }, 
+            {
+                "content": "OA", 
+                "href": "/2017/spring/MBA/505/38389.json", 
+                "id": "38389"
+            }, 
+            {
+                "content": "P1", 
+                "href": "/2017/spring/MBA/505/38396.json", 
+                "id": "38396"
+            }, 
+            {
+                "content": "P2", 
+                "href": "/2017/spring/MBA/505/38386.json", 
+                "id": "38386"
+            }, 
+            {
+                "content": "SBE", 
+                "href": "/2017/spring/MBA/505/47792.json", 
+                "id": "47792"
+            }, 
+            {
+                "content": "SIM", 
+                "href": "/2017/spring/MBA/505/47676.json", 
+                "id": "47676"
+            }, 
+            {
+                "content": "ST1", 
+                "href": "/2017/spring/MBA/505/47256.json", 
+                "id": "47256"
+            }
+        ]
+    }
+}

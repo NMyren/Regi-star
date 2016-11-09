@@ -1,0 +1,108 @@
+{
+    "classScheduleInformation": "Students will be required upon request to participate in a total of 3 hours of experiments outside of class. Students must register for one discussion and one lecture section.", 
+    "courseSectionInformation": "Prerequisite: PSYC 100.", 
+    "creditHours": "3 hours.", 
+    "description": "Explores fundamental issues of development, learning, instruction, and assessment. This course articulates how people learn, how they are influenced by cultural and social contexts, how to assess learning and its outcomes, and how best to teach and motivate people to achieve. Educational psychologists improve learning in a broad range of settings: homes, classrooms, work environments, and communities.  Prerequisite: PSYC 100.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1BSC", 
+                    "content": "UIUC: Behavioral Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/EPSY/201.json", 
+    "id": "EPSY 201", 
+    "label": "Educational Psychology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Behavioral Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/EPSY/201/33931.json", 
+                "id": "33931"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/EPSY/201/33932.json", 
+                "id": "33932"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/EPSY/201/33933.json", 
+                "id": "33933"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/EPSY/201/33934.json", 
+                "id": "33934"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/EPSY/201/33935.json", 
+                "id": "33935"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/EPSY/201/33936.json", 
+                "id": "33936"
+            }, 
+            {
+                "content": "AD7", 
+                "href": "/2017/spring/EPSY/201/33937.json", 
+                "id": "33937"
+            }, 
+            {
+                "content": "AD8", 
+                "href": "/2017/spring/EPSY/201/33938.json", 
+                "id": "33938"
+            }, 
+            {
+                "content": "AD9", 
+                "href": "/2017/spring/EPSY/201/33939.json", 
+                "id": "33939"
+            }, 
+            {
+                "content": "ADA", 
+                "href": "/2017/spring/EPSY/201/62241.json", 
+                "id": "62241"
+            }, 
+            {
+                "content": "ADB", 
+                "href": "/2017/spring/EPSY/201/62242.json", 
+                "id": "62242"
+            }, 
+            {
+                "content": "ADC", 
+                "href": "/2017/spring/EPSY/201/62243.json", 
+                "id": "62243"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/EPSY/201/33940.json", 
+                "id": "33940"
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/ANTH/499/65204.json", 
+    "id": "65204", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Davenport Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "08:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Smalls, K", 
+                    "firstName": "K", 
+                    "lastName": "Smalls"
+                }
+            }, 
+            "roomNumber": "209A", 
+            "start": "06:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics in Anthropology", 
+            "href": "/2017/spring/ANTH/499.json", 
+            "id": "499"
+        }, 
+        "subject": {
+            "content": "Anthropology", 
+            "href": "/2017/spring/ANTH.json", 
+            "id": "ANTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "KS", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Anthropology of the Gullah/Geechee: Then and Now Students should consult with the instructor prior to enrolling in the course.  An additional fee to cover the cost of the field experience will be required.\"", 
+    "sectionTitle": "Anth  of the Gullah/Geechee", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

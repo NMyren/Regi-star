@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "0 to 12 undergraduate hours. 0 to 12 graduate hours. Approved for both letter and S/U grading. Prerequisite: Senior or graduate standing in architecture and approval of program prior to registration.", 
+    "creditHours": "0 TO 12 hours.", 
+    "description": "Provides opportunity for approved off-campus study. Detailed proposal for study off campus must be submitted for approval to the appropriate committee in the School prior to such study. Final determination of credit and its application toward the degree is made after a review of the student's off-campus work by the above committee and the Director of School. 0 to 12 undergraduate hours. 0 to 12 graduate hours. Approved for both letter and S/U grading. Prerequisite: Senior or graduate standing in architecture and approval of program prior to registration.", 
+    "href": "/2017/spring/ARCH/499.json", 
+    "id": "ARCH 499", 
+    "label": "Off-Campus Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "MUN", 
+            "href": "/2017/spring/ARCH/499/61241.json", 
+            "id": "61241"
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "courseSectionInformation": "Same as NPRE 101. See NPRE 101.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as NPRE 101. See NPRE 101.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Natural Sciences & Technology", 
+                "id": "NAT", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1PS", 
+                        "content": "UIUC: Physical Sciences"
+                    }
+                }
+            }, 
+            {
+                "description": "Quantitative Reasoning", 
+                "id": "QR", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1QR2", 
+                        "content": "UIUC: Quant Reasoning II"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/ENVS/101.json", 
+    "id": "ENVS 101", 
+    "label": "Introduction to Energy Sources", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Environmental Studies", 
+            "href": "/2017/spring/ENVS.json", 
+            "id": "ENVS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/ENVS/101/34667.json", 
+                "id": "34667"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ENVS/101/34678.json", 
+                "id": "34678"
+            }, 
+            {
+                "content": "AY1", 
+                "href": "/2017/spring/ENVS/101/34671.json", 
+                "id": "34671"
+            }, 
+            {
+                "content": "AY2", 
+                "href": "/2017/spring/ENVS/101/34674.json", 
+                "id": "34674"
+            }
+        ]
+    }
+}

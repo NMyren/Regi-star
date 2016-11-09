@@ -1,0 +1,34 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 8 hours. Prerequisite: Graduate standing in music or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "May be repeated to a maximum of 8 hours. Prerequisite: Graduate standing in music or consent of instructor.", 
+    "href": "/2017/spring/MUS/557.json", 
+    "id": "MUS 557", 
+    "label": "Piano Literature", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Music department.", 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/557/34798.json", 
+            "id": "34798"
+        }
+    }
+}

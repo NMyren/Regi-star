@@ -1,0 +1,165 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "1201 West Nevada, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Head of Department: Ronald Bailey\nDepartment Office, 1201 West Nevada, Urbana, 333-7781\nwww.afro.illinois.edu/", 
+    "contactName": "Ronald Bailey", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Intro to African American St", 
+                "href": "/2017/spring/AFRO/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "Black America, 1619-Present", 
+                "href": "/2017/spring/AFRO/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "Black Women in the Diaspora", 
+                "href": "/2017/spring/AFRO/103.json", 
+                "id": "103"
+            }, 
+            {
+                "content": "Black Literature in America", 
+                "href": "/2017/spring/AFRO/105.json", 
+                "id": "105"
+            }, 
+            {
+                "content": "African American Music", 
+                "href": "/2017/spring/AFRO/132.json", 
+                "id": "132"
+            }, 
+            {
+                "content": "US Racial & Ethnic Politics", 
+                "href": "/2017/spring/AFRO/201.json", 
+                "id": "201"
+            }, 
+            {
+                "content": "US Citizenship Comparatively", 
+                "href": "/2017/spring/AFRO/215.json", 
+                "id": "215"
+            }, 
+            {
+                "content": "Intro to Research Methods AfAm", 
+                "href": "/2017/spring/AFRO/220.json", 
+                "id": "220"
+            }, 
+            {
+                "content": "History of the Prison", 
+                "href": "/2017/spring/AFRO/221.json", 
+                "id": "221"
+            }, 
+            {
+                "content": "Humanist Persp of Afro-Am Exp", 
+                "href": "/2017/spring/AFRO/224.json", 
+                "id": "224"
+            }, 
+            {
+                "content": "Black Women Contemp US Society", 
+                "href": "/2017/spring/AFRO/226.json", 
+                "id": "226"
+            }, 
+            {
+                "content": "Studies in Black Television", 
+                "href": "/2017/spring/AFRO/227.json", 
+                "id": "227"
+            }, 
+            {
+                "content": "Lang Diff Dis: American Persp", 
+                "href": "/2017/spring/AFRO/231.json", 
+                "id": "231"
+            }, 
+            {
+                "content": "Afro-American Literature II", 
+                "href": "/2017/spring/AFRO/260.json", 
+                "id": "260"
+            }, 
+            {
+                "content": "Afro-American History to 1877", 
+                "href": "/2017/spring/AFRO/275.json", 
+                "id": "275"
+            }, 
+            {
+                "content": "Spec Topics African-Am Studies", 
+                "href": "/2017/spring/AFRO/298.json", 
+                "id": "298"
+            }, 
+            {
+                "content": "Race and Cultural Diversity", 
+                "href": "/2017/spring/AFRO/310.json", 
+                "id": "310"
+            }, 
+            {
+                "content": "Africana Feminisms", 
+                "href": "/2017/spring/AFRO/415.json", 
+                "id": "415"
+            }, 
+            {
+                "content": "Racial and Ethnic Families", 
+                "href": "/2017/spring/AFRO/421.json", 
+                "id": "421"
+            }, 
+            {
+                "content": "Commodifying Difference", 
+                "href": "/2017/spring/AFRO/435.json", 
+                "id": "435"
+            }, 
+            {
+                "content": "Black Freed Move, 1955-Present", 
+                "href": "/2017/spring/AFRO/474.json", 
+                "id": "474"
+            }, 
+            {
+                "content": "Immersion Journalism", 
+                "href": "/2017/spring/AFRO/482.json", 
+                "id": "482"
+            }, 
+            {
+                "content": "Theory in African American St", 
+                "href": "/2017/spring/AFRO/490.json", 
+                "id": "490"
+            }, 
+            {
+                "content": "Senior Thesis Seminar", 
+                "href": "/2017/spring/AFRO/495.json", 
+                "id": "495"
+            }, 
+            {
+                "content": "Spec Topics African Am Studies", 
+                "href": "/2017/spring/AFRO/498.json", 
+                "id": "498"
+            }, 
+            {
+                "content": "Problems African American Hist", 
+                "href": "/2017/spring/AFRO/501.json", 
+                "id": "501"
+            }, 
+            {
+                "content": "Race and Cultural Critique", 
+                "href": "/2017/spring/AFRO/531.json", 
+                "id": "531"
+            }
+        ]
+    }, 
+    "departmentCode": "1303", 
+    "id": "AFRO", 
+    "label": "African American Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-7781", 
+    "unitName": "African American Studies", 
+    "webSiteURL": "www.afro.illinois.edu/"
+}

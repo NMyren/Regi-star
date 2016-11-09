@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. 2 graduate hours. Offered in alternate years. Prerequisite: An introductory course in Plant Pathology and Microbiology, or consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "Provides up-to-date coverage of prokaryotes that cause plant diseases. Lectures, discussions, and laboratories cover taxonomy, molecular biology, etiology, detection and identification, epidemiology and management of major plant pathogenic prokaryotes. 2 undergraduate hours. 2 graduate hours. Offered in alternate years. Prerequisite: An introductory course in Plant Pathology and Microbiology, or consent of instructor.", 
+    "href": "/2017/spring/PLPA/406.json", 
+    "id": "PLPA 406", 
+    "label": "Phytobacteriology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Plant Pathology", 
+            "href": "/2017/spring/PLPA.json", 
+            "id": "PLPA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/PLPA/406/48236.json", 
+                "id": "48236"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/PLPA/406/48235.json", 
+                "id": "48235"
+            }
+        ]
+    }
+}

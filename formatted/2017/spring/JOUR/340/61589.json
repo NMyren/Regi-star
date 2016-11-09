@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/JOUR/340/61589.json", 
+    "id": "61589", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Richmond Studio", 
+            "daysOfTheWeek": "MW", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Erdey, K", 
+                    "firstName": "K", 
+                    "lastName": "Erdey"
+                }
+            }, 
+            "roomNumber": "103", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Video Reporting & Storytelling", 
+            "href": "/2017/spring/JOUR/340.json", 
+            "id": "340"
+        }, 
+        "subject": {
+            "content": "Journalism", 
+            "href": "/2017/spring/JOUR.json", 
+            "id": "JOUR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AB2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Students who have completed JOUR 440 should not register for JOUR 340.  While the number is different, the course content is the same.  Registering for the new course would be seen as duplicate credit.  Duplicate credit does not count toward graduation and students registering for the duplicate course will be asked to drop.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

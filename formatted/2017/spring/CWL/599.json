@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated to a maximum of 8 graduate hours.", 
+    "creditHours": "0 TO 16 hours.", 
+    "description": "Intended for students engaged in writing a thesis as a partial requirement for the M.A. or Ph.D. degree in comparative literature. Approved for S/U grading only. May be repeated to a maximum of 8 graduate hours.", 
+    "href": "/2017/spring/CWL/599.json", 
+    "id": "CWL 599", 
+    "label": "Thesis Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Comparative and World Literature", 
+            "href": "/2017/spring/CWL.json", 
+            "id": "CWL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CWL/599/10462.json", 
+            "id": "10462"
+        }
+    }
+}

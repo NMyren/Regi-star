@@ -1,0 +1,47 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/MATH/370/37902.json", 
+    "id": "37902", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "M", 
+            "end": "08:50 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "start": "07:00 PM", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Actuarial Problem Solving", 
+            "href": "/2017/spring/MATH/370.json", 
+            "id": "370"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "P", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This section is for students preparing for Exam 1/P.  Students are expected to be enrolled in or have completed Math 408, Stat 400, or Math 461.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

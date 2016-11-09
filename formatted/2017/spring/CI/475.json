@@ -1,0 +1,60 @@
+{
+    "courseSectionInformation": "3 or 4 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CI 467 and admission to the Elementary Teacher Education Program. Elementary Education students register for 3 hours. Special Education students register for 4 hours.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "First of a two-course sequence that examines the basic theories, issues, methods, and materials for a developmental K-8 language arts program. Emphasizes the need to integrate the four language arts (reading, writing, speaking , and listening) as tools for learning across the curriculum. Addresses cultural diversity in language arts instruction, with emphasis on linguistic diversity. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CI 467 and admission to the Elementary Teacher Education Program. Elementary Education students register for 3 hours. Special Education students register for 4 hours.", 
+    "href": "/2017/spring/CI/475.json", 
+    "id": "CI 475", 
+    "label": "Teach Elem Rdg & Lang Arts I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to Admitted Teacher Ed Student students.", 
+    "sections": {
+        "section": [
+            {
+                "content": "C1", 
+                "href": "/2017/spring/CI/475/63338.json", 
+                "id": "63338"
+            }, 
+            {
+                "content": "C2", 
+                "href": "/2017/spring/CI/475/63339.json", 
+                "id": "63339"
+            }, 
+            {
+                "content": "C3", 
+                "href": "/2017/spring/CI/475/63340.json", 
+                "id": "63340"
+            }, 
+            {
+                "content": "C4", 
+                "href": "/2017/spring/CI/475/63341.json", 
+                "id": "63341"
+            }, 
+            {
+                "content": "SE", 
+                "href": "/2017/spring/CI/475/31969.json", 
+                "id": "31969"
+            }, 
+            {
+                "content": "SE1", 
+                "href": "/2017/spring/CI/475/64887.json", 
+                "id": "64887"
+            }
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Examines the nature of justice and the dynamics of a pluralistic society to derive a conception of social justice. Working with this conception, it asks how schools function to perpetuate and/or remediate social injustice. The course will consider the history and nature of schooling, issues of access and tracking, and notions of the public and the common. The course is designed for students interested in reflecting on their own educational histories, for those considering careers in teaching, and for all future parents and citizens needing to be able to reflect critically on justice, school, and society. (Graduate candidates may take this course or approved graduate-level College of Education Educational Policy Studies Foundation Requirement course; undergraduates may take this or program-approved equivalent coursework).", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Advanced Composition", 
+                "id": "ACP", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1CLL", 
+                        "content": "UIUC: Advanced Composition"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/EDUC/202.json", 
+    "id": "EDUC 202", 
+    "label": "Social Justice Sch & Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Education", 
+            "href": "/2017/spring/EDUC.json", 
+            "id": "EDUC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition, and Hist&Philosoph Perspect course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/EDUC/202/63344.json", 
+                "id": "63344"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/EDUC/202/63345.json", 
+                "id": "63345"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/EDUC/202/63346.json", 
+                "id": "63346"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/EDUC/202/63347.json", 
+                "id": "63347"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/EDUC/202/63348.json", 
+                "id": "63348"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/EDUC/202/63349.json", 
+                "id": "63349"
+            }, 
+            {
+                "content": "AD7", 
+                "href": "/2017/spring/EDUC/202/65473.json", 
+                "id": "65473"
+            }, 
+            {
+                "content": "AS1", 
+                "href": "/2017/spring/EDUC/202/63343.json", 
+                "id": "63343"
+            }
+        ]
+    }
+}

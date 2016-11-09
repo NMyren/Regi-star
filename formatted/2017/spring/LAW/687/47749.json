@@ -1,0 +1,54 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-01-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LAW/687/47749.json", 
+    "id": "47749", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MT", 
+            "end": "05:45 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Boyle, F", 
+                    "firstName": "F", 
+                    "lastName": "Boyle"
+                }
+            }, 
+            "start": "04:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Jurisprudence", 
+            "href": "/2017/spring/LAW/687.json", 
+            "id": "687"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "LF", 
+    "sectionNumber": "G", 
+    "sectionStatusCode": "A", 
+    "specialApproval": "Departmental Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

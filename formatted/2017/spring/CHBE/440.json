@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: CHBE 421 and senior standing in Chemical and Biomolecular Engineering; MATH 285; CS 101.", 
+    "creditHours": "3 hours.", 
+    "description": "Techniques used in the analysis of process dynamics and in the design of process control systems. Laplace transforms, stability analysis, and frequency response methods. 3 undergraduate hours. 3 graduate hours. Prerequisite: CHBE 421 and senior standing in Chemical and Biomolecular Engineering; MATH 285; CS 101.", 
+    "href": "/2017/spring/CHBE/440.json", 
+    "id": "CHBE 440", 
+    "label": "Process Control and Dynamics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Chemical Engineering major(s). Restricted to students with Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHBE/440/61790.json", 
+            "id": "61790"
+        }
+    }
+}

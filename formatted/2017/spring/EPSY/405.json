@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as PSYC 465. See PSYC 465.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as PSYC 465. See PSYC 465.", 
+    "href": "/2017/spring/EPSY/405.json", 
+    "id": "EPSY 405", 
+    "label": "Personality and Soc Dev", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AG4", 
+                "href": "/2017/spring/EPSY/405/37430.json", 
+                "id": "37430"
+            }, 
+            {
+                "content": "AU3", 
+                "href": "/2017/spring/EPSY/405/37426.json", 
+                "id": "37426"
+            }
+        ]
+    }
+}

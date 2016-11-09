@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Credit is not given for both PS 280 and PS 281. Prerequisite: Completion of campus Composition I general education requirement.", 
+    "creditHours": "3 hours.", 
+    "description": "This course is identical to PS 280 except for the additional writing component that fulfills the campus' advanced composition requirement. Credit is not given for both PS 280 and PS 281. Prerequisite: Completion of campus Composition I general education requirement.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Social & Behavioral Sciences", 
+                "id": "SBS", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1SS", 
+                        "content": "UIUC Social Sciences"
+                    }
+                }
+            }, 
+            {
+                "description": "Advanced Composition", 
+                "id": "ACP", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1CLL", 
+                        "content": "UIUC: Advanced Composition"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/PS/281.json", 
+    "id": "PS 281", 
+    "label": "Intro to Intl Relations-ACP", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition, and Social Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "MH", 
+            "href": "/2017/spring/PS/281/43687.json", 
+            "id": "43687"
+        }
+    }
+}

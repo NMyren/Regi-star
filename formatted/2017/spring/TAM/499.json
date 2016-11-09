@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. Prerequisite: Department and instructor approval required.", 
+    "creditHours": "3 hours.", 
+    "description": "Thesis investigation of special subjects in mechanics, including theoretical or experimental research. 3 undergraduate hours. No graduate credit. Prerequisite: Department and instructor approval required.", 
+    "href": "/2017/spring/TAM/499.json", 
+    "id": "TAM 499", 
+    "label": "Senior Thesis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theoretical and Applied Mechanics", 
+            "href": "/2017/spring/TAM.json", 
+            "id": "TAM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/TAM/499/10208.json", 
+            "id": "10208"
+        }
+    }
+}

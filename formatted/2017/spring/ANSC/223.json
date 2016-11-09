@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: ANSC 100, ANSC 221, and CHEM 104 and CHEM 105.", 
+    "creditHours": "3 hours.", 
+    "description": "Provides an introductory background in the fundamental principles of animal nutrition and how nutrition impacts animal well-being and performance. Students will develop comprehensive knowledge in gastrointestinal and digestive anatomy and physiology, nutrient function and requirements, and energy utilization in various species. Specific topics include different classes and properties of nutrients, differences in digestive mechanisms in monogastric vs. ruminant animals, and how carbohydrates, lipids, proteins, minerals, and vitamins contribute to the nutrient requirements of animals. Prerequisite: ANSC 100, ANSC 221, and CHEM 104 and CHEM 105.", 
+    "href": "/2017/spring/ANSC/223.json", 
+    "id": "ANSC 223", 
+    "label": "Animal Nutrition", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Not intended for First Time Freshman students.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ANSC/223/54349.json", 
+            "id": "54349"
+        }
+    }
+}

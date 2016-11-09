@@ -1,0 +1,103 @@
+{
+    "courseSectionInformation": "0.5 to 4 undergraduate hours. 0.5 to 4 graduate hours. May be repeated to a maximum of 8 hours; undergraduate students in open studies may repeat the course unlimited times with approval of the open studies advisor. Prerequisite: Senior or graduate standing in music or music education; consent of instructor.", 
+    "creditHours": "0.5 TO 4 hours.", 
+    "description": "Special preparation in specialized fields of musicology, composition-theory, performance, and music education. 0.5 to 4 undergraduate hours. 0.5 to 4 graduate hours. May be repeated to a maximum of 8 hours; undergraduate students in open studies may repeat the course unlimited times with approval of the open studies advisor. Prerequisite: Senior or graduate standing in music or music education; consent of instructor.", 
+    "href": "/2017/spring/MUS/499.json", 
+    "id": "MUS 499", 
+    "label": "Proseminar in Music", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/MUS/499/10014.json", 
+                "id": "10014"
+            }, 
+            {
+                "content": "ART", 
+                "href": "/2017/spring/MUS/499/23780.json", 
+                "id": "23780"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/MUS/499/36470.json", 
+                "id": "36470"
+            }, 
+            {
+                "content": "BC", 
+                "href": "/2017/spring/MUS/499/40079.json", 
+                "id": "40079"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/MUS/499/36466.json", 
+                "id": "36466"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/MUS/499/40017.json", 
+                "id": "40017"
+            }, 
+            {
+                "content": "JAS", 
+                "href": "/2017/spring/MUS/499/40078.json", 
+                "id": "40078"
+            }, 
+            {
+                "content": "JFR", 
+                "href": "/2017/spring/MUS/499/36487.json", 
+                "id": "36487"
+            }, 
+            {
+                "content": "L", 
+                "href": "/2017/spring/MUS/499/40018.json", 
+                "id": "40018"
+            }, 
+            {
+                "content": "L1", 
+                "href": "/2017/spring/MUS/499/40081.json", 
+                "id": "40081"
+            }, 
+            {
+                "content": "LAW", 
+                "href": "/2017/spring/MUS/499/64393.json", 
+                "id": "64393"
+            }, 
+            {
+                "content": "MSP", 
+                "href": "/2017/spring/MUS/499/44305.json", 
+                "id": "44305"
+            }, 
+            {
+                "content": "O2", 
+                "href": "/2017/spring/MUS/499/55651.json", 
+                "id": "55651"
+            }, 
+            {
+                "content": "SGP", 
+                "href": "/2017/spring/MUS/499/36468.json", 
+                "id": "36468"
+            }, 
+            {
+                "content": "V", 
+                "href": "/2017/spring/MUS/499/36492.json", 
+                "id": "36492"
+            }
+        ]
+    }
+}

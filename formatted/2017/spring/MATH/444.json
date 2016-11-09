@@ -1,0 +1,69 @@
+{
+    "courseSectionInformation": "3 or 4 undergraduate hours. 3 or 4 graduate hours. Credit is not given for both MATH 444 and either Math 424 or MATH 447. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241; MATH 347 or MATH 348, or equivalent.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Careful treatment of the theoretical aspects of the calculus of functions of a real variable intended for those who do not plan to take graduate courses in Mathematics. Topics include the real number system, limits, continuity, derivatives, and the Riemann integral. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Credit is not given for both MATH 444 and either Math 424 or MATH 447. 4 hours of credit requires approval of the instructor and department with completion of additional work of substance. Prerequisite: MATH 241; MATH 347 or MATH 348, or equivalent.", 
+    "href": "/2017/spring/MATH/444.json", 
+    "id": "MATH 444", 
+    "label": "Elementary Real Analysis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "B13", 
+                "href": "/2017/spring/MATH/444/64382.json", 
+                "id": "64382"
+            }, 
+            {
+                "content": "B14", 
+                "href": "/2017/spring/MATH/444/64383.json", 
+                "id": "64383"
+            }, 
+            {
+                "content": "D13", 
+                "href": "/2017/spring/MATH/444/38024.json", 
+                "id": "38024"
+            }, 
+            {
+                "content": "D14", 
+                "href": "/2017/spring/MATH/444/38025.json", 
+                "id": "38025"
+            }, 
+            {
+                "content": "E13", 
+                "href": "/2017/spring/MATH/444/58909.json", 
+                "id": "58909"
+            }, 
+            {
+                "content": "E14", 
+                "href": "/2017/spring/MATH/444/58910.json", 
+                "id": "58910"
+            }, 
+            {
+                "content": "P13", 
+                "href": "/2017/spring/MATH/444/38021.json", 
+                "id": "38021"
+            }, 
+            {
+                "content": "P14", 
+                "href": "/2017/spring/MATH/444/38022.json", 
+                "id": "38022"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "Credit is not given for both PSYC 235 and any of STAT 100, ECON 202, EPSY 480, PSYC 301, SOC 485. Prerequisite: PSYC 100 or PSYC 103; college algebra or equivalent; or consent of academic advisor.", 
+    "creditHours": "3 hours.", 
+    "description": "Development of skill and understanding in the application of statistical methods to problems in psychological research; topics include descriptive statistics, probability theory and distributions, point and interval estimation, and hypothesis testing. Credit is not given for both PSYC 235 and any of STAT 100, ECON 202, EPSY 480, PSYC 301, SOC 485. Prerequisite: PSYC 100 or PSYC 103; college algebra or equivalent; or consent of academic advisor.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Quantitative Reasoning", 
+            "id": "QR", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1QR1", 
+                    "content": "UIUC: Quant Reasoning I"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/PSYC/235.json", 
+    "id": "PSYC 235", 
+    "label": "Intro to Statistics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Quant Reasoning I course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "CB1", 
+                "href": "/2017/spring/PSYC/235/37116.json", 
+                "id": "37116"
+            }, 
+            {
+                "content": "CB2", 
+                "href": "/2017/spring/PSYC/235/37152.json", 
+                "id": "37152"
+            }, 
+            {
+                "content": "CL1", 
+                "href": "/2017/spring/PSYC/235/37183.json", 
+                "id": "37183"
+            }
+        ]
+    }
+}

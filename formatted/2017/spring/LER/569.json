@@ -1,0 +1,33 @@
+{
+    "creditHours": "2 hours.", 
+    "description": "Designed to help prospective human resource managers learn how to use power and influence as effective tools for understanding the surroundings in which they will be working with and managing people, and achieving the goals that they set for themselves. It provides frameworks and practical tools that allow students to make sense of on-the-job learning experiences and equip them with basic diagnostic and action-planning skills that they can use at different points in their careers - and to consider difficult ethical questions in the process. Prepares students to get things done in the real world, where personalities and office politics sometimes hinder rather than help them.", 
+    "href": "/2017/spring/LER/569.json", 
+    "id": "LER 569", 
+    "label": "Power & Influence in HRM", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Labor and Employment Relations", 
+            "href": "/2017/spring/LER.json", 
+            "id": "LER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sectionRegistrationNotes": "Restricted to Human Res & Industrial Rels major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/LER/569/53173.json", 
+            "id": "53173"
+        }
+    }
+}

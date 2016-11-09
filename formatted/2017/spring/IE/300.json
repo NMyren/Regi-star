@@ -1,0 +1,80 @@
+{
+    "classScheduleInformation": "ME and IE students will not receive credit for this course and STAT 400.", 
+    "courseSectionInformation": "Credit is not given for both IE 300 and CEE 202. Prerequisite: MATH 241.", 
+    "creditHours": "3 hours.", 
+    "description": "Nature of probabilistic models for observed data; discrete and continuous distribution function models; inferences on universe parameters based on sample values; control charts, acceptance sampling, and measurement theory. Credit is not given for both IE 300 and CEE 202. Prerequisite: MATH 241.", 
+    "href": "/2017/spring/IE/300.json", 
+    "id": "IE 300", 
+    "label": "Analysis of Data", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Industrial Engineering", 
+            "href": "/2017/spring/IE.json", 
+            "id": "IE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/IE/300/50981.json", 
+                "id": "50981"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/IE/300/50983.json", 
+                "id": "50983"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/IE/300/50985.json", 
+                "id": "50985"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/IE/300/50987.json", 
+                "id": "50987"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/IE/300/34259.json", 
+                "id": "34259"
+            }, 
+            {
+                "content": "BD1", 
+                "href": "/2017/spring/IE/300/62804.json", 
+                "id": "62804"
+            }, 
+            {
+                "content": "BD2", 
+                "href": "/2017/spring/IE/300/62805.json", 
+                "id": "62805"
+            }, 
+            {
+                "content": "BD3", 
+                "href": "/2017/spring/IE/300/62806.json", 
+                "id": "62806"
+            }, 
+            {
+                "content": "BD4", 
+                "href": "/2017/spring/IE/300/62807.json", 
+                "id": "62807"
+            }, 
+            {
+                "content": "BL1", 
+                "href": "/2017/spring/IE/300/62803.json", 
+                "id": "62803"
+            }
+        ]
+    }
+}

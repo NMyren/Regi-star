@@ -1,0 +1,54 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 2 or 4 graduate hours. Prerequisite: ECON 302 or consent of instructor.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Economic analysis of government tax and expenditure policies; topics include public good and externality theory, public choice theory, income distribution, cost-benefit analysis, principles of taxation, tax incidence, economic effects and optimal structures of major taxes, and taxation in developing economies. 3 undergraduate hours. 2 or 4 graduate hours. Prerequisite: ECON 302 or consent of instructor.", 
+    "href": "/2017/spring/ECON/411.json", 
+    "id": "ECON 411", 
+    "label": "Public Sector Economics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A1", 
+                "href": "/2017/spring/ECON/411/40600.json", 
+                "id": "40600"
+            }, 
+            {
+                "content": "A2", 
+                "href": "/2017/spring/ECON/411/40601.json", 
+                "id": "40601"
+            }, 
+            {
+                "content": "A3", 
+                "href": "/2017/spring/ECON/411/40599.json", 
+                "id": "40599"
+            }, 
+            {
+                "content": "B1", 
+                "href": "/2017/spring/ECON/411/65780.json", 
+                "id": "65780"
+            }, 
+            {
+                "content": "C1", 
+                "href": "/2017/spring/ECON/411/65788.json", 
+                "id": "65788"
+            }
+        ]
+    }
+}

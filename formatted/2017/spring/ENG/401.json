@@ -1,0 +1,55 @@
+{
+    "courseSectionInformation": "Same as TE 401. 1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Project-based exploration with teams of students working together in a large innovation and entrepreneurial context. Encourage development of innovative, leadership, and entrepreneurial skill sets, including financing, marketing, sales, operations, business plans, and management. Same as TE 401. 1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated.", 
+    "href": "/2017/spring/ENG/401.json", 
+    "id": "ENG 401", 
+    "label": "Developing Breakthrough Projects", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/ENG/401/65396.json", 
+                "id": "65396"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/ENG/401/65397.json", 
+                "id": "65397"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/ENG/401/65398.json", 
+                "id": "65398"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/ENG/401/65399.json", 
+                "id": "65399"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/ENG/401/65400.json", 
+                "id": "65400"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MATH/124/57923.json", 
+    "id": "57923", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Illini Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "08:50 AM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "1", 
+            "start": "08:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Finite Mathematics", 
+            "href": "/2017/spring/MATH/124.json", 
+            "id": "124"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "L1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This section has combined evening exams. See http://www.math.uiuc.edu/timetable for the schedule. This section has a blended format in which part of the content is delivered in lecture and discussion, and part is delivered online. This course is restricted to the College of ACES until the morning of November 28, 2016.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

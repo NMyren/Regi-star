@@ -1,0 +1,50 @@
+{
+    "classScheduleInformation": "Open only to students who have passed a qualifying audition. Non-music majors will be assessed a fee.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. May be repeated to a maximum of 16 hours. Prerequisite: Passing of a performance audition is required prior to the initial registration in any applied music course.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Instruction in harp at the undergraduate level. Additional fees may apply. See Class Schedule. May be repeated to a maximum of 16 hours. Prerequisite: Passing of a performance audition is required prior to the initial registration in any applied music course.", 
+    "href": "/2017/spring/MUS/187.json", 
+    "id": "MUS 187", 
+    "label": "Harp", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/MUS/187/36100.json", 
+                "id": "36100"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/MUS/187/36102.json", 
+                "id": "36102"
+            }, 
+            {
+                "content": "NM", 
+                "href": "/2017/spring/MUS/187/43919.json", 
+                "id": "43919"
+            }, 
+            {
+                "content": "NM1", 
+                "href": "/2017/spring/MUS/187/62144.json", 
+                "id": "62144"
+            }
+        ]
+    }
+}

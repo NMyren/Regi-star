@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as MCB 419 and NEUR 419. See MCB 419.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as MCB 419 and NEUR 419. See MCB 419.", 
+    "href": "/2017/spring/BIOP/419.json", 
+    "id": "BIOP 419", 
+    "label": "Brain, Behavior & Info Process", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Biophysics", 
+            "href": "/2017/spring/BIOP.json", 
+            "id": "BIOP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/BIOP/419/41129.json", 
+            "id": "41129"
+        }
+    }
+}

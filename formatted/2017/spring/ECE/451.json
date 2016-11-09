@@ -1,0 +1,59 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 350.", 
+    "creditHours": "3 hours.", 
+    "description": "Manual- and computer-controlled laboratory analysis of circuits at microwave frequencies. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 350.", 
+    "href": "/2017/spring/ECE/451.json", 
+    "id": "ECE 451", 
+    "label": "Adv Microwave Measurements", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ECE/451/65147.json", 
+                "id": "65147"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/ECE/451/65148.json", 
+                "id": "65148"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/ECE/451/65149.json", 
+                "id": "65149"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/ECE/451/65150.json", 
+                "id": "65150"
+            }, 
+            {
+                "content": "AB5", 
+                "href": "/2017/spring/ECE/451/65151.json", 
+                "id": "65151"
+            }, 
+            {
+                "content": "AL", 
+                "href": "/2017/spring/ECE/451/65264.json", 
+                "id": "65264"
+            }
+        ]
+    }
+}

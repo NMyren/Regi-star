@@ -1,0 +1,32 @@
+{
+    "classScheduleInformation": "Some seats have been reserved for Kinesiology majors.", 
+    "creditHours": "3 hours.", 
+    "description": "Examination of philosophy, ethics, strategies, motivational techniques, performance analysis, program organization, contest administration, and equipment and facility management related to coaching.", 
+    "href": "/2017/spring/KIN/369.json", 
+    "id": "KIN 369", 
+    "label": "Coaching Strategies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/KIN/369/59230.json", 
+            "id": "59230"
+        }
+    }
+}

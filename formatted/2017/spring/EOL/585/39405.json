@@ -1,0 +1,68 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/EOL/585/39405.json", 
+    "id": "39405", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Armory", 
+            "daysOfTheWeek": "W", 
+            "end": "05:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Bellini, M", 
+                        "firstName": "M", 
+                        "lastName": "Bellini"
+                    }, 
+                    {
+                        "content": "Bo-Linn, C", 
+                        "firstName": "C", 
+                        "lastName": "Bo-Linn"
+                    }, 
+                    {
+                        "content": "Lesht, F", 
+                        "firstName": "F", 
+                        "lastName": "Lesht"
+                    }
+                ]
+            }, 
+            "roomNumber": "428", 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "College Teaching", 
+            "href": "/2017/spring/EOL/585.json", 
+            "id": "585"
+        }, 
+        "subject": {
+            "content": "Educational Organization and Leadership", 
+            "href": "/2017/spring/EOL.json", 
+            "id": "EOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "THERE IS NOT A PREREQUISITE REQUIRED TO REGISTER FOR THIS COURSE.  Directions to 428 Armory:  Enter from the Southwest door on Gregory Avenue near 4th Street.  Go forward and a bit to the right and there is a staircase leading up to the 4th floor and just beyond the staircase is an elevator that goes to the 4th floor.  Both the stairs and elevator are near the classroom.", 
+    "sectionTitle": "College Teach and Acad Careers", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

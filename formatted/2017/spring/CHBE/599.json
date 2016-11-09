@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only.", 
+    "creditHours": "0 TO 16 hours.", 
+    "description": "Candidates for the master's degree who elect research are required to write a thesis. A thesis is always required for the Doctor of Philosophy. Not all candidates for thesis work necessarily are accepted. Any student whose major is in another department must receive permission from the head of the Department of Chemical and Biomolecular Engineering to register in this course. Approved for S/U grading only.", 
+    "href": "/2017/spring/CHBE/599.json", 
+    "id": "CHBE 599", 
+    "label": "Thesis Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CHBE/599/10503.json", 
+            "id": "10503"
+        }
+    }
+}

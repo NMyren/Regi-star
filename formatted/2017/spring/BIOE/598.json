@@ -1,0 +1,59 @@
+{
+    "courseSectionInformation": "May be repeated in the same or separate terms if topics vary to a maximum of 12 hours, but no more than 8 in any one term.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Subject offerings of new and developing areas of knowledge in bioengineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. May be repeated in the same or separate terms if topics vary to a maximum of 12 hours, but no more than 8 in any one term.", 
+    "href": "/2017/spring/BIOE/598.json", 
+    "id": "BIOE 598", 
+    "label": "Special Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Bioengineering", 
+            "href": "/2017/spring/BIOE.json", 
+            "id": "BIOE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AGB", 
+                "href": "/2017/spring/BIOE/598/62343.json", 
+                "id": "62343"
+            }, 
+            {
+                "content": "AMS", 
+                "href": "/2017/spring/BIOE/598/64638.json", 
+                "id": "64638"
+            }, 
+            {
+                "content": "DP", 
+                "href": "/2017/spring/BIOE/598/60236.json", 
+                "id": "60236"
+            }, 
+            {
+                "content": "GU", 
+                "href": "/2017/spring/BIOE/598/60232.json", 
+                "id": "60232"
+            }, 
+            {
+                "content": "PII", 
+                "href": "/2017/spring/BIOE/598/60234.json", 
+                "id": "60234"
+            }, 
+            {
+                "content": "RXB", 
+                "href": "/2017/spring/BIOE/598/64989.json", 
+                "id": "64989"
+            }
+        ]
+    }
+}

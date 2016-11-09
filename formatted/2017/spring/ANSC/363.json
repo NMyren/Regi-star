@@ -1,0 +1,33 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section.", 
+    "courseSectionInformation": "Prerequisite: ANSC 100.", 
+    "creditHours": "4 hours.", 
+    "description": "Introduction to concepts of animal behavior with emphasis on domestic animals; lecture and lab. Prerequisite: ANSC 100.", 
+    "href": "/2017/spring/ANSC/363.json", 
+    "id": "ANSC 363", 
+    "label": "Behavior of Domestic Animals", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ANSC/363/59971.json", 
+            "id": "59971"
+        }
+    }
+}

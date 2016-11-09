@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: UKR 101 or equivalent proficiency.", 
+    "creditHours": "4 hours.", 
+    "description": "Continuation of UKR 101. Prerequisite: UKR 101 or equivalent proficiency.", 
+    "href": "/2017/spring/UKR/102.json", 
+    "id": "UKR 102", 
+    "label": "Basic Ukrainian II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Ukrainian", 
+            "href": "/2017/spring/UKR.json", 
+            "id": "UKR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/UKR/102/37287.json", 
+            "id": "37287"
+        }
+    }
+}

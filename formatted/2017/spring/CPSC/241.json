@@ -1,0 +1,52 @@
+{
+    "courseSectionInformation": "Credit is not given for both CPSC 241 and STAT 100 or ACE 261.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduces fundamental statistical procedures used to analyze and interpret data. General principles of descriptive and inferential statistics, measures of central tendency and dispersion, probability, correlation and regression, and tests of hypotheses are covered. An emphasis is placed on biological, environmental, and agricultural sciences, but numerous examples from other areas are discussed. Course content enhances students' ability to critically assess statistical information encountered in professional and every day activities. Credit is not given for both CPSC 241 and STAT 100 or ACE 261.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Quantitative Reasoning", 
+            "id": "QR", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1QR1", 
+                    "content": "UIUC: Quant Reasoning I"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CPSC/241.json", 
+    "id": "CPSC 241", 
+    "label": "Intro to Applied Statistics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Quant Reasoning I course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/CPSC/241/31491.json", 
+                "id": "31491"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CPSC/241/31493.json", 
+                "id": "31493"
+            }
+        ]
+    }
+}

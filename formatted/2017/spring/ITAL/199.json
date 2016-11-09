@@ -1,0 +1,38 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading. May be repeated to a maximum of 5 hours.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "Approved for letter and S/U grading. May be repeated to a maximum of 5 hours.", 
+    "href": "/2017/spring/ITAL/199.json", 
+    "id": "ITAL 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Italian", 
+            "href": "/2017/spring/ITAL.json", 
+            "id": "ITAL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/ITAL/199/10459.json", 
+                "id": "10459"
+            }, 
+            {
+                "content": "A", 
+                "href": "/2017/spring/ITAL/199/62947.json", 
+                "id": "62947"
+            }
+        ]
+    }
+}

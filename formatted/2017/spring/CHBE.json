@@ -1,0 +1,185 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "114 Roger Adams Laboratory, 600 South Mathews, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Head of Department: Paul J. A. Kenis\nDepartment Office, 114 Roger Adams Laboratory, 600 South Mathews, Urbana, 244-9214\nwww.scs.illinois.edu/chem_eng", 
+    "contactName": "Paul J. A. Kenis", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Hidden World of Engineering", 
+                "href": "/2017/spring/CHBE/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "CHBE Profession", 
+                "href": "/2017/spring/CHBE/121.json", 
+                "id": "121"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/CHBE/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Cooperative Education Practice", 
+                "href": "/2017/spring/CHBE/202.json", 
+                "id": "202"
+            }, 
+            {
+                "content": "CHBE Internship", 
+                "href": "/2017/spring/CHBE/210.json", 
+                "id": "210"
+            }, 
+            {
+                "content": "Principles of CHE", 
+                "href": "/2017/spring/CHBE/221.json", 
+                "id": "221"
+            }, 
+            {
+                "content": "Individual Study Sophomores", 
+                "href": "/2017/spring/CHBE/297.json", 
+                "id": "297"
+            }, 
+            {
+                "content": "Thermodynamics", 
+                "href": "/2017/spring/CHBE/321.json", 
+                "id": "321"
+            }, 
+            {
+                "content": "Individual Study for Juniors", 
+                "href": "/2017/spring/CHBE/397.json", 
+                "id": "397"
+            }, 
+            {
+                "content": "Momentum and Heat Transfer", 
+                "href": "/2017/spring/CHBE/421.json", 
+                "id": "421"
+            }, 
+            {
+                "content": "Mass Transfer Operations", 
+                "href": "/2017/spring/CHBE/422.json", 
+                "id": "422"
+            }, 
+            {
+                "content": "Chemical Reaction Engineering", 
+                "href": "/2017/spring/CHBE/424.json", 
+                "id": "424"
+            }, 
+            {
+                "content": "Unit Operations Laboratory", 
+                "href": "/2017/spring/CHBE/430.json", 
+                "id": "430"
+            }, 
+            {
+                "content": "Process Design", 
+                "href": "/2017/spring/CHBE/431.json", 
+                "id": "431"
+            }, 
+            {
+                "content": "Process Control and Dynamics", 
+                "href": "/2017/spring/CHBE/440.json", 
+                "id": "440"
+            }, 
+            {
+                "content": "Biochemical Engineering", 
+                "href": "/2017/spring/CHBE/471.json", 
+                "id": "471"
+            }, 
+            {
+                "content": "Techniques in Biomolecular Eng", 
+                "href": "/2017/spring/CHBE/472.json", 
+                "id": "472"
+            }, 
+            {
+                "content": "Biotransport", 
+                "href": "/2017/spring/CHBE/476.json", 
+                "id": "476"
+            }, 
+            {
+                "content": "Bioenergy Technology", 
+                "href": "/2017/spring/CHBE/478.json", 
+                "id": "478"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/CHBE/494.json", 
+                "id": "494"
+            }, 
+            {
+                "content": "Individual Study for Seniors", 
+                "href": "/2017/spring/CHBE/497.json", 
+                "id": "497"
+            }, 
+            {
+                "content": "Senior Thesis", 
+                "href": "/2017/spring/CHBE/499.json", 
+                "id": "499"
+            }, 
+            {
+                "content": "Fluid Dynamics", 
+                "href": "/2017/spring/CHBE/522.json", 
+                "id": "522"
+            }, 
+            {
+                "content": "Chemical Kinetics & Catalysis", 
+                "href": "/2017/spring/CHBE/551.json", 
+                "id": "551"
+            }, 
+            {
+                "content": "CHBE Seminar", 
+                "href": "/2017/spring/CHBE/565.json", 
+                "id": "565"
+            }, 
+            {
+                "content": "Bioinformatics", 
+                "href": "/2017/spring/CHBE/571.json", 
+                "id": "571"
+            }, 
+            {
+                "content": "Individual Study", 
+                "href": "/2017/spring/CHBE/593.json", 
+                "id": "593"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/CHBE/594.json", 
+                "id": "594"
+            }, 
+            {
+                "content": "Special Problems", 
+                "href": "/2017/spring/CHBE/597.json", 
+                "id": "597"
+            }, 
+            {
+                "content": "Research Seminar", 
+                "href": "/2017/spring/CHBE/598.json", 
+                "id": "598"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/CHBE/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1687", 
+    "id": "CHBE", 
+    "label": "Chemical and Biomolecular Engineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "244-9214", 
+    "unitName": "Chemical and Biomolecular Engineering", 
+    "webSiteURL": "www.scs.illinois.edu/chem_eng"
+}

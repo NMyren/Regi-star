@@ -1,0 +1,52 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/CS/438/51445.json", 
+    "id": "51445", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kravets, R", 
+                    "firstName": "R", 
+                    "lastName": "Kravets"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Communication Networks", 
+            "href": "/2017/spring/CS/438.json", 
+            "id": "438"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to MS: Civil Engr - Online - UIUC, MCS:Computer Sci Online -UIUC, MS:Mechanical Engineerng -UIUC, MS: Aerospace Engr-Online-UIUC, NDEG:Grad Nondegree-CE-UIUC, or NDEG:Undergrad Nondeg-CE-UIUC.", 
+    "sectionNumber": "ONL", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Restricted to online non-degree, online MCS, online MSAE, online MSME, and online MSCE students. For more details on this course section, please see http://engineering.illinois.edu/online/courses/.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

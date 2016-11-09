@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 6 hours. Prerequisite: Junior standing and consent of humanities adviser (Tutorial students must submit an Approved Learning Agreement to 2002 Lincoln Hall, 702 S. Wright Street, Urbana, not later than the second week of the semester or the first week of the summer session).", 
+    "creditHours": "3 hours.", 
+    "description": "Interdisciplinary seminar and tutorial in selected topics related to one of the options in the humanities major. May be repeated to a maximum of 6 hours. Prerequisite: Junior standing and consent of humanities adviser (Tutorial students must submit an Approved Learning Agreement to 2002 Lincoln Hall, 702 S. Wright Street, Urbana, not later than the second week of the semester or the first week of the summer session).", 
+    "href": "/2017/spring/HUM/397.json", 
+    "id": "HUM 397", 
+    "label": "Special Topics Junior", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Humanities Courses", 
+            "href": "/2017/spring/HUM.json", 
+            "id": "HUM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/HUM/397/10434.json", 
+            "id": "10434"
+        }
+    }
+}

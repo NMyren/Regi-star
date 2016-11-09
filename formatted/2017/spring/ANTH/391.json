@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Senior standing; 3.6 GPA in anthropology; 37 hours of anthropology courses, and consent of instructor. May not be taken concurrently with ANTH 390.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "A two-term individual study and research project for those students who are candidates for departmental distinction in anthropology. Prerequisite: Senior standing; 3.6 GPA in anthropology; 37 hours of anthropology courses, and consent of instructor. May not be taken concurrently with ANTH 390.", 
+    "href": "/2017/spring/ANTH/391.json", 
+    "id": "ANTH 391", 
+    "label": "Honors Individual Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Anthropology", 
+            "href": "/2017/spring/ANTH.json", 
+            "id": "ANTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ANTH/391/10280.json", 
+            "id": "10280"
+        }
+    }
+}

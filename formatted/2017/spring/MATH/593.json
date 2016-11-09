@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "0 graduate credit. No professional credit. Approved for S/U grading only. May be repeated in separate terms.", 
+    "creditHours": "0 hours.", 
+    "description": "Full-time or part-time practice of graduate-level mathematics in an off-campus government, industrial, or research laboratory environment. Summary report required. 0 graduate credit. No professional credit. Approved for S/U grading only. May be repeated in separate terms.", 
+    "href": "/2017/spring/MATH/593.json", 
+    "id": "MATH 593", 
+    "label": "Mathematical Internship", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": [
+            {
+                "content": "KPM", 
+                "href": "/2017/spring/MATH/593/63194.json", 
+                "id": "63194"
+            }, 
+            {
+                "content": "RF", 
+                "href": "/2017/spring/MATH/593/65852.json", 
+                "id": "65852"
+            }, 
+            {
+                "content": "RSL", 
+                "href": "/2017/spring/MATH/593/63193.json", 
+                "id": "63193"
+            }
+        ]
+    }
+}

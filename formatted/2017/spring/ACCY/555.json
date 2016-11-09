@@ -1,0 +1,33 @@
+{
+    "classScheduleInformation": "Restricted to students enrolled in the MS Tax Program or MAS with Tax Concentration.", 
+    "creditHours": "4 hours.", 
+    "description": "This course analyzes the underlying concepts for Accounting for Income Taxes and Multistate Taxation. The Accounting for Income Taxes portion of the course covers all aspects of financial statement income tax accounting including ASC 740, contingency reserves, purchase accounting; IFRS, footnote disclosures, and interim reporting. The Multistate portion of the course covers the state and local taxation of business entities including examining issues relating to jurisdiction, nexus, and mergers & acquisitions.", 
+    "href": "/2017/spring/ACCY/555.json", 
+    "id": "ACCY 555", 
+    "label": "Inc Tx Acctg & Multistate Tx", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Accountancy", 
+            "href": "/2017/spring/ACCY.json", 
+            "id": "ACCY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to MS: Taxation -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "CHI", 
+            "href": "/2017/spring/ACCY/555/58919.json", 
+            "id": "58919"
+        }
+    }
+}

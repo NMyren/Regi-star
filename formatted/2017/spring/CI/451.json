@@ -1,0 +1,51 @@
+{
+    "courseSectionInformation": "2 or 3 undergraduate hours. 2 or 3 graduate hours. Prerequisite: CI 450; admission to the Elementary Teacher Education Program.", 
+    "creditHours": "2 OR 3 hours.", 
+    "description": "Course is the second of two 3-hour science methods courses in the elementary education program. Focus on in-depth understanding of inquiry science teaching. Coursework is integrated with field assignments in schools. Topics include curriculum materials; literacy instruction in science; children's \"thinking\" about science; differentiated instruction; assessment; incorporating technology. 2 or 3 undergraduate hours. 2 or 3 graduate hours. Prerequisite: CI 450; admission to the Elementary Teacher Education Program.", 
+    "href": "/2017/spring/CI/451.json", 
+    "id": "CI 451", 
+    "label": "Tchg Elem Science II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to Admitted Teacher Ed Student students.", 
+    "sectionRegistrationNotes": "Restricted to Elementary Education major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "C1", 
+                "href": "/2017/spring/CI/451/63332.json", 
+                "id": "63332"
+            }, 
+            {
+                "content": "C2", 
+                "href": "/2017/spring/CI/451/63333.json", 
+                "id": "63333"
+            }, 
+            {
+                "content": "C3", 
+                "href": "/2017/spring/CI/451/63334.json", 
+                "id": "63334"
+            }, 
+            {
+                "content": "C4", 
+                "href": "/2017/spring/CI/451/63335.json", 
+                "id": "63335"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "2 undergraduate hour. 2 graduate hour. Prerequisite: Senior standing.", 
+    "creditHours": "2 hours.", 
+    "description": "Analysis of teaching and learning processes, program evaluation and improvement strategies, curriculum development and modification, professional development, facility development, using community resources, program management, and discussion of trends and issues in agricultural education. 2 undergraduate hour. 2 graduate hour. Prerequisite: Senior standing.", 
+    "href": "/2017/spring/AGED/451.json", 
+    "id": "AGED 451", 
+    "label": "Professional Dev in Ag Ed", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural Education", 
+            "href": "/2017/spring/AGED.json", 
+            "id": "AGED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Agricultural Leadership Educ concentration(s). Restricted to students with Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/AGED/451/29893.json", 
+            "id": "29893"
+        }
+    }
+}

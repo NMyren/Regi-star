@@ -1,0 +1,45 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Acquaint students with the technical choices a writer makes in creating a story or a poem. Mondays are given to lectures on specific elements of poetry and fiction. Wednesdays are dedicated to readings by faculty and visiting writers. Fridays allow students the opportunity to work in small group discussion sections applying the week's techniques and skills to a close reading of stories and poems.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Humanities & the Arts", 
+            "id": "HUM", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1LA", 
+                    "content": "UIUC: Literature and the Arts"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CW/100.json", 
+    "id": "CW 100", 
+    "label": "Intro to Creative Writing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Creative Writing", 
+            "href": "/2017/spring/CW.json", 
+            "id": "CW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Literature and the Arts course.", 
+    "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "F", 
+            "href": "/2017/spring/CW/100/63861.json", 
+            "id": "63861"
+        }
+    }
+}

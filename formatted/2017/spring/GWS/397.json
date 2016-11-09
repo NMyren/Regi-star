@@ -1,0 +1,31 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Couse Information: Same as HIST 397. See HIST 397.", 
+    "href": "/2017/spring/GWS/397.json", 
+    "id": "GWS 397", 
+    "label": "Sexuality in Modern Europe", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Gender and Women's Studies", 
+            "href": "/2017/spring/GWS.json", 
+            "id": "GWS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GWS/397/65229.json", 
+            "id": "65229"
+        }
+    }
+}

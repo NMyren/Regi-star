@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Same as ENGL 584. See ENGL 584.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as ENGL 584. See ENGL 584.", 
+    "href": "/2017/spring/CI/569.json", 
+    "id": "CI 569", 
+    "label": "Topics Discourse and Writing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "E", 
+                "href": "/2017/spring/CI/569/56822.json", 
+                "id": "56822"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/CI/569/32288.json", 
+                "id": "32288"
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/LER/130/53038.json", 
+    "id": "53038", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Ashby, S", 
+                        "firstName": "S", 
+                        "lastName": "Ashby"
+                    }, 
+                    {
+                        "content": "Fauke, C", 
+                        "firstName": "C", 
+                        "lastName": "Fauke"
+                    }, 
+                    {
+                        "content": "Labarbera-Twarog, E", 
+                        "firstName": "E", 
+                        "lastName": "Labarbera-Twarog"
+                    }
+                ]
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro Labr Wrkng Class History", 
+            "href": "/2017/spring/LER/130.json", 
+            "id": "130"
+        }, 
+        "subject": {
+            "content": "Labor and Employment Relations", 
+            "href": "/2017/spring/LER.json", 
+            "id": "LER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This is an online course taught on Compass.  There are no classroom sessions.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

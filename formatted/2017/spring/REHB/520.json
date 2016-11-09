@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as SPED 520.", 
+    "creditHours": "4 hours.", 
+    "description": "Study of the social and emotional adjustment of individuals with disabilities; evaluation of effects imposed by societal attitudes; analysis of the implications for rehabilitation professionals in dealing with individuals who have a disability; review of relevant research. Same as SPED 520.", 
+    "href": "/2017/spring/REHB/520.json", 
+    "id": "REHB 520", 
+    "label": "Psycho-Social Aspects", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Rehabilitation Counseling", 
+            "href": "/2017/spring/REHB.json", 
+            "id": "REHB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/REHB/520/37855.json", 
+            "id": "37855"
+        }
+    }
+}

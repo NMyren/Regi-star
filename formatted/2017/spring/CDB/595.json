@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. May be repeated to a maximum of 8 hours. Prerequisite: MCB 400; or consent of instructor.", 
+    "creditHours": "1 hours.", 
+    "description": "Invited speakers, faculty, and student presentations and discussions on current research topics. Approved for both letter and S/U grading. May be repeated to a maximum of 8 hours. Prerequisite: MCB 400; or consent of instructor.", 
+    "href": "/2017/spring/CDB/595.json", 
+    "id": "CDB 595", 
+    "label": "Graduate Sem Cell Devel Biol", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Cell and Developmental Biology", 
+            "href": "/2017/spring/CDB.json", 
+            "id": "CDB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/CDB/595/44945.json", 
+                "id": "44945"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/CDB/595/44947.json", 
+                "id": "44947"
+            }
+        ]
+    }
+}

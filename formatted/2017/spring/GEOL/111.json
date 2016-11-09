@@ -1,0 +1,46 @@
+{
+    "courseSectionInformation": "Same as ESE 111. Additional fees may apply. See Class Schedule.", 
+    "creditHours": "3 hours.", 
+    "description": "Examines important theoretical and practical questions regarding the origin and evolution of life, as well as the search for life elsewhere in the universe. Uses the pioneering work of Carl Woese, whose \"Tree of Life\" revolutionized our understanding of the fundamental structure and evolutionary relatedness of all living entities on Earth. Same as ESE 111. Additional fees may apply. See Class Schedule.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Natural Sciences & Technology", 
+            "id": "NAT", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1LS", 
+                    "content": "UIUC: Life Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/GEOL/111.json", 
+    "id": "GEOL 111", 
+    "label": "Emergence of Life", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionDegreeAttributes": "Life Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GEOL/111/61954.json", 
+            "id": "61954"
+        }
+    }
+}

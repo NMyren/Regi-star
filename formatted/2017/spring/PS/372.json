@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: PS 270, six hours of Political Science credit, or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Provides critical analysis of political theories from the fifteenth century to the present. The discussions focus on topics such as the development of conceptions of human nature, the role of the state, justice, legitimacy, obligation, individual rights, equality, and mechanisms of maintenance and change. Prerequisite: PS 270, six hours of Political Science credit, or consent of instructor.", 
+    "href": "/2017/spring/PS/372.json", 
+    "id": "PS 372", 
+    "label": "Modern Political Theory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for students with Freshman class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PS/372/46285.json", 
+            "id": "46285"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as LER 545. See LER 545.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as LER 545. See LER 545.", 
+    "href": "/2017/spring/HRD/534.json", 
+    "id": "HRD 534", 
+    "label": "Economics of Human Resources", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Human Resource Development", 
+            "href": "/2017/spring/HRD.json", 
+            "id": "HRD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "001", 
+            "href": "/2017/spring/HRD/534/60747.json", 
+            "id": "60747"
+        }
+    }
+}

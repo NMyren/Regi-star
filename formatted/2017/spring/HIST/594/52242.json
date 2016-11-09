@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/HIST/594/52242.json", 
+    "id": "52242", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Gregory Hall", 
+            "daysOfTheWeek": "W", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Symes, C", 
+                    "firstName": "C", 
+                    "lastName": "Symes"
+                }
+            }, 
+            "roomNumber": "318", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro Historical Writing", 
+            "href": "/2017/spring/HIST/594.json", 
+            "id": "594"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic: Seminar for first-year graduate students and second half of the introductory graduate sequence focused on the process of writing an original piece of historical scholarship.  Topics include:  developing an argument, exploring sources, arriving at a research strategy, planning and structuring an article, presenting complex data, and producing scholarship that is a coherent representation of the author's findings.  Over the course of the semester, each seminar participant will develop and write an original, article-length research paper.  Students will work with the assistance of the instructor and an advisor from her or his own research field.  Prerequisite:  HIST 593.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

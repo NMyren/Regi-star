@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only.", 
+    "creditHours": "0 hours.", 
+    "description": "Provides students with knowledge, resources and strategies to guide their ongoing development as international teaching assistants. Students analyze model teaching, receive feedback about their own strengths and weaknesses as a teaching assistant, and address key language or pedagogical concerns through a focused and customized term project. Approved for S/U grading only.", 
+    "href": "/2017/spring/ESL/508.json", 
+    "id": "ESL 508", 
+    "label": "Seminar for Intl TAs", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English as a Second Language", 
+            "href": "/2017/spring/ESL.json", 
+            "id": "ESL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "PW", 
+                "href": "/2017/spring/ESL/508/54687.json", 
+                "id": "54687"
+            }, 
+            {
+                "content": "PW2", 
+                "href": "/2017/spring/ESL/508/58006.json", 
+                "id": "58006"
+            }, 
+            {
+                "content": "PW3", 
+                "href": "/2017/spring/ESL/508/61151.json", 
+                "id": "61151"
+            }
+        ]
+    }
+}

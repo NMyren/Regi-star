@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as GWS 512 and WGGP 581. See WGGP 581.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as GWS 512 and WGGP 581. See WGGP 581.", 
+    "href": "/2017/spring/SOCW/581.json", 
+    "id": "SOCW 581", 
+    "label": "Gender Relations & Intl Dev", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SOCW/581/64394.json", 
+            "id": "64394"
+        }
+    }
+}

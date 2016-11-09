@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated to a maximum of 8 undergraduate hours or 12 graduate hours. Prerequisite: LAT 302 and consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated to a maximum of 8 undergraduate hours or 12 graduate hours. Prerequisite: LAT 302 and consent of instructor.", 
+    "href": "/2017/spring/LAT/493.json", 
+    "id": "LAT 493", 
+    "label": "Independent Reading", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latin", 
+            "href": "/2017/spring/LAT.json", 
+            "id": "LAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/LAT/493/10509.json", 
+            "id": "10509"
+        }
+    }
+}

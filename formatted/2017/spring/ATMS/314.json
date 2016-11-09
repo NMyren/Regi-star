@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: ATMS 301, ATMS 302, ATMS 303, or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Examination of the structure and dynamics of weather systems that occur on the mesoscale. The course first reviews what is meant by \"mesoscale\". Examines the structure and dynamics of both free and forced mesoscale circulations. Free circulations are those internal to the atmosphere, such as thunderstorms, mesoscale convective systems, squall lines, hurricanes, jet streaks, and fronts. Forced circulations are those tied to features external to the atmosphere, such as shorelines (the sea breeze), lakes (lake effect storms), and mountains. Prerequisite: ATMS 301, ATMS 302, ATMS 303, or consent of instructor.", 
+    "href": "/2017/spring/ATMS/314.json", 
+    "id": "ATMS 314", 
+    "label": "Mesoscale Dynamics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Atmospheric Sciences", 
+            "href": "/2017/spring/ATMS.json", 
+            "id": "ATMS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "1", 
+            "href": "/2017/spring/ATMS/314/51093.json", 
+            "id": "51093"
+        }
+    }
+}

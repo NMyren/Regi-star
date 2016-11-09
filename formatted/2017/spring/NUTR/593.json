@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "For students majoring in nutritional sciences who wish to undertake individual studies of a nonthesis nature in problems or topics not covered in other courses; may be taken under the direction of any member of the nutritional sciences faculty, with the exception of the student's own thesis adviser. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/NUTR/593.json", 
+    "id": "NUTR 593", 
+    "label": "Individual Topics in Nutrition", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Nutritional Sciences", 
+            "href": "/2017/spring/NUTR.json", 
+            "id": "NUTR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/NUTR/593/10117.json", 
+            "id": "10117"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "classScheduleInformation": "Prior knowledge of language requires a placement exam to be given. Call 244-1432 for date of exam and to register for the test.", 
+    "courseSectionInformation": "Prerequisite: CHIN 201.", 
+    "creditHours": "5 hours.", 
+    "description": "Continuation of CHIN 201. Prerequisite: CHIN 201.", 
+    "href": "/2017/spring/CHIN/202.json", 
+    "id": "CHIN 202", 
+    "label": "Elementary Chinese II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chinese", 
+            "href": "/2017/spring/CHIN.json", 
+            "id": "CHIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for students with Senior or Graduate class standing.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/CHIN/202/45212.json", 
+                "id": "45212"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/CHIN/202/32765.json", 
+                "id": "32765"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/CHIN/202/31035.json", 
+                "id": "31035"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/CHIN/202/40045.json", 
+                "id": "40045"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/CHIN/202/53438.json", 
+                "id": "53438"
+            }
+        ]
+    }
+}

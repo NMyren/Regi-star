@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. Prerequisites: CHBE 321; MCB 450.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to emerging bioenergy technologies including: world energy consumption and greenhouse gas concerns; fundamental biochemistry of biomass conversion; structural chemistry of lignocelluloses; pretreatment of biomass; enzymatic deconstruction; bioethanol production and fermentation; metabolic engineering for improved biofuels production; feedstock development; industrial fermentation and fermentor design; economics of bioethanol; alternative biofuels, including biodiesel, syngas, Fischer-Tropsch diesel, butanol, ABE fermentation and biohydrogen; anaerobic microbiology; and the biorefinery concept. 3 undergraduate hours. No graduate credit. Prerequisites: CHBE 321; MCB 450.", 
+    "href": "/2017/spring/CHBE/478.json", 
+    "id": "CHBE 478", 
+    "label": "Bioenergy Technology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Chemical Engineering major(s). Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHBE/478/61796.json", 
+            "id": "61796"
+        }
+    }
+}

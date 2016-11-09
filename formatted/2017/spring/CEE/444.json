@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: CEE 443.", 
+    "creditHours": "4 hours.", 
+    "description": "Application of principles of biochemistry and microbiology to air and water quality, wastes, and their engineering management; biological mediated changes in water and in domestic and industrial wastewater. 4 undergraduate hours. 4 graduate hours. Prerequisite: CEE 443.", 
+    "href": "/2017/spring/CEE/444.json", 
+    "id": "CEE 444", 
+    "label": "Env Eng Principles, Biological", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "LM", 
+            "href": "/2017/spring/CEE/444/31723.json", 
+            "id": "31723"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/CWL/151/65055.json", 
+    "id": "65055", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foreign Languages Building", 
+            "daysOfTheWeek": "MWF", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Sanders, R", 
+                    "firstName": "R", 
+                    "lastName": "Sanders"
+                }
+            }, 
+            "roomNumber": "1038", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Cross-Cultural Thematics", 
+            "href": "/2017/spring/CWL/151.json", 
+            "id": "151"
+        }, 
+        "subject": {
+            "content": "Comparative and World Literature", 
+            "href": "/2017/spring/CWL.json", 
+            "id": "CWL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "RS", 
+    "sectionStatusCode": "A", 
+    "sectionText": "CWL 151: The Literature of Medicine in Action      Medicine is about taking action. Headlines heralding bold new advances in treatment and TV shows about doctors taking huge risks to help their patients attest to that simple fact. Compared to these popular portrayals of medicine, the portrayals of medicine in works by key authors of Western literature can seem stagnant, abstract or irrelevant. Yet these literary works are just as if not more active than news or TV shows as evidenced by the fact that they spawn fascinating stage, film, radio and even anime adaptations. Reading these works alongside their multi-media adaptations highlights the very active, very real issues contained within the original texts. By fully appreciating their active elements, students will begin to see that these works question and even undermine certain hallowed mottos of modern medicine, like ?Don?t just stand there, do something.? Walking away from this course, students will hopefully have a deeper understanding of why these texts sometimes advocate for alternatives, like ?Don?t just do something, stand there.? Taught by a MD/PhD candidate with feet in the worlds of both medicine and comparative literature, the course is geared toward a variety of student needs and interests, from pre-medical students seeking enrichment that is as academically rigorous as their scientific prerequisites to humanities majors looking for solid training in reading and writing about canonical works from English-, French- and German-speaking cultures. The course will also feature a career component in which students will begin to think about how humanities training might be leveraged to set them apart on the job market and in the careers to which they aspire. This emphasis on career planning comes from both the instructor?s experience with and interest in finding alternative ways to make humanistic engagement an integral part of a career. The instructor is happy to answer any questions and may be contacted at rsande20@illinois.edu.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

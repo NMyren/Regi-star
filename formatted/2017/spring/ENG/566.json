@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as TE 566. 2 graduate hours. No professional credit.", 
+    "creditHours": "2 hours.", 
+    "description": "Cornerstone financial concepts for engineering management to enable analysis of engineering projects from a financial perspective: income statements; the balance sheet; cash flow statements; corporate organization; the time value of money; net present value; discounted cash flow analysis; portfolio theory. Same as TE 566. 2 graduate hours. No professional credit.", 
+    "href": "/2017/spring/ENG/566.json", 
+    "id": "ENG 566", 
+    "label": "Finance for Engineering Mgmt", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/ENG/566/51369.json", 
+                "id": "51369"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/ENG/566/51452.json", 
+                "id": "51452"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as TAM 570. See TAM 570.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as TAM 570. See TAM 570.", 
+    "href": "/2017/spring/CSE/560.json", 
+    "id": "CSE 560", 
+    "label": "Computational Fluid Mechanics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computational Science and Engineering", 
+            "href": "/2017/spring/CSE.json", 
+            "id": "CSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "E", 
+            "href": "/2017/spring/CSE/560/36436.json", 
+            "id": "36436"
+        }
+    }
+}

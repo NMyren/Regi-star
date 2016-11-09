@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CI/442/31944.json", 
+    "id": "31944", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MTWR", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Morrisette, S", 
+                    "firstName": "S", 
+                    "lastName": "Morrisette"
+                }
+            }, 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Math, Sci, Tech in Early Child", 
+            "href": "/2017/spring/CI/442.json", 
+            "id": "442"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Also requires concurrent enrollment in CI 466, CI 444 and EDPR 432 (EC).  This course meets for 6 weeks only.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

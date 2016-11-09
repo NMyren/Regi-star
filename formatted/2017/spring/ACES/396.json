@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated in separate terms to a maximum of 12 hours. No more than 12 hours of special problems, research, thesis and/or individual studies may be counted toward a degree. Prerequisite: Junior or senior standing, cumulative GPA of 3.4 or above, enrollment in the ACES James Scholar Honors Program, and consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Undergraduate research, bachelor's thesis, and/or design work under the direction of a faculty mentor, culminating in the writing of a research abstract and presentation of a display poster at an approved event such as ExplorACES, the Provost's Undergraduate Research Symposium, and/or an external professional/scientific meeting. May be repeated in separate terms to a maximum of 12 hours. No more than 12 hours of special problems, research, thesis and/or individual studies may be counted toward a degree. Prerequisite: Junior or senior standing, cumulative GPA of 3.4 or above, enrollment in the ACES James Scholar Honors Program, and consent of instructor.", 
+    "href": "/2017/spring/ACES/396.json", 
+    "id": "ACES 396", 
+    "label": "UG Honors Research or Thesis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural, Consumer and Environmental Sciences", 
+            "href": "/2017/spring/ACES.json", 
+            "id": "ACES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ACES/396/58043.json", 
+            "id": "58043"
+        }
+    }
+}

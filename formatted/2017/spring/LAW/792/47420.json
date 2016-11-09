@@ -1,0 +1,55 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-01-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LAW/792/47420.json", 
+    "id": "47420", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "R", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Schulte, A", 
+                    "firstName": "A", 
+                    "lastName": "Schulte"
+                }
+            }, 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "S12", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Current Legal Problems", 
+            "href": "/2017/spring/LAW/792.json", 
+            "id": "792"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "LF", 
+    "sectionDeptRestriction": "Restricted to students in the Law department.", 
+    "sectionNumber": "L", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Writing for Law Practice", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

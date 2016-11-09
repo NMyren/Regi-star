@@ -1,0 +1,58 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/PSYC/396/64891.json", 
+    "id": "64891", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Education Building", 
+            "daysOfTheWeek": "MWF", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Lleras Buetti, S", 
+                    "firstName": "S", 
+                    "lastName": "Lleras Buetti"
+                }
+            }, 
+            "roomNumber": "166", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intermediate Current Topics in Psychology", 
+            "href": "/2017/spring/PSYC/396.json", 
+            "id": "396"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to students with Senior class standing. Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "SLB", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Senior priority enrollment begins November 2nd. Junior priority enrollment begins November 9th. Open enrollment begins at 10am on November 21st. Our senses deliver to our brain a vast amount of information about the environment (sounds, lights, smells, etc.) and our body (hunger, heat, balance, etc.).  Famously, Tsotsos (1994) demonstrated that a brain able to process and understand all of this information simultaneously would not fit inside our skull! Moreover, our brains not only process sensory information, they also enable us to have a very rich mental life (thoughts about the past, present and future, emotions, desires, goals, etc.). How does our mind keep up with all this information?  Attention is the set of processes that help us focus on a subset of information that our brain can handle. Thanks to attention we are not overwhelmed or distracted by all the information that is not important to the present moment. In this class we will cover a wide range of attention-related topics, including multi-tasking, mind-wandering, mindfulness, neuropsychological disorders of attention (such as spatial neglect),  and ADHD. We will also study the basic mechanisms of attention, how researchers investigate attention, and how these basic concepts are used in design, legal and engineering applications.  This is an active learning course involving weekly group activities and discussions. ** Approved for the Cognitive and General Psychology concentration **", 
+    "sectionTitle": "The Attentive Mind", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

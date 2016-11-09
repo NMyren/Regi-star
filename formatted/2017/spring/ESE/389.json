@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. May be repeated in separate terms if topics vary. Prerequisite: For ESE majors and Sustainability Living Learning Community students. Non majors can apply to the waitlist.", 
+    "creditHours": "3 hours.", 
+    "description": "Group expedition to study environment and sustainability issues at a field site. Includes in-class meetings, student-led presentation, and field trip; expeditions run during spring break, winter break, in mid-May or in intercession; dates depend on location. Field Trip and field trip fee required. Additional fees may apply. See Class Schedule. May be repeated in separate terms if topics vary. Prerequisite: For ESE majors and Sustainability Living Learning Community students. Non majors can apply to the waitlist.", 
+    "href": "/2017/spring/ESE/389.json", 
+    "id": "ESE 389", 
+    "label": "Environ &Sust Field Expedition", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Earth, Society, and Environment", 
+            "href": "/2017/spring/ESE.json", 
+            "id": "ESE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionFeeAmount": "ESE 389 Field Trip $2727.00 Flat Fee.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ESE/389/62068.json", 
+            "id": "62068"
+        }
+    }
+}

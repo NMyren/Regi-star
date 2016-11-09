@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CS/598/65116.json", 
+    "id": "65116", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Siebel Center for Comp Sci", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:45 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Lazebnik, S", 
+                    "firstName": "S", 
+                    "lastName": "Lazebnik"
+                }
+            }, 
+            "roomNumber": "1109", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "S0 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/CS/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "LAZ", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Title:  Cutting-Edge Trends in Deep Learning and Recognition   Topics include but are not limited to: novel architectures and training techniques; alternatives to fully supervised training; deep reinforcement learning; neural generative models; neural memory and Turing models; integration of vision with other modalities; applications to robotics, speech and language. Course requirements include making presentations, actively participating in discussions, and completing a project, survey paper or tutorial.", 
+    "sectionTitle": "Cutting-Edge Trends In DLR", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

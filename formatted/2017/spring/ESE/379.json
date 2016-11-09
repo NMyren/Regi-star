@@ -1,0 +1,54 @@
+{
+    "courseSectionInformation": "Same as GEOG 379. See GEOG 379.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as GEOG 379. See GEOG 379.", 
+    "href": "/2017/spring/ESE/379.json", 
+    "id": "ESE 379", 
+    "label": "Intro to GIS Systems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Earth, Society, and Environment", 
+            "href": "/2017/spring/ESE.json", 
+            "id": "ESE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ESE/379/54799.json", 
+                "id": "54799"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/ESE/379/54800.json", 
+                "id": "54800"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/ESE/379/58915.json", 
+                "id": "58915"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/ESE/379/58916.json", 
+                "id": "58916"
+            }, 
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/ESE/379/54798.json", 
+                "id": "54798"
+            }
+        ]
+    }
+}

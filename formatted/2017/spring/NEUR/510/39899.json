@@ -1,0 +1,71 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/NEUR/510/39899.json", 
+    "id": "39899", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Psychology Building", 
+            "daysOfTheWeek": "R", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Galvez, R", 
+                        "firstName": "R", 
+                        "lastName": "Galvez"
+                    }, 
+                    {
+                        "content": "Liang, N", 
+                        "firstName": "N", 
+                        "lastName": "Liang"
+                    }, 
+                    {
+                        "content": "Rhodes, J", 
+                        "firstName": "J", 
+                        "lastName": "Rhodes"
+                    }, 
+                    {
+                        "content": "Uddin, E", 
+                        "firstName": "E", 
+                        "lastName": "Uddin"
+                    }
+                ]
+            }, 
+            "roomNumber": "508", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advances in Behavioral Neuroscience", 
+            "href": "/2017/spring/NEUR/510.json", 
+            "id": "510"
+        }, 
+        "subject": {
+            "content": "Neuroscience", 
+            "href": "/2017/spring/NEUR.json", 
+            "id": "NEUR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

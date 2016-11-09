@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated up to 4 hours in a semester, to a maximum of 10 hours. Prerequisite: Sophomore standing, cumulative GPA of 2. 5 or above at the time the internship is arranged, and consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Supervised, on-campus, learning experience with faculty engaged in research. Approved for S/U grading only. May be repeated up to 4 hours in a semester, to a maximum of 10 hours. Prerequisite: Sophomore standing, cumulative GPA of 2. 5 or above at the time the internship is arranged, and consent of instructor.", 
+    "href": "/2017/spring/ACE/294.json", 
+    "id": "ACE 294", 
+    "label": "On-Campus Internship", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural and Consumer Economics", 
+            "href": "/2017/spring/ACE.json", 
+            "id": "ACE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ACE/294/10057.json", 
+            "id": "10057"
+        }
+    }
+}

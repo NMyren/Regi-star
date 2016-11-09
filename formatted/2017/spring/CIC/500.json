@@ -1,0 +1,78 @@
+{
+    "creditHours": "0 TO 20 hours.", 
+    "href": "/2017/spring/CIC/500.json", 
+    "id": "CIC 500", 
+    "label": "CIC Traveling Scholar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Committee on Inst Cooperation", 
+            "href": "/2017/spring/CIC.json", 
+            "id": "CIC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/CIC/500/30931.json", 
+                "id": "30931"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/CIC/500/43288.json", 
+                "id": "43288"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/CIC/500/43289.json", 
+                "id": "43289"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/CIC/500/43290.json", 
+                "id": "43290"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/CIC/500/43291.json", 
+                "id": "43291"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/CIC/500/43292.json", 
+                "id": "43292"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/CIC/500/43293.json", 
+                "id": "43293"
+            }, 
+            {
+                "content": "H", 
+                "href": "/2017/spring/CIC/500/43294.json", 
+                "id": "43294"
+            }, 
+            {
+                "content": "I", 
+                "href": "/2017/spring/CIC/500/43295.json", 
+                "id": "43295"
+            }, 
+            {
+                "content": "J", 
+                "href": "/2017/spring/CIC/500/43296.json", 
+                "id": "43296"
+            }
+        ]
+    }
+}

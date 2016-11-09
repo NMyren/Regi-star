@@ -1,0 +1,80 @@
+{
+    "classScheduleInformation": "Class meetings constitute half of the credit hour requirement, the other half is met by on-line, web-based work.", 
+    "courseSectionInformation": "Credit is not given for both SPAN 141 and SPAN 142. Recommended for students who plan to major or minor in Spanish. Prerequisite: SPAN 130 (previously numbered 103), equivalent course, or placement score.", 
+    "creditHours": "4 hours.", 
+    "description": "Introduction to the major structures of Spanish, from a linguistic perspective and will develop students' formal knowledge of Spanish grammar. This is considered a fourth level course for purposes of fulfilling the University General Education Language requirement. Credit is not given for both SPAN 141 and SPAN 142. Recommended for students who plan to major or minor in Spanish. Prerequisite: SPAN 130 (previously numbered 103), equivalent course, or placement score.", 
+    "href": "/2017/spring/SPAN/141.json", 
+    "id": "SPAN 141", 
+    "label": "Introduction to Spanish Grammar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "C1", 
+                "href": "/2017/spring/SPAN/141/35090.json", 
+                "id": "35090"
+            }, 
+            {
+                "content": "C2", 
+                "href": "/2017/spring/SPAN/141/35092.json", 
+                "id": "35092"
+            }, 
+            {
+                "content": "D1", 
+                "href": "/2017/spring/SPAN/141/35094.json", 
+                "id": "35094"
+            }, 
+            {
+                "content": "D2", 
+                "href": "/2017/spring/SPAN/141/35097.json", 
+                "id": "35097"
+            }, 
+            {
+                "content": "E1", 
+                "href": "/2017/spring/SPAN/141/35193.json", 
+                "id": "35193"
+            }, 
+            {
+                "content": "E2", 
+                "href": "/2017/spring/SPAN/141/35195.json", 
+                "id": "35195"
+            }, 
+            {
+                "content": "F1", 
+                "href": "/2017/spring/SPAN/141/35198.json", 
+                "id": "35198"
+            }, 
+            {
+                "content": "F2", 
+                "href": "/2017/spring/SPAN/141/35199.json", 
+                "id": "35199"
+            }, 
+            {
+                "content": "X1", 
+                "href": "/2017/spring/SPAN/141/35099.json", 
+                "id": "35099"
+            }, 
+            {
+                "content": "X2", 
+                "href": "/2017/spring/SPAN/141/35102.json", 
+                "id": "35102"
+            }
+        ]
+    }
+}

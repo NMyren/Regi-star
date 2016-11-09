@@ -1,0 +1,50 @@
+{
+    "courseSectionInformation": "Same as MATH 362. Credit is not given for both ECE 313 and MATH 461. Prerequisite: MATH 286 or MATH 415.", 
+    "creditHours": "3 hours.", 
+    "description": "Probability theory with applications to engineering problems such as the reliability of circuits and systems to statistical methods for hypothesis testing, decision making under uncertainty, and parameter estimation. Same as MATH 362. Credit is not given for both ECE 313 and MATH 461. Prerequisite: MATH 286 or MATH 415.", 
+    "href": "/2017/spring/ECE/313.json", 
+    "id": "ECE 313", 
+    "label": "Probability with Engrg Applic", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "B", 
+                "href": "/2017/spring/ECE/313/62135.json", 
+                "id": "62135"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/ECE/313/48245.json", 
+                "id": "48245"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/ECE/313/52919.json", 
+                "id": "52919"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/ECE/313/65543.json", 
+                "id": "65543"
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: NPRE 446.", 
+    "creditHours": "3 hours.", 
+    "description": "Radiation detection and instrumentation; radiation dosimetry and shielding; basic measurements in nuclear engineering; engineering applications; micro computer data acquisition and experimental control. 3 undergraduate hours. 3 graduate hours. Prerequisite: NPRE 446.", 
+    "href": "/2017/spring/NPRE/451.json", 
+    "id": "NPRE 451", 
+    "label": "NPRE Laboratory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Nuclear, Plasma, and Radiological Engineering", 
+            "href": "/2017/spring/NPRE.json", 
+            "id": "NPRE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Nuclear, Plasma, & Rad Engr department.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/NPRE/451/34741.json", 
+                "id": "34741"
+            }, 
+            {
+                "content": "AB5", 
+                "href": "/2017/spring/NPRE/451/57428.json", 
+                "id": "57428"
+            }, 
+            {
+                "content": "AB6", 
+                "href": "/2017/spring/NPRE/451/57429.json", 
+                "id": "57429"
+            }, 
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/NPRE/451/34751.json", 
+                "id": "34751"
+            }
+        ]
+    }
+}

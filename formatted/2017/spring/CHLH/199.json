@@ -1,0 +1,48 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading. May be repeated up to a maximum of 10 hours.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "Approved for letter and S/U grading. May be repeated up to a maximum of 10 hours.", 
+    "href": "/2017/spring/CHLH/199.json", 
+    "id": "CHLH 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/CHLH/199/10519.json", 
+                "id": "10519"
+            }, 
+            {
+                "content": "AC1", 
+                "href": "/2017/spring/CHLH/199/44534.json", 
+                "id": "44534"
+            }, 
+            {
+                "content": "AC2", 
+                "href": "/2017/spring/CHLH/199/47207.json", 
+                "id": "47207"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/CHLH/199/31112.json", 
+                "id": "31112"
+            }
+        ]
+    }
+}

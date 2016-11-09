@@ -1,0 +1,80 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section.", 
+    "courseSectionInformation": "Credit is not given for both HIST 141 and HIST 140.", 
+    "creditHours": "3 hours.", 
+    "description": "Fundamental developments in the history of Western societies from antiquity to early modern Europe; includes the Greek and Roman worlds, the influence of Christianity and Islam, the emergence of medieval monarchies, the rise of cities, the commercial and intellectual revolutions of the Middle Ages, the birth of the university, the conquest and colonization of the Atlantic world, the Renaissance and Reformation, the political and religious upheavals of the sixteenth and seventeenth centuries. Credit is not given for both HIST 141 and HIST 140.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/HIST/141.json", 
+    "id": "HIST 141", 
+    "label": "Western Civ to 1660", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and Western Compartv Cult course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "ADD", 
+                "href": "/2017/spring/HIST/141/33849.json", 
+                "id": "33849"
+            }, 
+            {
+                "content": "ADG", 
+                "href": "/2017/spring/HIST/141/33854.json", 
+                "id": "33854"
+            }, 
+            {
+                "content": "ADL", 
+                "href": "/2017/spring/HIST/141/33860.json", 
+                "id": "33860"
+            }, 
+            {
+                "content": "ADN", 
+                "href": "/2017/spring/HIST/141/33863.json", 
+                "id": "33863"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/HIST/141/33867.json", 
+                "id": "33867"
+            }
+        ]
+    }
+}

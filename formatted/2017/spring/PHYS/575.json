@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: PHYS 570. Recommended: credit or concurrent registration in PHYS 582.", 
+    "creditHours": "4 hours.", 
+    "description": "Basic calculations in elementary particle theory. Quantum electrodynamics, quantum chromodynamics, and the Glashow-Weinberg-Salam theory of weak and electromagnetic interactions as applied to the phenomenology of particle decays and high energy reactions. Prerequisite: PHYS 570. Recommended: credit or concurrent registration in PHYS 582.", 
+    "href": "/2017/spring/PHYS/575.json", 
+    "id": "PHYS 575", 
+    "label": "Particle Physics I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PHYS/575/44743.json", 
+            "id": "44743"
+        }
+    }
+}

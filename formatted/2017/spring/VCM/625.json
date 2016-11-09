@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "1 graduate hour. 1 professional hour. Approved for both letter and S/U grading. Prerequisite: Enrollment in the 2nd year veterinary curriculum.", 
+    "creditHours": "1 hours.", 
+    "description": "Exotic Mammal Medicine is an elective course for veterinary students in their second year of the veterinary curriculum or graduate students interested in zoology. Students will learn clinical aspects of comparative anatomy, physiology, husbandry and handling of exotic mammal species encountered in zoological practice, including rodents, lagamorphs, marsupials, canids, carnivores, primates, and cervids. The most commonly encountered diseases of these species will also be discussed. 1 graduate hour. 1 professional hour. Approved for both letter and S/U grading. Prerequisite: Enrollment in the 2nd year veterinary curriculum.", 
+    "href": "/2017/spring/VCM/625.json", 
+    "id": "VCM 625", 
+    "label": "Exotic Mammal Medicine", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Veterinary Clinical Medicine", 
+            "href": "/2017/spring/VCM.json", 
+            "id": "VCM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/VCM/625/45068.json", 
+            "id": "45068"
+        }
+    }
+}

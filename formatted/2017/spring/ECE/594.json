@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "For 4 hours credit, an extended project is required. Prerequisite: ECE 537.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Mathematical models of linguistic structure and their implementation in computational algorithms used in automatic speech understanding and speech synthesis. Statistical and automata-theoretic techniques are studied allowing a quantitative description of acoustic-phonetics, phonology, phonotactics, lexicons, syntax, and semantics. The methods are used to build components of a speech understanding system. For 4 hours credit, an extended project is required. Prerequisite: ECE 537.", 
+    "href": "/2017/spring/ECE/594.json", 
+    "id": "ECE 594", 
+    "label": "Math Models of Language", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/ECE/594/34016.json", 
+            "id": "34016"
+        }
+    }
+}

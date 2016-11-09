@@ -1,0 +1,51 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/CI/499/51961.json", 
+    "id": "51961", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Education Building", 
+            "daysOfTheWeek": "R", 
+            "end": "05:50 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "385", 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Issues and Development in Educ", 
+            "href": "/2017/spring/CI/499.json", 
+            "id": "499"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "IGD", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Intergroup Dialogue section for juniors in the Elementary Licensure Program.", 
+    "sectionTitle": "Intergroup Dialogue", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: EPS 201; and consent of adviser and staff member who supervises the work.", 
+    "creditHours": "2 hours.", 
+    "description": "Designed for students who wish to do advanced readings and research in greater depth and to investigate further ideas and themes that have been explored in EPS 199 and EPS 201. Prerequisite: EPS 201; and consent of adviser and staff member who supervises the work.", 
+    "href": "/2017/spring/EPS/395.json", 
+    "id": "EPS 395", 
+    "label": "Independent Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Policy Studies", 
+            "href": "/2017/spring/EPS.json", 
+            "id": "EPS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/EPS/395/10591.json", 
+            "id": "10591"
+        }
+    }
+}

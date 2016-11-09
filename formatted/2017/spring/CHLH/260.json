@@ -1,0 +1,68 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section.", 
+    "courseSectionInformation": "Approved for both letter and S/U grading.", 
+    "creditHours": "3 hours.", 
+    "description": "Course stresses normative bioethics: decisions about what is ethical behavior in a variety of real and practical issues. Analysis of medical ethical cases at the individual, community and wider national and international levels will be addressed. Approved for both letter and S/U grading.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Humanities & the Arts", 
+            "id": "HUM", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1HP", 
+                    "content": "UIUC: Hist&Philosoph Perspect"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CHLH/260.json", 
+    "id": "CHLH 260", 
+    "label": "Introduction to Medical Ethics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/CHLH/260/31252.json", 
+                "id": "31252"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/CHLH/260/31254.json", 
+                "id": "31254"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/CHLH/260/31256.json", 
+                "id": "31256"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/CHLH/260/31258.json", 
+                "id": "31258"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CHLH/260/31261.json", 
+                "id": "31261"
+            }
+        ]
+    }
+}

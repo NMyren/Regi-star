@@ -1,0 +1,34 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. May be repeated to a maximum of 4 hours. Prerequisite: ARTS 330 and junior standing in crafts, or consent of instructor.  For Metals majors only.", 
+    "creditHours": "2 hours.", 
+    "description": "Understanding of the working properties of nonferrous metals. Experimentation with little known processes of metalwork to be subjects of individual research. Additional fees may apply. See Class Schedule. May be repeated to a maximum of 4 hours. Prerequisite: ARTS 330 and junior standing in crafts, or consent of instructor.  For Metals majors only.", 
+    "href": "/2017/spring/ARTS/332.json", 
+    "id": "ARTS 332", 
+    "label": "Metal Technology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Studio", 
+            "href": "/2017/spring/ARTS.json", 
+            "id": "ARTS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionFeeAmount": "Art  Design Metals $95.00 Flat Fee.", 
+    "sectionRegistrationNotes": "Restricted to Graphic Design or Crafts or History of Art or Photography or Industrial Design or Painting or Sculpture or Art Education or New Media major(s).", 
+    "sections": {
+        "section": {
+            "content": "MX", 
+            "href": "/2017/spring/ARTS/332/30384.json", 
+            "id": "30384"
+        }
+    }
+}

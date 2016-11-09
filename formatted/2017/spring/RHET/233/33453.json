@@ -1,0 +1,50 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/RHET/233/33453.json", 
+    "id": "33453", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Henry Administration Bldg", 
+            "daysOfTheWeek": "MWF", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "149", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Adv Rhetoric & Composition", 
+            "href": "/2017/spring/RHET/233.json", 
+            "id": "233"
+        }, 
+        "subject": {
+            "content": "Rhetoric and Composition", 
+            "href": "/2017/spring/RHET.json", 
+            "id": "RHET"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionCappArea": "Restricted to Transfer student - first time students.", 
+    "sectionNumber": "TRF", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This section is restricted to new transfer students.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

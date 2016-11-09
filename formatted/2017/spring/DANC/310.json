@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "May be repeated in the same term to a maximum of 2 hours. May be repeated in separate terms to a maximum of 8 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 hours.", 
+    "description": "Provides students with the physical study of various world dance forms. Topics reflect specializations of faculty, such as Capoiera, African dance, Balinese dance, and Chinese forms. May be repeated in the same term to a maximum of 2 hours. May be repeated in separate terms to a maximum of 8 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/DANC/310.json", 
+    "id": "DANC 310", 
+    "label": "World Dance Forms", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Dance or Dance major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/DANC/310/51228.json", 
+                "id": "51228"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/DANC/310/52681.json", 
+                "id": "52681"
+            }
+        ]
+    }
+}

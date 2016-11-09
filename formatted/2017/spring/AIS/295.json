@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as AAS 215, AFRO 215, GWS 215, and LLS 215. See AAS 215.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as AAS 215, AFRO 215, GWS 215, and LLS 215. See AAS 215.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1US", 
+                        "content": "UIUC: US Minority Culture(s)"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/AIS/295.json", 
+    "id": "AIS 295", 
+    "label": "US Citizenship Comparatively", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "American Indian Studies", 
+            "href": "/2017/spring/AIS.json", 
+            "id": "AIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and US Minority Culture(s) course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/AIS/295/52319.json", 
+            "id": "52319"
+        }
+    }
+}

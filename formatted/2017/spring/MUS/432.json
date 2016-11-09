@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. 2 graduate hours. Required of piano performance majors. Prerequisite: Senior standing in music or music education, or consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "Objectives, techniques, literature, and materials for teaching the young pianist from about ages 11 through 18 (middle school to pre-college level); teaching the adult beginner; observation of lessons and supervised student teaching experience. 2 undergraduate hours. 2 graduate hours. Required of piano performance majors. Prerequisite: Senior standing in music or music education, or consent of instructor.", 
+    "href": "/2017/spring/MUS/432.json", 
+    "id": "MUS 432", 
+    "label": "Piano Pedagogy II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/432/36524.json", 
+            "id": "36524"
+        }
+    }
+}

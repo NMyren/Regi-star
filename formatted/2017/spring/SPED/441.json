@@ -1,0 +1,34 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: SPED 440 and concurrent enrollment in SPED 524 or EDPR 250, or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Course focuses the design of instruction based on diverse student characteristics, student performance data, curriculum goals, and the community context. Emphasis is placed on application of techniques and strategies to facilitate learning and on evaluating assessment information to modify methods, materials, or environments to enhance student success. 4 undergraduate hours. 4 graduate hours. Prerequisite: SPED 440 and concurrent enrollment in SPED 524 or EDPR 250, or consent of instructor.", 
+    "href": "/2017/spring/SPED/441.json", 
+    "id": "SPED 441", 
+    "label": "Instructional Strategies II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Special Education", 
+            "href": "/2017/spring/SPED.json", 
+            "id": "SPED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to Admitted Teacher Ed Student students.", 
+    "sectionRegistrationNotes": "Restricted to Special Education major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SPED/441/34535.json", 
+            "id": "34535"
+        }
+    }
+}

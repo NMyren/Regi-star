@@ -1,0 +1,54 @@
+{
+    "courseSectionInformation": "Same as ACE 310 and ENVS 310. See ACE 310.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as ACE 310 and ENVS 310. See ACE 310.", 
+    "href": "/2017/spring/NRES/310.json", 
+    "id": "NRES 310", 
+    "label": "Natural Resource Economics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Natural Resources and Environmental Sciences", 
+            "href": "/2017/spring/NRES.json", 
+            "id": "NRES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/NRES/310/60473.json", 
+                "id": "60473"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/NRES/310/60474.json", 
+                "id": "60474"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/NRES/310/60475.json", 
+                "id": "60475"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/NRES/310/60476.json", 
+                "id": "60476"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/NRES/310/60461.json", 
+                "id": "60461"
+            }
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ITAL/390/45965.json", 
+    "id": "45965", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "1205 W Oregon", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Rota, E", 
+                    "firstName": "E", 
+                    "lastName": "Rota"
+                }
+            }, 
+            "roomNumber": "212", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Spec Topics Italian Studies", 
+            "href": "/2017/spring/ITAL/390.json", 
+            "id": "390"
+        }, 
+        "subject": {
+            "content": "Italian", 
+            "href": "/2017/spring/ITAL.json", 
+            "id": "ITAL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionCappArea": "Restricted to Chancellor's Scholar-CHPHonors students.", 
+    "sectionNumber": "CHP", 
+    "sectionStatusCode": "A", 
+    "sectionText": "For Chancellor's Scholars; others may enroll with the consent of the instructor and the Campus Honors Program, if their requirements are met.   Spring 2017  Before Unemployment: Work, Idleness and the Uber-Working Class", 
+    "sectionTitle": "Work Ethics & Its Discontents", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

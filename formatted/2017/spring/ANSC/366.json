@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as ANTH 342 and IB 329. See IB 329.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as ANTH 342 and IB 329. See IB 329.", 
+    "href": "/2017/spring/ANSC/366.json", 
+    "id": "ANSC 366", 
+    "label": "Animal Behavior", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ANSC/366/56888.json", 
+            "id": "56888"
+        }
+    }
+}

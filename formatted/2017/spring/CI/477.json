@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: CI 433 or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Focuses on bilingual and English-as-a-second language (ESL) curriculum development and instruction for bilingual and second-language learners (K-12) in a variety of language and program settings. Emphasizes bilingual and ESL materials selection and development, bilingual and ESL literacy instruction, bilingual and ESL content area instruction, and sheltered English instruction. Issues related to second-language acquisition, cultural and linguistic diversity, and parental and community involvement are reviewed. 4 undergraduate hours. 4 graduate hours. Prerequisite: CI 433 or consent of instructor.", 
+    "href": "/2017/spring/CI/477.json", 
+    "id": "CI 477", 
+    "label": "Biling ESL Methods & Material", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/CI/477/53472.json", 
+                "id": "53472"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/CI/477/63720.json", 
+                "id": "63720"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CI/477/61551.json", 
+                "id": "61551"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "Prerequisite: Any elementary statistics course.", 
+    "creditHours": "4 hours.", 
+    "description": "Application of statistical methods to problems in human resources and industrial relations. Analysis and presentation of results using computer software. Covers statistical techniques through analysis of variance and multiple regression. Prerequisite: Any elementary statistics course.", 
+    "href": "/2017/spring/LER/593.json", 
+    "id": "LER 593", 
+    "label": "Quantitative Methods in LER", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Labor and Employment Relations", 
+            "href": "/2017/spring/LER.json", 
+            "id": "LER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/LER/593/53174.json", 
+                "id": "53174"
+            }, 
+            {
+                "content": "AQ1", 
+                "href": "/2017/spring/LER/593/53175.json", 
+                "id": "53175"
+            }, 
+            {
+                "content": "AQ2", 
+                "href": "/2017/spring/LER/593/53176.json", 
+                "id": "53176"
+            }, 
+            {
+                "content": "O1", 
+                "href": "/2017/spring/LER/593/65570.json", 
+                "id": "65570"
+            }
+        ]
+    }
+}

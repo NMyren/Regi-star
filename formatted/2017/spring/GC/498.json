@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "0 to 12 graduate hours. Approved for both letter and S/U grading. May be repeated to a maximum of 12 graduate hours in separate terms. Credit received will depend on transfer approved from visited institution. Prerequisite: Registration will be controlled by Graduate Records.", 
+    "creditHours": "0 TO 12 hours.", 
+    "description": "Provides campus credit for study at accredited domestics institutions outside the CIC. 0 to 12 graduate hours. Approved for both letter and S/U grading. May be repeated to a maximum of 12 graduate hours in separate terms. Credit received will depend on transfer approved from visited institution. Prerequisite: Registration will be controlled by Graduate Records.", 
+    "href": "/2017/spring/GC/498.json", 
+    "id": "GC 498", 
+    "label": "Graduate Domestic Study Away", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Graduate College", 
+            "href": "/2017/spring/GC.json", 
+            "id": "GC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Dean Approval Required", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GC/498/58777.json", 
+            "id": "58777"
+        }
+    }
+}

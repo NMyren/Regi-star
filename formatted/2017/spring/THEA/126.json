@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Enrollment limited to Theater majors in Scenic Technology or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Studies and training in materials, techniques, and processes used in executing scenery for the theater. Includes both classroom lectures and practical laboratory work in the Scenic Studio of Krannert Center. Prerequisite: Enrollment limited to Theater majors in Scenic Technology or consent of instructor.", 
+    "href": "/2017/spring/THEA/126.json", 
+    "id": "THEA 126", 
+    "label": "Stage Mechanics I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/THEA/126/37052.json", 
+            "id": "37052"
+        }
+    }
+}

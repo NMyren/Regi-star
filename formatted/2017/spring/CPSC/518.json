@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: CPSC 418 or CPSC 484.", 
+    "creditHours": "4 hours.", 
+    "description": "Study of the physiological processes involved in growth and development of crop plants and the interaction of  these  processes with the environment that influences productivity. Prerequisite: CPSC 418 or CPSC 484.", 
+    "href": "/2017/spring/CPSC/518.json", 
+    "id": "CPSC 518", 
+    "label": "Crop Growth and Development", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CPSC/518/31648.json", 
+            "id": "31648"
+        }
+    }
+}

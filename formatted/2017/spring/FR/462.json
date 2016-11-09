@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as ITAL 435, LING 462, PORT 435, RMLG 435, and SPAN 435. See SPAN 435.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as ITAL 435, LING 462, PORT 435, RMLG 435, and SPAN 435. See SPAN 435.", 
+    "href": "/2017/spring/FR/462.json", 
+    "id": "FR 462", 
+    "label": "Introduction to Romance Linguistics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "French", 
+            "href": "/2017/spring/FR.json", 
+            "id": "FR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G4", 
+                "href": "/2017/spring/FR/462/64880.json", 
+                "id": "64880"
+            }, 
+            {
+                "content": "U3", 
+                "href": "/2017/spring/FR/462/58567.json", 
+                "id": "58567"
+            }
+        ]
+    }
+}

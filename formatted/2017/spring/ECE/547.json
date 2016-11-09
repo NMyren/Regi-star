@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as CSE 543. Prerequisite: ECE 310 and ECE 313.", 
+    "creditHours": "4 hours.", 
+    "description": "Fundamental concepts, techniques, and directions of research in image processing: two-dimensional Fourier transform and filtering, image digitization, coding, restoration, reconstruction, analysis, and recognition. Same as CSE 543. Prerequisite: ECE 310 and ECE 313.", 
+    "href": "/2017/spring/ECE/547.json", 
+    "id": "ECE 547", 
+    "label": "Topics in Image Processing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "O", 
+            "href": "/2017/spring/ECE/547/65513.json", 
+            "id": "65513"
+        }
+    }
+}

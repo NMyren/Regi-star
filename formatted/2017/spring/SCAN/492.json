@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as MACS 492. 3 undergraduate hours. 4 graduate hours.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Covers major directors, traditions, genres, themes, and production and distribution contexts of Scandinavian cinema and media industries. Addressing early cinema, fiction feature, documentary, shorts, experimental, and new and emergent artistic forms, the course will provide students with an in depth understanding of the rich culture of Scandinavian cinema since its inception. Same as MACS 492. 3 undergraduate hours. 4 graduate hours.", 
+    "href": "/2017/spring/SCAN/492.json", 
+    "id": "SCAN 492", 
+    "label": "Scandinavian Cinema", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Scandinavian", 
+            "href": "/2017/spring/SCAN.json", 
+            "id": "SCAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "E", 
+            "href": "/2017/spring/SCAN/492/58493.json", 
+            "id": "58493"
+        }
+    }
+}

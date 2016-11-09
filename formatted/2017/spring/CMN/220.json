@@ -1,0 +1,53 @@
+{
+    "courseSectionInformation": "Prerequisite: Completion of campus Composition I general education requirement.", 
+    "creditHours": "3 hours.", 
+    "description": "Study of the nature of policy-oriented communication; analysis and formulation of positions on issues of professional, personal, or public interest; design and presentation of public policy messages addressed to varying tasks and audiences, with special emphasis on advanced writing skills. Prerequisite: Completion of campus Composition I general education requirement.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CMN/220.json", 
+    "id": "CMN 220", 
+    "label": "Communicating Public Policy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition, and Grand Challenge-Sustainability course.", 
+    "sectionRegistrationNotes": "Restricted to Speech Communication or Communication major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "1", 
+                "href": "/2017/spring/CMN/220/50587.json", 
+                "id": "50587"
+            }, 
+            {
+                "content": "2", 
+                "href": "/2017/spring/CMN/220/50588.json", 
+                "id": "50588"
+            }
+        ]
+    }
+}

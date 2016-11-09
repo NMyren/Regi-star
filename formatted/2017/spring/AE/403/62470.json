@@ -1,0 +1,52 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/AE/403/62470.json", 
+    "id": "62470", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Ho, K", 
+                    "firstName": "K", 
+                    "lastName": "Ho"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Spacecraft Attitude Control", 
+            "href": "/2017/spring/AE/403.json", 
+            "id": "403"
+        }, 
+        "subject": {
+            "content": "Aerospace Engineering", 
+            "href": "/2017/spring/AE.json", 
+            "id": "AE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to MS: Civil Engr - Online - UIUC, MCS:Computer Sci Online -UIUC, MS:Mechanical Engineerng -UIUC, MS: Aerospace Engr-Online-UIUC, NDEG:Grad Nondegree-CE-UIUC, NDEG:Undergrad Nondeg-CE-UIUC, or MENG:Mech Engineering Onl-UIUC.", 
+    "sectionNumber": "ONL", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Restricted to online non-degree, online MCS, online MSME, online MSCEE, and online MSAE students.For more details on this course section, please see http://engineering.illinois.edu/online/courses/. Non-Degree students may enroll on a space-available basis with consent of Program Coordinator, Staci McDannel (tank@illinois.edu).", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

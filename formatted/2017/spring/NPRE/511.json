@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: NPRE 501.", 
+    "creditHours": "4 hours.", 
+    "description": "Selected topics in nuclear reactor heat transfer: thermal analysis of fuel elements under steady and transient operation; convective energy transport from reactor cores; two-phase flow and boiling in reactor cores; liquid metal coolant systems. Prerequisite: NPRE 501.", 
+    "href": "/2017/spring/NPRE/511.json", 
+    "id": "NPRE 511", 
+    "label": "Nuclear Reactor Heat Transfer", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Nuclear, Plasma, and Radiological Engineering", 
+            "href": "/2017/spring/NPRE.json", 
+            "id": "NPRE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "CB", 
+            "href": "/2017/spring/NPRE/511/40726.json", 
+            "id": "40726"
+        }
+    }
+}

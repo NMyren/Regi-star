@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LIS/590/65857.json", 
+    "id": "65857", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Grad Sch of Lib & Info Science", 
+            "daysOfTheWeek": "T", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Stodden, V", 
+                    "firstName": "V", 
+                    "lastName": "Stodden"
+                }
+            }, 
+            "roomNumber": "341", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Problems in LIS", 
+            "href": "/2017/spring/LIS/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Information Sciences department.", 
+    "sectionNumber": "IPS", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course is intended to introduce students to principles, fundamental ideas, and cases in Intellectual Property Law that bear on the area of scholarship. For the purposes of this course the term scholarship is considered broadly, including traditional published articles as well as associated digital artifacts such as research datasets, scripts, codes, and workflows. It also includes other scholarly objects, such as video and film, musical composition, aboriginal artifacts, or engineering demonstrations.  This course will be conducted in a seminar format and survey the literature and caselaw surrounding Intellectual Property Law in the U.S., including copyright and open licensing, patents, and trademark law. We will discuss recent policy changes and their impact on the Intellectual Property rights adhering to scholarly objects. Where appropriate we will compare American jurisprudence to international Intellectual Property Law.  This course is restricted to LIS students.", 
+    "sectionTitle": "IP in Scholarship", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

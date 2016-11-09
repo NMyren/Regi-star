@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as ENVS 330 and NRES 330. Prerequisite: Sophomore standing.", 
+    "creditHours": "3 hours.", 
+    "description": "Basics of communicating about environmental issues to various audiences, emphasizing communication to lay publics. Gathering information about a current environmental issue, analyzing interests of groups involved, and examining strategies for communicating clearly to different groups. Same as ENVS 330 and NRES 330. Prerequisite: Sophomore standing.", 
+    "href": "/2017/spring/AGCM/330.json", 
+    "id": "AGCM 330", 
+    "label": "Environmental Communications", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural Communications", 
+            "href": "/2017/spring/AGCM.json", 
+            "id": "AGCM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for students with Freshman class standing.", 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/AGCM/330/59679.json", 
+            "id": "59679"
+        }
+    }
+}

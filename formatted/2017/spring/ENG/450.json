@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as TE 450. 3 undergraduate hours. 3 graduate hours.", 
+    "creditHours": "3 hours.", 
+    "description": "Explore legal tools used in constructing and operating companies. Topics include: issues with business formation, intellectual property, NDA, contracts, and other corporate legal issues impacting startups. Same as TE 450. 3 undergraduate hours. 3 graduate hours.", 
+    "href": "/2017/spring/ENG/450.json", 
+    "id": "ENG 450", 
+    "label": "Startups: Inc, Fund, Contracts, IP", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "B", 
+                "href": "/2017/spring/ENG/450/65577.json", 
+                "id": "65577"
+            }, 
+            {
+                "content": "JB", 
+                "href": "/2017/spring/ENG/450/65313.json", 
+                "id": "65313"
+            }
+        ]
+    }
+}

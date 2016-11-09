@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: MUS 360, or placement by exam with consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "Continuation of MUS 360.  Exploration of advanced harmonic procedures with an emphasis on aural recognition of advanced forms of jazz harmonic structures, scales, chord qualities, and chord progressions. Additional emphasis on scales, chord/scale relationships, and standard jazz harmonic forms such as blues, standard jazz tunes, and modal tunes. Prerequisite: MUS 360, or placement by exam with consent of instructor.", 
+    "href": "/2017/spring/MUS/361.json", 
+    "id": "MUS 361", 
+    "label": "Jazz Improv:Theory and Prac II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Jazz Performance major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/361/43928.json", 
+            "id": "43928"
+        }
+    }
+}

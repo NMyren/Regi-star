@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: ECE 455 or ECE 572; ECE 487 or PHYS 486.", 
+    "creditHours": "4 hours.", 
+    "description": "Nanoscale interaction between light and semiconductors, metals, or composites; plasmonics, cavity electrodynamics, polarition cavity condensation, sub-wavelength structures, metamaterials, and applications. Prerequisite: ECE 455 or ECE 572; ECE 487 or PHYS 486.", 
+    "href": "/2017/spring/ECE/574.json", 
+    "id": "ECE 574", 
+    "label": "Nanophotonics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/ECE/574/60267.json", 
+            "id": "60267"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CEE/598/42069.json", 
+    "id": "42069", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Newmark Civil Engineering Bldg", 
+            "daysOfTheWeek": "MW", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Lopez-Pamies, O", 
+                    "firstName": "O", 
+                    "lastName": "Lopez-Pamies"
+                }
+            }, 
+            "roomNumber": "2312", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/CEE/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "CMM", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Constitutuive Modeling of Engineering Materials - Prerequisite CEE 471", 
+    "sectionTitle": "Constttve Mdling of Engin Mat", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

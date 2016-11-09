@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional credit.", 
+    "creditHours": "4 hours.", 
+    "description": "This course is an overview of historical influences of contemporary early childhood pedagogy and programs. Topics may include, but are not limited to, Enlightenment Era educational reforms, German kindergartens, the Progressive Era, and the War on Poverty. 4 graduate hours. No professional credit.", 
+    "href": "/2017/spring/CI/520.json", 
+    "id": "CI 520", 
+    "label": "History of Early Childhood Pedagogy and Programs", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CI/520/43791.json", 
+            "id": "43791"
+        }
+    }
+}

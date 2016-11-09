@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "1 to 4 undergraduate hours. No graduate credit. Senior standing required. May be repeated. Credit toward the degree is determined by the student's major department. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Disciplined, multi-department, team-structured project design experience with an overall (or major phase) end-of-term completion date. Projects involve design specification through a proposal, analyses of cost and other tradeoffs among alternative designs, design review, fabrication and assembly, functional and environmental testing, and demonstrations (as applicable). Reports and presentations at the end of each term. Individual engineering activities as well as team responsibilities. 1 to 4 undergraduate hours. No graduate credit. Senior standing required. May be repeated. Credit toward the degree is determined by the student's major department. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/ENG/491.json", 
+    "id": "ENG 491", 
+    "label": "Interdisciplinary Design Proj", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "content": "SD", 
+            "href": "/2017/spring/ENG/491/47381.json", 
+            "id": "47381"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: THEA 231, THEA 423, THEA 431, THEA 432.", 
+    "creditHours": "3 hours.", 
+    "description": "Explorations: Expands on the elements and environments of convergent lighting design with a strong focus on the various forms of digital expression including video production, computer-based sketching and storyboarding, and projection design for live performance and installations. 3 undergraduate hours. 3 graduate hours. Prerequisite: THEA 231, THEA 423, THEA 431, THEA 432.", 
+    "href": "/2017/spring/THEA/433.json", 
+    "id": "THEA 433", 
+    "label": "Convergence Design III", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to BFA:Theatre:LightingDesgn-UIUC or MFA:Theatre (MFA-Design) -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "LTG", 
+            "href": "/2017/spring/THEA/433/60911.json", 
+            "id": "60911"
+        }
+    }
+}

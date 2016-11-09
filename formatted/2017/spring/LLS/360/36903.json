@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/LLS/360/36903.json", 
+    "id": "36903", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "1207 W Oregon", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Romero, R", 
+                    "firstName": "R", 
+                    "lastName": "Romero"
+                }
+            }, 
+            "roomNumber": "103", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Contemporary US Latina/o Lit", 
+            "href": "/2017/spring/LLS/360.json", 
+            "id": "360"
+        }, 
+        "subject": {
+            "content": "Latina/Latino Studies", 
+            "href": "/2017/spring/LLS.json", 
+            "id": "LLS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic: \"Biography, Memoir, Testimonio, Autobiography: A Chicana/Latina Sense of Self.\" This course focuses on how Chicanas/Latinas describe their own experiences and how they both understand and negotiate their sense of self. The course centers on the early 20th Century (Lydia Mendoza, Leonor Villegas de Magnon) as well at the more classical Chicana/Chicano Civil Rights Movement (Joan Baez, Dolores Huerta), and the new crop of memoir and autobiograpy, as represented in the most recent texts by well-established Chicana writers, such as Sandra Cisneros, Gloria Anzaldua and Ana Castillo. We will also discuss the professionalization of the field of Latina/Latino Studies in the work of Tey Diana Rebolledo. Additionally, students will study the writing of self with a focus on gender, sexuality, and genre. Historical periods to be covered include the Mexican Revolution, the Civil Rights Movement, and 9/11.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. Prerequisite: CS 101, MATH 241; one of CHBE 421, ECE 110, ECE 205, ME 310, TAM 335.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Overview of wind energy systems; historical development, safety aspect, environmental considerations, wind properties and measurement, site selection, and wind turbine design; transmission systems considerations; mechanical, electrical, control aerodynamic and environmental engineering of modern wind turbines; fatigue failure; annual power production; economics and environmental aspects and accident prevention and mitigation; computational fluid dynamics (CFD) analysis of wind flow and blade interactions; energy storage options; hydrogen production; electrical power transmission issues; licensing issues; alternative wind energy systems; design project involving a wind farm or the construction of a specific type of wind turbine based on a wind park site visit. 3 undergraduate hours. 4 graduate hours. Prerequisite: CS 101, MATH 241; one of CHBE 421, ECE 110, ECE 205, ME 310, TAM 335.", 
+    "href": "/2017/spring/NPRE/475.json", 
+    "id": "NPRE 475", 
+    "label": "Wind Power Systems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Nuclear, Plasma, and Radiological Engineering", 
+            "href": "/2017/spring/NPRE.json", 
+            "id": "NPRE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "GR", 
+                "href": "/2017/spring/NPRE/475/53129.json", 
+                "id": "53129"
+            }, 
+            {
+                "content": "UG", 
+                "href": "/2017/spring/NPRE/475/53126.json", 
+                "id": "53126"
+            }
+        ]
+    }
+}

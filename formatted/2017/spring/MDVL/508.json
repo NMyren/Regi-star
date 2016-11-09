@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as ENGL 508. See ENGL 508.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as ENGL 508. See ENGL 508.", 
+    "href": "/2017/spring/MDVL/508.json", 
+    "id": "MDVL 508", 
+    "label": "Beowulf", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Medieval Studies", 
+            "href": "/2017/spring/MDVL.json", 
+            "id": "MDVL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "G", 
+            "href": "/2017/spring/MDVL/508/43537.json", 
+            "id": "43537"
+        }
+    }
+}

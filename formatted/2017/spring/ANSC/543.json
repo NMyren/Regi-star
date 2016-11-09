@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as CHBE 571, MCB 571, and STAT 530. See CHBE 571.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as CHBE 571, MCB 571, and STAT 530. See CHBE 571.", 
+    "href": "/2017/spring/ANSC/543.json", 
+    "id": "ANSC 543", 
+    "label": "Bioinformatics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign. Restricted to MS:Animal Sciences -UIUC, PHD:Animal Sciences -UIUC, or MS: Bioinformatics: AnSci-UIUC.", 
+    "sections": {
+        "section": {
+            "content": "A1", 
+            "href": "/2017/spring/ANSC/543/61910.json", 
+            "id": "61910"
+        }
+    }
+}

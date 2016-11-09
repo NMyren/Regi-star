@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CS/598/56940.json", 
+    "id": "56940", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Siebel Center for Comp Sci", 
+            "daysOfTheWeek": "WF", 
+            "end": "12:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kirlik, A", 
+                    "firstName": "A", 
+                    "lastName": "Kirlik"
+                }
+            }, 
+            "roomNumber": "1131", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/CS/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "ACK", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Course description: This course covers conceiving, designing, performing, analyzing data and reporting the results of experiments in HCI contexts and evaluating interactive technologies in engineering. Topics include defining the research question, selecting experimental objects, tasks, and participants, the ethical protection of subjects, selecting an experimental design, threats to validity, the collection and analysis of both qualitative and quantitative data and reporting experimental research in publications. Both parametric and nonparametric data analysis are covered, including the most commonly used inferential statistical tests such as repeated- and independent-measures ANOVA, post-hoc Tukey, Wilcoxon, Mann-Whitney, Kruskal-Wallis and others. Statistical material is taught using methods and examples based on mathematical foundations rather than with a statistical analysis software language or package to provide students a rigorous and intuitive understanding of these methods to complement the conveniences these programming environments provide in everyday research practice. Class time includes lectures based on an e-book text available from the library and critiques of recently published articles reporting experimental research in HCI and human factors. Grades are based on homework and 2 exams. Open to advanced undergraduates with permission of instructor.", 
+    "sectionTitle": "Experimental Methods of HCI", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

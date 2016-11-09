@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: General physics and chemistry equivalent to a major for a bachelor's degree.", 
+    "creditHours": "4 hours.", 
+    "description": "Structure of the metal solution interface. Electrochemical and physical methods for probing metal/solution interface. Electroanalysis. Principles of electrochemical instrumentation for electroanalysis. Electrode materials. Electrochemical surface science and electrocatalysis. Prerequisite: General physics and chemistry equivalent to a major for a bachelor's degree.", 
+    "href": "/2017/spring/CHEM/524.json", 
+    "id": "CHEM 524", 
+    "label": "Electrochemical Methods", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHEM/524/32749.json", 
+            "id": "32749"
+        }
+    }
+}

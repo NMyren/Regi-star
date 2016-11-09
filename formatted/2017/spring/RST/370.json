@@ -1,0 +1,45 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Educates students in principles of research design, data collection, measurement, methods of statistical analysis, techniques in summarizing data, and the interpretation and application of research findings to the field of Leisure Studies.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Quantitative Reasoning", 
+            "id": "QR", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1QR2", 
+                    "content": "UIUC: Quant Reasoning II"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/RST/370.json", 
+    "id": "RST 370", 
+    "label": "Research Methods & Analysis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Quant Reasoning II course.", 
+    "sectionRegistrationNotes": "Restricted to students with Sophomore, Junior, or Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/RST/370/43119.json", 
+            "id": "43119"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: SPAN 141, SPAN 142, or equivalent.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to Spanish-speaking communities in the Champaign-Urbana area, focusing on issues of particular interest to the local Hispanic community, developing contextualized oral proficiency, and facilitating student civic engagement. Active student reflection is structured throughout the course. Meets two hours a week in class and two hours a week in community-based service work. In their interactions with community members and organizations students both learn from and contribute to the community. Prerequisite: SPAN 141, SPAN 142, or equivalent.", 
+    "href": "/2017/spring/SPAN/232.json", 
+    "id": "SPAN 232", 
+    "label": "Spanish in the Community", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "F", 
+            "href": "/2017/spring/SPAN/232/47952.json", 
+            "id": "47952"
+        }
+    }
+}

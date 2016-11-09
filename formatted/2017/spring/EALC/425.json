@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as TRST 430. 3 undergraduate hours. 3 graduate hours.", 
+    "creditHours": "3 hours.", 
+    "description": "A critical introduction to major Chinese poetic genres and an in depth examination of various translation strategies used in the translation of Chinese poetry. The poetry component acquaints students with essential aspects of Chinese language and poetry and thus enables them to evaluate the translated texts from the perspectives of both an insider and outsider. The translation component entails both the evaluation of existing translations and practice by the students. Same as TRST 430. 3 undergraduate hours. 3 graduate hours.", 
+    "href": "/2017/spring/EALC/425.json", 
+    "id": "EALC 425", 
+    "label": "Chinese Poetry and Translation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "East Asian Language and Culture", 
+            "href": "/2017/spring/EALC.json", 
+            "id": "EALC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/EALC/425/57113.json", 
+            "id": "57113"
+        }
+    }
+}

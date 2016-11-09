@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "Same as ECE 489 and GE 422. See GE 422.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as ECE 489 and GE 422. See GE 422.", 
+    "href": "/2017/spring/ME/446.json", 
+    "id": "ME 446", 
+    "label": "Robot Dynamics and Control", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ME/446/64909.json", 
+                "id": "64909"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/ME/446/65771.json", 
+                "id": "65771"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/ME/446/65772.json", 
+                "id": "65772"
+            }, 
+            {
+                "content": "AL", 
+                "href": "/2017/spring/ME/446/64908.json", 
+                "id": "64908"
+            }
+        ]
+    }
+}

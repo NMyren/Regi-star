@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Approved for letter and S/U grading. Prerequisite: BIOE 206, CHEM 232.", 
+    "creditHours": "3 hours.", 
+    "description": "Applications in Cancer and Mechanobiology will provide an introduction to basic concepts in applications of nanotechnology in mechanobiology and in cancer. This is a highly interdisciplinary field of research where knowledge from various discipline need to be presented and integrated. The course will be a team taught course by faculty from Engineering and LAS. There will be 4 main sections of the course; (i) biological concepts and cancer biology, (ii) introduction to bottom nanotechnology and nanomedicine, (iii) Microfluidics, Lab on Chip, and Top Down Nanotechnology, and (iv) applications in cellular mechanics, i.e. mechanobiology and nanotechnology. The course will be targeted for first year graduate students and senior undergraduate students. 3 undergraduate hours. 3 graduate hours. Approved for letter and S/U grading. Prerequisite: BIOE 206, CHEM 232.", 
+    "href": "/2017/spring/BIOE/479.json", 
+    "id": "BIOE 479", 
+    "label": "Cancer Nanotechnology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Bioengineering", 
+            "href": "/2017/spring/BIOE.json", 
+            "id": "BIOE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "AL1", 
+            "href": "/2017/spring/BIOE/479/64046.json", 
+            "id": "64046"
+        }
+    }
+}

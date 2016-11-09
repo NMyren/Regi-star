@@ -1,0 +1,76 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/AHS/199/63179.json", 
+    "id": "63179", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Huff Hall", 
+                "daysOfTheWeek": "W", 
+                "end": "06:20 PM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Notaro, S", 
+                        "firstName": "S", 
+                        "lastName": "Notaro"
+                    }
+                }, 
+                "roomNumber": "ARR", 
+                "start": "05:00 PM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }, 
+            {
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Notaro, S", 
+                        "firstName": "S", 
+                        "lastName": "Notaro"
+                    }
+                }, 
+                "start": "ARRANGED", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/AHS/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Applied Health Sciences Courses", 
+            "href": "/2017/spring/AHS.json", 
+            "id": "AHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "SAI", 
+    "sectionStatusCode": "A", 
+    "sectionText": "The Italian Health Care Systems.  Approved for a study abroad trip.  The travel dates will be May 20-June 01, 2015.  Class will meet in room 3019 Huff Hall during the Spring term.", 
+    "sectionTitle": "Italian Health Care Systems", 
+    "specialApproval": "Instructor Approval Required", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

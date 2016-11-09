@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "1 to 4 undergraduate hours. No graduate credit. May be repeated to a maximum of 12 hours. Prerequisite: Ten hours of psychology or cognate area, or written consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Supervised independent investigation of special topics in psychology; requires a written report with a final copy submitted for departmental records. 1 to 4 undergraduate hours. No graduate credit. May be repeated to a maximum of 12 hours. Prerequisite: Ten hours of psychology or cognate area, or written consent of instructor.", 
+    "href": "/2017/spring/PSYC/494.json", 
+    "id": "PSYC 494", 
+    "label": "Advanced Research in Psych", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/PSYC/494/10229.json", 
+            "id": "10229"
+        }
+    }
+}

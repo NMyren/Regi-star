@@ -1,0 +1,74 @@
+{
+    "courseSectionInformation": "Same as SAME 152 and SOC 152.", 
+    "creditHours": "3 hours.", 
+    "description": "Discussion of contemporary sociopolitical change and current events in the Middle East. We will explore the background to these events, the factors that are driving them, and the short-term and long-term implications for the region and the world. Course reflects diverse fields of study, including cultural studies, economics, education, history, law, linguistics, literature, media, religion, political science, and sociology. Same as SAME 152 and SOC 152.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Social & Behavioral Sciences", 
+                "id": "SBS", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1SS", 
+                        "content": "UIUC Social Sciences"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/PS/152.json", 
+    "id": "PS 152", 
+    "label": "The New Middle East", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Non-Western Cultures, and Social Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/PS/152/65362.json", 
+                "id": "65362"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/PS/152/65363.json", 
+                "id": "65363"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/PS/152/65364.json", 
+                "id": "65364"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/PS/152/65360.json", 
+                "id": "65360"
+            }
+        ]
+    }
+}

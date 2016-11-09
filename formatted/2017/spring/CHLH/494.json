@@ -1,0 +1,59 @@
+{
+    "courseSectionInformation": "1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Lecture course in topics of current interest; specific subject matter announced in the Class Schedule. 1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated.", 
+    "href": "/2017/spring/CHLH/494.json", 
+    "id": "CHLH 494", 
+    "label": "Special Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "DEG", 
+                "href": "/2017/spring/CHLH/494/65583.json", 
+                "id": "65583"
+            }, 
+            {
+                "content": "DEU", 
+                "href": "/2017/spring/CHLH/494/65582.json", 
+                "id": "65582"
+            }, 
+            {
+                "content": "SFG", 
+                "href": "/2017/spring/CHLH/494/55765.json", 
+                "id": "55765"
+            }, 
+            {
+                "content": "SFU", 
+                "href": "/2017/spring/CHLH/494/55764.json", 
+                "id": "55764"
+            }, 
+            {
+                "content": "YKG", 
+                "href": "/2017/spring/CHLH/494/65270.json", 
+                "id": "65270"
+            }, 
+            {
+                "content": "YKU", 
+                "href": "/2017/spring/CHLH/494/65269.json", 
+                "id": "65269"
+            }
+        ]
+    }
+}

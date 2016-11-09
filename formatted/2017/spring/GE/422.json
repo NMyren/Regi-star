@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "Same as ECE 489 and ME 446. Prerequisite: GE 320. Recommended: ECE 470.", 
+    "creditHours": "4 hours.", 
+    "description": "Fundamental concepts and analytical methods for analysis and design of robot systems. Laboratory experiments complement theoretical development. Same as ECE 489 and ME 446. Prerequisite: GE 320. Recommended: ECE 470.", 
+    "href": "/2017/spring/GE/422.json", 
+    "id": "GE 422", 
+    "label": "Robot Dynamics and Control", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "General Engineering", 
+            "href": "/2017/spring/GE.json", 
+            "id": "GE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/GE/422/65759.json", 
+                "id": "65759"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/GE/422/65763.json", 
+                "id": "65763"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/GE/422/65764.json", 
+                "id": "65764"
+            }, 
+            {
+                "content": "AL", 
+                "href": "/2017/spring/GE/422/64905.json", 
+                "id": "64905"
+            }
+        ]
+    }
+}

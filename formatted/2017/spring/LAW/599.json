@@ -1,0 +1,56 @@
+{
+    "classScheduleInformation": "Graduate law students only.", 
+    "courseSectionInformation": "Approved for S/U grading only.", 
+    "creditHours": "0 TO 16 hours.", 
+    "description": "Approved for S/U grading only.", 
+    "href": "/2017/spring/LAW/599.json", 
+    "id": "LAW 599", 
+    "label": "Thesis Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": [
+            {
+                "content": "AA", 
+                "href": "/2017/spring/LAW/599/56383.json", 
+                "id": "56383"
+            }, 
+            {
+                "content": "JR", 
+                "href": "/2017/spring/LAW/599/53854.json", 
+                "id": "53854"
+            }, 
+            {
+                "content": "PH", 
+                "href": "/2017/spring/LAW/599/63050.json", 
+                "id": "63050"
+            }, 
+            {
+                "content": "RL", 
+                "href": "/2017/spring/LAW/599/56086.json", 
+                "id": "56086"
+            }, 
+            {
+                "content": "WD", 
+                "href": "/2017/spring/LAW/599/56091.json", 
+                "id": "56091"
+            }
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. May be repeated in the same or subsequent semesters to a maximum of 6 hours. Prerequisite: NRES 201 and NRES 219.", 
+    "creditHours": "1 OR 2 hours.", 
+    "description": "Field based course that exposes students to procedures and methods used in various resource settings in a hands-on manner. Includes weekly field trips to visit representative natural resource and environmental science settings with supporting laboratory exercises. Content of offerings vary by section, but all focus on resource management, environmental quality and assessment, and effects of consumption and use on the environment. Field trips required. Additional fees may apply. See Class Schedule. May be repeated in the same or subsequent semesters to a maximum of 6 hours. Prerequisite: NRES 201 and NRES 219.", 
+    "href": "/2017/spring/NRES/285.json", 
+    "id": "NRES 285", 
+    "label": "Field Experience", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Natural Resources and Environmental Sciences", 
+            "href": "/2017/spring/NRES.json", 
+            "id": "NRES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "CST", 
+                "href": "/2017/spring/NRES/285/59153.json", 
+                "id": "59153"
+            }, 
+            {
+                "content": "CWC", 
+                "href": "/2017/spring/NRES/285/48842.json", 
+                "id": "48842"
+            }, 
+            {
+                "content": "EEF", 
+                "href": "/2017/spring/NRES/285/59157.json", 
+                "id": "59157"
+            }, 
+            {
+                "content": "LRF", 
+                "href": "/2017/spring/NRES/285/48840.json", 
+                "id": "48840"
+            }, 
+            {
+                "content": "SJC", 
+                "href": "/2017/spring/NRES/285/41647.json", 
+                "id": "41647"
+            }, 
+            {
+                "content": "WBE", 
+                "href": "/2017/spring/NRES/285/48787.json", 
+                "id": "48787"
+            }
+        ]
+    }
+}

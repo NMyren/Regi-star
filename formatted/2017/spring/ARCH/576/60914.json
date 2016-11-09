@@ -1,0 +1,57 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ARCH/576/60914.json", 
+    "id": "60914", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Architecture Building", 
+            "daysOfTheWeek": "R", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Bartumeus Ferre, S", 
+                    "firstName": "S", 
+                    "lastName": "Bartumeus Ferre"
+                }
+            }, 
+            "roomNumber": "102B", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Architectural Design Seminar", 
+            "href": "/2017/spring/ARCH/576.json", 
+            "id": "576"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "URM", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Urban Matters: Thresholds", 
+    "sectionTitle": "Urban Matters: Thresholds", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

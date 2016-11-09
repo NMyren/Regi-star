@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: THEA 360 or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "History of the drama and theatre of the Spanish Renaissance, seventeenth-century France, the English Restoration, the eighteenth and nineteenth centuries in Europe and America, and Asia. Prerequisite: THEA 360 or consent of instructor.", 
+    "href": "/2017/spring/THEA/361.json", 
+    "id": "THEA 361", 
+    "label": "History of Theatre II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/THEA/361/52967.json", 
+            "id": "52967"
+        }
+    }
+}

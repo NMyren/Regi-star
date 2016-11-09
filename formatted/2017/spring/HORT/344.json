@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: IB 103.", 
+    "creditHours": "3 hours.", 
+    "description": "As the demand for food increases, plants in ornamental landscapes will need to provide not only beauty but also species biodiversity critical for supporting sustainable food production. Course emphasizes species identification (predominantly herbaceous perennials), management, and planting design principles. Designing for multiple contexts, such as residential and community gardens, and large scale production sites, to provide multiple ecosystem services, especially supporting human aesthetic preferences, and habitat for pollinators. Prerequisite: IB 103.", 
+    "href": "/2017/spring/HORT/344.json", 
+    "id": "HORT 344", 
+    "label": "Planting for Biodiversity and Aesthetics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Horticulture", 
+            "href": "/2017/spring/HORT.json", 
+            "id": "HORT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/HORT/344/34192.json", 
+                "id": "34192"
+            }, 
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/HORT/344/34193.json", 
+                "id": "34193"
+            }
+        ]
+    }
+}

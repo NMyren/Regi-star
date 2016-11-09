@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 18 hours. Prerequisite: Enrollment limited to graduate acting students; concurrent registration in THEA 571, THEA 572 and THEA 573.", 
+    "creditHours": "3 hours.", 
+    "description": "Intensive professional training in acting with a different focus each term on a particular style of dramatic literature. May be repeated to a maximum of 18 hours. Prerequisite: Enrollment limited to graduate acting students; concurrent registration in THEA 571, THEA 572 and THEA 573.", 
+    "href": "/2017/spring/THEA/574.json", 
+    "id": "THEA 574", 
+    "label": "Colloquium in Acting: Acting", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign. Restricted to MFA:Theatre (MFA-Acting) -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "D", 
+            "href": "/2017/spring/THEA/574/40201.json", 
+            "id": "40201"
+        }
+    }
+}
