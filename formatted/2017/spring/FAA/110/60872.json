@@ -1,0 +1,68 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/FAA/110/60872.json", 
+    "id": "60872", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "W", 
+            "end": "04:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Patterson, W", 
+                        "firstName": "W", 
+                        "lastName": "Patterson"
+                    }, 
+                    {
+                        "content": "Rivera, M", 
+                        "firstName": "M", 
+                        "lastName": "Rivera"
+                    }, 
+                    {
+                        "content": "Toenjes, J", 
+                        "firstName": "J", 
+                        "lastName": "Toenjes"
+                    }
+                ]
+            }, 
+            "roomNumber": "304", 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Exploring Arts and Creativity", 
+            "href": "/2017/spring/FAA/110.json", 
+            "id": "110"
+        }, 
+        "subject": {
+            "content": "Fine and Applied Arts", 
+            "href": "/2017/spring/FAA.json", 
+            "id": "FAA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDegreeAttributes": "Literature and the Arts course.", 
+    "sectionNumber": "D", 
+    "sectionStatusCode": "A", 
+    "sectionText": "The class meets twice per week: once on Wednesdays, and a second time to attend performances and/or exhibitions at Krannert Center for the Performing Arts and/or Krannert Art Museum. Event dates will vary. Admission to all events will be provided without charge to students enrolled in the course. The class meets in Room 304 of the English Building, 608 S. Wright Street, Champaign..", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

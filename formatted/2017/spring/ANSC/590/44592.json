@@ -1,0 +1,63 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/ANSC/590/44592.json", 
+    "id": "44592", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Vet Med Basic Sciences Bldg", 
+            "daysOfTheWeek": "W", 
+            "end": "05:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Miller, D", 
+                        "firstName": "D", 
+                        "lastName": "Miller"
+                    }, 
+                    {
+                        "content": "Nowak, R", 
+                        "firstName": "R", 
+                        "lastName": "Nowak"
+                    }
+                ]
+            }, 
+            "roomNumber": "3526", 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Animal Sciences Seminar", 
+            "href": "/2017/spring/ANSC/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "F2", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Reproductive Physiology", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

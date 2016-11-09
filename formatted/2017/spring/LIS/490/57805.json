@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LIS/490/57805.json", 
+    "id": "57805", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Grad Sch of Lib & Info Science", 
+            "daysOfTheWeek": "T", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Gough, J", 
+                    "firstName": "J", 
+                    "lastName": "Gough"
+                }
+            }, 
+            "roomNumber": "46", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "S2 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Topics Info Studies", 
+            "href": "/2017/spring/LIS/490.json", 
+            "id": "490"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Library & Information Science major(s). Not intended for students with Freshman or Sophomore class standing.", 
+    "sectionNumber": "DB", 
+    "sectionStatusCode": "A", 
+    "sectionText": "The course provides students with both theoretical and practical training in good database design. By the end of the course students will create a conceptual data model using entity-relationship diagrams, understand the importance of referential integrity and how to enforce data integrity constraints when creating a database. Students will be proficient in writing basic queries in the structured query language (SQL) and have a general understanding of relational database theory including normalization. [First offered Fall 2009]", 
+    "sectionTitle": "Introduction to Databases", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

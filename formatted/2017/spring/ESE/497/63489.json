@@ -1,0 +1,55 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ESE/497/63489.json", 
+    "id": "63489", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "W", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kanter, R", 
+                    "firstName": "R", 
+                    "lastName": "Kanter"
+                }
+            }, 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics in ESE", 
+            "href": "/2017/spring/ESE/497.json", 
+            "id": "497"
+        }, 
+        "subject": {
+            "content": "Earth, Society, and Environment", 
+            "href": "/2017/spring/ESE.json", 
+            "id": "ESE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "E", 
+    "sectionStatusCode": "A", 
+    "sectionText": "In this course students develop capacities to communicate with a broad audience about the questions central to the ESES major, from the very broad-e.g. \"What is sustainability?\" - to the very narrow, e.g. \"How much do campus efforts at recycling make a difference in the world?\"  Storytelling and clear exposition will be emphasized across multiple platforms, which will include blogs, audio podcasts and short videos, among others. In addition, students in the course will have the opportunity to partner with campus units and other local organizations-e.g., Institute for Sustainability, Energy, and Environment and Prairie Rivers Network-to create materials that will be useful for real-world outreach efforts as well as credit in the course. Standard Letter Grading.", 
+    "sectionTitle": "Multimedia Environmental Comms", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

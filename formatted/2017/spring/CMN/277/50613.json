@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CMN/277/50613.json", 
+    "id": "50613", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Weeks, K", 
+                    "firstName": "K", 
+                    "lastName": "Weeks"
+                }
+            }, 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro to Mediated Comm", 
+            "href": "/2017/spring/CMN/277.json", 
+            "id": "277"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Reserve for Communication majors removed November 18 by 9:00am.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,53 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/DANC/223/44122.json", 
+    "id": "44122", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Wadleigh, R", 
+                    "firstName": "R", 
+                    "lastName": "Wadleigh"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Perf Pract February I", 
+            "href": "/2017/spring/DANC/223.json", 
+            "id": "223"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Dance or Dance major(s).", 
+    "sectionNumber": "RW", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "FebDance I -Wadleigh", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

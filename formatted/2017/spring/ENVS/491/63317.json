@@ -1,0 +1,59 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ENVS/491/63317.json", 
+    "id": "63317", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "McCall, B", 
+                        "firstName": "B", 
+                        "lastName": "McCall"
+                    }, 
+                    {
+                        "content": "Webb, O", 
+                        "firstName": "O", 
+                        "lastName": "Webb"
+                    }
+                ]
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Sustainability Experience", 
+            "href": "/2017/spring/ENVS/491.json", 
+            "id": "491"
+        }, 
+        "subject": {
+            "content": "Environmental Studies", 
+            "href": "/2017/spring/ENVS.json", 
+            "id": "ENVS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "CSI", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Students in this section will serve as Campus Sustainability Interns, working directly with (1) iSEE staff to develop, refine, implement, and analyze the performance of various campus sustainability initiatives, such as the Certified Green Office Program, or (2) staff in campus units (e.g., Facilities & Services, Housing, Parking) on projects related to campus sustainability that are particular to that unit?s role within campus operations, for example the development of an electric vehicle charging program within Parking.  Standard Letter Grading", 
+    "sectionTitle": "Campus Sustainability Intern", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

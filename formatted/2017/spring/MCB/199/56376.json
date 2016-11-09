@@ -1,0 +1,53 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MCB/199/56376.json", 
+    "id": "56376", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Michael, M", 
+                    "firstName": "M", 
+                    "lastName": "Michael"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/MCB/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "INT", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Internship", 
+    "specialApproval": "Departmental Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

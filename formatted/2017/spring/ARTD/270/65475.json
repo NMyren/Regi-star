@@ -1,0 +1,49 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ARTD/270/65475.json", 
+    "id": "65475", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Art and Design Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "316", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Design Methods", 
+            "href": "/2017/spring/ARTD/270.json", 
+            "id": "270"
+        }, 
+        "subject": {
+            "content": "Art--Design", 
+            "href": "/2017/spring/ARTD.json", 
+            "id": "ARTD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AD2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Open to campus, no restrictions.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

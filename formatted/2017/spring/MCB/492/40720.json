@@ -1,0 +1,44 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MCB/492/40720.json", 
+    "id": "40720", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {}, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "IND", 
+                "content": "Independent Study"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Senior Thesis", 
+            "href": "/2017/spring/MCB/492.json", 
+            "id": "492"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Enrollment in MCB 492 occurs normally in the last semester before graduation and involves continuation of the work done previously for MCB 290, but is now intended to indicate that you will be wiritng and submitting a senior research thesis for graduation with distinction. A mininum of 3 crerdit hours of MCB 492 is required, and a thesis must be presented for credit to be received. The prerequisite for MCB 492 is a minimum of 2 consecutive semesters of at least 2 credit hours of MCB 290 under the guidance of the same professor, or consent of the instructor.  MCB majors entering UIUC prior to Fall 2004 may not be required to meet these criteria.  Please contact Melissa Michael at mmichae@uiuc.edu with questions.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

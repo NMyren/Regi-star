@@ -1,0 +1,59 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ENG/198/64748.json", 
+    "id": "64748", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Orawiec, J", 
+                    "firstName": "J", 
+                    "lastName": "Orawiec"
+                }
+            }, 
+            "roomNumber": "108", 
+            "start": "03:30 PM", 
+            "type": {
+                "code": "S1 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/ENG/198.json", 
+            "id": "198"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNotes": "Restricted to Engineering.", 
+    "sectionNumber": "FAS", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Essential for students who will perform undergraduate research in a laboratory. Topics include chemical, electrical, biological and radiation safety, cryogens, laser and machine/mechanical safety, waste disposal and fire hazards. Lecture and demonstration format. Restricted to engineering majors.  For other interested science majors contact the instructor for possible override.", 
+    "sectionTitle": "Undergrad Research Lab Safety", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

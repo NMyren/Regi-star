@@ -1,0 +1,52 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/THEA/126/37052.json", 
+    "id": "37052", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "F", 
+            "end": "04:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Stewart, A", 
+                    "firstName": "A", 
+                    "lastName": "Stewart"
+                }
+            }, 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Stage Mechanics I", 
+            "href": "/2017/spring/THEA/126.json", 
+            "id": "126"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

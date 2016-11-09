@@ -1,0 +1,57 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/EPS/421/47206.json", 
+    "id": "47206", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Education Building", 
+            "daysOfTheWeek": "T", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Barnett, B", 
+                    "firstName": "B", 
+                    "lastName": "Barnett"
+                }
+            }, 
+            "roomNumber": "323", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Racial and Ethnic Families", 
+            "href": "/2017/spring/EPS/421.json", 
+            "id": "421"
+        }, 
+        "subject": {
+            "content": "Educational Policy Studies", 
+            "href": "/2017/spring/EPS.json", 
+            "id": "EPS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Enrollment Restrictions Notation: No late adds after start of first class without prior written permission of  the professor at bmbarnet@uiuc.edu. Crosslisted with SOC 421-A & B,  HDFS 424-A & B, AFRO 421 A & B. For Juniors, Seniors, Graduate degree status students. Not for students with Freshman, Sophomore, Undergraduate Non-Degree, or Graduate Non-Degree class standing.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

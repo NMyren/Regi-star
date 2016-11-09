@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ABE/226/57086.json", 
+    "id": "57086", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Agricultural Engr Sciences Bld", 
+            "daysOfTheWeek": "TR", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Singh, V", 
+                    "firstName": "V", 
+                    "lastName": "Singh"
+                }
+            }, 
+            "roomNumber": "204", 
+            "start": "08:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "ABE Principles: Bioprocessing", 
+            "href": "/2017/spring/ABE/226.json", 
+            "id": "226"
+        }, 
+        "subject": {
+            "content": "Agricultural and Biological Engineering", 
+            "href": "/2017/spring/ABE.json", 
+            "id": "ABE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "AE1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

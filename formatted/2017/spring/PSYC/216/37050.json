@@ -1,0 +1,71 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/PSYC/216/37050.json", 
+    "id": "37050", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Wohlers Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Baillargeon, R", 
+                        "firstName": "R", 
+                        "lastName": "Baillargeon"
+                    }, 
+                    {
+                        "content": "Fisher, C", 
+                        "firstName": "C", 
+                        "lastName": "Fisher"
+                    }, 
+                    {
+                        "content": "Hyde, D", 
+                        "firstName": "D", 
+                        "lastName": "Hyde"
+                    }, 
+                    {
+                        "content": "Pomerantz, E", 
+                        "firstName": "E", 
+                        "lastName": "Pomerantz"
+                    }
+                ]
+            }, 
+            "roomNumber": "141", 
+            "start": "03:30 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Child Psych", 
+            "href": "/2017/spring/PSYC/216.json", 
+            "id": "216"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

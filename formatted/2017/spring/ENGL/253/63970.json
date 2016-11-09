@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ENGL/253/63970.json", 
+    "id": "63970", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Byrd, J", 
+                    "firstName": "J", 
+                    "lastName": "Byrd"
+                }
+            }, 
+            "roomNumber": "304", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics in Lit and New Media", 
+            "href": "/2017/spring/ENGL/253.json", 
+            "id": "253"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "P", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Despite the fact that video games have been coded, shared, and played for at least 40 years, such forms of narrative and story continue to be dismissed as mindless entertainment at best and violent time-wasters at worst. In fact, Roger Ebert went so far as to assert that video games can never be art. And yet, in 2011, the Supreme Court determined that, ?like the protected books, plays and movies that preceded them, video games communicate ideas?and even social messages?through many familiar literary devices (such as characters, dialogue, plot, and music) and through features distinctive to the medium (such as the player?s interaction with the virtual world).? This class will consider the relationship between literature in its emerging new media, digital, and technology formats by looking specifically at the shared and divergent narrative strategies that old and new mediums use to construct worlds and tell stories. Over the course of the semester, we will consider the history of material formats, look at how videogame play has transforms novels, and consider some of the larger questions emerging from videogame studies. What are games and where do they fit within cultural, literary, racial, social, and gender studies? How do technologies and mediums affect access to and experience of story, aesthetics, and design? What are the cultural and social ideas communicated through games and how do the means of their production function within global economies? Finally, we will have hands on time with virtual reality headsets as well as an archive of new and old games to explore as part of the class content.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

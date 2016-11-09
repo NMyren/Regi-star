@@ -1,0 +1,66 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/TSM/311/44662.json", 
+    "id": "44662", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "F", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Green, A", 
+                        "firstName": "A", 
+                        "lastName": "Green"
+                    }, 
+                    {
+                        "content": "Mies, E", 
+                        "firstName": "E", 
+                        "lastName": "Mies"
+                    }, 
+                    {
+                        "content": "Rodriguez, L", 
+                        "firstName": "L", 
+                        "lastName": "Rodriguez"
+                    }
+                ]
+            }, 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Humanity in the Food Web", 
+            "href": "/2017/spring/TSM/311.json", 
+            "id": "311"
+        }, 
+        "subject": {
+            "content": "Technical Systems Management", 
+            "href": "/2017/spring/TSM.json", 
+            "id": "TSM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionFeeAmount": "TSM 311 Field Trip Fee $40.00 Flat Fee.", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "A student fee will be assessed in the amount of $40, which covers the costs of ground transportation, admission, and a meal during a required class field trip.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/IHLT/102/58859.json", 
+    "id": "58859", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Huff Hall", 
+            "daysOfTheWeek": "MW", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Aguayo, L", 
+                    "firstName": "L", 
+                    "lastName": "Aguayo"
+                }
+            }, 
+            "roomNumber": "1001", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Survey of Interdisc Health", 
+            "href": "/2017/spring/IHLT/102.json", 
+            "id": "102"
+        }, 
+        "subject": {
+            "content": "i-Health Program", 
+            "href": "/2017/spring/IHLT.json", 
+            "id": "IHLT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

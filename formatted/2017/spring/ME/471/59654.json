@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/ME/471/59654.json", 
+    "id": "59654", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Mechanical Engineering Bldg", 
+            "daysOfTheWeek": "MWF", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Sohn, M", 
+                    "firstName": "M", 
+                    "lastName": "Sohn"
+                }
+            }, 
+            "roomNumber": "253", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Finite Element Analysis", 
+            "href": "/2017/spring/ME/471.json", 
+            "id": "471"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "B4", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

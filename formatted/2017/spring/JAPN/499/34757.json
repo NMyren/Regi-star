@@ -1,0 +1,51 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/JAPN/499/34757.json", 
+    "id": "34757", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Matsushita, H", 
+                    "firstName": "H", 
+                    "lastName": "Matsushita"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Study Abroad", 
+            "href": "/2017/spring/JAPN/499.json", 
+            "id": "499"
+        }, 
+        "subject": {
+            "content": "Japanese", 
+            "href": "/2017/spring/JAPN.json", 
+            "id": "JAPN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course open to students who have been accepted in the Year-In-Japan Program.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

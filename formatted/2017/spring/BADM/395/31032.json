@@ -1,0 +1,58 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/BADM/395/31032.json", 
+    "id": "31032", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Business Instructional Fac", 
+            "daysOfTheWeek": "W", 
+            "end": "06:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Isserman, N", 
+                    "firstName": "N", 
+                    "lastName": "Isserman"
+                }
+            }, 
+            "roomNumber": "2041", 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Senior Research II", 
+            "href": "/2017/spring/BADM/395.json", 
+            "id": "395"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "V", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Meets with TE 498 V. This course is open to members of student ventures admitted to the iVenture Accelerator, an educational accelerator for top student startups at the University of Illinois. This course provides theory and context to enhance experiential learning-by-venturing. Topics include: feasibility analysis, business modeling, industry analysis, competitor analysis, business plans, ethical and legal foundations, corporate forms, building venture teams, accessing financing and funding, marketing for startups, intellectual property protection and commercialization, and planning for growth. Based on the stage of maturity of the participating students and ventures, the course features workshops around key decisions and actions. For example, after spending a week focused on corporate forms and ownership structure, we will have a two-hour incorporation workshop including multiple venture attorneys working with teams to complete the relevant forms with professional assistance.", 
+    "sectionTitle": "iVenture Sem: Topics in Entrep", 
+    "specialApproval": "Instructor Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

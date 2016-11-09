@@ -1,0 +1,57 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/PS/300/65230.json", 
+    "id": "65230", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Gregory Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Rudolph, T", 
+                    "firstName": "T", 
+                    "lastName": "Rudolph"
+                }
+            }, 
+            "roomNumber": "319", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/PS/300.json", 
+            "id": "300"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "TR1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Public opinion is expected to play an instrumental role in democratic societies. It is expected to be a potent force in guiding and constraining government actions and public policy. As a result, it is important that citizens develop an informed understanding of both the sources and the consequences of public opinion. To that end, this course will examine the nature of public opinion in contemporary American politics. We will explore the meaning, measurement, and interpretation of public opinion. We will consider the extent to which public opinion is organized by ideology, values, party identification and other group-related identities. We will examine the sources of public opinion, including socialization, personality, self-interest, heuristics, and emotions. We will examine elite influences on public opinion and consider the question of whether the mass public has become polarized. We will also analyze the nature of public support for democracy and democratic institutions. Finally, we will investigate the relationship between public opinion and policymaking. Restricted to Political Science majors through November 14, 2016.", 
+    "sectionTitle": "Public Opinion", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

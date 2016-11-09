@@ -1,0 +1,53 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/GEOG/466/63732.json", 
+    "id": "63732", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Lavey, W", 
+                    "firstName": "W", 
+                    "lastName": "Lavey"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Environmental Policy", 
+            "href": "/2017/spring/GEOG/466.json", 
+            "id": "466"
+        }, 
+        "subject": {
+            "content": "Geography", 
+            "href": "/2017/spring/GEOG.json", 
+            "id": "GEOG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "G", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Legal Protections for Natural Areas", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

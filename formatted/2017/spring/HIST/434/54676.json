@@ -1,0 +1,55 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/HIST/434/54676.json", 
+    "id": "54676", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Davenport Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Hoffman, V", 
+                    "firstName": "V", 
+                    "lastName": "Hoffman"
+                }
+            }, 
+            "roomNumber": "214", 
+            "start": "03:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Women in Muslim Societies", 
+            "href": "/2017/spring/HIST/434.json", 
+            "id": "434"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A3", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

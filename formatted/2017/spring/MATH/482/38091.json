@@ -1,0 +1,52 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/MATH/482/38091.json", 
+    "id": "38091", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Altgeld Hall", 
+            "daysOfTheWeek": "MWF", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "143", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Linear Programming", 
+            "href": "/2017/spring/MATH/482.json", 
+            "id": "482"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "D14", 
+    "sectionStatusCode": "A", 
+    "sectionText": "\" Department approval forms are available in 313 Altgeld Hall Beginning on the first day of the semester\"", 
+    "specialApproval": "Instructor Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

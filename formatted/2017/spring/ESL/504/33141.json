@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/ESL/504/33141.json", 
+    "id": "33141", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MW", 
+            "end": "11:20 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Watts, P", 
+                    "firstName": "P", 
+                    "lastName": "Watts"
+                }
+            }, 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "English Pronunciation for ITAs", 
+            "href": "/2017/spring/ESL/504.json", 
+            "id": "504"
+        }, 
+        "subject": {
+            "content": "English as a Second Language", 
+            "href": "/2017/spring/ESL.json", 
+            "id": "ESL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "N", 
+    "sectionStatusCode": "A", 
+    "sectionText": "It is important to attend the first class meeting even if you were not able to advanced enroll.  On that day, you will take a diagnostic exam and go through a placement procedure to determine your eligibility.  Priority is given to potential and current ITAs.   \"Prerequisite: Placement based on EPI or consent of instructor\".", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

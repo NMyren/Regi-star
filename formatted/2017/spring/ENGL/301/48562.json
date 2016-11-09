@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ENGL/301/48562.json", 
+    "id": "48562", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Gaedtke, A", 
+                    "firstName": "A", 
+                    "lastName": "Gaedtke"
+                }
+            }, 
+            "roomNumber": "150", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "CriticalApproaches to Lit&Text", 
+            "href": "/2017/spring/ENGL/301.json", 
+            "id": "301"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "P", 
+    "sectionStatusCode": "A", 
+    "sectionText": "How do we think with literature? What are the roles of the author and the reader in determining what a text means? How do we determine what might be hidden beneath the surface of a text, and is there more to the ?surface? than meets the eye? If novels, poems, and plays express unspeakable desires, what do they want? As readers, how should we relate to other cultures and moments in history? What is meant by ?Theory?? This course will examine major theoretical and methodological approaches to literary and cultural studies that have evolved over the last few decades. Our readings and discussions will clarify the debates and claims of structuralism, Marxism, deconstruction, psychoanalysis, feminism, queer theory, critical race theory, post-colonial studies, and disability studies. While we consider how these theoretical approaches may be useful for analyzing literature, we will also consider their ideological agendas and test the value and limits of ?ideology critique.? Finally, we will determine how best to ?use? and engage with theory in our own writing and research as we apply these methods to several short works of literature.  It is strongly recommended that all English and Teaching of English majors take ENGL 300 and ENGL 301 BEFORE taking any other 300- or 400-level courses.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

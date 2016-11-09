@@ -1,0 +1,49 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/PHYS/150/39193.json", 
+    "id": "39193", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Loomis Laboratory", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "151", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Physics of Societal Issues", 
+            "href": "/2017/spring/PHYS/150.json", 
+            "id": "150"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

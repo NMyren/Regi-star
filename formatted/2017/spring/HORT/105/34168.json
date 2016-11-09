@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/HORT/105/34168.json", 
+    "id": "34168", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Plant Sciences Laboratory", 
+            "daysOfTheWeek": "T", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Norton, M", 
+                    "firstName": "M", 
+                    "lastName": "Norton"
+                }
+            }, 
+            "roomNumber": "1103", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Vegetable Gardening", 
+            "href": "/2017/spring/HORT/105.json", 
+            "id": "105"
+        }, 
+        "subject": {
+            "content": "Horticulture", 
+            "href": "/2017/spring/HORT.json", 
+            "id": "HORT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AB1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

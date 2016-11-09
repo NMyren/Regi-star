@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ME/598/65832.json", 
+    "id": "65832", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "T", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "LaViers Minnick, A", 
+                    "firstName": "A", 
+                    "lastName": "LaViers Minnick"
+                }
+            }, 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/ME/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "ALV", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This interdisciplinary seminar will have three main components: representation, control, and coordination.  Course assignments will include interactive, embodied movement sessions, assigned reading, presentations to fellow students, and leading in-class discussions.  Topics covered in representation will include continuous dynamical systems, discrete transition systems, graphs, and movement notation. Topics covered in control will include motion tracking, planning, supervisory control, and formal specification. Topics in coordination will include Laplacian dynamics, consensus, leader-follower networks, and formation control. The course will come full circle when we see the relationship among these three topics; the coordination and performance we can achieve on these devices depends on our choices in representation and control strategy. The course prerequisites are courses in at least a few of the following: linear algebra, differential equations, digital logic, Laban movement analysis, feedback control, and/or networks.", 
+    "sectionTitle": "High-Level Robotic Control", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/VCM/592/60094.json", 
+    "id": "60094", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "W", 
+            "end": "09:30 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Clark-Price, S", 
+                    "firstName": "S", 
+                    "lastName": "Clark-Price"
+                }
+            }, 
+            "start": "08:30 AM", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Problems", 
+            "href": "/2017/spring/VCM/592.json", 
+            "id": "592"
+        }, 
+        "subject": {
+            "content": "Veterinary Clinical Medicine", 
+            "href": "/2017/spring/VCM.json", 
+            "id": "VCM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "SCP", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Anesthesia & Pain Mgmt Lit Rev", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

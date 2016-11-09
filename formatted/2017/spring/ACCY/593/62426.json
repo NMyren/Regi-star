@@ -1,0 +1,49 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/ACCY/593/62426.json", 
+    "id": "62426", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {}, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Research Problems", 
+            "href": "/2017/spring/ACCY/593.json", 
+            "id": "593"
+        }, 
+        "subject": {
+            "content": "Accountancy", 
+            "href": "/2017/spring/ACCY.json", 
+            "id": "ACCY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 31-Mar-17 - 01-Jun-17.", 
+    "sectionNotes": "Restricted to MBA:Exec MBA Ilini Ctr-UIUC.", 
+    "sectionNumber": "X", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course is restricted to students in the Chicago Executive MBA program.", 
+    "sectionTitle": "Measurement & Forecasting", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

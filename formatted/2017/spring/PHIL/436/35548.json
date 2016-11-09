@@ -1,0 +1,55 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/PHIL/436/35548.json", 
+    "id": "35548", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MWF", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Bryan, B", 
+                    "firstName": "B", 
+                    "lastName": "Bryan"
+                }
+            }, 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Phil of Law and of the State", 
+            "href": "/2017/spring/PHIL/436.json", 
+            "id": "436"
+        }, 
+        "subject": {
+            "content": "Philosophy", 
+            "href": "/2017/spring/PHIL.json", 
+            "id": "PHIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "U3", 
+    "sectionStatusCode": "A", 
+    "sectionText": "One of the central problems of political philosophy is how (and whether) anyone can get the authority to make and enforce laws. Some political philosophers approach this question by asking what would permit us to move from a condition without political institutions, a ?state of nature,? to life in political society. In this course we?ll explore four classic state of nature theories?those of Hobbes, Locke, Kant, and Nozick?and their different answers to a question we ask too rarely: why not anarchy?", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/NPRE/498/63973.json", 
+    "id": "63973", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Talbot Laboratory", 
+            "daysOfTheWeek": "MWF", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Ragheb, M", 
+                    "firstName": "M", 
+                    "lastName": "Ragheb"
+                }
+            }, 
+            "roomNumber": "100H", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/NPRE/498.json", 
+            "id": "498"
+        }, 
+        "subject": {
+            "content": "Nuclear, Plasma, and Radiological Engineering", 
+            "href": "/2017/spring/NPRE.json", 
+            "id": "NPRE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "ESG", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Graduate 4 hr section.  Comprehensive coverage of energy storage and conveyance methodologies for nuclear and renewable systems in the context of the Internet of Things (IOT) for power systems.  The intermittence of renewable systems mandates the development of efficient energy storage and backups as well as conveyance systems for their effective implementation.  Exhaustive coverage of energy storage technologies including:  battery technologies encompassing primary and secondary electrochemical cells; lead acid, nickel-based, Li-ion batteries; advanced battery systems including redox/flow batteries, sulfur-sodium; hydrogen electrochemical  cells and regenerative fuel cells including hydride storages, mechanical energy stoarge including flywheel, compressed-air and pumped hydraulic stoage; thermal and chemical storage based on phase-change and medium enthalpy-change reversible chemical reactions; and inductive storage in super capacitors and magnetic using superconducting magnets are covered.  Social and economic aspects of storage technology and specific new development in storage technolgy are covered.", 
+    "sectionTitle": "Energy Storage & Conveyance", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

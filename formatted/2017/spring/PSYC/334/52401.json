@@ -1,0 +1,57 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/PSYC/334/52401.json", 
+    "id": "52401", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Psychology Building", 
+            "daysOfTheWeek": "F", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Wang, R", 
+                    "firstName": "R", 
+                    "lastName": "Wang"
+                }
+            }, 
+            "roomNumber": "815", 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Perception Lab", 
+            "href": "/2017/spring/PSYC/334.json", 
+            "id": "334"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Psychology department.", 
+    "sectionNotes": "Restricted to students with Senior class standing.", 
+    "sectionNumber": "AL", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Senior priority enrollment begins November 2nd. Junior priority enrollment begins November 9th. Sophomores priority enrollment begins November 14th.Freshman on November 16th. Open enrollment begins at 10am on November 21st.  **Approved for General Concentration**  For Spring 2017: experiments include VIRTUAL REALITY (3D skiing & motion perception), PRISM ADAPTION (see the world upside-down with inversion goggles), VISUAL ILLUSIONS (slope illusion), and ATTENTION (visual search). For more information and prerequisites see http://publish.illinois.edu/franceswang/psych334/ or contact instructor (Frances Wang, wang18@illinois.edu)", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

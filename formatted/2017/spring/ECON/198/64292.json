@@ -1,0 +1,49 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ECON/198/64292.json", 
+    "id": "64292", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "R", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {}, 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Economics at Illinois", 
+            "href": "/2017/spring/ECON/198.json", 
+            "id": "198"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "GS", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course is meant for students with an interest in graduate school in a non-professional program. Students should submit a completed form in order to be given permission to register for the course. Sign-up here: http://go.economics.illinois.edu/econ198gs", 
+    "sectionTitle": "Econ at Illinois: Grad School", 
+    "specialApproval": "Departmental Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

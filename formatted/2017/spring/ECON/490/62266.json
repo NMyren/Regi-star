@@ -1,0 +1,51 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ECON/490/62266.json", 
+    "id": "62266", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TR", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "S9 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics in Economics", 
+            "href": "/2017/spring/ECON/490.json", 
+            "id": "490"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Economics department.", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "F1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This section is restricted to undergraduate students. This section is restricted to Economics students until the morning of January 9th. In any institution based on the decentralized decision making of agents who follow their own goals, a fundamental question is how to structure interactions between them so that they are free to make their own decisions while avoiding outcomes that none would have chosen. The coordination failure occurs when the individuals find the aggregate effect of the decentralized decision making to be undesirable. In this course we discuss the types and causes of coordination problems, and using core concepts of economics and game theory will develop simple models to shed light on coordination problems in different markets and how institutions are developed to overcome them.", 
+    "sectionTitle": "Economics of Coordination", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

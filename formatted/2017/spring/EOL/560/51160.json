@@ -1,0 +1,53 @@
+{
+    "creditHours": "2 hours", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/EOL/560/51160.json", 
+    "id": "51160", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "W", 
+            "end": "08:30 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Herrmann, M", 
+                    "firstName": "M", 
+                    "lastName": "Herrmann"
+                }
+            }, 
+            "start": "05:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Clinical Experience Admin", 
+            "href": "/2017/spring/EOL/560.json", 
+            "id": "560"
+        }, 
+        "subject": {
+            "content": "Educational Organization and Leadership", 
+            "href": "/2017/spring/EOL.json", 
+            "id": "EOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 25-Jan-17 - 19-Apr-17.", 
+    "sectionNotes": "Restricted to CAS:Educ Org & Leadershp -UIUC, EDM:Educ Org & Leadershp -UIUC, EDM: Ed Pol Org & Ldrshp -UIUC, or CAS: Ed Pol Org & Ldrshp -UIUC.", 
+    "sectionNumber": "CHI", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This section meets on January 25, February 22, April 19, 2017.", 
+    "statusCode": "A"
+}

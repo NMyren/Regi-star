@@ -1,0 +1,57 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/JOUR/480/63889.json", 
+    "id": "63889", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Gregory Hall", 
+            "daysOfTheWeek": "T", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Meyer, E", 
+                    "firstName": "E", 
+                    "lastName": "Meyer"
+                }
+            }, 
+            "roomNumber": "31", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Reporting Topics", 
+            "href": "/2017/spring/JOUR/480.json", 
+            "id": "480"
+        }, 
+        "subject": {
+            "content": "Journalism", 
+            "href": "/2017/spring/JOUR.json", 
+            "id": "JOUR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Not intended for students with Freshman class standing.", 
+    "sectionNumber": "MI", 
+    "sectionStatusCode": "A", 
+    "sectionText": "MEDIA INNOVATION Required Pre-requisite JOUR 215 or JOUR 501; completion of JOUR 320, 340, or 425 is recommended although not required. Gain valuable experience addressing the most important challenges news media face today by creating or revamping a real publication or news service. Working in teams, we?ll start at Square 1, determine whom we?re trying to reach, figure out how best to reach them, learn whatever techniques or technologies are needed, then test whether we succeeded and refine our approach using standard metrics. The goal will be to create a prototype for a sustainable, topically or community-focused news service combining traditional, online, mobile and social media and including whatever interactive, immersive, data or other design elements might maximize audience engagement. Students with less journalistic experience should register under MDIA 290 SDM.", 
+    "sectionTitle": "Media Innovation", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

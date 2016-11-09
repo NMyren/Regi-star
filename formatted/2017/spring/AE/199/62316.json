@@ -1,0 +1,55 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/AE/199/62316.json", 
+    "id": "62316", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "M", 
+            "end": "05:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Geubelle, P", 
+                    "firstName": "P", 
+                    "lastName": "Geubelle"
+                }
+            }, 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/AE/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Aerospace Engineering", 
+            "href": "/2017/spring/AE.json", 
+            "id": "AE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "SSS", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course section is for students actively participating in Student Space Systems.", 
+    "sectionTitle": "Student Space Systems", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

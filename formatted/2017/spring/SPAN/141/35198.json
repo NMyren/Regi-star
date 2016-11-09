@@ -1,0 +1,72 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/SPAN/141/35198.json", 
+    "id": "35198", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Davenport Hall", 
+                "daysOfTheWeek": "MW", 
+                "end": "02:50 PM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Carollo, B", 
+                        "firstName": "B", 
+                        "lastName": "Carollo"
+                    }
+                }, 
+                "roomNumber": "212", 
+                "start": "02:00 PM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }, 
+            {
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Carollo, B", 
+                        "firstName": "B", 
+                        "lastName": "Carollo"
+                    }
+                }, 
+                "start": "ARRANGED", 
+                "type": {
+                    "code": "ONL", 
+                    "content": "Online"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Introduction to Spanish Grammar", 
+            "href": "/2017/spring/SPAN/141.json", 
+            "id": "141"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "F1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "\"Hybrid/blended.  This class meets 2 hours per week in class.  The equivalent of 2 additional class hours are completed on-line.\"", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

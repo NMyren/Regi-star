@@ -1,0 +1,58 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/LLS/496/62254.json", 
+    "id": "62254", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "1207 W Oregon", 
+            "daysOfTheWeek": "TR", 
+            "end": "05:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Diaz, A", 
+                    "firstName": "A", 
+                    "lastName": "Diaz"
+                }
+            }, 
+            "roomNumber": "103", 
+            "start": "04:30 PM", 
+            "type": {
+                "code": "S1 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Seminar in Latina/o Studies", 
+            "href": "/2017/spring/LLS/496.json", 
+            "id": "496"
+        }, 
+        "subject": {
+            "content": "Latina/Latino Studies", 
+            "href": "/2017/spring/LLS.json", 
+            "id": "LLS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "U1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic: Latino Resilience: Mental Health and Awareness. This course will introduce students to mental health wellness and awareness as particularly salient but often overlooked components of Latina/o student's retention and academic and personal development. Students will gain an understanding of mental health issues facing Latino college students, resources available to them and their communities, and strategies for promoting and maintaining mental health resiliency. We will explore such innovative practices as peer networking and outreach, community-based theatre, reflective writing, and role playing. Our goal is to develop students as facilitators and connectors in social networks to promote Latino college success.", 
+    "sectionTitle": "Latino Mental Health Wellness", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

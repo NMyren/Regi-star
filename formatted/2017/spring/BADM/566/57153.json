@@ -1,0 +1,55 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/BADM/566/57153.json", 
+    "id": "57153", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Business Instructional Fac", 
+            "daysOfTheWeek": "MW", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Mukherjee, U", 
+                    "firstName": "U", 
+                    "lastName": "Mukherjee"
+                }
+            }, 
+            "roomNumber": "2043", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Supply Chain Management", 
+            "href": "/2017/spring/BADM/566.json", 
+            "id": "566"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "GRD", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

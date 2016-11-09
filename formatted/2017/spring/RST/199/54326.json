@@ -1,0 +1,56 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/RST/199/54326.json", 
+    "id": "54326", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Scheunemann, J", 
+                    "firstName": "J", 
+                    "lastName": "Scheunemann"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/RST/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionFeeAmount": "RST Field Trip $85.00 Flat Fee.", 
+    "sectionNumber": "FT", 
+    "sectionStatusCode": "A", 
+    "sectionText": "The weekend of Friday, April 21st and Saturday, April 22nd has been selected. In addition there will be three one-hour class times scheduled with the trip.  Attendance at the meetings is mandatory.  Exceptions should be approved by Patty Pyrz, RST Advisor, prior to registration.", 
+    "sectionTitle": "Facility Tour", 
+    "specialApproval": "Instructor Approval Required", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

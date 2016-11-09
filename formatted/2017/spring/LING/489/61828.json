@@ -1,0 +1,75 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/LING/489/61828.json", 
+    "id": "61828", 
+    "meetings": {
+        "meeting": [
+            {
+                "daysOfTheWeek": "F", 
+                "end": "10:50 AM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Yan, X", 
+                        "firstName": "X", 
+                        "lastName": "Yan"
+                    }
+                }, 
+                "start": "10:00 AM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }, 
+            {
+                "buildingName": "Gregory Hall", 
+                "daysOfTheWeek": "MW", 
+                "end": "10:50 AM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Yan, X", 
+                        "firstName": "X", 
+                        "lastName": "Yan"
+                    }
+                }, 
+                "roomNumber": "207", 
+                "start": "10:00 AM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Theoretical Foundations of SLA", 
+            "href": "/2017/spring/LING/489.json", 
+            "id": "489"
+        }, 
+        "subject": {
+            "content": "Linguistics", 
+            "href": "/2017/spring/LING.json", 
+            "id": "LING"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "U3", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,56 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/CW/406/43383.json", 
+    "id": "43383", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:45 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Madonick, M", 
+                    "firstName": "M", 
+                    "lastName": "Madonick"
+                }
+            }, 
+            "roomNumber": "125", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Poetry Writing", 
+            "href": "/2017/spring/CW/406.json", 
+            "id": "406"
+        }, 
+        "subject": {
+            "content": "Creative Writing", 
+            "href": "/2017/spring/CW.json", 
+            "id": "CW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Rhetoric or Creative Writing major(s) or minor(s). Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "1U", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

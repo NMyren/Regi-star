@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CHLH/577/58593.json", 
+    "id": "58593", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Huff Hall", 
+            "daysOfTheWeek": "F", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Buchner, D", 
+                    "firstName": "D", 
+                    "lastName": "Buchner"
+                }
+            }, 
+            "roomNumber": "1002", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Health Program Evaluation", 
+            "href": "/2017/spring/CHLH/577.json", 
+            "id": "577"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Restricted to Public Health (MPH) & Community Health majors.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

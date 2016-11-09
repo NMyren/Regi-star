@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ARCH/419/30273.json", 
+    "id": "30273", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Architecture Building", 
+            "daysOfTheWeek": "MWF", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kapp, P", 
+                    "firstName": "P", 
+                    "lastName": "Kapp"
+                }
+            }, 
+            "roomNumber": "102B", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Historic Building Preservation", 
+            "href": "/2017/spring/ARCH/419.json", 
+            "id": "419"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "P", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

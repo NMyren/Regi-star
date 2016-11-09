@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/EPSY/203/50838.json", 
+    "id": "50838", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Education Building", 
+            "daysOfTheWeek": "M", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Landrum-Brown, J", 
+                    "firstName": "J", 
+                    "lastName": "Landrum-Brown"
+                }
+            }, 
+            "roomNumber": "323", 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Social Issues Group Dialogues", 
+            "href": "/2017/spring/EPSY/203.json", 
+            "id": "203"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "AD8", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Meets 13-Mar-17 - 03-May-17. OIIR Dialogue Course. Topic: African/African-American Dialogue. Second half session class. Offered in collaboration with the Office of Inclusion and Intercultural Relations (OIIR)  Go to website http://go.illinois.edu/EPSY203 for more detailed descriptions of the classes. If you still have questions AFTER VIEWING THE WEBSITE, you can email diversityEd@illinois.edu..", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

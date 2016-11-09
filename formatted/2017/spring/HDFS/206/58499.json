@@ -1,0 +1,58 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/HDFS/206/58499.json", 
+    "id": "58499", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Brooks, J", 
+                        "firstName": "J", 
+                        "lastName": "Brooks"
+                    }, 
+                    {
+                        "content": "McBride, B", 
+                        "firstName": "B", 
+                        "lastName": "McBride"
+                    }
+                ]
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Early Childhood Curriculum Dev", 
+            "href": "/2017/spring/HDFS/206.json", 
+            "id": "206"
+        }, 
+        "subject": {
+            "content": "Human Development and Family Studies", 
+            "href": "/2017/spring/HDFS.json", 
+            "id": "HDFS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AB0", 
+    "sectionStatusCode": "A", 
+    "specialApproval": "Instructor Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

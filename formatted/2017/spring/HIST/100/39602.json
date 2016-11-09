@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/HIST/100/39602.json", 
+    "id": "39602", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Gregory Hall", 
+            "daysOfTheWeek": "W", 
+            "end": "12:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Rezende Da Silva De Sant'ana, T", 
+                    "firstName": "T", 
+                    "lastName": "Rezende Da Silva De Sant'ana"
+                }
+            }, 
+            "roomNumber": "111", 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Global History", 
+            "href": "/2017/spring/HIST/100.json", 
+            "id": "100"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AD6", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course can be used to fulfill either Western or non-Western general education categories, but not both.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

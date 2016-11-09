@@ -1,0 +1,52 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MUS/500/59675.json", 
+    "id": "59675", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "McDonough, D", 
+                    "firstName": "D", 
+                    "lastName": "McDonough"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Artist Diploma Recital", 
+            "href": "/2017/spring/MUS/500.json", 
+            "id": "500"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to AD: Artist Diploma Music -UIUC.", 
+    "sectionNumber": "AD6", 
+    "sectionStatusCode": "A", 
+    "sectionText": "ARTIST DIPLOMA RECITAL CREDIT", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

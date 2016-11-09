@@ -1,0 +1,62 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/GS/199/61389.json", 
+    "id": "61389", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "W", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Kotowski, J", 
+                        "firstName": "J", 
+                        "lastName": "Kotowski"
+                    }, 
+                    {
+                        "content": "Turner, D", 
+                        "firstName": "D", 
+                        "lastName": "Turner"
+                    }
+                ]
+            }, 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/GS/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "General Studies", 
+            "href": "/2017/spring/GS.json", 
+            "id": "GS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "DT", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This class is only open to students selected for the DGS Costa Rica Study Abroad Experience.  The trip to Costa Rica will be May 14 - 23, 2016.", 
+    "sectionTitle": "DGS Study Abroad to Costa Rica", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

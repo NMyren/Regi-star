@@ -1,0 +1,52 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/SHS/231/63822.json", 
+    "id": "63822", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TR", 
+            "end": "07:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Proctor, F", 
+                    "firstName": "F", 
+                    "lastName": "Proctor"
+                }
+            }, 
+            "start": "05:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Lang Diff Dis: American Persp", 
+            "href": "/2017/spring/SHS/231.json", 
+            "id": "231"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CEE/595/31758.json", 
+    "id": "31758", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Civil Eng Hydrosystems Lab", 
+            "daysOfTheWeek": "F", 
+            "end": "12:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Konar, M", 
+                    "firstName": "M", 
+                    "lastName": "Konar"
+                }
+            }, 
+            "roomNumber": "1518", 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Seminar", 
+            "href": "/2017/spring/CEE/595.json", 
+            "id": "595"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "W", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Hydro Seminar", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

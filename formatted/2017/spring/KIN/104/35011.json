@@ -1,0 +1,62 @@
+{
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/KIN/104/35011.json", 
+    "id": "35011", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Ice Arena", 
+            "daysOfTheWeek": "MWF", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Clarke, C", 
+                        "firstName": "C", 
+                        "lastName": "Clarke"
+                    }, 
+                    {
+                        "content": "Fang, H", 
+                        "firstName": "H", 
+                        "lastName": "Fang"
+                    }
+                ]
+            }, 
+            "roomNumber": "111", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Skating Activities", 
+            "href": "/2017/spring/KIN/104.json", 
+            "id": "104"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionNumber": "A2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Ice Skating 1. Introductory skills, knowledge, and conditioning essential for figure skating.  Ice skates and helmets provided on request.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

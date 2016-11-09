@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/UP/494/60445.json", 
+    "id": "60445", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Temple Hoyne Buell Hall", 
+            "daysOfTheWeek": "W", 
+            "end": "07:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Harwood, S", 
+                    "firstName": "S", 
+                    "lastName": "Harwood"
+                }
+            }, 
+            "roomNumber": "223", 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics in Planning", 
+            "href": "/2017/spring/UP/494.json", 
+            "id": "494"
+        }, 
+        "subject": {
+            "content": "Urban and Regional Planning", 
+            "href": "/2017/spring/UP.json", 
+            "id": "UP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "SH", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Community Engagement in Planng", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

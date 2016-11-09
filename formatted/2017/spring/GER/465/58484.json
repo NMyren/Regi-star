@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/GER/465/58484.json", 
+    "id": "58484", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foreign Languages Building", 
+            "daysOfTheWeek": "W", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Webster, C", 
+                    "firstName": "C", 
+                    "lastName": "Webster"
+                }
+            }, 
+            "roomNumber": "G46", 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Ling Structures of German", 
+            "href": "/2017/spring/GER/465.json", 
+            "id": "465"
+        }, 
+        "subject": {
+            "content": "German", 
+            "href": "/2017/spring/GER.json", 
+            "id": "GER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "H", 
+    "sectionStatusCode": "A", 
+    "sectionText": "GER 465 - Spring 2017   Topic: Einfuehrung in die Linguistik   This course will explore the German language from a linguistic perspective. Topics will include phonetics and phonology, morphology, syntax, semantics, pragmatics, language history, dialects, and sociolinguistics. The course will be taught in German; interested students who have not taken GER 212 or do not have equivalent language proficiency should obtain instructor consent to enroll.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/GEOL/440/33544.json", 
+    "id": "33544", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Computing Applications Bldg", 
+            "daysOfTheWeek": "R", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Best, J", 
+                    "firstName": "J", 
+                    "lastName": "Best"
+                }
+            }, 
+            "roomNumber": "69", 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Sedimentology and Stratigraphy", 
+            "href": "/2017/spring/GEOL/440.json", 
+            "id": "440"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AB1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

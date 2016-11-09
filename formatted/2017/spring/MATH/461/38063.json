@@ -1,0 +1,50 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/MATH/461/38063.json", 
+    "id": "38063", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Altgeld Hall", 
+            "daysOfTheWeek": "MWF", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "343", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Probability Theory", 
+            "href": "/2017/spring/MATH/461.json", 
+            "id": "461"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "D13", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Open to both undergraduate and graduate students.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

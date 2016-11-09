@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ECE/220/61629.json", 
+    "id": "61629", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Electrical & Computer Eng Bldg", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Chen, Y", 
+                    "firstName": "Y", 
+                    "lastName": "Chen"
+                }
+            }, 
+            "roomNumber": "1002", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Computer Systems & Programming", 
+            "href": "/2017/spring/ECE/220.json", 
+            "id": "220"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Computer Engineering or Electrical Engineering major(s).", 
+    "sectionNumber": "BL", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

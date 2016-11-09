@@ -1,0 +1,54 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/NPRE/498/59909.json", 
+    "id": "59909", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Roy, W", 
+                    "firstName": "W", 
+                    "lastName": "Roy"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "S1 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/NPRE/498.json", 
+            "id": "498"
+        }, 
+        "subject": {
+            "content": "Nuclear, Plasma, and Radiological Engineering", 
+            "href": "/2017/spring/NPRE.json", 
+            "id": "NPRE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "A4", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Spent Nuclear Fuel Storage in Bedrock.   Course will include five meeting hours on Campus in Spring with discussion comparing U.S. and Swedish approaches to management of nuclear reactor fuel discharges.   Enrollment in course requires attendance at one week of lectures and one week of field work in Stockholm, Sweden at the Royal Institute of Technology June 11 - 24.   Lectures and field work in Sweden will be on geologic storage in Precambrian bedrock.  Topics include petrology and mineralogy, plate tectonics, metamorphism, quaternary geology, hydro geology in soil, hydrogeology in fractured bedrock, hydrogeochemistry, planning and policy, and mapping.  Prerequisites:  a relevant course in geology, nuclear waste management, or civil engineering, or upper division standing in science or engineering. Contact instructor for full course description.  Students registered in the course will be required to submit an application to International Programs in Engineering to attend the study abroad component.", 
+    "sectionTitle": "Spent Nuc Fuel Storage Bedrock", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

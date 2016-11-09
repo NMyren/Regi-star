@@ -1,0 +1,57 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/PS/300/65271.json", 
+    "id": "65271", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "David Kinley Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Miller, B", 
+                    "firstName": "B", 
+                    "lastName": "Miller"
+                }
+            }, 
+            "roomNumber": "222", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/PS/300.json", 
+            "id": "300"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "BM2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic: Children, The Family and Social Justice The family is the most influential social institution in our society. How it is organized and regulated has an immense impact on the lives of both adults and children. In this course, we'll consider some of the key theoretical debates about the demands of social justice on parents, children and the family, and the practical implications for public policy and personal conduct. Topics will include: The rights and responsibilities of procreation, children's rights, parental rights, the costs of child-rearing and who should share them, parental partiality and influence on their children's lives, justice in the family, and the age of majority. Restricted to Political Science majors through November 14, 2016.", 
+    "sectionTitle": "Children, Family & Soc Justice", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

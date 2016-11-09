@@ -1,0 +1,48 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/SOC/586/34465.json", 
+    "id": "34465", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foreign Languages Building", 
+            "daysOfTheWeek": "T", 
+            "end": "06:50 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "G8A", 
+            "start": "03:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Adv Social Statistics I", 
+            "href": "/2017/spring/SOC/586.json", 
+            "id": "586"
+        }, 
+        "subject": {
+            "content": "Sociology", 
+            "href": "/2017/spring/SOC.json", 
+            "id": "SOC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "TFL", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

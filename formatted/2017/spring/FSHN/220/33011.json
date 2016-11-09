@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/FSHN/220/33011.json", 
+    "id": "33011", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Bevier Hall", 
+            "daysOfTheWeek": "MWF", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Helferich, W", 
+                    "firstName": "W", 
+                    "lastName": "Helferich"
+                }
+            }, 
+            "roomNumber": "132", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Principles of Nutrition", 
+            "href": "/2017/spring/FSHN/220.json", 
+            "id": "220"
+        }, 
+        "subject": {
+            "content": "Food Science and Human Nutrition", 
+            "href": "/2017/spring/FSHN.json", 
+            "id": "FSHN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Food Science & Human Nutrition or Food Science or Nutrition major(s) or minor(s).", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "FSHN majors and minors only.  If you get a 'course full' error message and want to be added to a wait list for this class, go to www.fshn.illinois.edu and click on Current Students then Waitlist Information. Wait lists will not open until one week before classes start in January.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

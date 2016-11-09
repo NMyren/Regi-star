@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/BIOE/598/60236.json", 
+    "id": "60236", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Engineering Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Pan, D", 
+                    "firstName": "D", 
+                    "lastName": "Pan"
+                }
+            }, 
+            "roomNumber": "106B3", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/BIOE/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Bioengineering", 
+            "href": "/2017/spring/BIOE.json", 
+            "id": "BIOE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "DP", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course will introduce the principles and prerequisites for clinical (MRI, CT, US, PET-SPECT) and pre-clinical (PAT, Optical) imaging modalities and chemical strategies to develop exogenous probes for the early detection of molecular changes responsible for disease pathogenesis such as cardiovascular, inflammatory, cancer and neurological disorders. We will also discuss in depth the strategies for site-specific delivery of therapeutic agents (chemotherapeutic, thrombolytic, and biologics) with biochemically triggered release mechanisms. The course is designed to teach various aspects of translational medicine from imaging and therapeutic standpoint. Students will be introduced to the fundamentals of various clinical and preclinical imaging modalities, prerequisites for developing probes for these modalities, their application in current clinical practice, and preclinical development in various animal models of cancer, cardiovascular and neurological diseases. We will also explore therapeutic approaches (chemo- and biologics) to these diseases and identify opportunities for personalized preemptive medicine. The course is uniquely tailored for students interested in interdisciplinary translational research with direct clinical focus.", 
+    "sectionTitle": "Imaging & Therapeutic Agents", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,48 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/CHBE/430/32038.json", 
+    "id": "32038", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Roger Adams Laboratory", 
+            "daysOfTheWeek": "W", 
+            "end": "05:50 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "8", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Unit Operations Laboratory", 
+            "href": "/2017/spring/CHBE/430.json", 
+            "id": "430"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AB3", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

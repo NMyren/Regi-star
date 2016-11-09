@@ -1,0 +1,56 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ECE/199/64086.json", 
+    "id": "64086", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Electrical & Computer Eng Bldg", 
+            "daysOfTheWeek": "F", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Varodayan, D", 
+                    "firstName": "D", 
+                    "lastName": "Varodayan"
+                }
+            }, 
+            "roomNumber": "4070", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/ECE/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "M", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "ECE 110 Merit Section", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

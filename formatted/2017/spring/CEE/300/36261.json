@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/CEE/300/36261.json", 
+    "id": "36261", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Newmark Civil Engineering Bldg", 
+            "daysOfTheWeek": "MWF", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Lange, D", 
+                    "firstName": "D", 
+                    "lastName": "Lange"
+                }
+            }, 
+            "roomNumber": "1310", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Behavior of Materials", 
+            "href": "/2017/spring/CEE/300.json", 
+            "id": "300"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Civil Engineering or Engineering Mechanics major(s).", 
+    "sectionNumber": "AE1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

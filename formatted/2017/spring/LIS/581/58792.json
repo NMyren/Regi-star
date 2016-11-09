@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LIS/581/58792.json", 
+    "id": "58792", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Grad Sch of Lib & Info Science", 
+            "daysOfTheWeek": "M", 
+            "end": "06:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Voss, A", 
+                    "firstName": "A", 
+                    "lastName": "Voss"
+                }
+            }, 
+            "roomNumber": "131", 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Adm and Use Archival Materials", 
+            "href": "/2017/spring/LIS/581.json", 
+            "id": "581"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Library & Information Science major(s).", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "On-campus section. Elective for Graduate Certificate in Special Collections. Administration of archives and manuscript collections in various types of institutions. Theoretical principles and archival practices of appraisal, acquisition, accessioning, arrangement, description, preservation, and reference services. Topics will include: records management programs, collecting archives programs/special collections, legal and ethical issues, public programming and advocacy, and the impact of new information technologies for preservation and access. Lectures, discussion, internet demonstration, and field trips to the Special Collections Department and University Archives. [Elective course for Graduate Certificate in Special Collections]", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

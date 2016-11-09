@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/ADV/498/63424.json", 
+    "id": "63424", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MWF", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Meron, S", 
+                    "firstName": "S", 
+                    "lastName": "Meron"
+                }
+            }, 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "The Sandage Project", 
+            "href": "/2017/spring/ADV/498.json", 
+            "id": "498"
+        }, 
+        "subject": {
+            "content": "Advertising", 
+            "href": "/2017/spring/ADV.json", 
+            "id": "ADV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

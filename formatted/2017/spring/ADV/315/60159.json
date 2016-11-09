@@ -1,0 +1,63 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/ADV/315/60159.json", 
+    "id": "60159", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Bevier Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Flure, L", 
+                        "firstName": "L", 
+                        "lastName": "Flure"
+                    }, 
+                    {
+                        "content": "Kanfer, A", 
+                        "firstName": "A", 
+                        "lastName": "Kanfer"
+                    }
+                ]
+            }, 
+            "roomNumber": "122", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Emerging Media", 
+            "href": "/2017/spring/ADV/315.json", 
+            "id": "315"
+        }, 
+        "subject": {
+            "content": "Advertising", 
+            "href": "/2017/spring/ADV.json", 
+            "id": "ADV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Students who have completed ADV 490 (Emerging Media) should not register for AGCM 315.  Doing so will constitute duplicate credit that will not count toward graduation.  Students registering for the duplicate course will be asked to drop.  Note:  AGCM majors cannot use AGCM 315 to count toward ADV concentration. PLEASE NOTE:  Prerequisites will not be enforced this semester; HOWEVER, either AGCM 220 or ADV 150 is strongly suggested.  Students who have not taken AGCM 220 or ADV 150 MUST have CONSENT OF INSTRUCTOR.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

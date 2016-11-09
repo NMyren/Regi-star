@@ -1,0 +1,49 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/PHYS/211/36086.json", 
+    "id": "36086", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Loomis Laboratory", 
+            "daysOfTheWeek": "R", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "276", 
+            "start": "08:00 AM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "University Physics: Mechanics", 
+            "href": "/2017/spring/PHYS/211.json", 
+            "id": "211"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "L4A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Section L4A is part of a pilot study to restructure the PHYS 211 laboratories.    Students enrolled in SEC L4A will not require the lab manual, but will enroll in a free smartPhysics course dedicated to the lab.  Laboratory exercises will use the IOLab device.  The device will be provided for student use at their first lab.  Devices will be returned to the Department of Physics at the end of the semester.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

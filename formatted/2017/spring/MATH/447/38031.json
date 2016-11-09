@@ -1,0 +1,52 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/MATH/447/38031.json", 
+    "id": "38031", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Altgeld Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "141", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Real Variables", 
+            "href": "/2017/spring/MATH/447.json", 
+            "id": "447"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Not intended for Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "P14", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Instructor approval forms available in 313 Altgeld Hall beginning on the first day of Spring semester.", 
+    "specialApproval": "Instructor Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

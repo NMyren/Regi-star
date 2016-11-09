@@ -1,0 +1,54 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/SHS/383/65009.json", 
+    "id": "65009", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MW", 
+            "end": "04:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Hengst, J", 
+                    "firstName": "J", 
+                    "lastName": "Hengst"
+                }
+            }, 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/SHS/383.json", 
+            "id": "383"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "NC", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Neuroplasticity& Communication", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

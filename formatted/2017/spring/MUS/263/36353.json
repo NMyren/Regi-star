@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/MUS/263/36353.json", 
+    "id": "36353", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Krannert Center for Perf Arts", 
+            "daysOfTheWeek": "TR", 
+            "end": "06:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Coleman, B", 
+                    "firstName": "B", 
+                    "lastName": "Coleman"
+                }
+            }, 
+            "roomNumber": "2317", 
+            "start": "05:30 PM", 
+            "type": {
+                "code": "PR ", 
+                "content": "Practice"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Men's Glee Club", 
+            "href": "/2017/spring/MUS/263.json", 
+            "id": "263"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "F3", 
+    "sectionStatusCode": "A", 
+    "sectionText": "PLEASE SEE THE MUSIC WEB SITE FOR AUDITION INFORMATION.  Due to the nature of music ensembles, required performances will occur at times other than class times, and additional required rehearsals may be announced.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,61 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/GEOL/107/56954.json", 
+    "id": "56954", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Davenport Hall", 
+            "daysOfTheWeek": "R", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Guenthner, W", 
+                        "firstName": "W", 
+                        "lastName": "Guenthner"
+                    }, 
+                    {
+                        "content": "Long, A", 
+                        "firstName": "A", 
+                        "lastName": "Long"
+                    }
+                ]
+            }, 
+            "roomNumber": "219", 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Physical Geology", 
+            "href": "/2017/spring/GEOL/107.json", 
+            "id": "107"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AY3", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

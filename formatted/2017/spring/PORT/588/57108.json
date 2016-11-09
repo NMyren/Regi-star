@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/PORT/588/57108.json", 
+    "id": "57108", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "M", 
+            "end": "08:00 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Montrul, S", 
+                    "firstName": "S", 
+                    "lastName": "Montrul"
+                }
+            }, 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Sem Second Lang Learn", 
+            "href": "/2017/spring/PORT/588.json", 
+            "id": "588"
+        }, 
+        "subject": {
+            "content": "Portuguese", 
+            "href": "/2017/spring/PORT.json", 
+            "id": "PORT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "SM", 
+    "sectionStatusCode": "A", 
+    "sectionText": "TOPIC TITLE: \"L2 acquisition and bilingualism in the school age period\"", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,68 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/ESE/120/54843.json", 
+    "id": "54843", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Lincoln Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Janssen, E", 
+                        "firstName": "E", 
+                        "lastName": "Janssen"
+                    }, 
+                    {
+                        "content": "Owens, N", 
+                        "firstName": "N", 
+                        "lastName": "Owens"
+                    }, 
+                    {
+                        "content": "Snodgrass, E", 
+                        "firstName": "E", 
+                        "lastName": "Snodgrass"
+                    }
+                ]
+            }, 
+            "roomNumber": "THEAT", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Severe and Hazardous Weather", 
+            "href": "/2017/spring/ESE/120.json", 
+            "id": "120"
+        }, 
+        "subject": {
+            "content": "Earth, Society, and Environment", 
+            "href": "/2017/spring/ESE.json", 
+            "id": "ESE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDegreeAttributes": "Physical Sciences, and Quant Reasoning II course.", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "If you have any questions about the project, the time commitment or anything else, please email the instructor, Eric Snodgrass (snodgrss@atmos.uiuc.edu).", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

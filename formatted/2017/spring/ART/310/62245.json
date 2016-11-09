@@ -1,0 +1,62 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ART/310/62245.json", 
+    "id": "62245", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Art and Design Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Goggin, N", 
+                        "firstName": "N", 
+                        "lastName": "Goggin"
+                    }, 
+                    {
+                        "content": "Ma, S", 
+                        "firstName": "S", 
+                        "lastName": "Ma"
+                    }
+                ]
+            }, 
+            "roomNumber": "331", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Design Thinking", 
+            "href": "/2017/spring/ART/310.json", 
+            "id": "310"
+        }, 
+        "subject": {
+            "content": "Art", 
+            "href": "/2017/spring/ART.json", 
+            "id": "ART"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Design for Divergence: Problem Solving and Creativity.  Students will tackle real-world, challenge-based projects and solve problems through design strategies to generate a diverse set of solutions. This course will cover methods for developing creative skill and generating ideas through design and creativity theory. Topics applied to problem-solving challenges include: play + creativity, problem-solving using game theory, role of design + empathy, and divergent thinking idea generation. Problem-solving methods will emphasize the graphic design process through the visual communication of ideas, but challenges covered will be highly interdisciplinary and this class is open to all majors.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

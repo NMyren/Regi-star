@@ -1,0 +1,59 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/BADM/395/45166.json", 
+    "id": "45166", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Business Instructional Fac", 
+            "daysOfTheWeek": "M", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Sachdev, V", 
+                    "firstName": "V", 
+                    "lastName": "Sachdev"
+                }
+            }, 
+            "roomNumber": "ARR", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Senior Research II", 
+            "href": "/2017/spring/BADM/395.json", 
+            "id": "395"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionFeeAmount": "Digital Making Course Fee $50.00 Flat Fee.", 
+    "sectionNumber": "DMS", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course will meet in 3030 BIF.  The third industrial revolution is upon us, and you have the ability to create functional products on your desktop, by using some inexpensive and accessible tools.  This course will help you get trained on many of these tools and technologies, you will also experiment and make these objects.  We will explore 3D scanning, modeling and printing to rapidly prptptype products.  We will experiment with open hardware, micro-controllers such as arduinos, to explore the concept of the internet of things.  We will also have guest lectures in design thinking, digital making and some stories from passionate makers from the community and beyond.  Apply by email to Vishal Sachdev at vishal@illinois.edu with resume and a 250-400 word statement of what kind of \"making\" skills you have, or what would you like to learn and why.  Business students encouraged to apply, but all majors and all years welcome.", 
+    "sectionTitle": "Digital Making Seminar", 
+    "specialApproval": "Instructor Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

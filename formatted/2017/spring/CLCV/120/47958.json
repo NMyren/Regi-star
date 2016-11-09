@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/CLCV/120/47958.json", 
+    "id": "47958", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Education Building", 
+            "daysOfTheWeek": "MWF", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Witzke, S", 
+                    "firstName": "S", 
+                    "lastName": "Witzke"
+                }
+            }, 
+            "roomNumber": "2", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "The Classical Tradition", 
+            "href": "/2017/spring/CLCV/120.json", 
+            "id": "120"
+        }, 
+        "subject": {
+            "content": "Classical Civilization", 
+            "href": "/2017/spring/CLCV.json", 
+            "id": "CLCV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Instructor: Serena Witzke Title: New Hellenism in Victorian England Description: A study of the reception of Classical art, language, and literature in Victorian Britain's literature and culture.", 
+    "sectionTitle": "New Hellenism in Victorian Eng", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

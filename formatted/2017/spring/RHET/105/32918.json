@@ -1,0 +1,49 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/RHET/105/32918.json", 
+    "id": "32918", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Henry Administration Bldg", 
+            "daysOfTheWeek": "MWF", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "154", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Writing and Research", 
+            "href": "/2017/spring/RHET/105.json", 
+            "id": "105"
+        }, 
+        "subject": {
+            "content": "Rhetoric and Composition", 
+            "href": "/2017/spring/RHET.json", 
+            "id": "RHET"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionCappArea": "Not intended for ESL-placed students.", 
+    "sectionNumber": "B4", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/AAS/539/52111.json", 
+    "id": "52111", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Bevier Hall", 
+            "daysOfTheWeek": "M", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kwon, S", 
+                    "firstName": "S", 
+                    "lastName": "Kwon"
+                }
+            }, 
+            "roomNumber": "103", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Youth, Culture and Society", 
+            "href": "/2017/spring/AAS/539.json", 
+            "id": "539"
+        }, 
+        "subject": {
+            "content": "Asian American Studies", 
+            "href": "/2017/spring/AAS.json", 
+            "id": "AAS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Students unable to add this class who wish to add their names to a wait list should go to http://hcd.illinois.edu/student_information/courses/waitlist.html and follow Wait List Instructions.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

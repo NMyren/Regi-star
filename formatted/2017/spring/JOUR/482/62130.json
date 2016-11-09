@@ -1,0 +1,57 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/JOUR/482/62130.json", 
+    "id": "62130", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Gregory Hall", 
+            "daysOfTheWeek": "R", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Dash, L", 
+                    "firstName": "L", 
+                    "lastName": "Dash"
+                }
+            }, 
+            "roomNumber": "336", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Immersion Journalism", 
+            "href": "/2017/spring/JOUR/482.json", 
+            "id": "482"
+        }, 
+        "subject": {
+            "content": "Journalism", 
+            "href": "/2017/spring/JOUR.json", 
+            "id": "JOUR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "BG", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course meets with JOUR 482, CRN 62129; AFRO 482, CRN 64560; and AFRO 482, CRN 64561.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

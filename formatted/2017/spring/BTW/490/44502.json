@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/BTW/490/44502.json", 
+    "id": "44502", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foreign Languages Building", 
+            "daysOfTheWeek": "MWF", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Gallagher, J", 
+                    "firstName": "J", 
+                    "lastName": "Gallagher"
+                }
+            }, 
+            "roomNumber": "G3", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics Prof Writing", 
+            "href": "/2017/spring/BTW/490.json", 
+            "id": "490"
+        }, 
+        "subject": {
+            "content": "Business and Technical Writing", 
+            "href": "/2017/spring/BTW.json", 
+            "id": "BTW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "1G", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic Section 1G: Web Development and Social Media Management In this class, students will build a professional online web presence, study digital cultures, and familiarize themselves with social media management techniques and software designed for 21st century environments. Many hands-on activities are planned for the class, including learning audio, visual, and video editing techniques as well as website development and search engine optimization. Students are given class time to work in groups and have one-to-one assistance from the professor. Assignments include (a) building and maintaining a web presence of students? choosing, (b) development, advertising, and management of that web presence, and (c) a paper on a topic related to online and digital culture. NO COMPUTER CODING SKILLS REQUIRED. Humanities majors are encouraged to enroll.", 
+    "sectionTitle": "Web Dev & Soc Media Management", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

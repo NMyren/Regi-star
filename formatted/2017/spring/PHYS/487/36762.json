@@ -1,0 +1,48 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/PHYS/487/36762.json", 
+    "id": "36762", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Loomis Laboratory", 
+            "daysOfTheWeek": "W", 
+            "end": "07:20 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "136", 
+            "start": "06:00 PM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Quantum Physics II", 
+            "href": "/2017/spring/PHYS/487.json", 
+            "id": "487"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "D1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

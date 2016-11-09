@@ -1,0 +1,58 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/MDIA/290/65641.json", 
+    "id": "65641", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Lincoln Hall", 
+            "daysOfTheWeek": "T", 
+            "end": "07:30 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Houston, J", 
+                    "firstName": "J", 
+                    "lastName": "Houston"
+                }
+            }, 
+            "roomNumber": "1092", 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/MDIA/290.json", 
+            "id": "290"
+        }, 
+        "subject": {
+            "content": "Media", 
+            "href": "/2017/spring/MDIA.json", 
+            "id": "MDIA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sectionNumber": "I", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course will look at films that have most accurately portrayed the work of investigative journalists with in-class discussions about the films.  We will view excerpts from films that include All the President?s Men, The Insider, Page One, and Spotlight and talk about the differences between stereotypes of investigative journalists and how the journalists actually work. The course also will include a historical overview of investigative journalism, how it has developed in sophistication and approaches, and its presentation in films over the past 80 years.", 
+    "sectionTitle": "Investigative JOUR in Film", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/HIST/396/39545.json", 
+    "id": "39545", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Lincoln Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Nobili, M", 
+                    "firstName": "M", 
+                    "lastName": "Nobili"
+                }
+            }, 
+            "roomNumber": "1057", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/HIST/396.json", 
+            "id": "396"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Title:  African Muslim Societies Topic:  Today one Muslim out of four is from Africa and one out of two Africans is Muslim.  This course focuses on the history and historiography of Muslim societies in Africa.  What were the dynamics of the spread of Islam in Africa?  Is there a uniform 'Islamic experience' in the continent?  Is Islam in Africa differenct from the other areas of the Islamic world?  What is the image in Western scholarship of Islam in Africa?  This course will provide students with the knowledge and skills they need to understand this central phenomenon in modern world history.", 
+    "sectionTitle": "Islam in Africa", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

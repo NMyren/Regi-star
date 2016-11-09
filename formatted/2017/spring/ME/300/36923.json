@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ME/300/36923.json", 
+    "id": "36923", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Roger Adams Laboratory", 
+            "daysOfTheWeek": "MWF", 
+            "end": "12:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Lee, T", 
+                    "firstName": "T", 
+                    "lastName": "Lee"
+                }
+            }, 
+            "roomNumber": "116", 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Thermodynamics", 
+            "href": "/2017/spring/ME/300.json", 
+            "id": "300"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "X", 
+    "sectionStatusCode": "A", 
+    "sectionText": "ME students must obtain department approval from staff in 154 MEB to drop this course after the last day to add a class.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

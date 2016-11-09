@@ -1,0 +1,57 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/KIN/102/35002.json", 
+    "id": "35002", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Illini Union", 
+            "daysOfTheWeek": "MW", 
+            "end": "04:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Covello, A", 
+                    "firstName": "A", 
+                    "lastName": "Covello"
+                }
+            }, 
+            "roomNumber": "60", 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Individual and Dual Activities", 
+            "href": "/2017/spring/KIN/102.json", 
+            "id": "102"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "E3", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Bowling I.  Introductory skills and understanding essential for bowling.", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/MUS/250/36192.json", 
+    "id": "36192", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Krannert Center for Perf Arts", 
+            "daysOfTheWeek": "M", 
+            "end": "09:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "May, C", 
+                    "firstName": "C", 
+                    "lastName": "May"
+                }
+            }, 
+            "roomNumber": "2310", 
+            "start": "07:00 PM", 
+            "type": {
+                "code": "PR ", 
+                "content": "Practice"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "University Orchestra", 
+            "href": "/2017/spring/MUS/250.json", 
+            "id": "250"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "K2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Note:  Due to the nature of music ensembles, required performances will occur at times other than class times, and additional required rehearsals may be announced.  Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation Auditions are required for all students, All string players will be placed in an orchestra. Wind and percussions students participate in unified auditions for Bands and Orchestras. Check School of Music website for details", 
+    "sectionTitle": "Illini Strings", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

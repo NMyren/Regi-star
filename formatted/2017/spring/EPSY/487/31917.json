@@ -1,0 +1,57 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/EPSY/487/31917.json", 
+    "id": "31917", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foreign Languages Building", 
+            "daysOfTheWeek": "MWF", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Yan, X", 
+                    "firstName": "X", 
+                    "lastName": "Yan"
+                }
+            }, 
+            "roomNumber": "G32", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Principles of Language Testing", 
+            "href": "/2017/spring/EPSY/487.json", 
+            "id": "487"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "U3", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This section is for UNDERGRADUATES only.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

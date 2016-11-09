@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/BTW/263/40318.json", 
+    "id": "40318", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Hechler, W", 
+                    "firstName": "W", 
+                    "lastName": "Hechler"
+                }
+            }, 
+            "roomNumber": "61", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Writing in the Disciplines", 
+            "href": "/2017/spring/BTW/263.json", 
+            "id": "263"
+        }, 
+        "subject": {
+            "content": "Business and Technical Writing", 
+            "href": "/2017/spring/BTW.json", 
+            "id": "BTW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "P", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic Section P: Science Writing for the Public This course teaches students to write about recent scientific discoveries clearly and concisely for a non-expert audience. Topics will include medical journalism, environmental journalism, social science journalism, editorial writing, broadcast journalism, and topical narrative writing. Recommended: College coursework in biology or chemistry.", 
+    "sectionTitle": "Science Writing for the Public", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

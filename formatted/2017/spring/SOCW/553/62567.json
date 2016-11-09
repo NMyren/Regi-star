@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/SOCW/553/62567.json", 
+    "id": "62567", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "1010 W Nevada", 
+            "daysOfTheWeek": "W", 
+            "end": "07:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Bedient, M", 
+                    "firstName": "M", 
+                    "lastName": "Bedient"
+                }
+            }, 
+            "roomNumber": "2101", 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "SW Practice in Healthcare Settings", 
+            "href": "/2017/spring/SOCW/553.json", 
+            "id": "553"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "B", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

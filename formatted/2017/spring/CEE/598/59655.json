@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CEE/598/59655.json", 
+    "id": "59655", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Barkan, C", 
+                    "firstName": "C", 
+                    "lastName": "Barkan"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/CEE/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sectionNotes": "Not intended for Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "RVD", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Railway transportation demand for both freight and passengers is increasing throughout the world. A special characteristic of the railway system is that the vehicle and infrastructure are extremely dependent on each other. An understanding of the dynamic interaction between vehicle and track is crucial for an engineer working in this sector. The course starts with a brief description of the vehicle and the track. The dynamic interaction between vehicle and track is then divided into the quasistatic part and the real dynamic interaction. Quasistatic vehicle track interaction deals with how to design curves with regard to curve radius and cant to achieve comfortable curve negotiation. The equations of motion needed to evaluate the vibration comfort in the vehicle and to determine the critical hunting speed are derived. Analysis methods such as calculation of eigenvalues and frequency response functions are explained and trained with help of exercises.  The kinematic wheel-rail interaction is described and widely used terms like conicity are introduced. The wheel-rail contact theory needed to develop simulation models is explained. The theory introduced is then used to judge vehicle performance like ride comfort, wheel or rail wear behavior and derailment safety. Examples of typical running behavior for different types of running gear are discussed.  Prerequisites: CEE 408 or 409, or permission by instructor.", 
+    "sectionTitle": "Rail Vehicle Dynamics", 
+    "specialApproval": "Departmental Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/AAS/265/60383.json", 
+    "id": "60383", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "1207 W Oregon", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Coyoca, W", 
+                    "firstName": "W", 
+                    "lastName": "Coyoca"
+                }
+            }, 
+            "roomNumber": "103", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Politics of Hip Hop", 
+            "href": "/2017/spring/AAS/265.json", 
+            "id": "265"
+        }, 
+        "subject": {
+            "content": "Asian American Studies", 
+            "href": "/2017/spring/AAS.json", 
+            "id": "AAS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

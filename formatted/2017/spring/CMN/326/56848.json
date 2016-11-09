@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/CMN/326/56848.json", 
+    "id": "56848", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Lincoln Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Dixon, T", 
+                    "firstName": "T", 
+                    "lastName": "Dixon"
+                }
+            }, 
+            "roomNumber": "1024", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Mass Media and the Audience", 
+            "href": "/2017/spring/CMN/326.json", 
+            "id": "326"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Reserve for Communication majors removed November 18 by 9:00am.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

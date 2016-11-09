@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ECE/544/57172.json", 
+    "id": "57172", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Electrical & Computer Eng Bldg", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Moulin, P", 
+                    "firstName": "P", 
+                    "lastName": "Moulin"
+                }
+            }, 
+            "roomNumber": "2013", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics in Signal Processing", 
+            "href": "/2017/spring/ECE/544.json", 
+            "id": "544"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "NA", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic: Pattern Recognition.  Prerequisite: CS 225, ECE 390 or equivalent programming experience; Math 415 or equivalent; ECE 313, Math 461, Stat 410 or equivalent.  Pattern Recognition is concerned with recognition of an unknown given object as belonging to one of a number of classes. Classification is performed by discovering class specific ?patterns? among a range of measurable object features and utilizing these class characteristic features for recognition of unknown objects. The design of a pattern recognition system requires development of four major modules: sensing, feature extraction, decision making, and system performance evaluation. This course will introduce the fundamentals of statistical pattern recognition with examples from several application areas. Techniques for handling multidimensional data of various types and scales along with classification/recognition algorithms will be explained. The course will present competing approaches to exploratory data analysis and classifier design so students can make judicious choices when confronted with real pattern recognition problems.", 
+    "sectionTitle": "Pattern Recognition", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

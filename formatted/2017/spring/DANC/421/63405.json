@@ -1,0 +1,53 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/DANC/421/63405.json", 
+    "id": "63405", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Ndiaye, M", 
+                    "firstName": "M", 
+                    "lastName": "Ndiaye"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "IND", 
+                "content": "Independent Study"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Performance in Grad Thesis II", 
+            "href": "/2017/spring/DANC/421.json", 
+            "id": "421"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to students with Junior, Senior, or Graduate class standing.", 
+    "sectionNumber": "MN", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Perf in Grad Thesis - Ndiaye", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

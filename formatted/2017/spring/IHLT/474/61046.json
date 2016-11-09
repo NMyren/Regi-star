@@ -1,0 +1,50 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/IHLT/474/61046.json", 
+    "id": "61046", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Frasca, E", 
+                    "firstName": "E", 
+                    "lastName": "Frasca"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Pre-Field Experience in Health", 
+            "href": "/2017/spring/IHLT/474.json", 
+            "id": "474"
+        }, 
+        "subject": {
+            "content": "i-Health Program", 
+            "href": "/2017/spring/IHLT.json", 
+            "id": "IHLT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/SOCW/595/50912.json", 
+    "id": "50912", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "1010 W Nevada", 
+            "daysOfTheWeek": "R", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Zhan, M", 
+                    "firstName": "M", 
+                    "lastName": "Zhan"
+                }
+            }, 
+            "roomNumber": "2019", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Quantitative Research Designs", 
+            "href": "/2017/spring/SOCW/595.json", 
+            "id": "595"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

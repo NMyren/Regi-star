@@ -1,0 +1,51 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-01-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LAW/796/59585.json", 
+    "id": "59585", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TWR", 
+            "end": "07:15 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "start": "05:15 PM", 
+            "type": {
+                "code": "S11", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Comparative Law Topics", 
+            "href": "/2017/spring/LAW/796.json", 
+            "id": "796"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "LF", 
+    "sectionDateRange": "Meets 28-Feb-17 - 09-Mar-17.", 
+    "sectionDeptRestriction": "Restricted to students in the Law department.", 
+    "sectionNumber": "AAG", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Comparative Con Law", 
+    "specialApproval": "Departmental Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

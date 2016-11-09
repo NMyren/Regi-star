@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/LA/281/35298.json", 
+    "id": "35298", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Mumford Hall", 
+            "daysOfTheWeek": "MW", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kraszewska, K", 
+                    "firstName": "K", 
+                    "lastName": "Kraszewska"
+                }
+            }, 
+            "roomNumber": "200", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Design Communications II", 
+            "href": "/2017/spring/LA/281.json", 
+            "id": "281"
+        }, 
+        "subject": {
+            "content": "Landscape Architecture", 
+            "href": "/2017/spring/LA.json", 
+            "id": "LA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "M1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

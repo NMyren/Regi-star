@@ -1,0 +1,49 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/INFO/303/55726.json", 
+    "id": "55726", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:45 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "156", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Writing Across Media", 
+            "href": "/2017/spring/INFO/303.json", 
+            "id": "303"
+        }, 
+        "subject": {
+            "content": "Informatics", 
+            "href": "/2017/spring/INFO.json", 
+            "id": "INFO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "B", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Registration in this course is restricted to Informatics minors, students enrolled in one of the majors in the College of Media, or students majoring in English, Rhetoric, or Creative Writing, until Nov. 20, 2015 at 12 pm.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

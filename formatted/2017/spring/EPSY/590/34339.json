@@ -1,0 +1,56 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/EPSY/590/34339.json", 
+    "id": "34339", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Education Building", 
+            "daysOfTheWeek": "W", 
+            "end": "12:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Neville, H", 
+                    "firstName": "H", 
+                    "lastName": "Neville"
+                }
+            }, 
+            "roomNumber": "389", 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Seminar in Educ Psyc", 
+            "href": "/2017/spring/EPSY/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "BH", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Special Topics in Couns Psych", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

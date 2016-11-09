@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/SHS/222/62209.json", 
+    "id": "62209", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Speech & Hearing Science Bldg", 
+            "daysOfTheWeek": "W", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Davies Brenier, L", 
+                    "firstName": "L", 
+                    "lastName": "Davies Brenier"
+                }
+            }, 
+            "roomNumber": "111", 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Language & Culture of Deaf Communities", 
+            "href": "/2017/spring/SHS/222.json", 
+            "id": "222"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionNumber": "C04", 
+    "sectionStatusCode": "A", 
+    "sectionText": "The course content and instruction will be delivered using the Compass course management system. There are required meeting times for weekly discussion sessions. The Department does not wait list.  **Please do not contact the instructor and ask to be added to the course if it is full. Continue to check online for openings. No overrides are given to overload the class. The class may appear to be overloaded due to a change in the maximum number of students allowed after registration had already begun.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

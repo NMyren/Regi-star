@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/SHS/430/54624.json", 
+    "id": "54624", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Speech & Hearing Science Bldg", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Johnson, C", 
+                    "firstName": "C", 
+                    "lastName": "Johnson"
+                }
+            }, 
+            "roomNumber": "112", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Devel & Disorders Phonol Artic", 
+            "href": "/2017/spring/SHS/430.json", 
+            "id": "430"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Speech & Hearing Science major(s). Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "G4", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

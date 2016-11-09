@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/MATH/362/51439.json", 
+    "id": "51439", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Electrical & Computer Eng Bldg", 
+            "daysOfTheWeek": "MWF", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Alvarez, J", 
+                    "firstName": "J", 
+                    "lastName": "Alvarez"
+                }
+            }, 
+            "roomNumber": "3017", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Probability with Engrg Applic", 
+            "href": "/2017/spring/MATH/362.json", 
+            "id": "362"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Not intended for Graduate - Urbana-Champaign.", 
+    "sectionNumber": "D", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

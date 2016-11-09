@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/MCB/317/55161.json", 
+    "id": "55161", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Roger Adams Laboratory", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Rivier, D", 
+                    "firstName": "D", 
+                    "lastName": "Rivier"
+                }
+            }, 
+            "roomNumber": "116", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Genetics and Genomics", 
+            "href": "/2017/spring/MCB/317.json", 
+            "id": "317"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

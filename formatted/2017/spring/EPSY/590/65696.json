@@ -1,0 +1,55 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/EPSY/590/65696.json", 
+    "id": "65696", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "M", 
+            "end": "08:30 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Cope, W", 
+                    "firstName": "W", 
+                    "lastName": "Cope"
+                }
+            }, 
+            "start": "07:00 PM", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Seminar in Educ Psyc", 
+            "href": "/2017/spring/EPSY/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Mobile Learning", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

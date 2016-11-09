@@ -1,0 +1,59 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/PSYC/496/45975.json", 
+    "id": "45975", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Psychology Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Derringer, J", 
+                    "firstName": "J", 
+                    "lastName": "Derringer"
+                }
+            }, 
+            "roomNumber": "815", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Adv Current Topics in Psych", 
+            "href": "/2017/spring/PSYC/496.json", 
+            "id": "496"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Psychology department.", 
+    "sectionNotes": "Restricted to students with Senior class standing. Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "JD3", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Senior priority enrollment begins November 2nd. Junior priority enrollment begins November 9th. Open enrollment begins at 10am on November 21st.  Undergraduates should enroll in this section. **Approved for Behavioral Neuroscience and General Psychology Concentration**", 
+    "sectionTitle": "Behavior Genetics", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/PSYC/496/64953.json", 
+    "id": "64953", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Psychology Building", 
+            "daysOfTheWeek": "W", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kwapil, T", 
+                    "firstName": "T", 
+                    "lastName": "Kwapil"
+                }
+            }, 
+            "roomNumber": "708", 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Adv Current Topics in Psych", 
+            "href": "/2017/spring/PSYC/496.json", 
+            "id": "496"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "TK2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Schizophrenia is a catastrophic mental illness that is characterized by psychotic symptoms such as delusions and hallucinations. However, current views suggest that schizophrenia may be the most extreme manifestation of a continuum of impairment known as schizotypy. This course will examine historical and contemporary views of the etiology and phenomenology of schizotypy (and by extension schizophrenia and related disorders). The course will also explore research methods for studying such topics. The goal of the course is for students to have a basic understanding about the clinical literature and research methods regarding schizotypy and schizophrenia, and be able to use this framework to consider other forms of psychopathology", 
+    "sectionTitle": "Schizotypy & Schizophrenia", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

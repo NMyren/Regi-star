@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/CI/507/31987.json", 
+    "id": "31987", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Education Building", 
+            "daysOfTheWeek": "R", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Bresler, L", 
+                    "firstName": "L", 
+                    "lastName": "Bresler"
+                }
+            }, 
+            "roomNumber": "242", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Prob Trends in Spec Fields", 
+            "href": "/2017/spring/CI/507.json", 
+            "id": "507"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "EIE", 
+    "sectionStatusCode": "A", 
+    "sectionText": "\"The Great Work of Your Life\":  Exploring Educational Terrain", 
+    "sectionTitle": "Exploring Educational Terrain", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

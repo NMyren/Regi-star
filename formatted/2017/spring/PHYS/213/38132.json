@@ -1,0 +1,61 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/PHYS/213/38132.json", 
+    "id": "38132", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Loomis Laboratory", 
+            "daysOfTheWeek": "MWF", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Gadway, B", 
+                        "firstName": "B", 
+                        "lastName": "Gadway"
+                    }, 
+                    {
+                        "content": "Kwiat, P", 
+                        "firstName": "P", 
+                        "lastName": "Kwiat"
+                    }
+                ]
+            }, 
+            "roomNumber": "141", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Univ Physics: Thermal Physics", 
+            "href": "/2017/spring/PHYS/213.json", 
+            "id": "213"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "A1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,60 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ART/199/12125.json", 
+    "id": "12125", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Architecture Annex", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:10 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Theide, B", 
+                    "firstName": "B", 
+                    "lastName": "Theide"
+                }
+            }, 
+            "roomNumber": "221", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/ART/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Art", 
+            "href": "/2017/spring/ART.json", 
+            "id": "ART"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionCappArea": "Restricted to Chancellor's Scholar-CHPHonors students.", 
+    "sectionDegreeAttributes": "Camp Honors/Chanc Schol course.", 
+    "sectionFeeAmount": "Art  Design Metals $95.00 Flat Fee.", 
+    "sectionNumber": "BT2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic: Design and Craft. Introduction to the elements, principles, and processes of design. Students will investigate basic design concepts in five three-week workshops in craft/material studies. Design strategies will be introduced via a survey of basic techniques in metalworking, glassmaking, bookmaking, ceramics, and fiber. This course is designed for the non-art major who seeks an introductory hands on art making experience. This section for Chancellor's Scholars only; other students may only enroll with consent of instructor and the Campus Honors Program.", 
+    "sectionTitle": "Design and Craft", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

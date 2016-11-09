@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/GWS/218/49364.json", 
+    "id": "49364", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TR", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Fay, L", 
+                    "firstName": "L", 
+                    "lastName": "Fay"
+                }
+            }, 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro to Social Issues Theatre", 
+            "href": "/2017/spring/GWS/218.json", 
+            "id": "218"
+        }, 
+        "subject": {
+            "content": "Gender and Women's Studies", 
+            "href": "/2017/spring/GWS.json", 
+            "id": "GWS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Same as THEA 218 (CRN 48020).  See THEA 218", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

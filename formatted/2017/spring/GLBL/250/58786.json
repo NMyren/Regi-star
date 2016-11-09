@@ -1,0 +1,56 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/GLBL/250/58786.json", 
+    "id": "58786", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Huff Hall", 
+            "daysOfTheWeek": "MW", 
+            "end": "01:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Muniandy, P", 
+                    "firstName": "P", 
+                    "lastName": "Muniandy"
+                }
+            }, 
+            "roomNumber": "209", 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Development", 
+            "href": "/2017/spring/GLBL/250.json", 
+            "id": "250"
+        }, 
+        "subject": {
+            "content": "Global Studies", 
+            "href": "/2017/spring/GLBL.json", 
+            "id": "GLBL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course is an interdisciplinary introduction to the theory and practice of international development through historical and contemporary times. Students will learn about the western and non-western theories of development and their application in the global south, historically and at present. Focus will be on critical evaluation of development problems and solutions in areas such as health, education, economic well-being and gender equality. Students interested in the Certificate in International Development must take this course.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

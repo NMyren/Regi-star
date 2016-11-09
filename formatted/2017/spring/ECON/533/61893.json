@@ -1,0 +1,75 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ECON/533/61893.json", 
+    "id": "61893", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "David Kinley Hall", 
+                "daysOfTheWeek": "F", 
+                "end": "09:50 AM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Riley, B", 
+                        "firstName": "B", 
+                        "lastName": "Riley"
+                    }
+                }, 
+                "roomNumber": "119", 
+                "start": "08:00 AM", 
+                "type": {
+                    "code": "DIS", 
+                    "content": "Discussion/Recitation"
+                }
+            }, 
+            {
+                "buildingName": "David Kinley Hall", 
+                "daysOfTheWeek": "MW", 
+                "end": "03:50 PM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Williams, S", 
+                        "firstName": "S", 
+                        "lastName": "Williams"
+                    }
+                }, 
+                "roomNumber": "215", 
+                "start": "02:00 PM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Microeconomic Theory II", 
+            "href": "/2017/spring/ECON/533.json", 
+            "id": "533"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

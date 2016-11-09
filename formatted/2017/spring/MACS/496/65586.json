@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/MACS/496/65586.json", 
+    "id": "65586", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MW", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Turnock, J", 
+                    "firstName": "J", 
+                    "lastName": "Turnock"
+                }
+            }, 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Media/Cinema Topics", 
+            "href": "/2017/spring/MACS/496.json", 
+            "id": "496"
+        }, 
+        "subject": {
+            "content": "Media and Cinema Studies", 
+            "href": "/2017/spring/MACS.json", 
+            "id": "MACS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "HFC", 
+    "sectionStatusCode": "A", 
+    "sectionText": "100 Years of Rotten Tomatoes: a History of Film Criticism.  100 Years of Rotten Tomatoes is a course that will examine the long history of movie criticism in the US and abroad.  We will read reviews and critical essays by movie critics such as Vachel Lindsay, Parker Tyler, Manny Farber, Pauline Kael, Roger Ebert, and Manohla Dargis and their contexts in the US, as well as the UK critics and French movements including the Impressionist critics of the 20s, the Cahiers du Cin\ufffdma of the 50s and Film Journal critics of the 70s. All readings will be in English.  We will also screen films relevant to each week?s critic or critical group.", 
+    "sectionTitle": "100 Years of Rotten Tomatoes", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

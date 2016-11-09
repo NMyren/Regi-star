@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/ECE/498/63789.json", 
+    "id": "63789", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Electrical & Computer Eng Bldg", 
+            "daysOfTheWeek": "MW", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Raginsky, M", 
+                    "firstName": "M", 
+                    "lastName": "Raginsky"
+                }
+            }, 
+            "roomNumber": "3013", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics in ECE", 
+            "href": "/2017/spring/ECE/498.json", 
+            "id": "498"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "MR4", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Exploration of noise, uncertainty, and randomness in the context of signals and systems. The course will introduce discrete- and continuous-time random processes as input and/or output signals of various types of systems, with and without memory or feedback. Probabilistic notions will be integrated with techniques from signals and systems, such as linearity, time-invariance, causality, transform methods, and stability. Basic concepts will be illustrated via numerous examples, such as noise in linear and nonlinear circuits, average consensus and PageRank, queuing systems, noise in remote sensing applications, Bayesian filtering, Monte Carlo simulation, risk allocation in financial portfolios, stochastic gradient descent in machine learning.  Prerequisites: ECE 310 and ECE 313", 
+    "sectionTitle": "Intro to Stochastic Systems", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/RLST/204/33619.json", 
+    "id": "33619", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TR", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Augoustakis, A", 
+                    "firstName": "A", 
+                    "lastName": "Augoustakis"
+                }
+            }, 
+            "start": "03:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Classical & Koine Greek II", 
+            "href": "/2017/spring/RLST/204.json", 
+            "id": "204"
+        }, 
+        "subject": {
+            "content": "Religious Studies", 
+            "href": "/2017/spring/RLST.json", 
+            "id": "RLST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "CIC", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This section is offered through the CIC Course Share Program hosted by UIUC and will be video-conference taught for participating universities.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

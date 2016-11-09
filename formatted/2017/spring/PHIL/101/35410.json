@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/PHIL/101/35410.json", 
+    "id": "35410", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Psychology Building", 
+            "daysOfTheWeek": "MW", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Weaver, C", 
+                    "firstName": "C", 
+                    "lastName": "Weaver"
+                }
+            }, 
+            "roomNumber": "23", 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Introduction to Philosophy", 
+            "href": "/2017/spring/PHIL/101.json", 
+            "id": "101"
+        }, 
+        "subject": {
+            "content": "Philosophy", 
+            "href": "/2017/spring/PHIL.json", 
+            "id": "PHIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

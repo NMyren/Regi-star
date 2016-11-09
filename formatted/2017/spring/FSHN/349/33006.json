@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/FSHN/349/33006.json", 
+    "id": "33006", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "S", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Craft, J", 
+                    "firstName": "J", 
+                    "lastName": "Craft"
+                }
+            }, 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Food Service Sanitation", 
+            "href": "/2017/spring/FSHN/349.json", 
+            "id": "349"
+        }, 
+        "subject": {
+            "content": "Food Science and Human Nutrition", 
+            "href": "/2017/spring/FSHN.json", 
+            "id": "FSHN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Course meets Saturdays from January 21 through March 11. First class meeting is January 21; last class/national certification exam is March 11.  Registration restricted to dietetics and hospitality management majors only.  Seats will be open to all FSHN majors and minors (minors must contact the department office (333-1324) for authorization to register) at the beginning of sophomore registration. Any remaining seats will be released to the general student population at the beginning of freshman registration.  If you get a 'course full' error message and want to be added to a wait list for this class, go to www.fshn.illinois.edu and click on Current Students then Waitlist Information. Wait lists will not open until one week before classes start in January.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

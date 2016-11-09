@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/SHS/112/56989.json", 
+    "id": "56989", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Allen Residence Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Berg, B", 
+                    "firstName": "B", 
+                    "lastName": "Berg"
+                }
+            }, 
+            "roomNumber": "152", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Living-Learning ASL Part 2", 
+            "href": "/2017/spring/SHS/112.json", 
+            "id": "112"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "U11", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Offered through the Unit One Living and Learing Program and the Weston Exploration Living and Learning Program for Unit One and other LLC students who have completed the first level.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

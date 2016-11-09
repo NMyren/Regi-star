@@ -1,0 +1,55 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MUS/348/36189.json", 
+    "id": "36189", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Krannert Center for Perf Arts", 
+            "daysOfTheWeek": "MW", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Solya, A", 
+                    "firstName": "A", 
+                    "lastName": "Solya"
+                }
+            }, 
+            "roomNumber": "2317", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Choral Literature", 
+            "href": "/2017/spring/MUS/348.json", 
+            "id": "348"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

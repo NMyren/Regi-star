@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/LING/303/37382.json", 
+    "id": "37382", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Huff Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Watkin, K", 
+                    "firstName": "K", 
+                    "lastName": "Watkin"
+                }
+            }, 
+            "roomNumber": "112", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "General Speech Science", 
+            "href": "/2017/spring/LING/303.json", 
+            "id": "303"
+        }, 
+        "subject": {
+            "content": "Linguistics", 
+            "href": "/2017/spring/LING.json", 
+            "id": "LING"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AE1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,50 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/BIOE/436/65048.json", 
+    "id": "65048", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Amos, J", 
+                    "firstName": "J", 
+                    "lastName": "Amos"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Senior Design II", 
+            "href": "/2017/spring/BIOE/436.json", 
+            "id": "436"
+        }, 
+        "subject": {
+            "content": "Bioengineering", 
+            "href": "/2017/spring/BIOE.json", 
+            "id": "BIOE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "SD", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

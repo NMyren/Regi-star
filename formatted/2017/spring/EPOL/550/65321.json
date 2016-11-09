@@ -1,0 +1,46 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/EPOL/550/65321.json", 
+    "id": "65321", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "T", 
+            "end": "06:50 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Methods of Educational Inquiry", 
+            "href": "/2017/spring/EPOL/550.json", 
+            "id": "550"
+        }, 
+        "subject": {
+            "content": "Education Policy, Organization and Leadership", 
+            "href": "/2017/spring/EPOL.json", 
+            "id": "EPOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

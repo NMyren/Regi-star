@@ -1,0 +1,46 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/STAT/400/36132.json", 
+    "id": "36132", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "F", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {}, 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Statistics and Probability I", 
+            "href": "/2017/spring/STAT/400.json", 
+            "id": "400"
+        }, 
+        "subject": {
+            "content": "Statistics", 
+            "href": "/2017/spring/STAT.json", 
+            "id": "STAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AD4", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

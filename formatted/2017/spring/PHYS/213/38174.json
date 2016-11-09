@@ -1,0 +1,48 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/PHYS/213/38174.json", 
+    "id": "38174", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Loomis Laboratory", 
+            "daysOfTheWeek": "T", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "147", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Univ Physics: Thermal Physics", 
+            "href": "/2017/spring/PHYS/213.json", 
+            "id": "213"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "D2N", 
+    "sectionStatusCode": "P", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "P"
+}

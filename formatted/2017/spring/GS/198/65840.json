@@ -1,0 +1,53 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/GS/198/65840.json", 
+    "id": "65840", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "T", 
+            "end": "04:45 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Gardiner, S", 
+                    "firstName": "S", 
+                    "lastName": "Gardiner"
+                }
+            }, 
+            "start": "03:30 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "DGS Honors Seminar", 
+            "href": "/2017/spring/GS/198.json", 
+            "id": "198"
+        }, 
+        "subject": {
+            "content": "General Studies", 
+            "href": "/2017/spring/GS.json", 
+            "id": "GS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "JN2", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

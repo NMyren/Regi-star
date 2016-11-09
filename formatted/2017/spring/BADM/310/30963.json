@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/BADM/310/30963.json", 
+    "id": "30963", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foellinger Auditorium", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Loyd, D", 
+                    "firstName": "D", 
+                    "lastName": "Loyd"
+                }
+            }, 
+            "roomNumber": "AUD", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Mgmt and Organizational Beh", 
+            "href": "/2017/spring/BADM/310.json", 
+            "id": "310"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Curric Unassigned or Accountancy or Finance or Marketing or Information Sys & Info Tech or Supply Chain Management or Business Process Management or Management major(s) or minor(s).", 
+    "sectionNumber": "1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This section will open to Food Science & Human Nutrition majors on Monday, November 14, 2016 and to business minors on Monday, November 21, 2016 at approximately 9:00 a.m.  This course will open to Technical Systems Management, ISE and French Commercial students on Monday, November 28, 2016 at approximately 9:00 a.m.  There are currently 30 reserved seats for College of Business international exchange students; any unused seats will be released to students meeting the restrictions on Friday, January 20, 2017 at approximately 9:00 a.m. This is a core course for undergraduate students pursuing the business minor.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

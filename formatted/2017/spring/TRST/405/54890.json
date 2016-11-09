@@ -1,0 +1,56 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/TRST/405/54890.json", 
+    "id": "54890", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Huff Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Phillips, P", 
+                    "firstName": "P", 
+                    "lastName": "Phillips"
+                }
+            }, 
+            "roomNumber": "209", 
+            "start": "03:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Commercial & Technical Trans", 
+            "href": "/2017/spring/TRST/405.json", 
+            "id": "405"
+        }, 
+        "subject": {
+            "content": "Translation Studies", 
+            "href": "/2017/spring/TRST.json", 
+            "id": "TRST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "U3", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MCB/585/53111.json", 
+    "id": "53111", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Chemical and Life Sci Lab", 
+            "daysOfTheWeek": "T", 
+            "end": "06:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kehl-Fie, T", 
+                    "firstName": "T", 
+                    "lastName": "Kehl-Fie"
+                }
+            }, 
+            "roomNumber": "B124", 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Current Topics in Microbiology", 
+            "href": "/2017/spring/MCB/585.json", 
+            "id": "585"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

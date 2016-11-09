@@ -1,0 +1,51 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/BIOP/595/31837.json", 
+    "id": "31837", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Nair, S", 
+                    "firstName": "S", 
+                    "lastName": "Nair"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Biophysics Seminars", 
+            "href": "/2017/spring/BIOP/595.json", 
+            "id": "595"
+        }, 
+        "subject": {
+            "content": "Biophysics", 
+            "href": "/2017/spring/BIOP.json", 
+            "id": "BIOP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

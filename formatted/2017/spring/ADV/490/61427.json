@@ -1,0 +1,59 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ADV/490/61427.json", 
+    "id": "61427", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Armory", 
+            "daysOfTheWeek": "MWF", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Yao, M", 
+                    "firstName": "M", 
+                    "lastName": "Yao"
+                }
+            }, 
+            "roomNumber": "384", 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Special Topics in Advertising", 
+            "href": "/2017/spring/ADV/490.json", 
+            "id": "490"
+        }, 
+        "subject": {
+            "content": "Advertising", 
+            "href": "/2017/spring/ADV.json", 
+            "id": "ADV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNotes": "Restricted to students with Sophomore, Junior, or Senior class standing.", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Digital Advertising Content, Technologies, and Concepts. This introductory course systematically examines a wide range of topics related to the proliferation and use of digital media in a networked world, including psychology, social relationships, culture, economics, politics, and philosophy. It is designed to prepare students for living and working in an increasingly mediated society in which digital technologies are omnipresent yet ubiquitous. While the scope of this course is highly interdisciplinary, its emphasis will be placed on specialist knowledge for media professions such as advertising and journalism.", 
+    "sectionTitle": "Digital Advertising Content", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

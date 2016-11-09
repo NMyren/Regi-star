@@ -1,0 +1,48 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/TAM/324/36253.json", 
+    "id": "36253", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Talbot Laboratory", 
+            "daysOfTheWeek": "M", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "201", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Behavior of Materials", 
+            "href": "/2017/spring/TAM/324.json", 
+            "id": "324"
+        }, 
+        "subject": {
+            "content": "Theoretical and Applied Mechanics", 
+            "href": "/2017/spring/TAM.json", 
+            "id": "TAM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AB2", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

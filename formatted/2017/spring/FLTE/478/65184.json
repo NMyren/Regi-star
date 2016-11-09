@@ -1,0 +1,48 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/FLTE/478/65184.json", 
+    "id": "65184", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foreign Languages Building", 
+            "daysOfTheWeek": "T", 
+            "end": "07:20 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "G24", 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Secondary World Language Teaching", 
+            "href": "/2017/spring/FLTE/478.json", 
+            "id": "478"
+        }, 
+        "subject": {
+            "content": "Foreign Language Teacher Education", 
+            "href": "/2017/spring/FLTE.json", 
+            "id": "FLTE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "I", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

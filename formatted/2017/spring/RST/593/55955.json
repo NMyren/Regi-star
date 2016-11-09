@@ -1,0 +1,51 @@
+{
+    "creditHours": "4 hours", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/RST/593/55955.json", 
+    "id": "55955", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Browning, L", 
+                    "firstName": "L", 
+                    "lastName": "Browning"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Problems", 
+            "href": "/2017/spring/RST/593.json", 
+            "id": "593"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 28-Dec-16 - 21-Feb-17.", 
+    "sectionNotes": "Restricted to MS : Rec, Sport, Tourism -UIUC or MS: Rec,Sport,Tourism -UCGC.", 
+    "sectionNumber": "XM", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Enrollment in this section is restricted to students in the online Recreation, Sport and Tourism program.", 
+    "statusCode": "A"
+}

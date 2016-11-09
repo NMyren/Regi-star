@@ -1,0 +1,52 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/JOUR/200/65581.json", 
+    "id": "65581", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Follis, J", 
+                    "firstName": "J", 
+                    "lastName": "Follis"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Introduction to Journalism", 
+            "href": "/2017/spring/JOUR/200.json", 
+            "id": "200"
+        }, 
+        "subject": {
+            "content": "Journalism", 
+            "href": "/2017/spring/JOUR.json", 
+            "id": "JOUR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "A2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Course meets entirely online. Deadlines will be set, but students work through the course at their own pace within those deadlines.", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

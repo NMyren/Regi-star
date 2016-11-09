@@ -1,0 +1,66 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/MILS/102/34414.json", 
+    "id": "34414", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Armory", 
+            "daysOfTheWeek": "MW", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Ashworth, E", 
+                        "firstName": "E", 
+                        "lastName": "Ashworth"
+                    }, 
+                    {
+                        "content": "Johnson, A", 
+                        "firstName": "A", 
+                        "lastName": "Johnson"
+                    }, 
+                    {
+                        "content": "Tanner, D", 
+                        "firstName": "D", 
+                        "lastName": "Tanner"
+                    }
+                ]
+            }, 
+            "roomNumber": "133", 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Introduction to the Profession of Arms", 
+            "href": "/2017/spring/MILS/102.json", 
+            "id": "102"
+        }, 
+        "subject": {
+            "content": "Military Science", 
+            "href": "/2017/spring/MILS.json", 
+            "id": "MILS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

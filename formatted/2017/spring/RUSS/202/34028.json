@@ -1,0 +1,55 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/RUSS/202/34028.json", 
+    "id": "34028", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foreign Languages Building", 
+            "daysOfTheWeek": "MTWR", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Ivashkiv, R", 
+                    "firstName": "R", 
+                    "lastName": "Ivashkiv"
+                }
+            }, 
+            "roomNumber": "1120", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Second-Year Russian II", 
+            "href": "/2017/spring/RUSS/202.json", 
+            "id": "202"
+        }, 
+        "subject": {
+            "content": "Russian", 
+            "href": "/2017/spring/RUSS.json", 
+            "id": "RUSS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "C", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

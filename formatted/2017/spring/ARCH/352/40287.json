@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ARCH/352/40287.json", 
+    "id": "40287", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Architecture Building", 
+            "daysOfTheWeek": "R", 
+            "end": "07:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Uihlein, M", 
+                    "firstName": "M", 
+                    "lastName": "Uihlein"
+                }
+            }, 
+            "roomNumber": "102B", 
+            "start": "06:30 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Mech of Mat & Design Appl", 
+            "href": "/2017/spring/ARCH/352.json", 
+            "id": "352"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AB2", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

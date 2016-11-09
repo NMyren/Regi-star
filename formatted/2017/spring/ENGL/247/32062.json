@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ENGL/247/32062.json", 
+    "id": "32062", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Gaedtke, A", 
+                    "firstName": "A", 
+                    "lastName": "Gaedtke"
+                }
+            }, 
+            "roomNumber": "115", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "The British Novel", 
+            "href": "/2017/spring/ENGL/247.json", 
+            "id": "247"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "S", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Doppelgangers, Doubles, and Divided Minds: This course will survey the transformation of the British novel through an analysis of Doppelganger narratives across more than three centuries. We will examine the ways that doubles recur and evolve from eighteenth- and nineteenth-century gothic fictions of rivalry and demonic persecution to the psychological splitting of the mind that manifests in twentieth-century post-Freudian fiction and a contemporary neuronovel. While observing the formal changes that emerge over the course of three centuries, we will also explore the ways that the Doppelganger becomes a way of expressing larger political and ideological divisions that threaten the notion of Britishness as a stable identity. Religious and national identities are often allegorized in the dark, paranoid worlds of Doppelganger novels as personal rivalries and persecutory agents. This course will not only provide an introduction to the British novel but will ask questions about the ways that identity is both grounded in otherness and divided by it. Readings will include works by William Godwin, James Hogg, Robert Louis Stevenson, Virginia Woolf, Rebecca West, Ian McEwan, and others.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

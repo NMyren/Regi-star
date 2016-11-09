@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/IE/300/62803.json", 
+    "id": "62803", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Mechanical Engineering Bldg", 
+            "daysOfTheWeek": "MWF", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "King, D", 
+                    "firstName": "D", 
+                    "lastName": "King"
+                }
+            }, 
+            "roomNumber": "253", 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Analysis of Data", 
+            "href": "/2017/spring/IE/300.json", 
+            "id": "300"
+        }, 
+        "subject": {
+            "content": "Industrial Engineering", 
+            "href": "/2017/spring/IE.json", 
+            "id": "IE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to General Engineering or Industrial Engineering or Materials Science & Engr or Mechanical Engineering or Chemical Engineering or Bioengineering or Aerospace Engineering or Agricultural & Biological Engr or Systems Engineering and Design major(s).", 
+    "sectionNumber": "BL1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

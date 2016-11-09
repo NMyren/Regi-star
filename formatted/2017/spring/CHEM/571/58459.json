@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CHEM/571/58459.json", 
+    "id": "58459", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Noyes Laboratory", 
+            "daysOfTheWeek": "TR", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Hergenrother, P", 
+                    "firstName": "P", 
+                    "lastName": "Hergenrother"
+                }
+            }, 
+            "roomNumber": "219", 
+            "start": "08:00 AM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Chemical Biology Laboratory", 
+            "href": "/2017/spring/CHEM/571.json", 
+            "id": "571"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Laboratory course in advanced state-of-the-art experimental techniques used to investigate problems at the interface of chemistry and biology. Specific topics include, but are not limited to, solid-phase peptide synthesis, native chemical ligation and expressed protein ligation, protein expression and analysis, enzyme kinetics and inhibition, high-throughput screening, various methods for examining biomolecular interactions, radiolabeling, mammalian cell biology, fluorescence microscopy, and flow cytometry. Offered the SECOND half of the semester (March 11 through May 01). Report to 219 Noyes Lab on March 12.  Prerequisite: One year (two semesters) of undergraduate organic chemistry is required. One semester of undergraduate biochemistry or molecular biology is preferred.", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

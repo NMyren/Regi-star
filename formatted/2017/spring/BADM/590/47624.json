@@ -1,0 +1,54 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/BADM/590/47624.json", 
+    "id": "47624", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Watkins, R", 
+                    "firstName": "R", 
+                    "lastName": "Watkins"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "S12", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Seminar in Business Admin", 
+            "href": "/2017/spring/BADM/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDateRange": "Meets 07-Oct-16 - 15-Apr-17.", 
+    "sectionNotes": "Restricted to MBA:Exec MBA Ilini Ctr-UIUC.", 
+    "sectionNumber": "X4", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Global Capstone Project Trip", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

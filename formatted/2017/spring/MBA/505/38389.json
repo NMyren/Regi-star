@@ -1,0 +1,59 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MBA/505/38389.json", 
+    "id": "38389", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Business Instructional Fac", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Lim, M", 
+                    "firstName": "M", 
+                    "lastName": "Lim"
+                }
+            }, 
+            "roomNumber": "3039", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "S3 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics in Management", 
+            "href": "/2017/spring/MBA/505.json", 
+            "id": "505"
+        }, 
+        "subject": {
+            "content": "Regular MBA Program Administration", 
+            "href": "/2017/spring/MBA.json", 
+            "id": "MBA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNotes": "Restricted to MBA:Bus Administration -UIUC.", 
+    "sectionNumber": "OA", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This section will open for registration on Wednesday, November 9, 2016 at approximately 1:00 p.m.", 
+    "sectionTitle": "Operations Analysis", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

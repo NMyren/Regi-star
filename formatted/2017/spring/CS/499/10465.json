@@ -1,0 +1,44 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CS/499/10465.json", 
+    "id": "10465", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {}, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "IND", 
+                "content": "Independent Study"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Senior Thesis", 
+            "href": "/2017/spring/CS/499.json", 
+            "id": "499"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Students must see the CS Department to receive the appropriate CRN for the instructor.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

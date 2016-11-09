@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/JOUR/315/61580.json", 
+    "id": "61580", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Gregory Hall", 
+            "daysOfTheWeek": "F", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Dash, L", 
+                    "firstName": "L", 
+                    "lastName": "Dash"
+                }
+            }, 
+            "roomNumber": "336", 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Adv Public Affairs Reporting", 
+            "href": "/2017/spring/JOUR/315.json", 
+            "id": "315"
+        }, 
+        "subject": {
+            "content": "Journalism", 
+            "href": "/2017/spring/JOUR.json", 
+            "id": "JOUR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AB2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Students who have completed JOUR 415 should not register for JOUR 315.  While the number is different, the course content is the same.  Registering for the new course would be seen as duplicate credit.  Duplicate credit does not count toward graduation and students registering for the duplicate course will be asked to drop.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

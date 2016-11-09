@@ -1,0 +1,61 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/CS/225/31231.json", 
+    "id": "31231", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Siebel Center for Comp Sci", 
+            "daysOfTheWeek": "R", 
+            "end": "06:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Heeren, C", 
+                        "firstName": "C", 
+                        "lastName": "Heeren"
+                    }, 
+                    {
+                        "content": "Yershova, G", 
+                        "firstName": "G", 
+                        "lastName": "Yershova"
+                    }
+                ]
+            }, 
+            "roomNumber": "0224", 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Data Structures", 
+            "href": "/2017/spring/CS/225.json", 
+            "id": "225"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AYG", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

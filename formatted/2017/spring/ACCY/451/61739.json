@@ -1,0 +1,51 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/ACCY/451/61739.json", 
+    "id": "61739", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Business Instructional Fac", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "3063", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Income Tax Problems", 
+            "href": "/2017/spring/ACCY/451.json", 
+            "id": "451"
+        }, 
+        "subject": {
+            "content": "Accountancy", 
+            "href": "/2017/spring/ACCY.json", 
+            "id": "ACCY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to BS:Accountancy -UIUC.", 
+    "sectionNumber": "B3", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Accountancy course prerequisites are strictly enforced.  The Accounting Department will not allow students to advance in the accounting curriculum if they have not met the required prerequisite for previous accountancy courses taken.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

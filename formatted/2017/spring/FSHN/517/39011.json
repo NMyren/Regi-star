@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/FSHN/517/39011.json", 
+    "id": "39011", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "T", 
+            "end": "07:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Artz, W", 
+                    "firstName": "W", 
+                    "lastName": "Artz"
+                }
+            }, 
+            "start": "06:00 PM", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Fermented &Distilled Beverages", 
+            "href": "/2017/spring/FSHN/517.json", 
+            "id": "517"
+        }, 
+        "subject": {
+            "content": "Food Science and Human Nutrition", 
+            "href": "/2017/spring/FSHN.json", 
+            "id": "FSHN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "100", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This couse meets January 24 - April 11, 2017.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,91 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/THEA/175/40111.json", 
+    "id": "40111", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Krannert Center for Perf Arts", 
+                "daysOfTheWeek": "MWF", 
+                "end": "09:50 AM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Anderson, R", 
+                            "firstName": "R", 
+                            "lastName": "Anderson"
+                        }, 
+                        {
+                            "content": "Gleaves, J", 
+                            "firstName": "J", 
+                            "lastName": "Gleaves"
+                        }
+                    ]
+                }, 
+                "roomNumber": "2310", 
+                "start": "08:30 AM", 
+                "type": {
+                    "code": "LBD", 
+                    "content": "Laboratory-Discussion"
+                }
+            }, 
+            {
+                "buildingName": "Krannert Center for Perf Arts", 
+                "daysOfTheWeek": "MWF", 
+                "end": "09:50 AM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Anderson, R", 
+                            "firstName": "R", 
+                            "lastName": "Anderson"
+                        }, 
+                        {
+                            "content": "Gleaves, J", 
+                            "firstName": "J", 
+                            "lastName": "Gleaves"
+                        }
+                    ]
+                }, 
+                "roomNumber": "2418", 
+                "start": "08:30 AM", 
+                "type": {
+                    "code": "LBD", 
+                    "content": "Laboratory-Discussion"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Fundamentals of Acting II", 
+            "href": "/2017/spring/THEA/175.json", 
+            "id": "175"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Theatre major(s). Restricted to NONE:Theatre:Theatr Fndtn-UIUC or BFA:Theatre: Acting -UIUC.", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Acting Majors", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ABE/425/56252.json", 
+    "id": "56252", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Agricultural Engr Sciences Bld", 
+            "daysOfTheWeek": "F", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Grift, T", 
+                    "firstName": "T", 
+                    "lastName": "Grift"
+                }
+            }, 
+            "roomNumber": "248", 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Engrg Measurement Systems", 
+            "href": "/2017/spring/ABE/425.json", 
+            "id": "425"
+        }, 
+        "subject": {
+            "content": "Agricultural and Biological Engineering", 
+            "href": "/2017/spring/ABE.json", 
+            "id": "ABE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AB2", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

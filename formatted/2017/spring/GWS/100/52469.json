@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/GWS/100/52469.json", 
+    "id": "52469", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Lincoln Hall", 
+            "daysOfTheWeek": "MW", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Barnes, T", 
+                    "firstName": "T", 
+                    "lastName": "Barnes"
+                }
+            }, 
+            "roomNumber": "1092", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro Gender & Women's Studies", 
+            "href": "/2017/spring/GWS/100.json", 
+            "id": "100"
+        }, 
+        "subject": {
+            "content": "Gender and Women's Studies", 
+            "href": "/2017/spring/GWS.json", 
+            "id": "GWS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/CS/125/62258.json", 
+    "id": "62258", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Siebel Center for Comp Sci", 
+            "daysOfTheWeek": "T", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Chapman, W", 
+                    "firstName": "W", 
+                    "lastName": "Chapman"
+                }
+            }, 
+            "roomNumber": "0222", 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro to Computer Science", 
+            "href": "/2017/spring/CS/125.json", 
+            "id": "125"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AYO", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

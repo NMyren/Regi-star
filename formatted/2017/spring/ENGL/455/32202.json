@@ -1,0 +1,58 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/ENGL/455/32202.json", 
+    "id": "32202", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "MWF", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Loughran, P", 
+                    "firstName": "P", 
+                    "lastName": "Loughran"
+                }
+            }, 
+            "roomNumber": "115", 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Major Authors", 
+            "href": "/2017/spring/ENGL/455.json", 
+            "id": "455"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "1U", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic Section 1U: Weird Writers: Poe, Lovecraft, Vandermeer This course will be devoted to three centuries of the strange, as imagined in the minds of Edgar Allan Poe, H.P. Lovecraft, and more recently Jeff Vandermeer.  ?Weird fiction? is now a legitimate generic designation (Google it!), carrying with it an implicit celebration of the abnormal, the odd, the otherworldly, the deviant?the weird.  For these three authors, that means a series of encounters with madmen, mushroom-people, extra-terrestrials, and other Lovecraftian blob-monsters of the deep.  Some questions we might ask include: what the relationship between weird stories today and the early Gothic? Why are weird stories, which often carry with them some coded form of horror or discomfort, so pleasurable and so popular?  But most of all, what makes something weird?and does the when of that weird matter?  In what sense, in other words, are Poe?s maniacs nineteenth-century maniacs? How are Lovecraft?s monsters archaeological artifacts from the early twentieth century? And what might we learn about the norms of our own moment from the fungalpunk and steampunk fantasies of Jeff Vandermeer?  Along the way we?ll read novels and stories from these three major authors, possibly play a videogame or two based on their imaginings, and investigate supporting scholarship from queer, postcolonial, and feminist theorists---a body of work that, it turns out, is just as interested in weird things as these three weird writers are.", 
+    "sectionTitle": "Weird Writers", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

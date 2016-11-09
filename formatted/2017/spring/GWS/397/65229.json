@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/GWS/397/65229.json", 
+    "id": "65229", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Gregory Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Chaplin, T", 
+                    "firstName": "T", 
+                    "lastName": "Chaplin"
+                }
+            }, 
+            "roomNumber": "315", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Sexuality in Modern Europe", 
+            "href": "/2017/spring/GWS/397.json", 
+            "id": "397"
+        }, 
+        "subject": {
+            "content": "Gender and Women's Studies", 
+            "href": "/2017/spring/GWS.json", 
+            "id": "GWS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Title:  Sexuality in Modern Europe Description:  What is sexuality?  How is it practiced, policed, represented, liberated and controlled?  How do religion, the state, the law and the media influence sexual identities and practices?  Focusing on modern Europe, we will examine the history of sexuality from the late eighteenth century to the present in order to explore how historians have answered these questions.  We will investigate topics from pornography, prostitution, sex and totalitarianism, queer sexualities, sex and colonialism, and masterbation, to sex education, sexual revolutions, hermaphroditism, sex surveys and AIDS.  Same as HIST 397.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

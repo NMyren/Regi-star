@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/UP/357/65165.json", 
+    "id": "65165", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Temple Hoyne Buell Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kowalski, R", 
+                    "firstName": "R", 
+                    "lastName": "Kowalski"
+                }
+            }, 
+            "roomNumber": "223", 
+            "start": "03:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "The Land Development Process", 
+            "href": "/2017/spring/UP/357.json", 
+            "id": "357"
+        }, 
+        "subject": {
+            "content": "Urban and Regional Planning", 
+            "href": "/2017/spring/UP.json", 
+            "id": "UP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Credit is not given for UP 357 if credit for UP 347 has already been given. Prerequisite: UP 312-Communication for Planners is highly recommended or basic familiarity with InDesign, Illustrator, and SketchUp.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

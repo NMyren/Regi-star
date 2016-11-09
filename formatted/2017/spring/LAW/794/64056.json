@@ -1,0 +1,56 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-01-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LAW/794/64056.json", 
+    "id": "64056", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "W", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Alam, R", 
+                    "firstName": "R", 
+                    "lastName": "Alam"
+                }
+            }, 
+            "start": "01:30 PM", 
+            "type": {
+                "code": "S9 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Adv Topics in Business Law", 
+            "href": "/2017/spring/LAW/794.json", 
+            "id": "794"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "LF", 
+    "sectionDeptRestriction": "Restricted to students in the Law department.", 
+    "sectionNumber": "F1", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Adv Legal Writing:Trans Writin", 
+    "specialApproval": "Departmental Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

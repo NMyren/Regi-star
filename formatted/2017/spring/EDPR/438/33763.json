@@ -1,0 +1,65 @@
+{
+    "creditHours": "5 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/EDPR/438/33763.json", 
+    "id": "33763", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Bergmark, J", 
+                        "firstName": "J", 
+                        "lastName": "Bergmark"
+                    }, 
+                    {
+                        "content": "Douglas, R", 
+                        "firstName": "R", 
+                        "lastName": "Douglas"
+                    }, 
+                    {
+                        "content": "Spicuzza, A", 
+                        "firstName": "A", 
+                        "lastName": "Spicuzza"
+                    }
+                ]
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "PR ", 
+                "content": "Practice"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Educational Practice in Special Fields", 
+            "href": "/2017/spring/EDPR/438.json", 
+            "id": "438"
+        }, 
+        "subject": {
+            "content": "Educational Practice", 
+            "href": "/2017/spring/EDPR.json", 
+            "id": "EDPR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Art Education major(s).", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Section A - Art.  Students must register for 5 semester hours of credit.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

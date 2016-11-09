@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ARTE/501/44192.json", 
+    "id": "44192", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Art and Design Building", 
+            "daysOfTheWeek": "R", 
+            "end": "07:40 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Lucero, J", 
+                    "firstName": "J", 
+                    "lastName": "Lucero"
+                }
+            }, 
+            "roomNumber": "312", 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Issues in Art Education", 
+            "href": "/2017/spring/ARTE/501.json", 
+            "id": "501"
+        }, 
+        "subject": {
+            "content": "Art--Education", 
+            "href": "/2017/spring/ARTE.json", 
+            "id": "ARTE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "JL", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic: Theories of Social Practice and Public Pedagogy.  In a moment when relationality, activism, pedagogy, and the \"public\" have become ubiquitous -- even \"hot\"-- materials/methods of art, what are the conversations we should be having around authenticity, ethics, form, innovation, history, and scholarship when it comes to this occurrence?  What do the overlaps of this -- sometimes formless -- cultural work with bureaucracies, politics, and institutional work propose for contemporary art and the sites this type of work touches? This course is a reading class. It is a class intended for students interested in doing in-depth study, meditation, analysis, and discussion of germinal texts related to the histories, theories, and documents of social practice and public pedagogy. Some writing will be assigned for the sake of broadening our collective scholarship. All students will co-create and participate in an end of semester public symposium around a topic that emerges from our joint study.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

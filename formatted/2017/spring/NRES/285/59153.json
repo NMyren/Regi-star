@@ -1,0 +1,59 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/NRES/285/59153.json", 
+    "id": "59153", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MTWRF", 
+            "end": "05:00 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Hayek, J", 
+                    "firstName": "J", 
+                    "lastName": "Hayek"
+                }
+            }, 
+            "start": "08:00 AM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Field Experience", 
+            "href": "/2017/spring/NRES/285.json", 
+            "id": "285"
+        }, 
+        "subject": {
+            "content": "Natural Resources and Environmental Sciences", 
+            "href": "/2017/spring/NRES.json", 
+            "id": "NRES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 20-Mar-17 - 24-Mar-17.", 
+    "sectionDeptRestriction": "Restricted to students in the Natural Res & Env Sci department.", 
+    "sectionFeeAmount": "ACES Field Trip $105.00 Flat Fee.", 
+    "sectionNotes": "Restricted to students with Junior or Senior class standing.", 
+    "sectionNumber": "CST", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Chainsaw Safety & Directional Felling Techniques will provide NRES undergraduate students with instruction and hands-on training specific to chainsaw safety, saw maintenance, directional felling, limbing, and bucking.  The class will meet at the Dixon Springs Agricultural Center (DSAC) in Simpson, IL during spring break (March 20-24, 2017).  Students are responsible for their own transportation and all of their meals.  Lodging will be on-site at the DSAC dormitory.  All students are required to bring their own personal protective equipment (Type 1, class C hardhats; leather gloves; safety glasses; and 8\" leather work boots).  This course will charge a field trip fee. If all seats are full, complete the form at http://go.illinois.edu/NRESwaitinglist to be added to the waiting list.", 
+    "sectionTitle": "Chainsaw Safety & Felling Tech", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

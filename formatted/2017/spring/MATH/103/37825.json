@@ -1,0 +1,48 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MATH/103/37825.json", 
+    "id": "37825", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TR", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Theory of Arithmetic", 
+            "href": "/2017/spring/MATH/103.json", 
+            "id": "103"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Education.", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This class is restricted to students who are in the College of Education.  For students interested in transferring to EDUC please contact the Student Academic Affairs office at 217/333-2800 to attend an ICT information session and meet with an academic adviser.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

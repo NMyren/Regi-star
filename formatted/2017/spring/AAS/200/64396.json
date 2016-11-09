@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/AAS/200/64396.json", 
+    "id": "64396", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "David Kinley Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Sharif, L", 
+                    "firstName": "L", 
+                    "lastName": "Sharif"
+                }
+            }, 
+            "roomNumber": "212", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "U.S. Race and Empire", 
+            "href": "/2017/spring/AAS/200.json", 
+            "id": "200"
+        }, 
+        "subject": {
+            "content": "Asian American Studies", 
+            "href": "/2017/spring/AAS.json", 
+            "id": "AAS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

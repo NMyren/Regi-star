@@ -1,0 +1,61 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/PORT/202/62074.json", 
+    "id": "62074", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Foreign Languages Building", 
+            "daysOfTheWeek": "MWF", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Goebel, R", 
+                        "firstName": "R", 
+                        "lastName": "Goebel"
+                    }, 
+                    {
+                        "content": "Kuyumjian, M", 
+                        "firstName": "M", 
+                        "lastName": "Kuyumjian"
+                    }
+                ]
+            }, 
+            "roomNumber": "G24", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intensive Intermediate Portuguese", 
+            "href": "/2017/spring/PORT/202.json", 
+            "id": "202"
+        }, 
+        "subject": {
+            "content": "Portuguese", 
+            "href": "/2017/spring/PORT.json", 
+            "id": "PORT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

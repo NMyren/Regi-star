@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ABE/598/65726.json", 
+    "id": "65726", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TR", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Chowdhary, G", 
+                    "firstName": "G", 
+                    "lastName": "Chowdhary"
+                }
+            }, 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/ABE/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Agricultural and Biological Engineering", 
+            "href": "/2017/spring/ABE.json", 
+            "id": "ABE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "GC", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Title:  Principles of Autonomous Decision Making in the Real-World.  The objective of this course is to cover theory and techniques essential for building cyber-physical systems capable of autonomous decision making in the real-world.  This course will lay a foundation for theory and techniques in autonomous planning, machine learning, and adaptive sequential decision making.  Topics covered include Planning under uncertainty, Bayesian Nonparametric machine learning, Neural Networks, Markov Decision Processes, and Reinforcement Learning.  Student chosen applied projects, involving real aerial and ground robots, are a key element of this course.", 
+    "sectionTitle": "Autonomous Decision Making", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

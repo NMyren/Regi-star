@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/SOC/196/65460.json", 
+    "id": "65460", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TR", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Buckley, C", 
+                    "firstName": "C", 
+                    "lastName": "Buckley"
+                }
+            }, 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Issues in Sociology", 
+            "href": "/2017/spring/SOC/196.json", 
+            "id": "196"
+        }, 
+        "subject": {
+            "content": "Sociology", 
+            "href": "/2017/spring/SOC.json", 
+            "id": "SOC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "CB2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic:  Introduction to Central Asia  We focus on three overarching questions to structure our exploration of Central Asia. In the first section, we focus on approaches to the question, ?What is Central Asia?? Comparing and contrasting how we identify the area historically and by familiarizing ourselves with the basic geography of the region and key social, cultural, political and economic issues. In the second section we will focus on the question, ?How can we analyze the region sociologically?? highlighting issues of basic social theory and comparative analysis. The third section of the course turns to the question, ?Why does Central Asia matter??, providing participants with the opportunity to link what we have learned about the region and social theory into evaluating global issues concerning gender, human rights, citizenship, and civil society", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

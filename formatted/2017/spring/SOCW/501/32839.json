@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/SOCW/501/32839.json", 
+    "id": "32839", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "1010 W Nevada", 
+            "daysOfTheWeek": "M", 
+            "end": "07:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Leytham Powell, T", 
+                    "firstName": "T", 
+                    "lastName": "Leytham Powell"
+                }
+            }, 
+            "roomNumber": "2018", 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "SW Practice with Groups", 
+            "href": "/2017/spring/SOCW/501.json", 
+            "id": "501"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

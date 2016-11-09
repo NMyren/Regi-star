@@ -1,0 +1,56 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/LAS/199/51163.json", 
+    "id": "51163", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "R", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Schoeplein, M", 
+                    "firstName": "M", 
+                    "lastName": "Schoeplein"
+                }
+            }, 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/LAS/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Liberal Arts and Sciences", 
+            "href": "/2017/spring/LAS.json", 
+            "id": "LAS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sectionNumber": "DC", 
+    "sectionStatusCode": "A", 
+    "sectionText": "LAS in DC: In this course, students will explore career opportunities in government and government relations by visiting Washington, DC for a spring break field experience (March 19-25, 2017). During the field experience students will have the opportunity to do site visits and network with University of Illinois alumni working in the nation?s capital. Students will also learn how to articulate through professional communication the skills and perspectives emphasized by an LAS education. Students will develop an understanding of the skills and knowledge necessary to thrive in government focused work. The course will meet during the first eight weeks of the spring semester leading up to the spring break Washington, DC field experience. Registration is restricted until students have been accepted into the program by the College of LAS. See the following link for more information and to apply for the course: https://illinois.edu/fb/sec/2576469", 
+    "sectionTitle": "Exploring Careers in Governmnt", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

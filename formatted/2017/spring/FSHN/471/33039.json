@@ -1,0 +1,61 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/FSHN/471/33039.json", 
+    "id": "33039", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "David Kinley Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Jin, Y", 
+                        "firstName": "Y", 
+                        "lastName": "Jin"
+                    }, 
+                    {
+                        "content": "Miller, M", 
+                        "firstName": "M", 
+                        "lastName": "Miller"
+                    }
+                ]
+            }, 
+            "roomNumber": "114", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Food & Industrial Microbiology", 
+            "href": "/2017/spring/FSHN/471.json", 
+            "id": "471"
+        }, 
+        "subject": {
+            "content": "Food Science and Human Nutrition", 
+            "href": "/2017/spring/FSHN.json", 
+            "id": "FSHN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "L", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

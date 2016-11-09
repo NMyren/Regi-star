@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ART/151/65423.json", 
+    "id": "65423", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Allen Residence Hall", 
+            "daysOfTheWeek": "MW", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Hudson, B", 
+                    "firstName": "B", 
+                    "lastName": "Hudson"
+                }
+            }, 
+            "roomNumber": "64", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Black & White Film Photography", 
+            "href": "/2017/spring/ART/151.json", 
+            "id": "151"
+        }, 
+        "subject": {
+            "content": "Art", 
+            "href": "/2017/spring/ART.json", 
+            "id": "ART"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "U1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "For Unit One and other Living/Learning Community students only or by permission of the instructor. Art and Design minors who wish to take this class should contact the A+D minor advisor Guen Montgomery (montgo@illinois.edu) for an override.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

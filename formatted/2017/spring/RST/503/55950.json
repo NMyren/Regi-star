@@ -1,0 +1,48 @@
+{
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/RST/503/55950.json", 
+    "id": "55950", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Wachter, C", 
+                    "firstName": "C", 
+                    "lastName": "Wachter"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Adv Leisure Research Methods", 
+            "href": "/2017/spring/RST/503.json", 
+            "id": "503"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionNumber": "XM1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Enrollment in this section is restricted to students in the online Recreation, Sport and Tourism program.", 
+    "statusCode": "A"
+}

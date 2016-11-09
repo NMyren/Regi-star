@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/PS/101/45114.json", 
+    "id": "45114", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Lincoln Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Selin, J", 
+                    "firstName": "J", 
+                    "lastName": "Selin"
+                }
+            }, 
+            "roomNumber": "1090", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro to US Gov & Pol", 
+            "href": "/2017/spring/PS/101.json", 
+            "id": "101"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "C", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Register for Lecture-Discussion only. Additional discussion section is not needed for this course.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,75 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/ABE/474/63197.json", 
+    "id": "63197", 
+    "meetings": {
+        "meeting": [
+            {
+                "daysOfTheWeek": "F", 
+                "end": "11:50 AM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Green, A", 
+                        "firstName": "A", 
+                        "lastName": "Green"
+                    }
+                }, 
+                "start": "10:00 AM", 
+                "type": {
+                    "code": "LAB", 
+                    "content": "Laboratory"
+                }
+            }, 
+            {
+                "buildingName": "Agricultural Engr Sciences Bld", 
+                "daysOfTheWeek": "MW", 
+                "end": "11:50 AM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Green, A", 
+                        "firstName": "A", 
+                        "lastName": "Green"
+                    }
+                }, 
+                "roomNumber": "208", 
+                "start": "11:00 AM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Indoor Environmental Control", 
+            "href": "/2017/spring/ABE/474.json", 
+            "id": "474"
+        }, 
+        "subject": {
+            "content": "Agricultural and Biological Engineering", 
+            "href": "/2017/spring/ABE.json", 
+            "id": "ABE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AG", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Undergraduate or Graduate students may register for this section - 3 credit hours.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CPSC/526/39177.json", 
+    "id": "39177", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "David Kinley Hall", 
+            "daysOfTheWeek": "MWF", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Riechers, D", 
+                    "firstName": "D", 
+                    "lastName": "Riechers"
+                }
+            }, 
+            "roomNumber": "108", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Herbicide Action in Plants", 
+            "href": "/2017/spring/CPSC/526.json", 
+            "id": "526"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

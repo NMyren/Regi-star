@@ -1,0 +1,57 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/CLCV/220/63846.json", 
+    "id": "63846", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "1205 W Oregon", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Williams, C", 
+                    "firstName": "C", 
+                    "lastName": "Williams"
+                }
+            }, 
+            "roomNumber": "212", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Origins of Western Literature", 
+            "href": "/2017/spring/CLCV/220.json", 
+            "id": "220"
+        }, 
+        "subject": {
+            "content": "Classical Civilization", 
+            "href": "/2017/spring/CLCV.json", 
+            "id": "CLCV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionCappArea": "Restricted to Chancellor's Scholar-CHPHonors students.", 
+    "sectionNumber": "D", 
+    "sectionStatusCode": "A", 
+    "sectionText": "A selection of literary texts from Greece, Rome, and the subsequent Western tradition in which animals are either protagonists or narrators. Recurring themes include: identity, boundaries and their transgression, reason and language, emotions and desire. Readings include selections from Homer?s Odyssey, Plutarch?s Gryllos, Ovid?s Metamorphoses, Apuleius? Golden Ass, Anna Sewell?s Black Beauty, Jack London?s Call of the Wild, Richard Adams? Watership Down. We conclude by looking beyond the Western tradition to Native American texts, including Louise Erdrich?s The Antelope Wife.", 
+    "sectionTitle": "The Animal Self", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

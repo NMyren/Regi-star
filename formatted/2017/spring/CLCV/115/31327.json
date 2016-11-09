@@ -1,0 +1,50 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CLCV/115/31327.json", 
+    "id": "31327", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Allen Residence Hall", 
+            "daysOfTheWeek": "F", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "40", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Mythology of Greece and Rome", 
+            "href": "/2017/spring/CLCV/115.json", 
+            "id": "115"
+        }, 
+        "subject": {
+            "content": "Classical Civilization", 
+            "href": "/2017/spring/CLCV.json", 
+            "id": "CLCV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionCappArea": "Restricted to LEADS LLC, Global Crossroads, Health Professions Lv Lrn Comm, Intersections, Innovations LLC, Sustainability LLC, Unit One, Weston Explorer Program, or Women in Math/Science/Engr Prg students.", 
+    "sectionDegreeAttributes": "Literature and the Arts, and Western Compartv Cult course.", 
+    "sectionNumber": "ADI", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,55 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/PATH/642/55035.json", 
+    "id": "55035", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Vet Med Basic Sciences Bldg", 
+            "daysOfTheWeek": "R", 
+            "end": "05:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "O'Hara, M", 
+                    "firstName": "M", 
+                    "lastName": "O'Hara"
+                }
+            }, 
+            "roomNumber": "2281", 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Geographic Methods for Health", 
+            "href": "/2017/spring/PATH/642.json", 
+            "id": "642"
+        }, 
+        "subject": {
+            "content": "Pathobiology", 
+            "href": "/2017/spring/PATH.json", 
+            "id": "PATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "E", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

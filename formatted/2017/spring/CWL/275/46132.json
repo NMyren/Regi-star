@@ -1,0 +1,48 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/CWL/275/46132.json", 
+    "id": "46132", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "David Kinley Hall", 
+            "daysOfTheWeek": "F", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "310", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Masterpieces of East Asian Lit", 
+            "href": "/2017/spring/CWL/275.json", 
+            "id": "275"
+        }, 
+        "subject": {
+            "content": "Comparative and World Literature", 
+            "href": "/2017/spring/CWL.json", 
+            "id": "CWL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AD2", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

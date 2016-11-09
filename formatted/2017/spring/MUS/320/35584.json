@@ -1,0 +1,54 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MUS/320/35584.json", 
+    "id": "35584", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Barrett, J", 
+                    "firstName": "J", 
+                    "lastName": "Barrett"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Pre-Student Tchng Experience", 
+            "href": "/2017/spring/MUS/320.json", 
+            "id": "320"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionCappArea": "Restricted to Admitted Teacher Ed Student students.", 
+    "sectionNotes": "Restricted to Music Education major(s).", 
+    "sectionNumber": "HD", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Home district experience.  Early field experience.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,50 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/HDFS/595/65196.json", 
+    "id": "65196", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "W", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Seminar", 
+            "href": "/2017/spring/HDFS/595.json", 
+            "id": "595"
+        }, 
+        "subject": {
+            "content": "Human Development and Family Studies", 
+            "href": "/2017/spring/HDFS.json", 
+            "id": "HDFS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "KB", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Devel issues & Child Health", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

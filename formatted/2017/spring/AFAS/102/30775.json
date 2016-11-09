@@ -1,0 +1,62 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/AFAS/102/30775.json", 
+    "id": "30775", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Campbell, M", 
+                        "firstName": "M", 
+                        "lastName": "Campbell"
+                    }, 
+                    {
+                        "content": "Etzel, E", 
+                        "firstName": "E", 
+                        "lastName": "Etzel"
+                    }, 
+                    {
+                        "content": "Sullivan, S", 
+                        "firstName": "S", 
+                        "lastName": "Sullivan"
+                    }
+                ]
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Leadership Laboratory", 
+            "href": "/2017/spring/AFAS/102.json", 
+            "id": "102"
+        }, 
+        "subject": {
+            "content": "Air Force Aerospace Studies", 
+            "href": "/2017/spring/AFAS.json", 
+            "id": "AFAS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "Z", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,52 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MATH/593/63194.json", 
+    "id": "63194", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Mortensen, K", 
+                    "firstName": "K", 
+                    "lastName": "Mortensen"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Mathematical Internship", 
+            "href": "/2017/spring/MATH/593.json", 
+            "id": "593"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Not intended for Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "KPM", 
+    "sectionStatusCode": "A", 
+    "sectionText": "For Mathematics Graduate students only.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

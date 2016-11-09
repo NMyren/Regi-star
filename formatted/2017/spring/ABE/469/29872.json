@@ -1,0 +1,88 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ABE/469/29872.json", 
+    "id": "29872", 
+    "meetings": {
+        "meeting": [
+            {
+                "daysOfTheWeek": "F", 
+                "end": "12:50 PM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Mies, E", 
+                            "firstName": "E", 
+                            "lastName": "Mies"
+                        }, 
+                        {
+                            "content": "Zahos, S", 
+                            "firstName": "S", 
+                            "lastName": "Zahos"
+                        }
+                    ]
+                }, 
+                "start": "12:00 PM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }, 
+            {
+                "buildingName": "Agricultural Engr Sciences Bld", 
+                "daysOfTheWeek": "MW", 
+                "end": "12:50 PM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Mies, E", 
+                            "firstName": "E", 
+                            "lastName": "Mies"
+                        }, 
+                        {
+                            "content": "Zahos, S", 
+                            "firstName": "S", 
+                            "lastName": "Zahos"
+                        }
+                    ]
+                }, 
+                "roomNumber": "204", 
+                "start": "12:00 PM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Industry-Linked Design Project", 
+            "href": "/2017/spring/ABE/469.json", 
+            "id": "469"
+        }, 
+        "subject": {
+            "content": "Agricultural and Biological Engineering", 
+            "href": "/2017/spring/ABE.json", 
+            "id": "ABE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Technical Systems Management or Engineering Mechanics or Mechanical Engineering or Agricultural & Biological Engr major(s). Restricted to students with Senior class standing.", 
+    "sectionNumber": "AE1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/CHEM/494/38355.json", 
+    "id": "38355", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Noyes Laboratory", 
+            "daysOfTheWeek": "MW", 
+            "end": "08:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Shang, J", 
+                    "firstName": "J", 
+                    "lastName": "Shang"
+                }
+            }, 
+            "roomNumber": "100", 
+            "start": "07:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Lab Safety Fundamentals", 
+            "href": "/2017/spring/CHEM/494.json", 
+            "id": "494"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course is restricted to junior, senior and graduate students in a SCIENCE CURRICULUM. This class meets only FIVE times each semester. Please contact the DEPT OF MATERIALS SCIENCE & ENGR, 333-1440, for assistance.  *** THE FIRST CLASS WILL MEET ON MARCH 27, 2017.***", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

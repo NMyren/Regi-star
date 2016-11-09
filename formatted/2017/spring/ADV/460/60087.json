@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ADV/460/60087.json", 
+    "id": "60087", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Armory", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Ham, C", 
+                    "firstName": "C", 
+                    "lastName": "Ham"
+                }
+            }, 
+            "roomNumber": "333", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Innovation in Advertising", 
+            "href": "/2017/spring/ADV/460.json", 
+            "id": "460"
+        }, 
+        "subject": {
+            "content": "Advertising", 
+            "href": "/2017/spring/ADV.json", 
+            "id": "ADV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "D", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Students who have completed ADV 490, Section Title:  Digital Advertising, should not register for ADV 460.  While the number is different, the course content is the same.  Registering for the new course would be seen as duplicate credit.  Duplicate credit does not count toward graduation and students registering for the duplicate course will be asked to drop.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

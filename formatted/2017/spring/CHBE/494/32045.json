@@ -1,0 +1,56 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/CHBE/494/32045.json", 
+    "id": "32045", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Armory", 
+            "daysOfTheWeek": "TR", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Diao, Y", 
+                    "firstName": "Y", 
+                    "lastName": "Diao"
+                }
+            }, 
+            "roomNumber": "370", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/CHBE/494.json", 
+            "id": "494"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "YD", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Meets with CHBE 594 YD.  Topic: Assembly of Functional Materials.  Covers fundamental principles and industrial applications of self and directed assembly from molecular, nano-, to macro-scale in all classes of materials, in particular molecular and polymeric materials. Topics include meta-stable liquids, solution phase chemistry and kinetics, interfacial stability, interfacial free energies, nucleation theories, crystal growth, aggregation and other phase separation mechanisms, grain growth and grain boundaries, defects formation, flow-induced assembly and aggregation. Lectures will also introduce application of these fundamental principles in the production of a broad range of materials, such as pharmaceuticals, fine chemicals, food products, electronics and solar cells.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

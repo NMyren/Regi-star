@@ -1,0 +1,56 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/SCAN/494/59823.json", 
+    "id": "59823", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TR", 
+            "end": "11:20 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Malekin, B", 
+                    "firstName": "B", 
+                    "lastName": "Malekin"
+                }
+            }, 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics in Scan Languages", 
+            "href": "/2017/spring/SCAN/494.json", 
+            "id": "494"
+        }, 
+        "subject": {
+            "content": "Scandinavian", 
+            "href": "/2017/spring/SCAN.json", 
+            "id": "SCAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "U3", 
+    "sectionStatusCode": "A", 
+    "sectionText": "SCAN 494, SP17:  Advanced Swedish Composition.  This class serves as a fifth or sixth semester in Swedish language instruction.  Contact the instructor, Theo Malekin (malekin@illinois.edu) for more information.", 
+    "sectionTitle": "Translation Theory & Practice", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

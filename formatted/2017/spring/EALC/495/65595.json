@@ -1,0 +1,53 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/EALC/495/65595.json", 
+    "id": "65595", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MWF", 
+            "end": "10:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Callahan, C", 
+                    "firstName": "C", 
+                    "lastName": "Callahan"
+                }
+            }, 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics in Asian Religions", 
+            "href": "/2017/spring/EALC/495.json", 
+            "id": "495"
+        }, 
+        "subject": {
+            "content": "East Asian Language and Culture", 
+            "href": "/2017/spring/EALC.json", 
+            "id": "EALC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "D3", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

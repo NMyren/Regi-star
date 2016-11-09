@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/SPED/448/34545.json", 
+    "id": "34545", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Education Building", 
+            "daysOfTheWeek": "T", 
+            "end": "06:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Light Shriner, C", 
+                    "firstName": "C", 
+                    "lastName": "Light Shriner"
+                }
+            }, 
+            "roomNumber": "22", 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Curriculum Development III", 
+            "href": "/2017/spring/SPED/448.json", 
+            "id": "448"
+        }, 
+        "subject": {
+            "content": "Special Education", 
+            "href": "/2017/spring/SPED.json", 
+            "id": "SPED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Course is restricted to Special Education majors or consent of instructor.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

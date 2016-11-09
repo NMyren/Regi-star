@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/AFRO/498/65597.json", 
+    "id": "65597", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Davenport Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "08:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Smalls, K", 
+                    "firstName": "K", 
+                    "lastName": "Smalls"
+                }
+            }, 
+            "roomNumber": "209A", 
+            "start": "06:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Spec Topics African Am Studies", 
+            "href": "/2017/spring/AFRO/498.json", 
+            "id": "498"
+        }, 
+        "subject": {
+            "content": "African American Studies", 
+            "href": "/2017/spring/AFRO.json", 
+            "id": "AFRO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "KS", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Who exactly are the Gullah/Geechee? How have they been imagined in different scholarly and social sectors, and how have they imagined themselves throughout history? In particular, how do they help ?interpolate? or integrate Africa and the Americas ? constituting what many consider to be ?the missing link? between an African past and a Black American present? This course will introduce students to the Gullah/Geechee people of the southeastern United States ? their winding political and cultural histories and their ever-changing contemporary cultural practices.  From worship to foodways to language to traditional medicine, many practices help distinguish the Gullah/Geechee as a vital and vibrant cultural community and these phenomena also provide a rich resource for students and scholars of Black Diaspora around the world. Their past and present ? and possible futures ? bring to the fore pertinent questions around creolization and African retentions, the circum-Caribbean, black indigeneity, linguistic and cultural endangerment, and heritage tourism, among many others. But with increasing rural and urban poverty in the region, sustained erasure of their language practices from formal schooling, and ongoing land rights struggles, this community also faces challenges that shape everyday practices and individuals? life chances and that interrupt prevalent notions of ?authenticity? ? helping to reshape what it means to be Gullah/Geechee, then and now.  Enrollment in this course is restricted to students who agree to participate in the field trip to Georgia and South Carolina scheduled for May 15-May 31, 2017.", 
+    "sectionTitle": "Anthropology of Gullah/Geechee", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/ENGL/206/31983.json", 
+    "id": "31983", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "English Building", 
+            "daysOfTheWeek": "TR", 
+            "end": "10:45 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Nazar, H", 
+                    "firstName": "H", 
+                    "lastName": "Nazar"
+                }
+            }, 
+            "roomNumber": "119", 
+            "start": "09:30 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Enlightenment Lit and Culture", 
+            "href": "/2017/spring/ENGL/206.json", 
+            "id": "206"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "M", 
+    "sectionStatusCode": "A", 
+    "sectionText": "There is certainly no moment in history when the world suddenly ceased to be old and became new or modern.  But Europe in the long eighteenth century, during the period known as ?the Enlightenment,? witnessed unprecedented social, economic, cultural, and political changes that produced a giant leap towards the world we inhabit today.  It was an age of revolution and newfound faith in the rights of the individual, though these rights were by no means extended to all.  It was an age of reason, of tremendous advances in science and technology, though reason was by no means the only altar at which so-called enlightened men and women worshipped: God and sentiment remained powerful forces in eighteenth-century European life.  This course offers an introduction to Enlightenment literature and culture by focusing on a select group of highly influential literary and non-literary works of the period, primarily from Britain, and to a lesser extent, from Continental Europe.  Our readings bring into focus three quests that feature prominently in Enlightenment letters: the pursuit of property, the pursuit of virtue, and the pursuit of knowledge.  In combination or as alternatives, these quests?for property, virtue, and knowledge?were thought to lead to happiness, the new master goal of the eighteenth century, which replaced the earlier understanding that man?s job on earth was to do his duty as determined by God and his superiors (rather than to be happy).  We will try to understand the Enlightenment?s core values and ask how they relate to our own.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

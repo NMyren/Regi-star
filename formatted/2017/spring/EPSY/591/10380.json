@@ -1,0 +1,43 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/EPSY/591/10380.json", 
+    "id": "10380", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {}, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "IND", 
+                "content": "Independent Study"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Field Study and Thesis Seminar", 
+            "href": "/2017/spring/EPSY/591.json", 
+            "id": "591"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/EPS/535/65679.json", 
+    "id": "65679", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "M", 
+            "end": "08:30 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Cope, W", 
+                    "firstName": "W", 
+                    "lastName": "Cope"
+                }
+            }, 
+            "start": "07:00 PM", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Assessment for Learning", 
+            "href": "/2017/spring/EPS/535.json", 
+            "id": "535"
+        }, 
+        "subject": {
+            "content": "Educational Policy Studies", 
+            "href": "/2017/spring/EPS.json", 
+            "id": "EPS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNotes": "Restricted to EDM: Educ Org & Ldrshp -- UIUC, EDM:Educatnl Psychology -UIUC, EDM: Ed Policy St - UIUC, EDM:Human Resource Ed - UIUC, NDEG: HRE Online -UIUC, EDM:Ed Pol Org&Ldrshp Onl-UIUC, NDEG:Ed Pol Org&LdrshpOnl-UIUC, EDM: Ed Policy St - UIUC, NDEG: Curr & Inst OnLine -UIUC, EDM:Ed Pol Org&Ldrshp Onl-UIUC, or NDEG:Ed Pol Org&LdrshpOnl-UIUC.", 
+    "sectionNumber": "ONL", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,51 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/KIN/401/56192.json", 
+    "id": "56192", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Zhu, W", 
+                    "firstName": "W", 
+                    "lastName": "Zhu"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Measure & Eval in Kinesiology", 
+            "href": "/2017/spring/KIN/401.json", 
+            "id": "401"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "ON", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Registration for this course will close after the first day of instruction.  No overrides will be given after that time. Undergraduates - 3 credits and Graduates - 4 credits", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

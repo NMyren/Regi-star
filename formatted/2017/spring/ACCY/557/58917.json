@@ -1,0 +1,46 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/ACCY/557/58917.json", 
+    "id": "58917", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {}, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Topics in Taxation", 
+            "href": "/2017/spring/ACCY/557.json", 
+            "id": "557"
+        }, 
+        "subject": {
+            "content": "Accountancy", 
+            "href": "/2017/spring/ACCY.json", 
+            "id": "ACCY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "CH1", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Consolidated Tax Returns", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

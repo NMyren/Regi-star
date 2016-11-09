@@ -1,0 +1,55 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CHLH/199/47207.json", 
+    "id": "47207", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MW", 
+            "end": "04:15 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Orazio, E", 
+                    "firstName": "E", 
+                    "lastName": "Orazio"
+                }
+            }, 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/CHLH/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to students with Freshman, Sophomore, or Junior class standing.", 
+    "sectionNumber": "AC2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "--ACE IT Facilitation--Topic: Emphasis on alcohol education and group facilitation skills.  Students will examine alcohol use and abuse on college campuses, as well as develop practical skills for leading peer discussions for the ACE IT (Alcohol Culture Explored Interactive Theatre) program.  Note:  Most seats reserved for freshman-junior status; others shouild seek consent of instructor.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

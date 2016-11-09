@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/HDFS/310/61533.json", 
+    "id": "61533", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Christopher Hall", 
+            "daysOfTheWeek": "W", 
+            "end": "04:30 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kramer, K", 
+                    "firstName": "K", 
+                    "lastName": "Kramer"
+                }
+            }, 
+            "roomNumber": "7", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Adult Development", 
+            "href": "/2017/spring/HDFS/310.json", 
+            "id": "310"
+        }, 
+        "subject": {
+            "content": "Human Development and Family Studies", 
+            "href": "/2017/spring/HDFS.json", 
+            "id": "HDFS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

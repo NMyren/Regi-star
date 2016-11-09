@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/IB/202/56959.json", 
+    "id": "56959", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "R", 
+            "end": "05:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Morphew, N", 
+                    "firstName": "N", 
+                    "lastName": "Morphew"
+                }
+            }, 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Anatomy and Physiology", 
+            "href": "/2017/spring/IB/202.json", 
+            "id": "202"
+        }, 
+        "subject": {
+            "content": "Integrative Biology", 
+            "href": "/2017/spring/IB.json", 
+            "id": "IB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "ABC", 
+    "sectionStatusCode": "A", 
+    "sectionText": "4 hrs. Lecture CRN 34641 also required for IB Majors.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

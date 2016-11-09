@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/ENG/460/54060.json", 
+    "id": "54060", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Electrical & Computer Eng Bldg", 
+            "daysOfTheWeek": "R", 
+            "end": "06:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Taylor, J", 
+                    "firstName": "J", 
+                    "lastName": "Taylor"
+                }
+            }, 
+            "roomNumber": "1002", 
+            "start": "05:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Entrepreneurship for Engineers", 
+            "href": "/2017/spring/ENG/460.json", 
+            "id": "460"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Fundamental concepts of entrepreneurship and commercialization of new technology in new and existing businesses. Guest speaker topics vary, but typically include: evaluation of technologies and business ideas in general; commercializing new technologies; financing through private and public sources; legal issues; product development; marketing; international business issues. Same as TE 460. 1 credit hour CRN 51374", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

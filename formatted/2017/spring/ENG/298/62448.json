@@ -1,0 +1,68 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ENG/298/62448.json", 
+    "id": "62448", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TR", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Hyman, K", 
+                        "firstName": "K", 
+                        "lastName": "Hyman"
+                    }, 
+                    {
+                        "content": "Levinson, S", 
+                        "firstName": "S", 
+                        "lastName": "Levinson"
+                    }, 
+                    {
+                        "content": "Sheets, D", 
+                        "firstName": "D", 
+                        "lastName": "Sheets"
+                    }
+                ]
+            }, 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "S4 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Special Topics", 
+            "href": "/2017/spring/ENG/298.json", 
+            "id": "298"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDegreeAttributes": "Advanced Composition, and Literature and the Arts course.", 
+    "sectionNumber": "HS", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Heroic Systems: Technology and Culture. Throughout its entire history, this nation has been the beneficiary of  large scale, institutional engineered systems that have improved the quality of life for the population at large.  This process is based on the natural progression from curiosity to science to industrialization to socio-economic progress.  This trajectory depends on governments, universities, corporations and financial systems which are all integral parts of our society.  By following these various threads a full narrative emerges.  In particular we shall consider transportation, banking, electrification, telecommunications, medicine, space exploration, social structures, and the limits to progress.  Often these developments are best understood by appeals to literature and history.  Thus, any student interested in interdisciplinary approaches that integrate the humanities, arts and sciences is encouraged to take this course.  This course is based on several previously offered courses including CHP365A (SEL), CHP395B (DES), Reading Matters (iFoundry, DES), and most recently ENG298HS (KKH, SEL, DES)  This course fulfills the requirements for General Education credit (Humanities & the Arts)", 
+    "sectionTitle": "Heroic Systems: Tech and Cult", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

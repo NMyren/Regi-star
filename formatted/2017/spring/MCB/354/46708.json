@@ -1,0 +1,68 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MCB/354/46708.json", 
+    "id": "46708", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Roger Adams Laboratory", 
+            "daysOfTheWeek": "MWF", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Gerlt, J", 
+                        "firstName": "J", 
+                        "lastName": "Gerlt"
+                    }, 
+                    {
+                        "content": "Procko, E", 
+                        "firstName": "E", 
+                        "lastName": "Procko"
+                    }, 
+                    {
+                        "content": "Stenger, A", 
+                        "firstName": "A", 
+                        "lastName": "Stenger"
+                    }
+                ]
+            }, 
+            "roomNumber": "116", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Biochem & Phys Basis of Life", 
+            "href": "/2017/spring/MCB/354.json", 
+            "id": "354"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Biochemistry or Molecular and Cellular Biology major(s). Restricted to students with Junior or Senior class standing.", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Lectures will begin on Wednesday, January 18,  2017, and discussions will begin on Monday, January 23, 2016.  Examinations will be held from 7:00-9:00PM on the following Tuesday evenings: February 14, March 7, and April 11, 2017.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

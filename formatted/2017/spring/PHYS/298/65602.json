@@ -1,0 +1,56 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/PHYS/298/65602.json", 
+    "id": "65602", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Loomis Laboratory", 
+            "daysOfTheWeek": "R", 
+            "end": "05:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Gollin, G", 
+                    "firstName": "G", 
+                    "lastName": "Gollin"
+                }
+            }, 
+            "roomNumber": "276", 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Freshmen/Sophomore Special Topics in Physics", 
+            "href": "/2017/spring/PHYS/298.json", 
+            "id": "298"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "OWL", 
+    "sectionStatusCode": "A", 
+    "sectionText": "You will learn to do remarkable things. By the end of the first week you will calculate the trajectory of a relativistic starship and confirm an insight of Ramanujan, the \"Man Who Knew Infinity.\" A week after that you will generate diagrams of spacetime curvature around black holes. You will determine the slingshot trajectory for a tour of the gas giants and calculate pi using simulated toothpicks. There will be chaos, and fractal geometry, and pattern recognition in noisy environments. You will learn that a Python is not just a snake, nor a Spyder just an arachnid. And you will be pioneers: you are going to help us change the way we teach undergraduate physics at the University of Illinois.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

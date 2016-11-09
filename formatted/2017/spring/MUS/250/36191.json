@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/MUS/250/36191.json", 
+    "id": "36191", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Krannert Center for Perf Arts", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Schleicher, D", 
+                    "firstName": "D", 
+                    "lastName": "Schleicher"
+                }
+            }, 
+            "roomNumber": "2310", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "PR ", 
+                "content": "Practice"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "University Orchestra", 
+            "href": "/2017/spring/MUS/250.json", 
+            "id": "250"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "K", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Note:  Due to the nature of music ensembles, required performances will occur at times other than class times, and additional required rehearsals may be announced.  Open to all students who have been accepted by audition, with assignments made according to proficiency and instrumentation Auditions are required for all students, All string players will be placed in an orchestra. Wind and percussions students participate in unified auditions for Bands and Orchestras. Check School of Music website for details", 
+    "sectionTitle": "U of I Symphony Orchestra", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

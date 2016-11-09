@@ -1,0 +1,57 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LIS/590/65620.json", 
+    "id": "65620", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "T", 
+            "end": "03:00 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Berger, S", 
+                    "firstName": "S", 
+                    "lastName": "Berger"
+                }
+            }, 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Problems in LIS", 
+            "href": "/2017/spring/LIS/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionDeptRestriction": "Restricted to students in the Information Sciences department.", 
+    "sectionNumber": "SPC", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Focuses on the issues and practices related to collection development for special collections libraries. The selection and acquisition of printed, manuscript, and digital materials for special collections libraries is a large subject, but it is a subject that is treated only sparsely in the professional literature. Students will gain an understanding of the nature and makeup of a collection in a rare books and manuscripts library, as well as an overview of the practices and procedures used by acquisitions librarians and development officers involved in the purchase or solicitation of materials for the collection. Attention will also be paid to the legal and ethical considerations that arise in making collection decisions in a special collections library. [Elective course for Certificate in Special Collections] [First offered Fall 2010] Restricted to graduate students in the School of Information Sciences. All other students need department approval. Email ischool-advising@illinois.edu.", 
+    "sectionTitle": "Coll Dev for Spec Coll", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

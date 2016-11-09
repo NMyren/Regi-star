@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/PSYC/396/64390.json", 
+    "id": "64390", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Wickesberg, R", 
+                    "firstName": "R", 
+                    "lastName": "Wickesberg"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intermediate Current Topics in Psychology", 
+            "href": "/2017/spring/PSYC/396.json", 
+            "id": "396"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "IN2", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Directed experience for students participating in career-related internships. This course is not intended for students in their first year of study. Students must secure an internship prior to enrolling.", 
+    "sectionTitle": "Internship Experience", 
+    "specialApproval": "Instructor Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

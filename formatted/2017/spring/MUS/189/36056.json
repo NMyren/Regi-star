@@ -1,0 +1,87 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MUS/189/36056.json", 
+    "id": "36056", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Krannert Center for Perf Arts", 
+                "daysOfTheWeek": "T", 
+                "end": "12:20 PM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Chair, S", 
+                            "firstName": "S", 
+                            "lastName": "Chair"
+                        }, 
+                        {
+                            "content": "Harris, J", 
+                            "firstName": "J", 
+                            "lastName": "Harris"
+                        }
+                    ]
+                }, 
+                "roomNumber": "2317", 
+                "start": "11:00 AM", 
+                "type": {
+                    "code": "CNF", 
+                    "content": "Conference"
+                }
+            }, 
+            {
+                "id": "1", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Chair, S", 
+                            "firstName": "S", 
+                            "lastName": "Chair"
+                        }, 
+                        {
+                            "content": "Harris, J", 
+                            "firstName": "J", 
+                            "lastName": "Harris"
+                        }
+                    ]
+                }, 
+                "start": "ARRANGED", 
+                "type": {
+                    "code": "CNF", 
+                    "content": "Conference"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Clarinet", 
+            "href": "/2017/spring/MUS/189.json", 
+            "id": "189"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Music department.", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign. Not intended for BA:Music  -UIUC.", 
+    "sectionNumber": "B", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

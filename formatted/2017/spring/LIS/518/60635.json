@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LIS/518/60635.json", 
+    "id": "60635", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "T", 
+            "end": "06:00 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Williams, K", 
+                    "firstName": "K", 
+                    "lastName": "Williams"
+                }
+            }, 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Community Informatics", 
+            "href": "/2017/spring/LIS/518.json", 
+            "id": "518"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "LE", 
+    "sectionStatusCode": "A", 
+    "sectionText": "See LIS 518 for course description. Restricted to graduate students in the School of Information Sciences. All other students need department approval. Email ischool-advising@illinois.edu.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

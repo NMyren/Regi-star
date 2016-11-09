@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen", 
+    "href": "/2017/spring/LLS/296/58349.json", 
+    "id": "58349", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "TR", 
+            "end": "04:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Cacho, L", 
+                    "firstName": "L", 
+                    "lastName": "Cacho"
+                }
+            }, 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "S1 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Topics Latina/o Studies", 
+            "href": "/2017/spring/LLS/296.json", 
+            "id": "296"
+        }, 
+        "subject": {
+            "content": "Latina/Latino Studies", 
+            "href": "/2017/spring/LLS.json", 
+            "id": "LLS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "LC", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic: \"Race and Criminalization.\" Meets with AAS 299. In order to examine how racial groups are criminalized, we need to delink race from crime. To do so, we need to question how laws are created and normalized. To do this effectively, I will ask you to suspend your moral judgments, so that you can approach crime, criminals, and criminal activity objectively and critically.", 
+    "sectionTitle": "Race and Criminalization", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

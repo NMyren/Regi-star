@@ -1,0 +1,43 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ACE/293/10044.json", 
+    "id": "10044", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {}, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "IND", 
+                "content": "Independent Study"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Off-Campus Internship", 
+            "href": "/2017/spring/ACE/293.json", 
+            "id": "293"
+        }, 
+        "subject": {
+            "content": "Agricultural and Consumer Economics", 
+            "href": "/2017/spring/ACE.json", 
+            "id": "ACE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

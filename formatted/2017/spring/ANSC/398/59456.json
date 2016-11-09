@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ANSC/398/59456.json", 
+    "id": "59456", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Cardoso, F", 
+                    "firstName": "F", 
+                    "lastName": "Cardoso"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "UG Experiential Learning", 
+            "href": "/2017/spring/ANSC/398.json", 
+            "id": "398"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNotes": "Restricted to Animal Sciences major(s) or minor(s).", 
+    "sectionNumber": "M", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Dairy Challenge", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

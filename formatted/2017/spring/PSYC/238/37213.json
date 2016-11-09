@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/PSYC/238/37213.json", 
+    "id": "37213", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Psychology Building", 
+            "daysOfTheWeek": "MWF", 
+            "end": "12:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Lyubansky, M", 
+                    "firstName": "M", 
+                    "lastName": "Lyubansky"
+                }
+            }, 
+            "roomNumber": "31", 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Abnormal Psych", 
+            "href": "/2017/spring/PSYC/238.json", 
+            "id": "238"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "C", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Restrictions lifted 9:00 am on Monday, November 21.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

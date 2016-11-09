@@ -1,0 +1,59 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/THEA/400/40153.json", 
+    "id": "40153", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Ciofalo, T", 
+                        "firstName": "T", 
+                        "lastName": "Ciofalo"
+                    }, 
+                    {
+                        "content": "Kocher, C", 
+                        "firstName": "C", 
+                        "lastName": "Kocher"
+                    }
+                ]
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "B2 ", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Practicum II", 
+            "href": "/2017/spring/THEA/400.json", 
+            "id": "400"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Theatre major(s).", 
+    "sectionNumber": "S", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Section S:  Stage Mgmt Prep/Rehearsal", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

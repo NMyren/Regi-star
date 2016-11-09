@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/AE/403/29973.json", 
+    "id": "29973", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Talbot Laboratory", 
+            "daysOfTheWeek": "TR", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Ho, K", 
+                    "firstName": "K", 
+                    "lastName": "Ho"
+                }
+            }, 
+            "roomNumber": "225A", 
+            "start": "03:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Spacecraft Attitude Control", 
+            "href": "/2017/spring/AE/403.json", 
+            "id": "403"
+        }, 
+        "subject": {
+            "content": "Aerospace Engineering", 
+            "href": "/2017/spring/AE.json", 
+            "id": "AE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

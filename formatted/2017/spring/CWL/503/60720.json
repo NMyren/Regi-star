@@ -1,0 +1,53 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/CWL/503/60720.json", 
+    "id": "60720", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "T", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Turnock, J", 
+                    "firstName": "J", 
+                    "lastName": "Turnock"
+                }
+            }, 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Historiography of Cinema", 
+            "href": "/2017/spring/CWL/503.json", 
+            "id": "503"
+        }, 
+        "subject": {
+            "content": "Comparative and World Literature", 
+            "href": "/2017/spring/CWL.json", 
+            "id": "CWL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "T", 
+    "sectionStatusCode": "A", 
+    "sectionText": "While the title of this course is ?Historiography of Cinema,? it is designed to incorporate issues of moving image culture more broadly.  Cinema studies provides the longest and most thorough discourse on moving image culture, and therefore this course introduces methodology and theory beneficial to students working on topics in television, video art, advertising, and digital media-making, and more.  The aim of this class is to introduce and train students in research methods and approaches in moving image studies, and discuss how the long tradition of cinematic scholarly discourse can impact research in other areas of media and various periods of technological emergence.   The course texts will model various approaches to historical research, and just as importantly, the priority given to different kinds of evidence and the interpretation of that evidence.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

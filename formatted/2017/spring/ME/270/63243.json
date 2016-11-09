@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/ME/270/63243.json", 
+    "id": "63243", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Materials Science & Eng Bld", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Flachsbart, B", 
+                    "firstName": "B", 
+                    "lastName": "Flachsbart"
+                }
+            }, 
+            "roomNumber": "100", 
+            "start": "03:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Design for Manufacturability", 
+            "href": "/2017/spring/ME/270.json", 
+            "id": "270"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Mechanical Engineering major(s). Restricted to students with Sophomore, Junior, or Senior class standing.", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "ME 270 meets with TAM 498 (65905).  MechSE students must obtain department approval from staff in 154 MEB to drop this course after the last day to add a class.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

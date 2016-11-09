@@ -1,0 +1,61 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/HDFS/206/33794.json", 
+    "id": "33794", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Child Development Laboratory", 
+            "daysOfTheWeek": "T", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Brooks, J", 
+                        "firstName": "J", 
+                        "lastName": "Brooks"
+                    }, 
+                    {
+                        "content": "McBride, B", 
+                        "firstName": "B", 
+                        "lastName": "McBride"
+                    }
+                ]
+            }, 
+            "roomNumber": "109B", 
+            "start": "08:00 AM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Early Childhood Curriculum Dev", 
+            "href": "/2017/spring/HDFS/206.json", 
+            "id": "206"
+        }, 
+        "subject": {
+            "content": "Human Development and Family Studies", 
+            "href": "/2017/spring/HDFS.json", 
+            "id": "HDFS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AB2", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

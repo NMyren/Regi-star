@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MSE/206/57449.json", 
+    "id": "57449", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Materials Science & Eng Bld", 
+            "daysOfTheWeek": "F", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Krogstad, J", 
+                    "firstName": "J", 
+                    "lastName": "Krogstad"
+                }
+            }, 
+            "roomNumber": "4101", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Mechanics for MatSE", 
+            "href": "/2017/spring/MSE/206.json", 
+            "id": "206"
+        }, 
+        "subject": {
+            "content": "Materials Science and Engineering", 
+            "href": "/2017/spring/MSE.json", 
+            "id": "MSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AD2", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,77 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/DANC/100/40256.json", 
+    "id": "40256", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Krannert Center for Perf Arts", 
+                "daysOfTheWeek": "M", 
+                "end": "10:20 AM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Johnston, P", 
+                        "firstName": "P", 
+                        "lastName": "Johnston"
+                    }
+                }, 
+                "roomNumber": "2127", 
+                "start": "09:00 AM", 
+                "type": {
+                    "code": "LAB", 
+                    "content": "Laboratory"
+                }
+            }, 
+            {
+                "buildingName": "907 1/2 W Nevada", 
+                "daysOfTheWeek": "W", 
+                "end": "10:20 AM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Johnston, P", 
+                        "firstName": "P", 
+                        "lastName": "Johnston"
+                    }
+                }, 
+                "roomNumber": "109", 
+                "start": "09:00 AM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro to Contemporary Dance", 
+            "href": "/2017/spring/DANC/100.json", 
+            "id": "100"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Intro to Contemporary Dance, 3 hours. Overview of major works, figures, and trends responsible for shaping dance as an evolving contemporary art form. The course will have lecture, viewing, discussion, and experiential (studio participation) components. For non-dance majors.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,54 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-01-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LAW/682/42019.json", 
+    "id": "42019", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "MTW", 
+            "end": "10:15 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Bilz, K", 
+                    "firstName": "K", 
+                    "lastName": "Bilz"
+                }
+            }, 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Evidence", 
+            "href": "/2017/spring/LAW/682.json", 
+            "id": "682"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "LF", 
+    "sectionNumber": "G", 
+    "sectionStatusCode": "A", 
+    "specialApproval": "Departmental Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CHLH/243/31097.json", 
+    "id": "31097", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Mumford Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Ritter, E", 
+                    "firstName": "E", 
+                    "lastName": "Ritter"
+                }
+            }, 
+            "roomNumber": "103", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Drug Use and Abuse", 
+            "href": "/2017/spring/CHLH/243.json", 
+            "id": "243"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Although major restrictions will be lifted on December 10, the department will continue to have some seats reserved for CHLH majors through the 10th day of class.  No overrides will be given.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

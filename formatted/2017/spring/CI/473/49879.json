@@ -1,0 +1,49 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CI/473/49879.json", 
+    "id": "49879", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Education Building", 
+            "daysOfTheWeek": "T", 
+            "end": "08:50 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "42A", 
+            "start": "07:30 PM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Disciplinary Literacy", 
+            "href": "/2017/spring/CI/473.json", 
+            "id": "473"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "CD1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "THIS SECTION IS FOR ART EDUCATION STUDENTS ONLY.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

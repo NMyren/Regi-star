@@ -1,0 +1,57 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LER/590/63831.json", 
+    "id": "63831", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Inst Labor &  Industrial Rel", 
+            "daysOfTheWeek": "M", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Park, Y", 
+                    "firstName": "Y", 
+                    "lastName": "Park"
+                }
+            }, 
+            "roomNumber": "35", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "S15", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Individual Topics", 
+            "href": "/2017/spring/LER/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Labor and Employment Relations", 
+            "href": "/2017/spring/LER.json", 
+            "id": "LER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Human Res & Industrial Rels major(s).", 
+    "sectionNumber": "EW", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Emp Stress, Well-Being & Saf", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

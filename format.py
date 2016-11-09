@@ -9,7 +9,7 @@ def getSubDirs(a_dir):
                 if os.path.isdir(os.path.join(a_dir, name))]
 
 def format(filePath,level):
-    if level != 4:
+    if level != -1:
         checkDir("formatted/"+filePath)
     else:
         filePath = filePath.replace('.json','')
@@ -21,10 +21,14 @@ def format(filePath,level):
         data =  json.dumps(parsed,indent=4, sort_keys=True)
         with open("formatted/"+filePath+".json","w") as newfile:
             newfile.write(data)
-    if level != 4:
+    if level != -1:
         subDirs = getSubDirs(filePath)
-        for x in subDirs:
-            format(filePath+'/'+x,level+1)
+        if (len(subDirs)==0):
+            for x in os.listdir(filePath):
+                format(filePath+'/'+x,-1)
+        else:
+            for x in subDirs:
+                format(filePath+'/'+x,level+1)
 
 def checkDir(f):
     if not os.path.exists(f):

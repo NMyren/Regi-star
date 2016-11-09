@@ -1,0 +1,58 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ARTD/299/46831.json", 
+    "id": "46831", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Art and Design Building", 
+            "daysOfTheWeek": "MW", 
+            "end": "11:40 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Robinson, S", 
+                    "firstName": "S", 
+                    "lastName": "Robinson"
+                }
+            }, 
+            "roomNumber": "331", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Spec Topics in Design Courses", 
+            "href": "/2017/spring/ARTD/299.json", 
+            "id": "299"
+        }, 
+        "subject": {
+            "content": "Art--Design", 
+            "href": "/2017/spring/ARTD.json", 
+            "id": "ARTD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graphic Design or Crafts or History of Art or Photography or Industrial Design or Painting or Sculpture or Art Education or Art Foundation or New Media major(s).", 
+    "sectionNumber": "AD1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic: Illustration. This 16-week course is designed for students to enter at any level of practice. Here students will be responsible for developing a project, its deadlines, and required research. Students will be able to work in any medium. However, students will need to already know how to use their desired computer programs or mediums. This will be a seminar in which we will watch documentaries and conclude with discussion. There will be illustration books assigned that will help you understand storytelling and practice. Students are expected to be self-motivated as there will be no hand-holding. But weekly critique will help students stay on task.", 
+    "sectionTitle": "Illustration", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

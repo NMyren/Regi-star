@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/BADM/515/65327.json", 
+    "id": "65327", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Business Instructional Fac", 
+            "daysOfTheWeek": "MW", 
+            "end": "09:20 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Jayes, J", 
+                    "firstName": "J", 
+                    "lastName": "Jayes"
+                }
+            }, 
+            "roomNumber": "1049", 
+            "start": "08:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Oral Comm for Business", 
+            "href": "/2017/spring/BADM/515.json", 
+            "id": "515"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "sectionText": "No student will be permitted to remain in the class who does not take the Diagnostic Test administered during the first three class meetings and show demonstrated need.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

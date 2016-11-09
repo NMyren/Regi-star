@@ -1,0 +1,58 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/BADM/395/55172.json", 
+    "id": "55172", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Business Instructional Fac", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Magelli, P", 
+                    "firstName": "P", 
+                    "lastName": "Magelli"
+                }
+            }, 
+            "roomNumber": "2001", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Senior Research II", 
+            "href": "/2017/spring/BADM/395.json", 
+            "id": "395"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to students with Junior or Senior class standing.", 
+    "sectionNumber": "PM", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Meets with BADM 199-PM.", 
+    "sectionTitle": "Foundations of Entrep.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

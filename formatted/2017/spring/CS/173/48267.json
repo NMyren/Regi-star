@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/CS/173/48267.json", 
+    "id": "48267", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Siebel Center for Comp Sci", 
+            "daysOfTheWeek": "F", 
+            "end": "12:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Fleck, M", 
+                    "firstName": "M", 
+                    "lastName": "Fleck"
+                }
+            }, 
+            "roomNumber": "1111", 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Discrete Structures", 
+            "href": "/2017/spring/CS/173.json", 
+            "id": "173"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "BDB", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

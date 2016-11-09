@@ -1,0 +1,50 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/ECON/598/64618.json", 
+    "id": "64618", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Bernhardt, M", 
+                    "firstName": "M", 
+                    "lastName": "Bernhardt"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Workshop and Research Seminar", 
+            "href": "/2017/spring/ECON/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "DB", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

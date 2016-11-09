@@ -1,0 +1,55 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/BUS/199/64346.json", 
+    "id": "64346", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Davis, D", 
+                    "firstName": "D", 
+                    "lastName": "Davis"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "CNF", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/BUS/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Business", 
+            "href": "/2017/spring/BUS.json", 
+            "id": "BUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "PAN", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This study abroad trip will occur in March.", 
+    "sectionTitle": "Panama with GBB", 
+    "specialApproval": "Instructor Approval Required", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

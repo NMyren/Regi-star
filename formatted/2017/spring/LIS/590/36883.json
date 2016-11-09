@@ -1,0 +1,58 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LIS/590/36883.json", 
+    "id": "36883", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Grad Sch of Lib & Info Science", 
+            "daysOfTheWeek": "R", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Black, A", 
+                    "firstName": "A", 
+                    "lastName": "Black"
+                }
+            }, 
+            "roomNumber": "341", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "S5 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Problems in LIS", 
+            "href": "/2017/spring/LIS/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Information Sciences department.", 
+    "sectionNumber": "LF", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Feature films are not just a form of entertainment; as time passes, they become historical documents that throw light on the societies that produced them. In this course we will view a selection of films released in the second half of the twentieth century that have librarians as their main protagonists. In association with both primary sources and secondary readings we will use the films as vehicles for analyzing and discussing various phases of, and episodes in, US and UK library history. Restricted to LIS students only.  [First offered Spring 2013].", 
+    "sectionTitle": "Libraries in Film", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

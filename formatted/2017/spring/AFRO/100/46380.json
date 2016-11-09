@@ -1,0 +1,59 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/AFRO/100/46380.json", 
+    "id": "46380", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "R", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Bailey, R", 
+                        "firstName": "R", 
+                        "lastName": "Bailey"
+                    }, 
+                    {
+                        "content": "McMillion, D", 
+                        "firstName": "D", 
+                        "lastName": "McMillion"
+                    }
+                ]
+            }, 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro to African American St", 
+            "href": "/2017/spring/AFRO/100.json", 
+            "id": "100"
+        }, 
+        "subject": {
+            "content": "African American Studies", 
+            "href": "/2017/spring/AFRO.json", 
+            "id": "AFRO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AD4", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

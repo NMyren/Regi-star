@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ACE/567/30662.json", 
+    "id": "30662", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Mumford Hall", 
+            "daysOfTheWeek": "MW", 
+            "end": "09:50 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Onal, H", 
+                    "firstName": "H", 
+                    "lastName": "Onal"
+                }
+            }, 
+            "roomNumber": "426", 
+            "start": "08:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Math Program App Econ II", 
+            "href": "/2017/spring/ACE/567.json", 
+            "id": "567"
+        }, 
+        "subject": {
+            "content": "Agricultural and Consumer Economics", 
+            "href": "/2017/spring/ACE.json", 
+            "id": "ACE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "A", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

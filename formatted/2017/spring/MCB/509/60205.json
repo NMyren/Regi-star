@@ -1,0 +1,91 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/MCB/509/60205.json", 
+    "id": "60205", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Chemical and Life Sci Lab", 
+                "daysOfTheWeek": "R", 
+                "end": "11:50 AM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Anastasio, T", 
+                            "firstName": "T", 
+                            "lastName": "Anastasio"
+                        }, 
+                        {
+                            "content": "Kwast, K", 
+                            "firstName": "K", 
+                            "lastName": "Kwast"
+                        }
+                    ]
+                }, 
+                "roomNumber": "ARR", 
+                "start": "11:00 AM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }, 
+            {
+                "buildingName": "Chemical and Life Sci Lab", 
+                "daysOfTheWeek": "R", 
+                "end": "01:20 PM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Anastasio, T", 
+                            "firstName": "T", 
+                            "lastName": "Anastasio"
+                        }, 
+                        {
+                            "content": "Kwast, K", 
+                            "firstName": "K", 
+                            "lastName": "Kwast"
+                        }
+                    ]
+                }, 
+                "roomNumber": "ARR", 
+                "start": "12:30 PM", 
+                "type": {
+                    "code": "LCD", 
+                    "content": "Lecture-Discussion"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Curr Topics Mol & Int Physiol", 
+            "href": "/2017/spring/MCB/509.json", 
+            "id": "509"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "FIP", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This class will meet in B102 CLSL from 11-11:50 on Thursday and  in B126 CLSL from 12:30-1:20 pm Thursday.", 
+    "sectionTitle": "Frontiers in Physiology", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

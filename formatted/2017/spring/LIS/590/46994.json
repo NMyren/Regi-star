@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/LIS/590/46994.json", 
+    "id": "46994", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "W", 
+            "end": "12:00 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Miller, N", 
+                    "firstName": "N", 
+                    "lastName": "Miller"
+                }
+            }, 
+            "start": "10:00 AM", 
+            "type": {
+                "code": "E2 ", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Problems in LIS", 
+            "href": "/2017/spring/LIS/590.json", 
+            "id": "590"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Information Sciences department.", 
+    "sectionNumber": "GEL", 
+    "sectionStatusCode": "A", 
+    "sectionText": "2 or 4 credits. See LIS 590GE for course description https://ischool.illinois.edu/academics/courses/catalog#500level Restricted to graduate students in the School of Information Sciences. All other students need department approval. Email ischool-advising@illinois.edu.", 
+    "sectionTitle": "Genealogy and Library Service", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

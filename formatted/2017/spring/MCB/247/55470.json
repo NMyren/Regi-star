@@ -1,0 +1,62 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/MCB/247/55470.json", 
+    "id": "55470", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Burrill Hall", 
+            "daysOfTheWeek": "MW", 
+            "end": "03:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Brown, C", 
+                        "firstName": "C", 
+                        "lastName": "Brown"
+                    }, 
+                    {
+                        "content": "Swigart, J", 
+                        "firstName": "J", 
+                        "lastName": "Swigart"
+                    }
+                ]
+            }, 
+            "roomNumber": "231", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Human Anat & Physiol Lab II", 
+            "href": "/2017/spring/MCB/247.json", 
+            "id": "247"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "G", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course is restricted to students in majors and programs for whom it is required.  If you are not in a major or program that specifically requires this course but would like to take it, you may add your name to the online waitlist at http://go.illinois.edu/mcb247_SP17_waitlist.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

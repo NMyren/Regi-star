@@ -1,0 +1,513 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/VM/608/55158.json", 
+    "id": "55158", 
+    "meetings": {
+        "meeting": [
+            {
+                "daysOfTheWeek": "MW", 
+                "end": "09:50 AM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Aldridge, B", 
+                            "firstName": "B", 
+                            "lastName": "Aldridge"
+                        }, 
+                        {
+                            "content": "Barger, A", 
+                            "firstName": "A", 
+                            "lastName": "Barger"
+                        }, 
+                        {
+                            "content": "Bates, M", 
+                            "firstName": "M", 
+                            "lastName": "Bates"
+                        }, 
+                        {
+                            "content": "Connolly, S", 
+                            "firstName": "S", 
+                            "lastName": "Connolly"
+                        }, 
+                        {
+                            "content": "Driskell, E", 
+                            "firstName": "E", 
+                            "lastName": "Driskell"
+                        }, 
+                        {
+                            "content": "Firkins, L", 
+                            "firstName": "L", 
+                            "lastName": "Firkins"
+                        }, 
+                        {
+                            "content": "Hamor, R", 
+                            "firstName": "R", 
+                            "lastName": "Hamor"
+                        }, 
+                        {
+                            "content": "Herrmann, J", 
+                            "firstName": "J", 
+                            "lastName": "Herrmann"
+                        }, 
+                        {
+                            "content": "Hoien-Dalen, P", 
+                            "firstName": "P", 
+                            "lastName": "Hoien-Dalen"
+                        }, 
+                        {
+                            "content": "Hsiao, S", 
+                            "firstName": "S", 
+                            "lastName": "Hsiao"
+                        }, 
+                        {
+                            "content": "Johnson-Walker, Y", 
+                            "firstName": "Y", 
+                            "lastName": "Johnson-Walker"
+                        }, 
+                        {
+                            "content": "Matheson, J", 
+                            "firstName": "J", 
+                            "lastName": "Matheson"
+                        }, 
+                        {
+                            "content": "McCoy, A", 
+                            "firstName": "A", 
+                            "lastName": "McCoy"
+                        }, 
+                        {
+                            "content": "Mitchell, M", 
+                            "firstName": "M", 
+                            "lastName": "Mitchell"
+                        }, 
+                        {
+                            "content": "O'Hara, M", 
+                            "firstName": "M", 
+                            "lastName": "O'Hara"
+                        }, 
+                        {
+                            "content": "Roady, P", 
+                            "firstName": "P", 
+                            "lastName": "Roady"
+                        }, 
+                        {
+                            "content": "Solter, P", 
+                            "firstName": "P", 
+                            "lastName": "Solter"
+                        }, 
+                        {
+                            "content": "Sprandel, I", 
+                            "firstName": "I", 
+                            "lastName": "Sprandel"
+                        }, 
+                        {
+                            "content": "Wallig, M", 
+                            "firstName": "M", 
+                            "lastName": "Wallig"
+                        }, 
+                        {
+                            "content": "Whiteley, H", 
+                            "firstName": "H", 
+                            "lastName": "Whiteley"
+                        }, 
+                        {
+                            "content": "Wismer, T", 
+                            "firstName": "T", 
+                            "lastName": "Wismer"
+                        }
+                    ]
+                }, 
+                "start": "08:00 AM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }, 
+            {
+                "daysOfTheWeek": "TRF", 
+                "end": "11:50 AM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Aldridge, B", 
+                            "firstName": "B", 
+                            "lastName": "Aldridge"
+                        }, 
+                        {
+                            "content": "Barger, A", 
+                            "firstName": "A", 
+                            "lastName": "Barger"
+                        }, 
+                        {
+                            "content": "Bates, M", 
+                            "firstName": "M", 
+                            "lastName": "Bates"
+                        }, 
+                        {
+                            "content": "Connolly, S", 
+                            "firstName": "S", 
+                            "lastName": "Connolly"
+                        }, 
+                        {
+                            "content": "Driskell, E", 
+                            "firstName": "E", 
+                            "lastName": "Driskell"
+                        }, 
+                        {
+                            "content": "Firkins, L", 
+                            "firstName": "L", 
+                            "lastName": "Firkins"
+                        }, 
+                        {
+                            "content": "Hamor, R", 
+                            "firstName": "R", 
+                            "lastName": "Hamor"
+                        }, 
+                        {
+                            "content": "Herrmann, J", 
+                            "firstName": "J", 
+                            "lastName": "Herrmann"
+                        }, 
+                        {
+                            "content": "Hoien-Dalen, P", 
+                            "firstName": "P", 
+                            "lastName": "Hoien-Dalen"
+                        }, 
+                        {
+                            "content": "Hsiao, S", 
+                            "firstName": "S", 
+                            "lastName": "Hsiao"
+                        }, 
+                        {
+                            "content": "Johnson-Walker, Y", 
+                            "firstName": "Y", 
+                            "lastName": "Johnson-Walker"
+                        }, 
+                        {
+                            "content": "Matheson, J", 
+                            "firstName": "J", 
+                            "lastName": "Matheson"
+                        }, 
+                        {
+                            "content": "McCoy, A", 
+                            "firstName": "A", 
+                            "lastName": "McCoy"
+                        }, 
+                        {
+                            "content": "Mitchell, M", 
+                            "firstName": "M", 
+                            "lastName": "Mitchell"
+                        }, 
+                        {
+                            "content": "O'Hara, M", 
+                            "firstName": "M", 
+                            "lastName": "O'Hara"
+                        }, 
+                        {
+                            "content": "Roady, P", 
+                            "firstName": "P", 
+                            "lastName": "Roady"
+                        }, 
+                        {
+                            "content": "Solter, P", 
+                            "firstName": "P", 
+                            "lastName": "Solter"
+                        }, 
+                        {
+                            "content": "Sprandel, I", 
+                            "firstName": "I", 
+                            "lastName": "Sprandel"
+                        }, 
+                        {
+                            "content": "Wallig, M", 
+                            "firstName": "M", 
+                            "lastName": "Wallig"
+                        }, 
+                        {
+                            "content": "Whiteley, H", 
+                            "firstName": "H", 
+                            "lastName": "Whiteley"
+                        }, 
+                        {
+                            "content": "Wismer, T", 
+                            "firstName": "T", 
+                            "lastName": "Wismer"
+                        }
+                    ]
+                }, 
+                "start": "09:00 AM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }, 
+            {
+                "daysOfTheWeek": "M", 
+                "end": "02:50 PM", 
+                "id": "2", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Aldridge, B", 
+                            "firstName": "B", 
+                            "lastName": "Aldridge"
+                        }, 
+                        {
+                            "content": "Barger, A", 
+                            "firstName": "A", 
+                            "lastName": "Barger"
+                        }, 
+                        {
+                            "content": "Bates, M", 
+                            "firstName": "M", 
+                            "lastName": "Bates"
+                        }, 
+                        {
+                            "content": "Connolly, S", 
+                            "firstName": "S", 
+                            "lastName": "Connolly"
+                        }, 
+                        {
+                            "content": "Driskell, E", 
+                            "firstName": "E", 
+                            "lastName": "Driskell"
+                        }, 
+                        {
+                            "content": "Firkins, L", 
+                            "firstName": "L", 
+                            "lastName": "Firkins"
+                        }, 
+                        {
+                            "content": "Hamor, R", 
+                            "firstName": "R", 
+                            "lastName": "Hamor"
+                        }, 
+                        {
+                            "content": "Herrmann, J", 
+                            "firstName": "J", 
+                            "lastName": "Herrmann"
+                        }, 
+                        {
+                            "content": "Hoien-Dalen, P", 
+                            "firstName": "P", 
+                            "lastName": "Hoien-Dalen"
+                        }, 
+                        {
+                            "content": "Hsiao, S", 
+                            "firstName": "S", 
+                            "lastName": "Hsiao"
+                        }, 
+                        {
+                            "content": "Johnson-Walker, Y", 
+                            "firstName": "Y", 
+                            "lastName": "Johnson-Walker"
+                        }, 
+                        {
+                            "content": "Matheson, J", 
+                            "firstName": "J", 
+                            "lastName": "Matheson"
+                        }, 
+                        {
+                            "content": "McCoy, A", 
+                            "firstName": "A", 
+                            "lastName": "McCoy"
+                        }, 
+                        {
+                            "content": "Mitchell, M", 
+                            "firstName": "M", 
+                            "lastName": "Mitchell"
+                        }, 
+                        {
+                            "content": "O'Hara, M", 
+                            "firstName": "M", 
+                            "lastName": "O'Hara"
+                        }, 
+                        {
+                            "content": "Roady, P", 
+                            "firstName": "P", 
+                            "lastName": "Roady"
+                        }, 
+                        {
+                            "content": "Solter, P", 
+                            "firstName": "P", 
+                            "lastName": "Solter"
+                        }, 
+                        {
+                            "content": "Sprandel, I", 
+                            "firstName": "I", 
+                            "lastName": "Sprandel"
+                        }, 
+                        {
+                            "content": "Wallig, M", 
+                            "firstName": "M", 
+                            "lastName": "Wallig"
+                        }, 
+                        {
+                            "content": "Whiteley, H", 
+                            "firstName": "H", 
+                            "lastName": "Whiteley"
+                        }, 
+                        {
+                            "content": "Wismer, T", 
+                            "firstName": "T", 
+                            "lastName": "Wismer"
+                        }
+                    ]
+                }, 
+                "start": "01:00 PM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }, 
+            {
+                "daysOfTheWeek": "W", 
+                "end": "03:50 PM", 
+                "id": "3", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Aldridge, B", 
+                            "firstName": "B", 
+                            "lastName": "Aldridge"
+                        }, 
+                        {
+                            "content": "Barger, A", 
+                            "firstName": "A", 
+                            "lastName": "Barger"
+                        }, 
+                        {
+                            "content": "Bates, M", 
+                            "firstName": "M", 
+                            "lastName": "Bates"
+                        }, 
+                        {
+                            "content": "Connolly, S", 
+                            "firstName": "S", 
+                            "lastName": "Connolly"
+                        }, 
+                        {
+                            "content": "Driskell, E", 
+                            "firstName": "E", 
+                            "lastName": "Driskell"
+                        }, 
+                        {
+                            "content": "Firkins, L", 
+                            "firstName": "L", 
+                            "lastName": "Firkins"
+                        }, 
+                        {
+                            "content": "Hamor, R", 
+                            "firstName": "R", 
+                            "lastName": "Hamor"
+                        }, 
+                        {
+                            "content": "Herrmann, J", 
+                            "firstName": "J", 
+                            "lastName": "Herrmann"
+                        }, 
+                        {
+                            "content": "Hoien-Dalen, P", 
+                            "firstName": "P", 
+                            "lastName": "Hoien-Dalen"
+                        }, 
+                        {
+                            "content": "Hsiao, S", 
+                            "firstName": "S", 
+                            "lastName": "Hsiao"
+                        }, 
+                        {
+                            "content": "Johnson-Walker, Y", 
+                            "firstName": "Y", 
+                            "lastName": "Johnson-Walker"
+                        }, 
+                        {
+                            "content": "Matheson, J", 
+                            "firstName": "J", 
+                            "lastName": "Matheson"
+                        }, 
+                        {
+                            "content": "McCoy, A", 
+                            "firstName": "A", 
+                            "lastName": "McCoy"
+                        }, 
+                        {
+                            "content": "Mitchell, M", 
+                            "firstName": "M", 
+                            "lastName": "Mitchell"
+                        }, 
+                        {
+                            "content": "O'Hara, M", 
+                            "firstName": "M", 
+                            "lastName": "O'Hara"
+                        }, 
+                        {
+                            "content": "Roady, P", 
+                            "firstName": "P", 
+                            "lastName": "Roady"
+                        }, 
+                        {
+                            "content": "Solter, P", 
+                            "firstName": "P", 
+                            "lastName": "Solter"
+                        }, 
+                        {
+                            "content": "Sprandel, I", 
+                            "firstName": "I", 
+                            "lastName": "Sprandel"
+                        }, 
+                        {
+                            "content": "Wallig, M", 
+                            "firstName": "M", 
+                            "lastName": "Wallig"
+                        }, 
+                        {
+                            "content": "Whiteley, H", 
+                            "firstName": "H", 
+                            "lastName": "Whiteley"
+                        }, 
+                        {
+                            "content": "Wismer, T", 
+                            "firstName": "T", 
+                            "lastName": "Wismer"
+                        }
+                    ]
+                }, 
+                "start": "01:00 PM", 
+                "type": {
+                    "code": "LEC", 
+                    "content": "Lecture"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Pathobiology III", 
+            "href": "/2017/spring/VM/608.json", 
+            "id": "608"
+        }, 
+        "subject": {
+            "content": "Veterinary Medicine Courses", 
+            "href": "/2017/spring/VM.json", 
+            "id": "VM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

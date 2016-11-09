@@ -1,0 +1,57 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/HIST/406/46120.json", 
+    "id": "46120", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Gregory Hall", 
+            "daysOfTheWeek": "MW", 
+            "end": "01:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Brosseder, C", 
+                    "firstName": "C", 
+                    "lastName": "Brosseder"
+                }
+            }, 
+            "roomNumber": "205", 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "History of Mexico from 1519", 
+            "href": "/2017/spring/HIST/406.json", 
+            "id": "406"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "U3", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Title:  Comparative Colonialisms and Modernities Description:  This course is designed as a survey class focusing on the colonial and modern history of Mexico and its people.  Particular emphasis will be placed on the cultural, economic, and political structures and processes that shaped and continued to influence life in Mexico from its colonial past to modern day present.  Key issues such as colonialism, racism, mestizaje, the role of the Catholic Church, independence, the rise of the nation state, the Reforma, the Porfiriato, the Mexican Revolution(s), the economic \"miracle,\" and US-relations will all be examined critically - from time to time in light of comparative themes in Peru in order to discuss the singularity of Mexico's history.  Course materials include secondary sources as well as primary documents, literature, paintings,and film in order to provide insights into the complex and diverse history of the region.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

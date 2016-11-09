@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-03-10-06:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/PSYC/102/48701.json", 
+    "id": "48701", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Psychology Building", 
+            "daysOfTheWeek": "M", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Wszalek, G", 
+                    "firstName": "G", 
+                    "lastName": "Wszalek"
+                }
+            }, 
+            "roomNumber": "13", 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Psych Orientation", 
+            "href": "/2017/spring/PSYC/102.json", 
+            "id": "102"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "A", 
+    "sectionNumber": "TR1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "For Psychology Transfer students.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

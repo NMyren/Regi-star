@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/ARTS/430/30385.json", 
+    "id": "30385", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Architecture Annex", 
+            "daysOfTheWeek": "MW", 
+            "end": "11:40 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Theide, B", 
+                    "firstName": "B", 
+                    "lastName": "Theide"
+                }
+            }, 
+            "roomNumber": "221", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Jewelry Metals V", 
+            "href": "/2017/spring/ARTS/430.json", 
+            "id": "430"
+        }, 
+        "subject": {
+            "content": "Art--Studio", 
+            "href": "/2017/spring/ARTS.json", 
+            "id": "ARTS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "MX", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

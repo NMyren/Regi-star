@@ -1,0 +1,76 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/TAM/598/62822.json", 
+    "id": "62822", 
+    "meetings": {
+        "meeting": [
+            {
+                "daysOfTheWeek": "M", 
+                "end": "12:50 PM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Ertekin, E", 
+                        "firstName": "E", 
+                        "lastName": "Ertekin"
+                    }
+                }, 
+                "start": "12:00 PM", 
+                "type": {
+                    "code": "CNF", 
+                    "content": "Conference"
+                }
+            }, 
+            {
+                "buildingName": "Mechanical Engineering Bldg", 
+                "daysOfTheWeek": "F", 
+                "end": "05:50 PM", 
+                "id": "1", 
+                "instructors": {
+                    "instructor": {
+                        "content": "Ertekin, E", 
+                        "firstName": "E", 
+                        "lastName": "Ertekin"
+                    }
+                }, 
+                "roomNumber": "252", 
+                "start": "05:00 PM", 
+                "type": {
+                    "code": "CNF", 
+                    "content": "Conference"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Special Topics", 
+            "href": "/2017/spring/TAM/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Theoretical and Applied Mechanics", 
+            "href": "/2017/spring/TAM.json", 
+            "id": "TAM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "212", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "Dynamics TA Training", 
+    "specialApproval": "Departmental Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

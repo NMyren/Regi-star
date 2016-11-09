@@ -1,0 +1,55 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/GER/331/45898.json", 
+    "id": "45898", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "David Kinley Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "01:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Pinkert, A", 
+                    "firstName": "A", 
+                    "lastName": "Pinkert"
+                }
+            }, 
+            "roomNumber": "325", 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro to German Literature", 
+            "href": "/2017/spring/GER/331.json", 
+            "id": "331"
+        }, 
+        "subject": {
+            "content": "German", 
+            "href": "/2017/spring/GER.json", 
+            "id": "GER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "F", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

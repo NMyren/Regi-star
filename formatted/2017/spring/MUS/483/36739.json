@@ -1,0 +1,87 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/MUS/483/36739.json", 
+    "id": "36739", 
+    "meetings": {
+        "meeting": [
+            {
+                "buildingName": "Music Building", 
+                "daysOfTheWeek": "M", 
+                "end": "08:30 PM", 
+                "id": "0", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Cameron, M", 
+                            "firstName": "M", 
+                            "lastName": "Cameron"
+                        }, 
+                        {
+                            "content": "Freivogel, M", 
+                            "firstName": "M", 
+                            "lastName": "Freivogel"
+                        }
+                    ]
+                }, 
+                "roomNumber": "0354", 
+                "start": "07:00 PM", 
+                "type": {
+                    "code": "CNF", 
+                    "content": "Conference"
+                }
+            }, 
+            {
+                "id": "1", 
+                "instructors": {
+                    "instructor": [
+                        {
+                            "content": "Cameron, M", 
+                            "firstName": "M", 
+                            "lastName": "Cameron"
+                        }, 
+                        {
+                            "content": "Freivogel, M", 
+                            "firstName": "M", 
+                            "lastName": "Freivogel"
+                        }
+                    ]
+                }, 
+                "start": "ARRANGED", 
+                "type": {
+                    "code": "CNF", 
+                    "content": "Conference"
+                }
+            }
+        ]
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Violin", 
+            "href": "/2017/spring/MUS/483.json", 
+            "id": "483"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionDeptRestriction": "Restricted to students in the Music department.", 
+    "sectionNotes": "Not intended for BA:Music  -UIUC.", 
+    "sectionNumber": "D", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

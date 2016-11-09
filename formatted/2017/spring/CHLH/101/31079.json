@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CHLH/101/31079.json", 
+    "id": "31079", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Bevier Hall", 
+            "daysOfTheWeek": "MW", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Kaplan, J", 
+                    "firstName": "J", 
+                    "lastName": "Kaplan"
+                }
+            }, 
+            "roomNumber": "180", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Introduction to Public Health", 
+            "href": "/2017/spring/CHLH/101.json", 
+            "id": "101"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Although major restrictions will be lifted on December 10, the department will continue to have some seats reserved for CHLH majors through the 10th day of class.  No overrides will be given.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

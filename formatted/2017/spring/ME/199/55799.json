@@ -1,0 +1,55 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ME/199/55799.json", 
+    "id": "55799", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "M", 
+            "end": "05:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Philpott, M", 
+                    "firstName": "M", 
+                    "lastName": "Philpott"
+                }
+            }, 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/ME/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "DES", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Multiple interdisciplinary design projects involving project teams. Intended to provide a design project experience over consecutive semesters. Completion of three consecutive semesters may be used to satisfy 3 hours of Technical Elective credit requirement; for students who entered the Mechanical Engineering or Engineering Mechanics program as freshmen.    Class meeting times for ECO Marathon and SOLAR Car Teams ONLY.   Prerequisite: ME 170 or GE 101 recommended. Students may propose the projects and select the teams.", 
+    "specialApproval": "Instructor Approval Required", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

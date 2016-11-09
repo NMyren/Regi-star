@@ -1,0 +1,57 @@
+{
+    "creditHours": "6 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/GLBL/298/54356.json", 
+    "id": "54356", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Armory", 
+            "daysOfTheWeek": "M", 
+            "end": "07:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Rodriguez, A", 
+                    "firstName": "A", 
+                    "lastName": "Rodriguez"
+                }
+            }, 
+            "roomNumber": "145", 
+            "start": "05:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Global Studies Seminar Abroad", 
+            "href": "/2017/spring/GLBL/298.json", 
+            "id": "298"
+        }, 
+        "subject": {
+            "content": "Global Studies", 
+            "href": "/2017/spring/GLBL.json", 
+            "id": "GLBL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "AA", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Lumbisi, Ecuador.  APPLY FOR THIS COURSE THROUGH THE STUDY ABROAD OFFICE AT https://app.studyabroad.illinois.edu/. Open to all majors. Registration is restricted until students have been accepted into the program by the Study Abroad Office.  For more information, see: https://app.studyabroad.illinois.edu/.  This course runs the second eight weeks of the spring semester, March 13, 2016 to May 3, 2016.  The dates for the off campus component are pending.  This course explores the relationship between socio-economic development and education in Lumbisi, Ecuador, focusing on an Andean community and a nonprofit organization that supplements educational opportunities.  Learn about the challenges and opportunities through a service project that offers a summer camp for local children.", 
+    "sectionTitle": "Lumbisi, Ecuador", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

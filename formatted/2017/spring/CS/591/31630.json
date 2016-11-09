@@ -1,0 +1,54 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CS/591/31630.json", 
+    "id": "31630", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Siebel Center for Comp Sci", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Campbell, R", 
+                    "firstName": "R", 
+                    "lastName": "Campbell"
+                }
+            }, 
+            "roomNumber": "ARR", 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "S5 ", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Advanced Seminar", 
+            "href": "/2017/spring/CS/591.json", 
+            "id": "591"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "RHC", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Topic: Security Reading Seminar. Prerequisite:  CS 225 and CS 423.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

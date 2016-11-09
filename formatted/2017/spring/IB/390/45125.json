@@ -1,0 +1,44 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/IB/390/45125.json", 
+    "id": "45125", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {}, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "IND", 
+                "content": "Independent Study"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Introductory Research", 
+            "href": "/2017/spring/IB/390.json", 
+            "id": "390"
+        }, 
+        "subject": {
+            "content": "Integrative Biology", 
+            "href": "/2017/spring/IB.json", 
+            "id": "IB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "To register for a specifc faculty members IB 490 course please contact Staci Sears at slsears@illinois.edu  with in the School of Integrative Biology to get the correct CRN for this course.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

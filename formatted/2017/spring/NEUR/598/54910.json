@@ -1,0 +1,56 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/NEUR/598/54910.json", 
+    "id": "54910", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Psychology Building", 
+            "daysOfTheWeek": "M", 
+            "end": "01:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Cheng, J", 
+                    "firstName": "J", 
+                    "lastName": "Cheng"
+                }
+            }, 
+            "roomNumber": "819", 
+            "start": "12:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Proseminar in Psychology", 
+            "href": "/2017/spring/NEUR/598.json", 
+            "id": "598"
+        }, 
+        "subject": {
+            "content": "Neuroscience", 
+            "href": "/2017/spring/NEUR.json", 
+            "id": "NEUR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "SPO", 
+    "sectionStatusCode": "A", 
+    "sectionTitle": "SocialPersonaltyOrganizationBB", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

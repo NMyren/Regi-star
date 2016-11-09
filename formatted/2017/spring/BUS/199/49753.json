@@ -1,0 +1,58 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/BUS/199/49753.json", 
+    "id": "49753", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Business Instructional Fac", 
+            "daysOfTheWeek": "F", 
+            "end": "12:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Gilliland, M", 
+                    "firstName": "M", 
+                    "lastName": "Gilliland"
+                }
+            }, 
+            "roomNumber": "1049", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/BUS/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Business", 
+            "href": "/2017/spring/BUS.json", 
+            "id": "BUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to College of Business. Restricted to students with Sophomore class standing.", 
+    "sectionNumber": "BD", 
+    "sectionStatusCode": "A", 
+    "sectionText": "By engaging in a competitive simulation, students will be introduced to the business functions of finance, marketing, operations, and their strategic integration for business success.  In addition, a focus on important soft skills will enhance the students? capacity as a professional.  Finally, the course is designed to engage and build students to become the next business leaders.", 
+    "sectionTitle": "Business Dynamics", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

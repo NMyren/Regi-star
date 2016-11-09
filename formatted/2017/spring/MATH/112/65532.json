@@ -1,0 +1,49 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/MATH/112/65532.json", 
+    "id": "65532", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Altgeld Hall", 
+            "daysOfTheWeek": "MW", 
+            "end": "11:50 AM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "314", 
+            "start": "11:00 AM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Algebra", 
+            "href": "/2017/spring/MATH/112.json", 
+            "id": "112"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AL1", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This section is restricted to students who have a recent score on the ALEKS PPL placement exam of at least 50%.  Note that there may be a 1-day delay between completing the ALEKS PPL exam and being able to register for Math 112.  For information on taking the ALEKS PPL and dates, please see http://math.illinois.edu/ALEKS and for enrollment questions please contact mathadvising@illinois.edu <mailto:mathadvising@illinois.edu> , making sure to include your full name and 9-digit UIN. Students must register for one Lecture and one discussion section", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

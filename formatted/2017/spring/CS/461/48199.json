@@ -1,0 +1,63 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/CS/461/48199.json", 
+    "id": "48199", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Digital Computer Laboratory", 
+            "daysOfTheWeek": "MW", 
+            "end": "01:45 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Bailey, M", 
+                        "firstName": "M", 
+                        "lastName": "Bailey"
+                    }, 
+                    {
+                        "content": "Miller, A", 
+                        "firstName": "A", 
+                        "lastName": "Miller"
+                    }
+                ]
+            }, 
+            "roomNumber": "1320", 
+            "start": "12:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Computer Security I", 
+            "href": "/2017/spring/CS/461.json", 
+            "id": "461"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Computer Science or Statistics & Computer Science or Math & Computer Science or Computer Sci & Anthropology or Computer Sci & Astronomy or Computer Sci & Chemistry or Computer Sci & Linguistics major(s). Restricted to students with Senior or Graduate class standing.", 
+    "sectionNumber": "AL4", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

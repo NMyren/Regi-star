@@ -1,0 +1,64 @@
+{
+    "creditHours": "2 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/CS/199/48739.json", 
+    "id": "48739", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Siebel Center for Comp Sci", 
+            "daysOfTheWeek": "M", 
+            "end": "08:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Heeren, C", 
+                        "firstName": "C", 
+                        "lastName": "Heeren"
+                    }, 
+                    {
+                        "content": "Yershova, G", 
+                        "firstName": "G", 
+                        "lastName": "Yershova"
+                    }
+                ]
+            }, 
+            "roomNumber": "1302", 
+            "start": "07:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/CS/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "CH", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Course Prerequisites:  Must have taken (and dropped) the first half of CS 225 this semester, and must not have been enrolled in CS 199 ?CH? previously.  Requirements are FIRM.", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

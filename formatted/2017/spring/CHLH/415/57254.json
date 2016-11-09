@@ -1,0 +1,57 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "CrossListOpen (Restricted)", 
+    "href": "/2017/spring/CHLH/415/57254.json", 
+    "id": "57254", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Chemistry Annex", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Schwingel, A", 
+                    "firstName": "A", 
+                    "lastName": "Schwingel"
+                }
+            }, 
+            "roomNumber": "1024", 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LEC", 
+                "content": "Lecture"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "International Health", 
+            "href": "/2017/spring/CHLH/415.json", 
+            "id": "415"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sectionNumber": "ASU", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course meets the second 8 weeks only.  Majority of seats held for AHS students. The department will continue to have some seats reserved for AHS majors and no overrides will be given.", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

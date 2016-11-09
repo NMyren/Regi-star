@@ -1,0 +1,50 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/CMN/212/50684.json", 
+    "id": "50684", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Lincoln Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {}, 
+            "roomNumber": "1051", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro to Organizational Comm", 
+            "href": "/2017/spring/CMN/212.json", 
+            "id": "212"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Speech Communication or Communication major(s).", 
+    "sectionNumber": "3", 
+    "sectionStatusCode": "A", 
+    "sectionText": "Reserve for Communication majors removed November 18 by 9:00am.", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

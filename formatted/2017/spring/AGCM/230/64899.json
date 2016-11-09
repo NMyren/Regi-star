@@ -1,0 +1,55 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/AGCM/230/64899.json", 
+    "id": "64899", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Gregory Hall", 
+            "daysOfTheWeek": "T", 
+            "end": "08:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Danzl, R", 
+                    "firstName": "R", 
+                    "lastName": "Danzl"
+                }
+            }, 
+            "roomNumber": "9", 
+            "start": "05:30 PM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Agricultural and Environmental Photography", 
+            "href": "/2017/spring/AGCM/230.json", 
+            "id": "230"
+        }, 
+        "subject": {
+            "content": "Agricultural Communications", 
+            "href": "/2017/spring/AGCM.json", 
+            "id": "AGCM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionNumber": "LR", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This course is designed to acquaint students with the fundamentals of photography, focusing on its application in communicating topics concerning agriculture, food, energy, the environment and community development. It covers the conceptualization and planning of pictures, techniques in producing photographs, and the development of skills to successfully complete visual assignments for the print, broadcast and the online media.", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "A"
+}

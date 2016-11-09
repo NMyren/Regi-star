@@ -1,0 +1,46 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/PS/101/56103.json", 
+    "id": "56103", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {}, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "ONL", 
+                "content": "Online"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro to US Gov & Pol", 
+            "href": "/2017/spring/PS/101.json", 
+            "id": "101"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "B", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionNumber": "ONL", 
+    "sectionStatusCode": "P", 
+    "sectionText": "Second 8 weeks class, online format.", 
+    "startDate": "2017-03-13-05:00", 
+    "statusCode": "P"
+}

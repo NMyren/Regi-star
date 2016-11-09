@@ -1,0 +1,54 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/ARTD/313/39753.json", 
+    "id": "39753", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Art and Design Building", 
+            "daysOfTheWeek": "MW", 
+            "end": "11:40 AM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Benson, E", 
+                    "firstName": "E", 
+                    "lastName": "Benson"
+                }
+            }, 
+            "roomNumber": "216", 
+            "start": "09:00 AM", 
+            "type": {
+                "code": "LAB", 
+                "content": "Laboratory"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Digital Interaction", 
+            "href": "/2017/spring/ARTD/313.json", 
+            "id": "313"
+        }, 
+        "subject": {
+            "content": "Art--Design", 
+            "href": "/2017/spring/ARTD.json", 
+            "id": "ARTD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "GD1", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

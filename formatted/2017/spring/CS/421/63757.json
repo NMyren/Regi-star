@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/CS/421/63757.json", 
+    "id": "63757", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Digital Computer Laboratory", 
+            "daysOfTheWeek": "TR", 
+            "end": "04:45 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Beckman, A", 
+                    "firstName": "A", 
+                    "lastName": "Beckman"
+                }
+            }, 
+            "roomNumber": "1310", 
+            "start": "03:30 PM", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Progrmg Languages & Compilers", 
+            "href": "/2017/spring/CS/421.json", 
+            "id": "421"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNotes": "Restricted to Computer Science major(s). Restricted to Graduate - Urbana-Champaign.", 
+    "sectionNumber": "C4", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

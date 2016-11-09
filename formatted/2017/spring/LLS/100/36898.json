@@ -1,0 +1,59 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/LLS/100/36898.json", 
+    "id": "36898", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "R", 
+            "end": "04:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": [
+                    {
+                        "content": "Madarieta, E", 
+                        "firstName": "E", 
+                        "lastName": "Madarieta"
+                    }, 
+                    {
+                        "content": "Viruell-Fuentes, E", 
+                        "firstName": "E", 
+                        "lastName": "Viruell-Fuentes"
+                    }
+                ]
+            }, 
+            "start": "04:00 PM", 
+            "type": {
+                "code": "DIS", 
+                "content": "Discussion/Recitation"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Intro Latina/Latino Studies", 
+            "href": "/2017/spring/LLS/100.json", 
+            "id": "100"
+        }, 
+        "subject": {
+            "content": "Latina/Latino Studies", 
+            "href": "/2017/spring/LLS.json", 
+            "id": "LLS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AD2", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

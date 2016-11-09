@@ -1,0 +1,53 @@
+{
+    "creditHours": "1 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open (Restricted)", 
+    "href": "/2017/spring/SHS/475/54231.json", 
+    "id": "54231", 
+    "meetings": {
+        "meeting": {
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Parker, C", 
+                    "firstName": "C", 
+                    "lastName": "Parker"
+                }
+            }, 
+            "start": "ARRANGED", 
+            "type": {
+                "code": "LCD", 
+                "content": "Lecture-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Prepracticum in SHS", 
+            "href": "/2017/spring/SHS/475.json", 
+            "id": "475"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "P", 
+    "sectionStatusCode": "A", 
+    "sectionText": "1 hour, Pre-practicum in Audiology.", 
+    "sectionTitle": "Prepracticum in Audiology", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

@@ -1,0 +1,52 @@
+{
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Open", 
+    "href": "/2017/spring/KIN/340/57546.json", 
+    "id": "57546", 
+    "meetings": {
+        "meeting": {
+            "daysOfTheWeek": "F", 
+            "end": "02:50 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Chizewski, A", 
+                    "firstName": "A", 
+                    "lastName": "Chizewski"
+                }
+            }, 
+            "start": "01:00 PM", 
+            "type": {
+                "code": "LBD", 
+                "content": "Laboratory-Discussion"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Soc & Psych of Phys Activity", 
+            "href": "/2017/spring/KIN/340.json", 
+            "id": "340"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionNumber": "AY4", 
+    "sectionStatusCode": "A", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}

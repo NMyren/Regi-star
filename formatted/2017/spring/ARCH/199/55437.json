@@ -1,0 +1,58 @@
+{
+    "creditHours": "3 hours", 
+    "endDate": "2017-05-03-05:00", 
+    "enrollmentStatus": "Closed", 
+    "href": "/2017/spring/ARCH/199/55437.json", 
+    "id": "55437", 
+    "meetings": {
+        "meeting": {
+            "buildingName": "Temple Hoyne Buell Hall", 
+            "daysOfTheWeek": "TR", 
+            "end": "03:20 PM", 
+            "id": "0", 
+            "instructors": {
+                "instructor": {
+                    "content": "Hinders, K", 
+                    "firstName": "K", 
+                    "lastName": "Hinders"
+                }
+            }, 
+            "roomNumber": "315", 
+            "start": "02:00 PM", 
+            "type": {
+                "code": "C2 ", 
+                "content": "Conference"
+            }
+        }
+    }, 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "course": {
+            "content": "Undergraduate Open Seminar", 
+            "href": "/2017/spring/ARCH/199.json", 
+            "id": "199"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "partOfTerm": "1", 
+    "sectionCappArea": "Restricted to Chancellor's Scholar-CHPHonors students.", 
+    "sectionDegreeAttributes": "Camp Honors/Chanc Schol course.", 
+    "sectionNumber": "KH", 
+    "sectionStatusCode": "A", 
+    "sectionText": "This section is for Chancellor's Scholars only; others may enroll with the permission of the Campus Honors Program and the instructor.  Topic:  Architecture and the Built Environment", 
+    "startDate": "2017-01-17-06:00", 
+    "statusCode": "A"
+}
