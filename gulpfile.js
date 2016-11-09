@@ -19,6 +19,14 @@ require('require-dir')('./' + gulp.paths.tasks);
 
 gulp.task('default', function(done) {
   gulp.start('build');
-})
-gulp.task('build', ['clean', 'scripts', 'style']);
-gulp.task('build:prod', ['clean', 'scripts:prod', 'style:prod'])
+});
+
+gulp.task('build', ['clean'], function() {
+  gulp.start('scripts');
+  gulp.start('style');
+});
+
+gulp.task('build:prod', ['clean'], function() {
+  gulp.start('scripts:prod');
+  gulp.start('style:prod');
+});
