@@ -1,0 +1,33 @@
+{
+    "classScheduleInformation": "A student registered in one or more Art & Design course(s) exhibiting this message, will be assessed a $95 facility use fee once each term.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule.", 
+    "creditHours": "3 hours.", 
+    "description": "This introductory studio functions as a survey of typographic practice across media platforms. Students relate typographic form to reading conventions and reproduction technologies. Additional fees may apply. See Class Schedule.", 
+    "href": "/2017/spring/ARTD/222.json", 
+    "id": "ARTD 222", 
+    "label": "Typographic Practice", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Design", 
+            "href": "/2017/spring/ARTD.json", 
+            "id": "ARTD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "GD3", 
+            "href": "/2017/spring/ARTD/222/65185.json", 
+            "id": "65185"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: ME 403.", 
+    "creditHours": "4 hours.", 
+    "description": "Design of internal combustion engines, including gas forces, inertia loads, bearing analysis, torsional vibration, balance, lubrication, valve and cam design, and stress analysis of major engine components. Prerequisite: ME 403.", 
+    "href": "/2017/spring/ME/503.json", 
+    "id": "ME 503", 
+    "label": "Design of IC Engines", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "G", 
+            "href": "/2017/spring/ME/503/55684.json", 
+            "id": "55684"
+        }
+    }
+}

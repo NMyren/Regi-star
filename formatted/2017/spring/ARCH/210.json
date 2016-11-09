@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Sophomore standing or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Visual and cultural analysis of selected buildings, urban spaces, and cities, from ancient Greece to modern times; emphasizes the architectural traditions of Western Civilization, especially as they affect the built environment of America and the Middle West. Prerequisite: Sophomore standing or consent of instructor.", 
+    "href": "/2017/spring/ARCH/210.json", 
+    "id": "ARCH 210", 
+    "label": "Intro to the Hist of Arch", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "AL", 
+            "href": "/2017/spring/ARCH/210/30223.json", 
+            "id": "30223"
+        }
+    }
+}

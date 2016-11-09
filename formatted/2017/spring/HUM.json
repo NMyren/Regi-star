@@ -1,0 +1,64 @@
+{
+    "addressLine1": "College Office", 
+    "addressLine2": "2090 Lincoln Hall, 702 South Wright Street, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "LAS Program Advisor: College Office, 2090 Lincoln Hall, 702 South Wright Street, UrbanaSubjects associated with this department include: Humanities (HUM) and Liberal Arts and Sciences (LAS).\nwww.las.illinois.edu/", 
+    "contactTitle": "LAS Program Advisor", 
+    "courses": {
+        "course": [
+            {
+                "content": "Freshman Honors Tutorial", 
+                "href": "/2017/spring/HUM/191.json", 
+                "id": "191"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/HUM/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Individual Study", 
+                "href": "/2017/spring/HUM/390.json", 
+                "id": "390"
+            }, 
+            {
+                "content": "Special Topics Junior", 
+                "href": "/2017/spring/HUM/397.json", 
+                "id": "397"
+            }, 
+            {
+                "content": "Senior Thesis", 
+                "href": "/2017/spring/HUM/492.json", 
+                "id": "492"
+            }, 
+            {
+                "content": "Special Advanced Topics", 
+                "href": "/2017/spring/HUM/495.json", 
+                "id": "495"
+            }, 
+            {
+                "content": "Special Topics Senior", 
+                "href": "/2017/spring/HUM/498.json", 
+                "id": "498"
+            }
+        ]
+    }, 
+    "departmentCode": "1670", 
+    "id": "HUM", 
+    "label": "Humanities Courses", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "subjectComment": "Subjects associated with this department include: Humanities (HUM) and Liberal Arts and Sciences (LAS).", 
+    "unitName": "Liberal Arts and Sciences", 
+    "webSiteURL": "www.las.illinois.edu/"
+}

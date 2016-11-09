@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as CWL 350 and RLST 350. See RLST 350.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as CWL 350 and RLST 350. See RLST 350.", 
+    "href": "/2017/spring/SAME/350.json", 
+    "id": "SAME 350", 
+    "label": "South Asian Goddesses", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "South Asian and Middle Eastern Studies", 
+            "href": "/2017/spring/SAME.json", 
+            "id": "SAME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SAME/350/61756.json", 
+            "id": "61756"
+        }
+    }
+}

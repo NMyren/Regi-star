@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours.", 
+    "creditHours": "3 hours.", 
+    "description": "Fundamental and unifying principles in biomolecular materials science. Nucleic acids, proteins, lipids, and sugars. Specific and non-specific interactions which govern biomolecular behavior in a wide range of contexts (e.g., self-assembly, cell adhesion). Present knowledge and empirical evidence integrated with discussions of experimental characterization and manipulation techniques in biotechnology. Application of course content and expository research into current literature via a case study term project. 3 undergraduate hours. 3 graduate hours.", 
+    "href": "/2017/spring/MSE/473.json", 
+    "id": "MSE 473", 
+    "label": "Biomolecular Materials Science", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Materials Science and Engineering", 
+            "href": "/2017/spring/MSE.json", 
+            "id": "MSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MSE/473/38346.json", 
+            "id": "38346"
+        }
+    }
+}

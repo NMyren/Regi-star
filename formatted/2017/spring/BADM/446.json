@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours.", 
+    "creditHours": "4 hours.", 
+    "description": "Studies entrepreneurship for those with a serious interest in owning their own business within five years of graduation; students prepare a comprehensive business plan for starting or acquiring such a business; also studies the problems of an existing small business. 4 undergraduate hours. 4 graduate hours.", 
+    "href": "/2017/spring/BADM/446.json", 
+    "id": "BADM 446", 
+    "label": "Entrepreneurship Sm Bus Form", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to students with Junior, Senior, or Graduate class standing. Restricted to BS: Management -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/BADM/446/31067.json", 
+            "id": "31067"
+        }
+    }
+}

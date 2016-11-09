@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: PSYC 100 or PSYC 103.", 
+    "creditHours": "3 hours.", 
+    "description": "Study of personality from various points of view: biological, experimental, social, and humanistic; surveys theory and empirical research in the study of personality. Prerequisite: PSYC 100 or PSYC 103.", 
+    "href": "/2017/spring/PSYC/250.json", 
+    "id": "PSYC 250", 
+    "label": "Psych of Personality", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "I", 
+            "href": "/2017/spring/PSYC/250/37224.json", 
+            "id": "37224"
+        }
+    }
+}

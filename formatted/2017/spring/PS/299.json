@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading. May be repeated to a maximum of 34 hours per academic year. Prerequisite: Overall GPA 2.75, 3.00 grade point average in Political Science, admission to approved program.", 
+    "creditHours": "0 TO 18 hours.", 
+    "description": "Lectures, seminars, and practical work in an approved study-abroad program in Political Science, appropriate to the student's course of study. Approved for letter and S/U grading. May be repeated to a maximum of 34 hours per academic year. Prerequisite: Overall GPA 2.75, 3.00 grade point average in Political Science, admission to approved program.", 
+    "href": "/2017/spring/PS/299.json", 
+    "id": "PS 299", 
+    "label": "Study Abroad", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PS/299/55047.json", 
+            "id": "55047"
+        }
+    }
+}

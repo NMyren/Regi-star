@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "1 to 4 undergraduate hours. 1 to 4 graduate hours. Approved for both letter and S/U grading. Prerequisite: See Class Schedule for section requirements.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Lecture courses in topics of current interest; specific subject matter will be announced in the Class Schedule. 1 to 4 undergraduate hours. 1 to 4 graduate hours. Approved for both letter and S/U grading. Prerequisite: See Class Schedule for section requirements.", 
+    "href": "/2017/spring/AHS/494.json", 
+    "id": "AHS 494", 
+    "label": "Special Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Applied Health Sciences Courses", 
+            "href": "/2017/spring/AHS.json", 
+            "id": "AHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/AHS/494/65380.json", 
+                "id": "65380"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/AHS/494/65381.json", 
+                "id": "65381"
+            }
+        ]
+    }
+}

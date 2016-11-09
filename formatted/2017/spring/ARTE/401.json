@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: ARTE 302; concurrent registration in EDPR 438 and EDPR 442, art education sections only.", 
+    "creditHours": "4 hours.", 
+    "description": "Examines responsibilities, methods, and techniques specific to teaching art in elementary and secondary schools; includes the psychology of the exceptional child in conjunction with methods of instruction and student teaching experience. 4 undergraduate hours. 4 graduate hours. Prerequisite: ARTE 302; concurrent registration in EDPR 438 and EDPR 442, art education sections only.", 
+    "href": "/2017/spring/ARTE/401.json", 
+    "id": "ARTE 401", 
+    "label": "Teaching Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Education", 
+            "href": "/2017/spring/ARTE.json", 
+            "id": "ARTE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Art Education major(s).", 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/ARTE/401/60425.json", 
+            "id": "60425"
+        }
+    }
+}

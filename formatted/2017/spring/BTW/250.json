@@ -1,0 +1,237 @@
+{
+    "courseSectionInformation": "Credit is not given for both BTW 250 and either BTW 261 or BTW 263. Prerequisite: Junior standing and completion of campus Composition I requirement.", 
+    "creditHours": "3 hours.", 
+    "description": "Teaches students to apply the principles of successful professional communication to workplace writing tasks. Students will also practice editing and supervising the writing of others. Assignments replicate typical business cases and situations, including a report that requires students to compile and interpret research. Credit is not given for both BTW 250 and either BTW 261 or BTW 263. Prerequisite: Junior standing and completion of campus Composition I requirement.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/BTW/250.json", 
+    "id": "BTW 250", 
+    "label": "Principles Bus Comm", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business and Technical Writing", 
+            "href": "/2017/spring/BTW.json", 
+            "id": "BTW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/BTW/250/31486.json", 
+                "id": "31486"
+            }, 
+            {
+                "content": "AAP", 
+                "href": "/2017/spring/BTW/250/31496.json", 
+                "id": "31496"
+            }, 
+            {
+                "content": "B1", 
+                "href": "/2017/spring/BTW/250/31488.json", 
+                "id": "31488"
+            }, 
+            {
+                "content": "B2", 
+                "href": "/2017/spring/BTW/250/51858.json", 
+                "id": "51858"
+            }, 
+            {
+                "content": "C1", 
+                "href": "/2017/spring/BTW/250/31494.json", 
+                "id": "31494"
+            }, 
+            {
+                "content": "C2", 
+                "href": "/2017/spring/BTW/250/31492.json", 
+                "id": "31492"
+            }, 
+            {
+                "content": "C3", 
+                "href": "/2017/spring/BTW/250/31515.json", 
+                "id": "31515"
+            }, 
+            {
+                "content": "D1", 
+                "href": "/2017/spring/BTW/250/31498.json", 
+                "id": "31498"
+            }, 
+            {
+                "content": "D2", 
+                "href": "/2017/spring/BTW/250/31537.json", 
+                "id": "31537"
+            }, 
+            {
+                "content": "D3", 
+                "href": "/2017/spring/BTW/250/65192.json", 
+                "id": "65192"
+            }, 
+            {
+                "content": "E1", 
+                "href": "/2017/spring/BTW/250/31509.json", 
+                "id": "31509"
+            }, 
+            {
+                "content": "E2", 
+                "href": "/2017/spring/BTW/250/46085.json", 
+                "id": "46085"
+            }, 
+            {
+                "content": "E3", 
+                "href": "/2017/spring/BTW/250/65193.json", 
+                "id": "65193"
+            }, 
+            {
+                "content": "F1", 
+                "href": "/2017/spring/BTW/250/31513.json", 
+                "id": "31513"
+            }, 
+            {
+                "content": "F2", 
+                "href": "/2017/spring/BTW/250/31499.json", 
+                "id": "31499"
+            }, 
+            {
+                "content": "F3", 
+                "href": "/2017/spring/BTW/250/65194.json", 
+                "id": "65194"
+            }, 
+            {
+                "content": "G1", 
+                "href": "/2017/spring/BTW/250/31519.json", 
+                "id": "31519"
+            }, 
+            {
+                "content": "G2", 
+                "href": "/2017/spring/BTW/250/31511.json", 
+                "id": "31511"
+            }, 
+            {
+                "content": "L1", 
+                "href": "/2017/spring/BTW/250/31520.json", 
+                "id": "31520"
+            }, 
+            {
+                "content": "M1", 
+                "href": "/2017/spring/BTW/250/31523.json", 
+                "id": "31523"
+            }, 
+            {
+                "content": "M2", 
+                "href": "/2017/spring/BTW/250/31525.json", 
+                "id": "31525"
+            }, 
+            {
+                "content": "M3", 
+                "href": "/2017/spring/BTW/250/51860.json", 
+                "id": "51860"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/BTW/250/51862.json", 
+                "id": "51862"
+            }, 
+            {
+                "content": "P1", 
+                "href": "/2017/spring/BTW/250/31526.json", 
+                "id": "31526"
+            }, 
+            {
+                "content": "P3", 
+                "href": "/2017/spring/BTW/250/31490.json", 
+                "id": "31490"
+            }, 
+            {
+                "content": "Q1", 
+                "href": "/2017/spring/BTW/250/31530.json", 
+                "id": "31530"
+            }, 
+            {
+                "content": "Q2", 
+                "href": "/2017/spring/BTW/250/31532.json", 
+                "id": "31532"
+            }, 
+            {
+                "content": "Q3", 
+                "href": "/2017/spring/BTW/250/51859.json", 
+                "id": "51859"
+            }, 
+            {
+                "content": "S1", 
+                "href": "/2017/spring/BTW/250/31535.json", 
+                "id": "31535"
+            }, 
+            {
+                "content": "S2", 
+                "href": "/2017/spring/BTW/250/46086.json", 
+                "id": "46086"
+            }, 
+            {
+                "content": "S3", 
+                "href": "/2017/spring/BTW/250/31517.json", 
+                "id": "31517"
+            }, 
+            {
+                "content": "S4", 
+                "href": "/2017/spring/BTW/250/31522.json", 
+                "id": "31522"
+            }, 
+            {
+                "content": "T1", 
+                "href": "/2017/spring/BTW/250/31485.json", 
+                "id": "31485"
+            }, 
+            {
+                "content": "T2", 
+                "href": "/2017/spring/BTW/250/51861.json", 
+                "id": "51861"
+            }, 
+            {
+                "content": "T3", 
+                "href": "/2017/spring/BTW/250/44318.json", 
+                "id": "44318"
+            }, 
+            {
+                "content": "T4", 
+                "href": "/2017/spring/BTW/250/31507.json", 
+                "id": "31507"
+            }, 
+            {
+                "content": "X1", 
+                "href": "/2017/spring/BTW/250/31501.json", 
+                "id": "31501"
+            }, 
+            {
+                "content": "X2", 
+                "href": "/2017/spring/BTW/250/46082.json", 
+                "id": "46082"
+            }, 
+            {
+                "content": "X3", 
+                "href": "/2017/spring/BTW/250/31528.json", 
+                "id": "31528"
+            }
+        ]
+    }
+}

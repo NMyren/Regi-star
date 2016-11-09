@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 2 or 4 graduate hours. Graduate credit is not given for both ECON 450 and ECON 550 or ECON 551. Prerequisite: ECON 102 and ECON 103 or equivalent. ECON 302 strongly recommended.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Analyzes the economic problems associated with newly developing nations; emphasizes their economic structures, their factor scarcities, and their programs for development. Not open for graduate credit to graduate candidates in economics. 3 undergraduate hours. 2 or 4 graduate hours. Graduate credit is not given for both ECON 450 and ECON 550 or ECON 551. Prerequisite: ECON 102 and ECON 103 or equivalent. ECON 302 strongly recommended.", 
+    "href": "/2017/spring/ECON/450.json", 
+    "id": "ECON 450", 
+    "label": "Development Economics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A1", 
+                "href": "/2017/spring/ECON/450/43677.json", 
+                "id": "43677"
+            }, 
+            {
+                "content": "A2", 
+                "href": "/2017/spring/ECON/450/43679.json", 
+                "id": "43679"
+            }, 
+            {
+                "content": "A3", 
+                "href": "/2017/spring/ECON/450/43678.json", 
+                "id": "43678"
+            }, 
+            {
+                "content": "B1", 
+                "href": "/2017/spring/ECON/450/65865.json", 
+                "id": "65865"
+            }
+        ]
+    }
+}

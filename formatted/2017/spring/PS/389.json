@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as MACS 389. See MACS 389.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as MACS 389. See MACS 389.", 
+    "href": "/2017/spring/PS/389.json", 
+    "id": "PS 389", 
+    "label": "International Communications", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PS/389/48447.json", 
+            "id": "48447"
+        }
+    }
+}

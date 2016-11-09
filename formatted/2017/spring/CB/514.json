@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as ENVS 514 and PSYC 515. Prerequisite: Credit or concurrent registration in MCB 450 or equivalent.", 
+    "creditHours": "3 hours.", 
+    "description": "Examines toxic responses of the mammalian nervous system to xenobiotics (therapeutic agents, drugs of abuse, toxins, environmental and industrial chemicals) from the molecular and cellular levels to the behavioral level. Also covers neuroteratology, sensitive periods for neurotoxicity and the potential role of environmental factors/xenobiotics in the etiology of nervous system disorders. Same as ENVS 514 and PSYC 515. Prerequisite: Credit or concurrent registration in MCB 450 or equivalent.", 
+    "href": "/2017/spring/CB/514.json", 
+    "id": "CB 514", 
+    "label": "Neurotoxicology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Comparative Biosciences", 
+            "href": "/2017/spring/CB.json", 
+            "id": "CB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CB/514/58490.json", 
+            "id": "58490"
+        }
+    }
+}

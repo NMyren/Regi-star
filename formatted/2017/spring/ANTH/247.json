@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: ANTH 246.", 
+    "creditHours": "3 hours.", 
+    "description": "Forensic science is the application of science to the law and encompasses a wide variety of scientific disciplines. This course introduces students to general laboratory practice, molecular biology and DNA analysis skill that are commonly used by forensic DNA scientists. Students will learn using a ?hands-on? and interactive approach with many of the same tools used by professional forensic DNA scientists. Prerequisite: ANTH 246.", 
+    "href": "/2017/spring/ANTH/247.json", 
+    "id": "ANTH 247", 
+    "label": "Forensic Science DNA Lab", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Anthropology", 
+            "href": "/2017/spring/ANTH.json", 
+            "id": "ANTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "1", 
+            "href": "/2017/spring/ANTH/247/65164.json", 
+            "id": "65164"
+        }
+    }
+}

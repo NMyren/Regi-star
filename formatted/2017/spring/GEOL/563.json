@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Introduces principles and applications of chemical and isotopic analysis of geological materials, including x-ray spectroscopy, mass spectrometry and atomic spectroscopy. Lectures cover theory of analysis while practical laboratory based exercises focus on how instruments work and instrument operation. Individually tailored analysis project constitutes a major part of assessment. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/GEOL/563.json", 
+    "id": "GEOL 563", 
+    "label": "Analytical Geochemistry", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "AL1", 
+            "href": "/2017/spring/GEOL/563/47981.json", 
+            "id": "47981"
+        }
+    }
+}

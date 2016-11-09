@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. Prerequisite: Senior standing in the Biochemistry Specialized Curriculum; MCB 354 and MCB 406 or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Capstone course of the Biochemistry Specialized Curriculum, designed to expose undergraduate seniors to developing areas of research in biochemistry. Each year the course will cover 3 to 4 topics of high current research activity, each presented by one faculty member. Readings will be based on the primary lecture. 3 undergraduate hours. No graduate credit. Prerequisite: Senior standing in the Biochemistry Specialized Curriculum; MCB 354 and MCB 406 or consent of instructor.", 
+    "href": "/2017/spring/BIOC/445.json", 
+    "id": "BIOC 445", 
+    "label": "Current Topics in Biochemistry", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Biochemistry", 
+            "href": "/2017/spring/BIOC.json", 
+            "id": "BIOC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Biochemistry major(s). Restricted to students with Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/BIOC/445/61722.json", 
+            "id": "61722"
+        }
+    }
+}

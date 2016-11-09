@@ -1,0 +1,40 @@
+{
+    "creditHours": "2 OR 4 hours.", 
+    "description": "Focuses on how to manage flows of products and services from raw material sources to final customers and associate flows of information. Helps students to develop a system view of measuring channel performance, integrating cross-functional activities, and coordinating processes across organizations.", 
+    "href": "/2017/spring/BADM/566.json", 
+    "id": "BADM 566", 
+    "label": "Supply Chain Management", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionRegistrationNotes": "Restricted to MS: Technology Management-UIUC.", 
+    "sections": {
+        "section": [
+            {
+                "content": "ADV", 
+                "href": "/2017/spring/BADM/566/46211.json", 
+                "id": "46211"
+            }, 
+            {
+                "content": "GRD", 
+                "href": "/2017/spring/BADM/566/57153.json", 
+                "id": "57153"
+            }
+        ]
+    }
+}

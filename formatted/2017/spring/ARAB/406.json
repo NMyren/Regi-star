@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: ARAB 405.", 
+    "creditHours": "3 hours.", 
+    "description": "Continuation of ARAB 405. 3 undergraduate hours. 3 graduate hours. Prerequisite: ARAB 405.", 
+    "href": "/2017/spring/ARAB/406.json", 
+    "id": "ARAB 406", 
+    "label": "Advanced Standard Arabic II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Arabic", 
+            "href": "/2017/spring/ARAB.json", 
+            "id": "ARAB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ARAB/406/30207.json", 
+            "id": "30207"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "Prerequisite: PHYS 100; concurrent registration in PHYS 211.", 
+    "creditHours": "1 hours.", 
+    "description": "Supplement to PHYS 211 with a collaborative group learning approach to improving conceptual understanding and problem solving in introductory calculus-based mechanics. Prerequisite: PHYS 100; concurrent registration in PHYS 211.", 
+    "href": "/2017/spring/PHYS/221.json", 
+    "id": "PHYS 221", 
+    "label": "Enrichment Mechanics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "M1", 
+                "href": "/2017/spring/PHYS/221/53717.json", 
+                "id": "53717"
+            }, 
+            {
+                "content": "M2", 
+                "href": "/2017/spring/PHYS/221/53718.json", 
+                "id": "53718"
+            }, 
+            {
+                "content": "M3", 
+                "href": "/2017/spring/PHYS/221/53719.json", 
+                "id": "53719"
+            }, 
+            {
+                "content": "M4", 
+                "href": "/2017/spring/PHYS/221/53720.json", 
+                "id": "53720"
+            }
+        ]
+    }
+}

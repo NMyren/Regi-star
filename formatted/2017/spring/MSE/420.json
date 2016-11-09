@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours.", 
+    "creditHours": "3 hours.", 
+    "description": "Ceramic material fundamentals, emphasizing structure-property relations. Development, use, and control of the properties of a wide variety of ceramic materials from a physico-chemical point of view. 3 undergraduate hours. 3 graduate hours.", 
+    "href": "/2017/spring/MSE/420.json", 
+    "id": "MSE 420", 
+    "label": "Ceramic Materials & Properties", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Materials Science and Engineering", 
+            "href": "/2017/spring/MSE.json", 
+            "id": "MSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/MSE/420/38221.json", 
+            "id": "38221"
+        }
+    }
+}

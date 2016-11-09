@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: POL 201.", 
+    "creditHours": "4 hours.", 
+    "description": "Continuation of POL 201. Prerequisite: POL 201.", 
+    "href": "/2017/spring/POL/202.json", 
+    "id": "POL 202", 
+    "label": "Second Yr Polish II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Polish", 
+            "href": "/2017/spring/POL.json", 
+            "id": "POL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "E", 
+            "href": "/2017/spring/POL/202/37944.json", 
+            "id": "37944"
+        }
+    }
+}

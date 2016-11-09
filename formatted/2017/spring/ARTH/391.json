@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 6 hours. Prerequisite: Junior standing in art and design; and consent of instructor, advisor, and associate director of the School.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Directed independent research or creative activity. May be repeated to a maximum of 6 hours. Prerequisite: Junior standing in art and design; and consent of instructor, advisor, and associate director of the School.", 
+    "href": "/2017/spring/ARTH/391.json", 
+    "id": "ARTH 391", 
+    "label": "Individual Art History Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--History", 
+            "href": "/2017/spring/ARTH.json", 
+            "id": "ARTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ARTH/391/10382.json", 
+            "id": "10382"
+        }
+    }
+}

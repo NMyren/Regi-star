@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. Credit is not given for both SOC 485 and another course with a primary focus on applied multiple regression analysis such as ECON 203, STAT 420, or PSYC 406. Graduate students must incorporate research literature involving statistical analysis from their discipline into their assignments and class discussions. Prerequisite: SOC 280 or equivalent.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Intermediate course in the theory and application of statistical methods to social science data. Coverage includes overviews of measurement issues, the logic of hypothesis testing and estimation, the general linear model, one-way analysis of variance, correlation and regression. The core of the course is multiple regression analysis and its extensions. Topics include dummy variable analysis, statistical interaction, model assumptions and violations, non-linear and logistic regression, and an introduction to path analysis. Emphasis on the application of statistical computing packages (e. g. SPSS) and the substantive interpretation of results. 3 undergraduate hours. 4 graduate hours. Credit is not given for both SOC 485 and another course with a primary focus on applied multiple regression analysis such as ECON 203, STAT 420, or PSYC 406. Graduate students must incorporate research literature involving statistical analysis from their discipline into their assignments and class discussions. Prerequisite: SOC 280 or equivalent.", 
+    "href": "/2017/spring/SOC/485.json", 
+    "id": "SOC 485", 
+    "label": "Intermediate Social Statistics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Sociology", 
+            "href": "/2017/spring/SOC.json", 
+            "id": "SOC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G4", 
+                "href": "/2017/spring/SOC/485/34463.json", 
+                "id": "34463"
+            }, 
+            {
+                "content": "UG3", 
+                "href": "/2017/spring/SOC/485/34461.json", 
+                "id": "34461"
+            }
+        ]
+    }
+}

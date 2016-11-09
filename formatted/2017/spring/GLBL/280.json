@@ -1,0 +1,82 @@
+{
+    "courseSectionInformation": "Same as PHYS 280. See PHYS 280.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as PHYS 280. See PHYS 280.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/GLBL/280.json", 
+    "id": "GLBL 280", 
+    "label": "Nuclear Weapons & Arms Control", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Global Studies", 
+            "href": "/2017/spring/GLBL.json", 
+            "id": "GLBL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/GLBL/280/38669.json", 
+                "id": "38669"
+            }, 
+            {
+                "content": "L11", 
+                "href": "/2017/spring/GLBL/280/40898.json", 
+                "id": "40898"
+            }, 
+            {
+                "content": "L12", 
+                "href": "/2017/spring/GLBL/280/40899.json", 
+                "id": "40899"
+            }, 
+            {
+                "content": "L13", 
+                "href": "/2017/spring/GLBL/280/40901.json", 
+                "id": "40901"
+            }, 
+            {
+                "content": "L14", 
+                "href": "/2017/spring/GLBL/280/40900.json", 
+                "id": "40900"
+            }, 
+            {
+                "content": "L15", 
+                "href": "/2017/spring/GLBL/280/40902.json", 
+                "id": "40902"
+            }, 
+            {
+                "content": "L16", 
+                "href": "/2017/spring/GLBL/280/40903.json", 
+                "id": "40903"
+            }, 
+            {
+                "content": "L18", 
+                "href": "/2017/spring/GLBL/280/40906.json", 
+                "id": "40906"
+            }
+        ]
+    }
+}

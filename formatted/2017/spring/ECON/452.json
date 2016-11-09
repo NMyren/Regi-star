@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Same as ACE 452. 3 undergraduate hours. 2 or 4 graduate hours. Prerequisite: ECON 102 or ECON 103. ECON 302 or ECON 303 strongly recommended.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Focuses on the economic history of the region, the recent industrialization process and its impact, the role of the state and foreign capital, the impact of the recent privatization processes, inflation and stabilization policies, and issues surrounding the distribution of income. Same as ACE 452. 3 undergraduate hours. 2 or 4 graduate hours. Prerequisite: ECON 102 or ECON 103. ECON 302 or ECON 303 strongly recommended.", 
+    "href": "/2017/spring/ECON/452.json", 
+    "id": "ECON 452", 
+    "label": "The Latin American Economies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A1", 
+                "href": "/2017/spring/ECON/452/33618.json", 
+                "id": "33618"
+            }, 
+            {
+                "content": "A2", 
+                "href": "/2017/spring/ECON/452/33622.json", 
+                "id": "33622"
+            }, 
+            {
+                "content": "A3", 
+                "href": "/2017/spring/ECON/452/33620.json", 
+                "id": "33620"
+            }
+        ]
+    }
+}

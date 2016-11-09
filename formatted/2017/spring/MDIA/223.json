@@ -1,0 +1,46 @@
+{
+    "courseSectionInformation": "Same as NRES 223.", 
+    "creditHours": "3 hours.", 
+    "description": "This course examines how films portray the health environment and the need for environmental protection. The course focuses on series of questions including: To what extent does a film suggest that the world has environmental concerns? What are the constraints that narrative form, production routines, financing and distribution put on representing environmental problems and environmentalists? Is the information in the film to be trusted? In documentaries, are physical and social scientists? explanations of environmental problems and solutions reliable? What cues can we use from within and outside the film to evaluate the film for credibility? During the course participants will compare the science and economics of selected environmental issues with film presentations, examine what drives of environmental participation (and the limits of film in presenting science), and look at the constraints of producing special interest versus broad distribution films on presentations of the environment. Class includes viewing blockbuster, Oscar, and award-winning documentaries. Lecture attendance is mandatory. Same as NRES 223.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/MDIA/223.json", 
+    "id": "MDIA 223", 
+    "label": "Watching the Environment", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Media", 
+            "href": "/2017/spring/MDIA.json", 
+            "id": "MDIA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "AR1", 
+            "href": "/2017/spring/MDIA/223/63460.json", 
+            "id": "63460"
+        }
+    }
+}

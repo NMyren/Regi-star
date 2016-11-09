@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: RUSS 101.", 
+    "creditHours": "4 hours.", 
+    "description": "Continuation of RUSS 101. Oral-aural practice and elements of grammar, reading, and writing. Prerequisite: RUSS 101.", 
+    "href": "/2017/spring/RUSS/102.json", 
+    "id": "RUSS 102", 
+    "label": "First-Year Russian II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Russian", 
+            "href": "/2017/spring/RUSS.json", 
+            "id": "RUSS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "B", 
+                "href": "/2017/spring/RUSS/102/33723.json", 
+                "id": "33723"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/RUSS/102/40263.json", 
+                "id": "40263"
+            }
+        ]
+    }
+}

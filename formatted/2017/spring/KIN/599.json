@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated.", 
+    "creditHours": "0 TO 16 hours.", 
+    "description": "Preparation of theses in kinesiology. Approved for S/U grading only. May be repeated.", 
+    "href": "/2017/spring/KIN/599.json", 
+    "id": "KIN 599", 
+    "label": "Thesis Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/KIN/599/10485.json", 
+            "id": "10485"
+        }
+    }
+}

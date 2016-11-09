@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional credit. Prerequisite: Graduate standing.", 
+    "creditHours": "4 hours.", 
+    "description": "An introduction to statistical and probabilistic models as they pertain to quantifying information, assessing information quality, and principled application of information to decision making, with focus on model selection and gauging model quality. The course reviews relevant results from probability theory, parametric and non-parametric predictive models, as well as extensions of these models for unsupervised learning. Applications of statistical and probabilistic models to tasks in information management (e.g. prediction, ranking, and data reduction) are emphasized. 4 graduate hours. No professional credit. Prerequisite: Graduate standing.", 
+    "href": "/2017/spring/LIS/542.json", 
+    "id": "LIS 542", 
+    "label": "Data, Stat, Info", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Information Sciences department.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/LIS/542/63691.json", 
+                "id": "63691"
+            }, 
+            {
+                "content": "LE", 
+                "href": "/2017/spring/LIS/542/65855.json", 
+                "id": "65855"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. Prerequisite: Consent of the staff member under whom the study is to be made.", 
+    "creditHours": "0 TO 4 hours.", 
+    "description": "Study under the supervision of a staff member in areas not covered in established course offerings. Approved for both letter and S/U grading. Prerequisite: Consent of the staff member under whom the study is to be made.", 
+    "href": "/2017/spring/CHBE/593.json", 
+    "id": "CHBE 593", 
+    "label": "Individual Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CHBE/593/10484.json", 
+            "id": "10484"
+        }
+    }
+}

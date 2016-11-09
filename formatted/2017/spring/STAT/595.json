@@ -1,0 +1,32 @@
+{
+    "creditHours": "2 hours.", 
+    "description": "Prepares Ph.D. students who are interested in an academic career to develop a successful academic career path, and to prepare graduate students for their future roles as teachers, and researchers. The course will focus on profession, job search, research, teaching and service. The course will involve guest panels, small and large group presentations and interactive Q&A with student participation.", 
+    "href": "/2017/spring/STAT/595.json", 
+    "id": "STAT 595", 
+    "label": "Preparing Future Faculty", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Statistics", 
+            "href": "/2017/spring/STAT.json", 
+            "id": "STAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign. Restricted to MS:Statistics -UIUC, PHD:Statistics -UIUC, MS:Statistics -- Applied -UIUC, or MS: Statistics: Analytics.", 
+    "sections": {
+        "section": {
+            "content": "A1", 
+            "href": "/2017/spring/STAT/595/60251.json", 
+            "id": "60251"
+        }
+    }
+}

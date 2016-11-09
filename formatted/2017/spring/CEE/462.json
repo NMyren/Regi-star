@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CEE 460.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Metal members under combined loads; connections, welded and bolted; moment-resistant connections; plate girders, conventional behavior, and tension field action. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CEE 460.", 
+    "href": "/2017/spring/CEE/462.json", 
+    "id": "CEE 462", 
+    "label": "Steel Structures II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "3", 
+                "href": "/2017/spring/CEE/462/62000.json", 
+                "id": "62000"
+            }, 
+            {
+                "content": "4", 
+                "href": "/2017/spring/CEE/462/62001.json", 
+                "id": "62001"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CEE/462/62439.json", 
+                "id": "62439"
+            }
+        ]
+    }
+}

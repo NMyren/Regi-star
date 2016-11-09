@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as CSE 522. Prerequisite: CS 433.", 
+    "creditHours": "4 hours.", 
+    "description": "Theoretical aspects of parallel and pipeline computation; time and processor bounds on classes of computations; data alignment network speed and cost bounds; conflict-free access memories; overall computer system ideas. Same as CSE 522. Prerequisite: CS 433.", 
+    "href": "/2017/spring/CS/533.json", 
+    "id": "CS 533", 
+    "label": "Parallel Computer Architecture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "S", 
+            "href": "/2017/spring/CS/533/31610.json", 
+            "id": "31610"
+        }
+    }
+}

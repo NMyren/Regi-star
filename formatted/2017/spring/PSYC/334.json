@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: PSYC 230 and statistics (PSYC 235 or equivalent).", 
+    "creditHours": "4 hours.", 
+    "description": "Examination of the research methods used to study human visual and spatial processes, including visual illusion, attention, imagery, navigation and spatial memory. Students will learn to design, carry out, and report psychological research. Prerequisite: PSYC 230 and statistics (PSYC 235 or equivalent).", 
+    "href": "/2017/spring/PSYC/334.json", 
+    "id": "PSYC 334", 
+    "label": "Perception Lab", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/PSYC/334/52402.json", 
+                "id": "52402"
+            }, 
+            {
+                "content": "AL", 
+                "href": "/2017/spring/PSYC/334/52401.json", 
+                "id": "52401"
+            }
+        ]
+    }
+}

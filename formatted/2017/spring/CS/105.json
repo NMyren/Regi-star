@@ -1,0 +1,103 @@
+{
+    "classScheduleInformation": "Students must register for one lab-discussion and one lecture section.", 
+    "courseSectionInformation": "Prerequisite: MATH 112.", 
+    "creditHours": "3 hours.", 
+    "description": "Computing as an essential tool of academic and professional activities. Functions and interrelationships of computer system components: hardware, systems and applications software, and networks. Widely used application packages such as spreadsheets and databases. Concepts and practice of programming for the solution of simple problems in different application areas. Intended for non-science and non-engineering majors. Prerequisite: MATH 112.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Quantitative Reasoning", 
+            "id": "QR", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1QR1", 
+                    "content": "UIUC: Quant Reasoning I"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CS/105.json", 
+    "id": "CS 105", 
+    "label": "Intro Computing: Non-Tech", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Quant Reasoning I course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AL2", 
+                "href": "/2017/spring/CS/105/31128.json", 
+                "id": "31128"
+            }, 
+            {
+                "content": "AYC", 
+                "href": "/2017/spring/CS/105/31134.json", 
+                "id": "31134"
+            }, 
+            {
+                "content": "AYD", 
+                "href": "/2017/spring/CS/105/31131.json", 
+                "id": "31131"
+            }, 
+            {
+                "content": "AYE", 
+                "href": "/2017/spring/CS/105/31132.json", 
+                "id": "31132"
+            }, 
+            {
+                "content": "AYG", 
+                "href": "/2017/spring/CS/105/31136.json", 
+                "id": "31136"
+            }, 
+            {
+                "content": "AYH", 
+                "href": "/2017/spring/CS/105/31137.json", 
+                "id": "31137"
+            }, 
+            {
+                "content": "AYI", 
+                "href": "/2017/spring/CS/105/31138.json", 
+                "id": "31138"
+            }, 
+            {
+                "content": "AYJ", 
+                "href": "/2017/spring/CS/105/31139.json", 
+                "id": "31139"
+            }, 
+            {
+                "content": "AYK", 
+                "href": "/2017/spring/CS/105/31140.json", 
+                "id": "31140"
+            }, 
+            {
+                "content": "AYL", 
+                "href": "/2017/spring/CS/105/31141.json", 
+                "id": "31141"
+            }, 
+            {
+                "content": "AYM", 
+                "href": "/2017/spring/CS/105/31142.json", 
+                "id": "31142"
+            }, 
+            {
+                "content": "AYP", 
+                "href": "/2017/spring/CS/105/31147.json", 
+                "id": "31147"
+            }
+        ]
+    }
+}

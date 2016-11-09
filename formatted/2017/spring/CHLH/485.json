@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "8 undergraduate hours. 8 graduate hours. Approved for S/U grading. Prerequisite: Senior standing in Community Health.", 
+    "creditHours": "8 hours.", 
+    "description": "Supervised field experience in official, voluntary and professional health agencies; designed to provide students with work experience in actual field situations. Students work in University approved health agencies for a minimum of 320 undergraduate hours. 8 undergraduate hours. 8 graduate hours. Approved for S/U grading. Prerequisite: Senior standing in Community Health.", 
+    "href": "/2017/spring/CHLH/485.json", 
+    "id": "CHLH 485", 
+    "label": "Community Health Internship", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Community Health major(s). Restricted to students with Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHLH/485/31269.json", 
+            "id": "31269"
+        }
+    }
+}

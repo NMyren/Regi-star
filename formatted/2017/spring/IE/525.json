@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: FIN 500.", 
+    "creditHours": "4 hours.", 
+    "description": "Numerical methods of the pricing and risk management of financial derivatives: Monte Carlo simulation; variance reduction techniques; quasi-Monte Carlo methods; finite difference methods for partial differential equations; time discretization schemes; free boundary problems for American options. Prerequisite: FIN 500.", 
+    "href": "/2017/spring/IE/525.json", 
+    "id": "IE 525", 
+    "label": "Numerical Methods in Finance", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Industrial Engineering", 
+            "href": "/2017/spring/IE.json", 
+            "id": "IE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to MS: Financial Engineering.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/IE/525/54714.json", 
+            "id": "54714"
+        }
+    }
+}

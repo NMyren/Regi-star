@@ -1,0 +1,151 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "117 Transportation Building, 104 South Mathews, Urbana", 
+    "collegeCode": "KP", 
+    "collegeDepartmentDescription": "Head of Department: Rakesh Nagi\nDepartment Office, 117 Transportation Building, 104 South Mathews, Urbana, 217-333-2731\nSubjects associated with this department include: General Engineering (GE) and Industrial Engineering (IE).\nwww.ise.illinois.edu/", 
+    "contactName": "Rakesh Nagi", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/IE/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Analysis of Data", 
+                "href": "/2017/spring/IE/300.json", 
+                "id": "300"
+            }, 
+            {
+                "content": "Operations Research", 
+                "href": "/2017/spring/IE/310.json", 
+                "id": "310"
+            }, 
+            {
+                "content": "Operations Research Lab", 
+                "href": "/2017/spring/IE/311.json", 
+                "id": "311"
+            }, 
+            {
+                "content": "Industrial Quality Control", 
+                "href": "/2017/spring/IE/330.json", 
+                "id": "330"
+            }, 
+            {
+                "content": "Human Factors", 
+                "href": "/2017/spring/IE/340.json", 
+                "id": "340"
+            }, 
+            {
+                "content": "Production Planning & Control", 
+                "href": "/2017/spring/IE/361.json", 
+                "id": "361"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/IE/397.json", 
+                "id": "397"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/IE/398.json", 
+                "id": "398"
+            }, 
+            {
+                "content": "Simulation", 
+                "href": "/2017/spring/IE/413.json", 
+                "id": "413"
+            }, 
+            {
+                "content": "Financial Engineering", 
+                "href": "/2017/spring/IE/420.json", 
+                "id": "420"
+            }, 
+            {
+                "content": "Design for Six Sigma", 
+                "href": "/2017/spring/IE/431.json", 
+                "id": "431"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/IE/497.json", 
+                "id": "497"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/IE/498.json", 
+                "id": "498"
+            }, 
+            {
+                "content": "Integer Programming", 
+                "href": "/2017/spring/IE/511.json", 
+                "id": "511"
+            }, 
+            {
+                "content": "Convex Optimization", 
+                "href": "/2017/spring/IE/521.json", 
+                "id": "521"
+            }, 
+            {
+                "content": "Numerical Methods in Finance", 
+                "href": "/2017/spring/IE/525.json", 
+                "id": "525"
+            }, 
+            {
+                "content": "Stochastic Calculus in Finance", 
+                "href": "/2017/spring/IE/526.json", 
+                "id": "526"
+            }, 
+            {
+                "content": "MSFE Professional Development", 
+                "href": "/2017/spring/IE/527.json", 
+                "id": "527"
+            }, 
+            {
+                "content": "Algorithms for Data Analytics", 
+                "href": "/2017/spring/IE/531.json", 
+                "id": "531"
+            }, 
+            {
+                "content": "Seminar", 
+                "href": "/2017/spring/IE/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/IE/597.json", 
+                "id": "597"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/IE/598.json", 
+                "id": "598"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/IE/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1422", 
+    "id": "IE", 
+    "label": "Industrial Engineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-2731", 
+    "subjectComment": "Subjects associated with this department include: General Engineering (GE) and Industrial Engineering (IE).", 
+    "unitName": "Industrial and Enterprise Systems Engineering", 
+    "webSiteURL": "www.ise.illinois.edu/"
+}

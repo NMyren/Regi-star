@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated in separate terms. Prerequisite: As specified for each topic offering, see Schedule or departmental course description.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Advanced topics in computer-aided methods for formal deduction, selected from areas of current research, such as: resolution theorem proving strategies, special relations, equational reasoning, unification theory, rewrite systems, mathematical induction, program derivation, hybrid inference systems, and programming with logic. May be repeated in separate terms. Prerequisite: As specified for each topic offering, see Schedule or departmental course description.", 
+    "href": "/2017/spring/CS/576.json", 
+    "id": "CS 576", 
+    "label": "Topics in Automated Deduction", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "N", 
+            "href": "/2017/spring/CS/576/31622.json", 
+            "id": "31622"
+        }
+    }
+}

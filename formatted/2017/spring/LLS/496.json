@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. May be repeated up to a maximum of 6 undergraduate hours or 12 graduate hours.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "3 undergraduate hours. 4 graduate hours. May be repeated up to a maximum of 6 undergraduate hours or 12 graduate hours.", 
+    "href": "/2017/spring/LLS/496.json", 
+    "id": "LLS 496", 
+    "label": "Seminar in Latina/o Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latina/Latino Studies", 
+            "href": "/2017/spring/LLS.json", 
+            "id": "LLS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G1", 
+                "href": "/2017/spring/LLS/496/62255.json", 
+                "id": "62255"
+            }, 
+            {
+                "content": "U1", 
+                "href": "/2017/spring/LLS/496/62254.json", 
+                "id": "62254"
+            }
+        ]
+    }
+}

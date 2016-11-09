@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: AFRO 100.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to various methodologies to be employed in the interdisciplinary field of African American/Africana studies. Prerequisite: AFRO 100.", 
+    "href": "/2017/spring/AFRO/220.json", 
+    "id": "AFRO 220", 
+    "label": "Intro to Research Methods AfAm", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "African American Studies", 
+            "href": "/2017/spring/AFRO.json", 
+            "id": "AFRO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/AFRO/220/45863.json", 
+            "id": "45863"
+        }
+    }
+}

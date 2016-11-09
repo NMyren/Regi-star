@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as ENGL 503 and MACS 503. See MACS 503.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as ENGL 503 and MACS 503. See MACS 503.", 
+    "href": "/2017/spring/CWL/503.json", 
+    "id": "CWL 503", 
+    "label": "Historiography of Cinema", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Comparative and World Literature", 
+            "href": "/2017/spring/CWL.json", 
+            "id": "CWL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "T", 
+            "href": "/2017/spring/CWL/503/60720.json", 
+            "id": "60720"
+        }
+    }
+}

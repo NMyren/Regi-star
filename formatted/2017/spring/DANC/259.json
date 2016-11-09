@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated in separate terms to a maximum of 4 hours.", 
+    "creditHours": "1 hours.", 
+    "description": "In this interdisciplinary course, performing arts students learn physical skills necessary for the practice of the contact improvisation (CI) partnering dance form as well as improvisational and performance skills. Encourages contemplation of the broader philosophical implications inherent in the form: community building and accepting difference. Content includes visits to lectures and events outside the Dance Department.  May be repeated in separate terms to a maximum of 4 hours.", 
+    "href": "/2017/spring/DANC/259.json", 
+    "id": "DANC 259", 
+    "label": "Contact Improv for Act/Mus/Dan", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Instrumental Music or Theatre or Music Education or Dance or Music or Dance or Music major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/DANC/259/57149.json", 
+            "id": "57149"
+        }
+    }
+}

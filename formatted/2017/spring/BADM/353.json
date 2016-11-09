@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as ACCY 353. Prerequisite: BADM 350.", 
+    "creditHours": "3 hours.", 
+    "description": "Methodologies and techniques used and deliverables created in developing large-scale information systems, including preliminary planning, feasibility analysis, design implementation, and post-implementation review of the system; a term-long project which familiarizes students with methodology and techniques is required. Same as ACCY 353. Prerequisite: BADM 350.", 
+    "href": "/2017/spring/BADM/353.json", 
+    "id": "BADM 353", 
+    "label": "Info Sys Analysis and Design", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Marketing or Information Sys & Info Tech or Supply Chain Management or Business Process Management or Management major(s) or minor(s). Restricted to students with Junior or Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/BADM/353/31238.json", 
+            "id": "31238"
+        }
+    }
+}

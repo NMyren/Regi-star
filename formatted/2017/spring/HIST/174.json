@@ -1,0 +1,69 @@
+{
+    "courseSectionInformation": "Same as AFRO 101. See AFRO 101.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as AFRO 101. See AFRO 101.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1US", 
+                        "content": "UIUC: US Minority Culture(s)"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/HIST/174.json", 
+    "id": "HIST 174", 
+    "label": "Black America, 1619-Present", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and US Minority Culture(s) course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/HIST/174/45871.json", 
+                "id": "45871"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/HIST/174/45873.json", 
+                "id": "45873"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/HIST/174/43586.json", 
+                "id": "43586"
+            }
+        ]
+    }
+}

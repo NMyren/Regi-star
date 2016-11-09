@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as ME 540. Prerequisite: ECE 486.", 
+    "creditHours": "4 hours.", 
+    "description": "Feedback control systems emphasizing state space techniques. Basic principles, modeling, analysis, stability, structural properties, optimization, and design to meet specifications. Same as ME 540. Prerequisite: ECE 486.", 
+    "href": "/2017/spring/ECE/515.json", 
+    "id": "ECE 515", 
+    "label": "Control System Theory & Design", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "N", 
+            "href": "/2017/spring/ECE/515/33983.json", 
+            "id": "33983"
+        }
+    }
+}

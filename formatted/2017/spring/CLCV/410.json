@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as ARCH 410. See ARCH 410.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as ARCH 410. See ARCH 410.", 
+    "href": "/2017/spring/CLCV/410.json", 
+    "id": "CLCV 410", 
+    "label": "Ancient Egyptian & Greek Arch", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Classical Civilization", 
+            "href": "/2017/spring/CLCV.json", 
+            "id": "CLCV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CLCV/410/62064.json", 
+            "id": "62064"
+        }
+    }
+}

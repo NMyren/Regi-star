@@ -1,0 +1,73 @@
+{
+    "classScheduleInformation": "ESL students only.", 
+    "courseSectionInformation": "Credit is not given for both ESL 111 and ESL 115. Prerequisites: 111 placement result on the English Placement Test.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the process of writing: fundamentals of paragraph development: analysis of rhetorical patterns: development of oral skills. This course is the first term of a two-term sequence (ESL 111-ESL 112) that fulfills the campus Composition I general education requirement. Credit is not given for both ESL 111 and ESL 115. Prerequisites: 111 placement result on the English Placement Test.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Composition I", 
+            "id": "COMP1", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1FC1", 
+                    "content": "UIUC: Freshman Composition I"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/ESL/111.json", 
+    "id": "ESL 111", 
+    "label": "Intro to Academic Writing I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English as a Second Language", 
+            "href": "/2017/spring/ESL.json", 
+            "id": "ESL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Freshman Composition I course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/ESL/111/65402.json", 
+                "id": "65402"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/ESL/111/65403.json", 
+                "id": "65403"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/ESL/111/65404.json", 
+                "id": "65404"
+            }, 
+            {
+                "content": "H", 
+                "href": "/2017/spring/ESL/111/60227.json", 
+                "id": "60227"
+            }, 
+            {
+                "content": "I", 
+                "href": "/2017/spring/ESL/111/60228.json", 
+                "id": "60228"
+            }, 
+            {
+                "content": "J", 
+                "href": "/2017/spring/ESL/111/61320.json", 
+                "id": "61320"
+            }
+        ]
+    }
+}

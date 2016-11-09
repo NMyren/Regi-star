@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated up to 6 hours in same or separate terms if topics vary. Prerequisite: Completion of the Composition I requirement.", 
+    "creditHours": "3 hours.", 
+    "description": "Introductory study of variety of topics in literature and culture, including those that bridge traditional historical periods, focus on themes or movements, and cross disciplinary boundaries. May be repeated up to 6 hours in same or separate terms if topics vary. Prerequisite: Completion of the Composition I requirement.", 
+    "href": "/2017/spring/ENGL/261.json", 
+    "id": "ENGL 261", 
+    "label": "Topics in Lit and Culture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "Q", 
+            "href": "/2017/spring/ENGL/261/62181.json", 
+            "id": "62181"
+        }
+    }
+}

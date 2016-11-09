@@ -1,0 +1,69 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated in the same term to a maximum of 2 hours. May be repeated in separate terms to a maximum of 4 hours. Prerequisite: Admission to the Artist Diploma program on the basis of an audition.", 
+    "creditHours": "1 hours.", 
+    "description": "Recital presented in partial fulfillment of requirements for the Artist Diploma. Approved for S/U grading only. May be repeated in the same term to a maximum of 2 hours. May be repeated in separate terms to a maximum of 4 hours. Prerequisite: Admission to the Artist Diploma program on the basis of an audition.", 
+    "href": "/2017/spring/MUS/500.json", 
+    "id": "MUS 500", 
+    "label": "Artist Diploma Recital", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/MUS/500/59670.json", 
+                "id": "59670"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/MUS/500/59671.json", 
+                "id": "59671"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/MUS/500/59673.json", 
+                "id": "59673"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/MUS/500/59675.json", 
+                "id": "59675"
+            }, 
+            {
+                "content": "AD7", 
+                "href": "/2017/spring/MUS/500/63056.json", 
+                "id": "63056"
+            }, 
+            {
+                "content": "AD8", 
+                "href": "/2017/spring/MUS/500/64522.json", 
+                "id": "64522"
+            }, 
+            {
+                "content": "AD9", 
+                "href": "/2017/spring/MUS/500/64625.json", 
+                "id": "64625"
+            }, 
+            {
+                "content": "ADR", 
+                "href": "/2017/spring/MUS/500/56404.json", 
+                "id": "56404"
+            }
+        ]
+    }
+}

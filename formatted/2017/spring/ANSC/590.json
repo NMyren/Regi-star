@@ -1,0 +1,185 @@
+{
+    "classScheduleInformation": "Students enrolled for 0 credit will received S/U grades; those enrolled for 1 hour will received letter grades.", 
+    "courseSectionInformation": "Approved for both letter and S/U grading. May be repeated to a maximum of 2 hours for Masters students and 4 hours for Ph.D. students.", 
+    "creditHours": "0 TO 2 hours.", 
+    "description": "Discussions of current research and literature. Registration for 0 to 2 hours each term is expected for animal sciences graduate students. Approved for both letter and S/U grading. May be repeated to a maximum of 2 hours for Masters students and 4 hours for Ph.D. students.", 
+    "href": "/2017/spring/ANSC/590.json", 
+    "id": "ANSC 590", 
+    "label": "Animal Sciences Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/ANSC/590/30000.json", 
+                "id": "30000"
+            }, 
+            {
+                "content": "A1", 
+                "href": "/2017/spring/ANSC/590/41751.json", 
+                "id": "41751"
+            }, 
+            {
+                "content": "A2", 
+                "href": "/2017/spring/ANSC/590/44582.json", 
+                "id": "44582"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/ANSC/590/30001.json", 
+                "id": "30001"
+            }, 
+            {
+                "content": "B1", 
+                "href": "/2017/spring/ANSC/590/41752.json", 
+                "id": "41752"
+            }, 
+            {
+                "content": "B2", 
+                "href": "/2017/spring/ANSC/590/44583.json", 
+                "id": "44583"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/ANSC/590/30002.json", 
+                "id": "30002"
+            }, 
+            {
+                "content": "C1", 
+                "href": "/2017/spring/ANSC/590/41755.json", 
+                "id": "41755"
+            }, 
+            {
+                "content": "C2", 
+                "href": "/2017/spring/ANSC/590/44585.json", 
+                "id": "44585"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/ANSC/590/30003.json", 
+                "id": "30003"
+            }, 
+            {
+                "content": "D1", 
+                "href": "/2017/spring/ANSC/590/41783.json", 
+                "id": "41783"
+            }, 
+            {
+                "content": "D2", 
+                "href": "/2017/spring/ANSC/590/44586.json", 
+                "id": "44586"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/ANSC/590/30004.json", 
+                "id": "30004"
+            }, 
+            {
+                "content": "E1", 
+                "href": "/2017/spring/ANSC/590/41784.json", 
+                "id": "41784"
+            }, 
+            {
+                "content": "E2", 
+                "href": "/2017/spring/ANSC/590/44588.json", 
+                "id": "44588"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/ANSC/590/30005.json", 
+                "id": "30005"
+            }, 
+            {
+                "content": "F1", 
+                "href": "/2017/spring/ANSC/590/41786.json", 
+                "id": "41786"
+            }, 
+            {
+                "content": "F2", 
+                "href": "/2017/spring/ANSC/590/44592.json", 
+                "id": "44592"
+            }, 
+            {
+                "content": "H", 
+                "href": "/2017/spring/ANSC/590/30007.json", 
+                "id": "30007"
+            }, 
+            {
+                "content": "H1", 
+                "href": "/2017/spring/ANSC/590/41788.json", 
+                "id": "41788"
+            }, 
+            {
+                "content": "H2", 
+                "href": "/2017/spring/ANSC/590/44596.json", 
+                "id": "44596"
+            }, 
+            {
+                "content": "I", 
+                "href": "/2017/spring/ANSC/590/30008.json", 
+                "id": "30008"
+            }, 
+            {
+                "content": "I1", 
+                "href": "/2017/spring/ANSC/590/41789.json", 
+                "id": "41789"
+            }, 
+            {
+                "content": "I2", 
+                "href": "/2017/spring/ANSC/590/44597.json", 
+                "id": "44597"
+            }, 
+            {
+                "content": "M", 
+                "href": "/2017/spring/ANSC/590/30012.json", 
+                "id": "30012"
+            }, 
+            {
+                "content": "M1", 
+                "href": "/2017/spring/ANSC/590/41791.json", 
+                "id": "41791"
+            }, 
+            {
+                "content": "M2", 
+                "href": "/2017/spring/ANSC/590/44601.json", 
+                "id": "44601"
+            }, 
+            {
+                "content": "N", 
+                "href": "/2017/spring/ANSC/590/55536.json", 
+                "id": "55536"
+            }, 
+            {
+                "content": "N1", 
+                "href": "/2017/spring/ANSC/590/55538.json", 
+                "id": "55538"
+            }, 
+            {
+                "content": "N2", 
+                "href": "/2017/spring/ANSC/590/55539.json", 
+                "id": "55539"
+            }, 
+            {
+                "content": "O2", 
+                "href": "/2017/spring/ANSC/590/64408.json", 
+                "id": "64408"
+            }
+        ]
+    }
+}

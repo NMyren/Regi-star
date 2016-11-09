@@ -1,0 +1,125 @@
+{
+    "courseSectionInformation": "Approved for professional and graduate credit. May be repeated.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "This is an umbrella course listing for specialty topics of special interest. Approved for professional and graduate credit. May be repeated.", 
+    "href": "/2017/spring/LAW/798.json", 
+    "id": "LAW 798", 
+    "label": "Seminars", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": [
+            {
+                "content": "AA1", 
+                "href": "/2017/spring/LAW/798/63002.json", 
+                "id": "63002"
+            }, 
+            {
+                "content": "AC", 
+                "href": "/2017/spring/LAW/798/64062.json", 
+                "id": "64062"
+            }, 
+            {
+                "content": "EE", 
+                "href": "/2017/spring/LAW/798/60613.json", 
+                "id": "60613"
+            }, 
+            {
+                "content": "EEG", 
+                "href": "/2017/spring/LAW/798/60904.json", 
+                "id": "60904"
+            }, 
+            {
+                "content": "L1", 
+                "href": "/2017/spring/LAW/798/55636.json", 
+                "id": "55636"
+            }, 
+            {
+                "content": "L1G", 
+                "href": "/2017/spring/LAW/798/56071.json", 
+                "id": "56071"
+            }, 
+            {
+                "content": "OO", 
+                "href": "/2017/spring/LAW/798/64059.json", 
+                "id": "64059"
+            }, 
+            {
+                "content": "OOG", 
+                "href": "/2017/spring/LAW/798/55780.json", 
+                "id": "55780"
+            }, 
+            {
+                "content": "P1", 
+                "href": "/2017/spring/LAW/798/55793.json", 
+                "id": "55793"
+            }, 
+            {
+                "content": "PP", 
+                "href": "/2017/spring/LAW/798/64060.json", 
+                "id": "64060"
+            }, 
+            {
+                "content": "PPG", 
+                "href": "/2017/spring/LAW/798/49672.json", 
+                "id": "49672"
+            }, 
+            {
+                "content": "QQ", 
+                "href": "/2017/spring/LAW/798/64061.json", 
+                "id": "64061"
+            }, 
+            {
+                "content": "RR", 
+                "href": "/2017/spring/LAW/798/65743.json", 
+                "id": "65743"
+            }, 
+            {
+                "content": "RRC", 
+                "href": "/2017/spring/LAW/798/65746.json", 
+                "id": "65746"
+            }, 
+            {
+                "content": "RRG", 
+                "href": "/2017/spring/LAW/798/65933.json", 
+                "id": "65933"
+            }, 
+            {
+                "content": "T1", 
+                "href": "/2017/spring/LAW/798/57460.json", 
+                "id": "57460"
+            }, 
+            {
+                "content": "T1G", 
+                "href": "/2017/spring/LAW/798/59587.json", 
+                "id": "59587"
+            }, 
+            {
+                "content": "Z", 
+                "href": "/2017/spring/LAW/798/51647.json", 
+                "id": "51647"
+            }, 
+            {
+                "content": "ZG", 
+                "href": "/2017/spring/LAW/798/60903.json", 
+                "id": "60903"
+            }
+        ]
+    }
+}

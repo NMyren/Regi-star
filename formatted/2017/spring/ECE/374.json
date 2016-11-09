@@ -1,0 +1,84 @@
+{
+    "courseSectionInformation": "Same as CS 374. See CS 374.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as CS 374. See CS 374.", 
+    "href": "/2017/spring/ECE/374.json", 
+    "id": "ECE 374", 
+    "label": "Introduction to Algorithms & Models of Computation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ECE/374/65099.json", 
+                "id": "65099"
+            }, 
+            {
+                "content": "AYB", 
+                "href": "/2017/spring/ECE/374/65101.json", 
+                "id": "65101"
+            }, 
+            {
+                "content": "AYC", 
+                "href": "/2017/spring/ECE/374/65102.json", 
+                "id": "65102"
+            }, 
+            {
+                "content": "AYD", 
+                "href": "/2017/spring/ECE/374/65103.json", 
+                "id": "65103"
+            }, 
+            {
+                "content": "AYE", 
+                "href": "/2017/spring/ECE/374/65104.json", 
+                "id": "65104"
+            }, 
+            {
+                "content": "AYF", 
+                "href": "/2017/spring/ECE/374/65105.json", 
+                "id": "65105"
+            }, 
+            {
+                "content": "AYG", 
+                "href": "/2017/spring/ECE/374/65106.json", 
+                "id": "65106"
+            }, 
+            {
+                "content": "AYH", 
+                "href": "/2017/spring/ECE/374/65107.json", 
+                "id": "65107"
+            }, 
+            {
+                "content": "AYJ", 
+                "href": "/2017/spring/ECE/374/65108.json", 
+                "id": "65108"
+            }, 
+            {
+                "content": "AYK", 
+                "href": "/2017/spring/ECE/374/65109.json", 
+                "id": "65109"
+            }, 
+            {
+                "content": "AYL", 
+                "href": "/2017/spring/ECE/374/65836.json", 
+                "id": "65836"
+            }
+        ]
+    }
+}

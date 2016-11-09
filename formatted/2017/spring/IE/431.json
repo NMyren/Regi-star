@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: IE 300.", 
+    "creditHours": "3 hours.", 
+    "description": "Quality Engineering principles and the Six Sigma Define-Measure-Analyze-Improve-Control (DMAIC) process. Application of concepts and methods of statistical process control, designed experiments, and measurement systems analysis to cases of quality and productivity improvement; application of the fundamentals of quality engineering and the Six Sigma to areas of produce development, service enterprise, and manufacturing processes. 3 undergraduate hours. 3 graduate hours. Prerequisite: IE 300.", 
+    "href": "/2017/spring/IE/431.json", 
+    "id": "IE 431", 
+    "label": "Design for Six Sigma", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Industrial Engineering", 
+            "href": "/2017/spring/IE.json", 
+            "id": "IE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/IE/431/50867.json", 
+                "id": "50867"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/IE/431/51449.json", 
+                "id": "51449"
+            }
+        ]
+    }
+}

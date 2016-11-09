@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Prerequisite: SPAN 141, SPAN 142, or equivalent. To be taken concurrently with or subsequent to SPAN 204.", 
+    "creditHours": "3 hours.", 
+    "description": "Practice in speaking Spanish. Prerequisite: SPAN 141, SPAN 142, or equivalent. To be taken concurrently with or subsequent to SPAN 204.", 
+    "href": "/2017/spring/SPAN/208.json", 
+    "id": "SPAN 208", 
+    "label": "Oral Spanish", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "D1", 
+                "href": "/2017/spring/SPAN/208/35282.json", 
+                "id": "35282"
+            }, 
+            {
+                "content": "E2", 
+                "href": "/2017/spring/SPAN/208/47641.json", 
+                "id": "47641"
+            }, 
+            {
+                "content": "F2", 
+                "href": "/2017/spring/SPAN/208/47528.json", 
+                "id": "47528"
+            }
+        ]
+    }
+}

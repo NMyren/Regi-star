@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Same as AFST 103 and GWS 103.", 
+    "creditHours": "3 hours.", 
+    "description": "Explores the historical, social, economic, cultural and political realities of black women in the African diaspora with an emphasis on the U.S., Canada, Britain, Africa and the English speaking Caribbean. How macro structures such as slavery, imperialism, colonialism, capitalism, and globalization shaped and continue to circumscribe the lives of black women across various geographic regions. Discussion of the multiple strategies/efforts that black women employ both in the past and present to ensure the survival of the self and the community. Same as AFST 103 and GWS 103.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+            "id": "CNW", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1US", 
+                    "content": "UIUC: US Minority Culture(s)"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/AFRO/103.json", 
+    "id": "AFRO 103", 
+    "label": "Black Women in the Diaspora", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "African American Studies", 
+            "href": "/2017/spring/AFRO.json", 
+            "id": "AFRO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "US Minority Culture(s) course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/AFRO/103/44761.json", 
+            "id": "44761"
+        }
+    }
+}

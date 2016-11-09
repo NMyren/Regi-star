@@ -1,0 +1,120 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "Prerequisite: ECON 202; one of MATH 220, MATH 221, MATH 234.", 
+    "creditHours": "3 hours.", 
+    "description": "Continuation of ECON 202. Builds upon point and interval estimation as well as hypothesis testing skills first introduced in ECON 202. Utilizes a practical project format to extend the student skill set to include simple and multiple linear regression and time series techniques. Prerequisite: ECON 202; one of MATH 220, MATH 221, MATH 234.", 
+    "href": "/2017/spring/ECON/203.json", 
+    "id": "ECON 203", 
+    "label": "Economic Statistics II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ECON/203/33498.json", 
+                "id": "33498"
+            }, 
+            {
+                "content": "AL2", 
+                "href": "/2017/spring/ECON/203/33508.json", 
+                "id": "33508"
+            }, 
+            {
+                "content": "AQ0", 
+                "href": "/2017/spring/ECON/203/33492.json", 
+                "id": "33492"
+            }, 
+            {
+                "content": "AQ1", 
+                "href": "/2017/spring/ECON/203/33493.json", 
+                "id": "33493"
+            }, 
+            {
+                "content": "AQ2", 
+                "href": "/2017/spring/ECON/203/33494.json", 
+                "id": "33494"
+            }, 
+            {
+                "content": "AQ3", 
+                "href": "/2017/spring/ECON/203/33495.json", 
+                "id": "33495"
+            }, 
+            {
+                "content": "AQ4", 
+                "href": "/2017/spring/ECON/203/33496.json", 
+                "id": "33496"
+            }, 
+            {
+                "content": "AQ5", 
+                "href": "/2017/spring/ECON/203/33497.json", 
+                "id": "33497"
+            }, 
+            {
+                "content": "AQ6", 
+                "href": "/2017/spring/ECON/203/40693.json", 
+                "id": "40693"
+            }, 
+            {
+                "content": "AQ7", 
+                "href": "/2017/spring/ECON/203/33502.json", 
+                "id": "33502"
+            }, 
+            {
+                "content": "AQ8", 
+                "href": "/2017/spring/ECON/203/33504.json", 
+                "id": "33504"
+            }, 
+            {
+                "content": "BL1", 
+                "href": "/2017/spring/ECON/203/33518.json", 
+                "id": "33518"
+            }, 
+            {
+                "content": "BQ0", 
+                "href": "/2017/spring/ECON/203/40697.json", 
+                "id": "40697"
+            }, 
+            {
+                "content": "BQ1", 
+                "href": "/2017/spring/ECON/203/33499.json", 
+                "id": "33499"
+            }, 
+            {
+                "content": "BQ2", 
+                "href": "/2017/spring/ECON/203/33501.json", 
+                "id": "33501"
+            }, 
+            {
+                "content": "BQ3", 
+                "href": "/2017/spring/ECON/203/33503.json", 
+                "id": "33503"
+            }, 
+            {
+                "content": "BQ4", 
+                "href": "/2017/spring/ECON/203/33505.json", 
+                "id": "33505"
+            }, 
+            {
+                "content": "BQ5", 
+                "href": "/2017/spring/ECON/203/33507.json", 
+                "id": "33507"
+            }
+        ]
+    }
+}

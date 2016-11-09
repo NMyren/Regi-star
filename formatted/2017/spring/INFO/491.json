@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as CPSC 491 and LIS 483. No graduate credit. Approved for letter and S/U grading. May be repeated in separate terms to maximum of 2 undergraduate hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "0 TO 2 hours.", 
+    "description": "Introduces the field of bioinformatics and computational biology. Same as CPSC 491 and LIS 483. No graduate credit. Approved for letter and S/U grading. May be repeated in separate terms to maximum of 2 undergraduate hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/INFO/491.json", 
+    "id": "INFO 491", 
+    "label": "Ugrad Bioinformatics Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Informatics", 
+            "href": "/2017/spring/INFO.json", 
+            "id": "INFO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/INFO/491/55548.json", 
+            "id": "55548"
+        }
+    }
+}

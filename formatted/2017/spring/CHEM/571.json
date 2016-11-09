@@ -1,0 +1,35 @@
+{
+    "courseSectionInformation": "Prerequisite: One year (two semesters) of undergraduate organic chemistry is required. One semester of undergraduate biochemistry or molecular biology is preferred.", 
+    "creditHours": "4 hours.", 
+    "description": "Laboratory course in advanced state-of-the-art experimental techniques used to investigate problems at the interface of chemistry and biology. Specific topics include, but are not limited to, solid-phase peptide synthesis, native chemical ligation and expressed protein ligation, protein expression and analysis, enzyme kinetics and inhibition, high-throughput screening, various methods for examining biomolecular interactions, radiolabeling, mammalian cell biology, fluorescence microscopy, and flow cytometry. Prerequisite: One year (two semesters) of undergraduate organic chemistry is required. One semester of undergraduate biochemistry or molecular biology is preferred.", 
+    "href": "/2017/spring/CHEM/571.json", 
+    "id": "CHEM 571", 
+    "label": "Chemical Biology Laboratory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionRegistrationNotes": "Not intended for Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHEM/571/58459.json", 
+            "id": "58459"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as PSYC 567. See PSYC 567.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as PSYC 567. See PSYC 567.", 
+    "href": "/2017/spring/EPSY/567.json", 
+    "id": "EPSY 567", 
+    "label": "Personality Assessment", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/EPSY/567/62063.json", 
+            "id": "62063"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. Approved for Letter and S/U grading.", 
+    "creditHours": "3 hours.", 
+    "description": "Capstone experience for majors in Earth, Society, and Environment Sustainability. 3 undergraduate hours. No graduate credit. Approved for Letter and S/U grading.", 
+    "href": "/2017/spring/ESE/401.json", 
+    "id": "ESE 401", 
+    "label": "ESE Capstone", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Earth, Society, and Environment", 
+            "href": "/2017/spring/ESE.json", 
+            "id": "ESE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ESE/401/54841.json", 
+            "id": "54841"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as ANTH 594. May be repeated to a maximum of 10 hours per semester; may be repeated to a maximum of 16 total hours. Prerequisite: Concurrent enrollment in LA 438 may be required in the spring semester; check Class Schedule.", 
+    "creditHours": "2 OR 4 hours.", 
+    "description": "Topics in cultural landscape heritage, conservation planning and design. Investigates theories of landscape, heritage, and their intersections, with readings drawn from anthropology, geography, and landscape studies, as well as applied work on historical landscape conservation, preservation and management. Same as ANTH 594. May be repeated to a maximum of 10 hours per semester; may be repeated to a maximum of 16 total hours. Prerequisite: Concurrent enrollment in LA 438 may be required in the spring semester; check Class Schedule.", 
+    "href": "/2017/spring/LA/594.json", 
+    "id": "LA 594", 
+    "label": "Cultural Heritage", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Landscape Architecture", 
+            "href": "/2017/spring/LA.json", 
+            "id": "LA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to students with Graduate class standing.", 
+    "sections": {
+        "section": {
+            "content": "DFR", 
+            "href": "/2017/spring/LA/594/43298.json", 
+            "id": "43298"
+        }
+    }
+}

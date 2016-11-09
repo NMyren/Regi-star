@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 8 hours.", 
+    "description": "Individual experimental investigation in areas of nuclear, plasma, and radiological engineering. May be repeated. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/NPRE/554.json", 
+    "id": "NPRE 554", 
+    "label": "Independent Lab Investigations", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Nuclear, Plasma, and Radiological Engineering", 
+            "href": "/2017/spring/NPRE.json", 
+            "id": "NPRE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/NPRE/554/10072.json", 
+            "id": "10072"
+        }
+    }
+}

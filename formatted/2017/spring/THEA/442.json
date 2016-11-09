@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Methods of draping and drafting patterns for period theatrical costumes. 3 undergraduate hours. 4 graduate hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/THEA/442.json", 
+    "id": "THEA 442", 
+    "label": "Costume Patterning", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": [
+            {
+                "content": "A3", 
+                "href": "/2017/spring/THEA/442/40188.json", 
+                "id": "40188"
+            }, 
+            {
+                "content": "A4", 
+                "href": "/2017/spring/THEA/442/41423.json", 
+                "id": "41423"
+            }
+        ]
+    }
+}

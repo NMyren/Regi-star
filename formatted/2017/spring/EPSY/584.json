@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as PSYC 594 and SOC 584. See PSYC 594.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as PSYC 594 and SOC 584. See PSYC 594.", 
+    "href": "/2017/spring/EPSY/584.json", 
+    "id": "EPSY 584", 
+    "label": "Multivar Anlys in Psych and Ed", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/EPSY/584/37775.json", 
+            "id": "37775"
+        }
+    }
+}

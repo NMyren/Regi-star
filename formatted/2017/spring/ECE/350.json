@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: ECE 329.", 
+    "creditHours": "3 hours.", 
+    "description": "Continuation of ECE 329: radiation theory; antennas, radiation fields, radiation resistance and gain; transmitting arrays; plane-wave approximation of radiation fields; plane-wave propagation, reflection, and transmission; Doppler effect, evanescent waves and tunneling, dispersion, phase and group velocities; waveguides and resonant cavities; antenna reception and link budgets. Prerequisite: ECE 329.", 
+    "href": "/2017/spring/ECE/350.json", 
+    "id": "ECE 350", 
+    "label": "Fields and Waves II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "X", 
+            "href": "/2017/spring/ECE/350/56911.json", 
+            "id": "56911"
+        }
+    }
+}

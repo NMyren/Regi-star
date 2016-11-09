@@ -1,0 +1,131 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "4080 Foreign Languages Building, 707 South Mathews, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Department Head: Antonios Augoustakis\nDepartment Office, 4080 Foreign Languages Building, 707 South Mathews, Urbana, 333-1008\nSubjects associated with this department include: Classical Civilization (CLCV), Coptic (COP), Greek (GRK) and Latin (LAT).\nwww.classics.illinois.edu", 
+    "contactName": "Antonios Augoustakis", 
+    "contactTitle": "Department Head", 
+    "courses": {
+        "course": [
+            {
+                "content": "Vocab Building-GRK & LAT Roots", 
+                "href": "/2017/spring/CLCV/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "Medical Terms-GRK & LAT Roots", 
+                "href": "/2017/spring/CLCV/102.json", 
+                "id": "102"
+            }, 
+            {
+                "content": "Mythology of Greece and Rome", 
+                "href": "/2017/spring/CLCV/111.json", 
+                "id": "111"
+            }, 
+            {
+                "content": "Mythology of Greece and Rome", 
+                "href": "/2017/spring/CLCV/115.json", 
+                "id": "115"
+            }, 
+            {
+                "content": "The Roman Achievement", 
+                "href": "/2017/spring/CLCV/116.json", 
+                "id": "116"
+            }, 
+            {
+                "content": "The Classical Tradition", 
+                "href": "/2017/spring/CLCV/120.json", 
+                "id": "120"
+            }, 
+            {
+                "content": "Classical Archaeology, Greece", 
+                "href": "/2017/spring/CLCV/131.json", 
+                "id": "131"
+            }, 
+            {
+                "content": "Class Archaeology, Rome-Italy", 
+                "href": "/2017/spring/CLCV/132.json", 
+                "id": "132"
+            }, 
+            {
+                "content": "Ancient Greek & Roman Religion", 
+                "href": "/2017/spring/CLCV/160.json", 
+                "id": "160"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/CLCV/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Ancient Philosophy", 
+                "href": "/2017/spring/CLCV/203.json", 
+                "id": "203"
+            }, 
+            {
+                "content": "Greek Art", 
+                "href": "/2017/spring/CLCV/217.json", 
+                "id": "217"
+            }, 
+            {
+                "content": "Origins of Western Literature", 
+                "href": "/2017/spring/CLCV/220.json", 
+                "id": "220"
+            }, 
+            {
+                "content": "Ancient Greek Sanctuaries", 
+                "href": "/2017/spring/CLCV/232.json", 
+                "id": "232"
+            }, 
+            {
+                "content": "Sex & Gender in Antiquity", 
+                "href": "/2017/spring/CLCV/240.json", 
+                "id": "240"
+            }, 
+            {
+                "content": "Freshman Honors Tutorial", 
+                "href": "/2017/spring/CLCV/291.json", 
+                "id": "291"
+            }, 
+            {
+                "content": "Ancient Egyptian & Greek Arch", 
+                "href": "/2017/spring/CLCV/410.json", 
+                "id": "410"
+            }, 
+            {
+                "content": "Senior Thesis", 
+                "href": "/2017/spring/CLCV/492.json", 
+                "id": "492"
+            }, 
+            {
+                "content": "Independent Reading", 
+                "href": "/2017/spring/CLCV/493.json", 
+                "id": "493"
+            }, 
+            {
+                "content": "Senior Survey", 
+                "href": "/2017/spring/CLCV/498.json", 
+                "id": "498"
+            }
+        ]
+    }, 
+    "departmentCode": "1514", 
+    "id": "CLCV", 
+    "label": "Classical Civilization", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-1008", 
+    "subjectComment": "Subjects associated with this department include: Classical Civilization (CLCV), Coptic (COP), Greek (GRK) and Latin (LAT).", 
+    "unitName": "Classics", 
+    "webSiteURL": "www.classics.illinois.edu"
+}

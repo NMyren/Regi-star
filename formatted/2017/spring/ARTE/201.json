@@ -1,0 +1,34 @@
+{
+    "classScheduleInformation": "A student registered in one or more Art & Design course(s) exhibiting this message, will be assessed a $95 facility use fee once each term.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule.", 
+    "creditHours": "3 hours.", 
+    "description": "Provides students with philosophical foundations for teaching art including in public schools. The primary emphasis will be on understanding recent and contemporary orientations through readings and practical activities. Particular emphasis will be placed on emerging trends in Art Education, especially the use of technology and the value of visual culture in student lives. It is envisaged that this course will provide the primary theoretical foundation for further practical and pre-service teaching courses in Art Education. Additional fees may apply. See Class Schedule.", 
+    "href": "/2017/spring/ARTE/201.json", 
+    "id": "ARTE 201", 
+    "label": "Foundations of Art Education", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Education", 
+            "href": "/2017/spring/ARTE.json", 
+            "id": "ARTE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionFeeAmount": "Art Education Design $10.00 Flat Fee.", 
+    "sections": {
+        "section": {
+            "content": "M1", 
+            "href": "/2017/spring/ARTE/201/30422.json", 
+            "id": "30422"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Credit is not given for JOUR 315 if credit for JOUR 415 has been earned. Prerequisite: JOUR 210.", 
+    "creditHours": "4 hours.", 
+    "description": "Study and extensive practice of in-depth public affairs reporting - its concepts, techniques, traditions, ethics, and social obligations. Credit is not given for JOUR 315 if credit for JOUR 415 has been earned. Prerequisite: JOUR 210.", 
+    "href": "/2017/spring/JOUR/315.json", 
+    "id": "JOUR 315", 
+    "label": "Adv Public Affairs Reporting", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Journalism", 
+            "href": "/2017/spring/JOUR.json", 
+            "id": "JOUR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Agr & Environmental Cmc & Educ or Journalism or News-Editorial or Agricultural Communications major(s). Restricted to students with Sophomore, Junior, or Senior class standing.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/JOUR/315/61580.json", 
+                "id": "61580"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/JOUR/315/61578.json", 
+                "id": "61578"
+            }
+        ]
+    }
+}

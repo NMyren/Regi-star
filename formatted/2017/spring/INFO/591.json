@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as CPSC 591 and LIS 583. Approved for letter and S/U grading. May be repeated in separate terms to a maximum of 4 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 2 hours.", 
+    "description": "This seminar series focuses on research in the field of bioinformatics and computational biology. Same as CPSC 591 and LIS 583. Approved for letter and S/U grading. May be repeated in separate terms to a maximum of 4 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/INFO/591.json", 
+    "id": "INFO 591", 
+    "label": "Grad Bioinformatics Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Informatics", 
+            "href": "/2017/spring/INFO.json", 
+            "id": "INFO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/INFO/591/55549.json", 
+            "id": "55549"
+        }
+    }
+}

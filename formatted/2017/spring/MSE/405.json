@@ -1,0 +1,60 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: PHYS 214, CHEM 104, MSE 201, and MSE 307.", 
+    "creditHours": "3 hours.", 
+    "description": "Fundamentals and applications of various forms of microscopy and diffraction for characterization of physical microstructure of materials and of various forms of spectroscopy for characterization of chemical microstructure. 3 undergraduate hours. 3 graduate hours. Prerequisite: PHYS 214, CHEM 104, MSE 201, and MSE 307.", 
+    "href": "/2017/spring/MSE/405.json", 
+    "id": "MSE 405", 
+    "label": "Microstructure Determination", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Materials Science and Engineering", 
+            "href": "/2017/spring/MSE.json", 
+            "id": "MSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Materials Science & Engr major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/MSE/405/43381.json", 
+                "id": "43381"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/MSE/405/43386.json", 
+                "id": "43386"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/MSE/405/43389.json", 
+                "id": "43389"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/MSE/405/45288.json", 
+                "id": "45288"
+            }, 
+            {
+                "content": "AB5", 
+                "href": "/2017/spring/MSE/405/57357.json", 
+                "id": "57357"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/MSE/405/43371.json", 
+                "id": "43371"
+            }
+        ]
+    }
+}

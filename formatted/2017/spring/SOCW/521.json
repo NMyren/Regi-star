@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: SOCW 400 or by consent of instructor for non Social Work majors.", 
+    "creditHours": "4 hours.", 
+    "description": "Introduces MSW students to a broad range of strategies for creating social change. Several overarching concepts that are useful in undertaking a wide range of social change efforts are introduced. These concepts are applied to different change strategies. This includes attention to the role of leadership in social change, as the quality of leadership is critical to the success of most social change efforts. The importance of policy or social entrepreneurs in creating social change will also be examined. These entrepreneurs play critical roles by both identifying and implementing new ideas and by diffusing them on a wider scale after initial experimentation. Finally, social workers often tend to be uninformed about sound business practices as they engage in social change efforts, yet knowledge of basic business concepts can be critical to the success or failure of a social venture. Therefore, the course addresses issues such as opportunity recognition and risk assessment, sustainability and scalability of projects, and attention to both fiscal management and outcome accountability. Prerequisite: SOCW 400 or by consent of instructor for non Social Work majors.", 
+    "href": "/2017/spring/SOCW/521.json", 
+    "id": "SOCW 521", 
+    "label": "Leadership and Social Change", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign. Restricted to MSW:Social Work -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SOCW/521/50889.json", 
+            "id": "50889"
+        }
+    }
+}

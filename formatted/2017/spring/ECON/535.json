@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: ECON 532 or equivalent.", 
+    "creditHours": "4 hours.", 
+    "description": "Part 1: The construction of econometric models; characteristics of models and choice of estimating methods; and estimates of parameters by various methods. Part 2: Bayesian statistics and decision theory. Prerequisite: ECON 532 or equivalent.", 
+    "href": "/2017/spring/ECON/535.json", 
+    "id": "ECON 535", 
+    "label": "Econometric Analysis II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A1", 
+            "href": "/2017/spring/ECON/535/62289.json", 
+            "id": "62289"
+        }
+    }
+}

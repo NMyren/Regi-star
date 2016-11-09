@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: MPH student or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Use of research methods and theory for evaluation of initiatives and programs in public health and medical care. Emphasis on acquiring skills in evaluation and conducting evaluations whose results have impact on public health practice. Covers different theories and perspectives on health evaluation. Review of published evaluations used to illustrate research methods and practical issues in program evaluation. Prerequisite: MPH student or consent of instructor.", 
+    "href": "/2017/spring/CHLH/577.json", 
+    "id": "CHLH 577", 
+    "label": "Health Program Evaluation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Public Health or Public Health (MPH) major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHLH/577/58593.json", 
+            "id": "58593"
+        }
+    }
+}

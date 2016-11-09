@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated in subsequent terms as topics vary.", 
+    "creditHours": "1 hours.", 
+    "description": "Lecture, discussions, and critiques on kinesiology and community health related subjects by faculty members and visiting professional leaders; presentation and criticism of student research. Approved for S/U grading only. May be repeated in subsequent terms as topics vary.", 
+    "href": "/2017/spring/CHLH/591.json", 
+    "id": "CHLH 591", 
+    "label": "Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Community Health or Rehabilitation or Kinesiology or Public Health major(s). Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHLH/591/31306.json", 
+            "id": "31306"
+        }
+    }
+}

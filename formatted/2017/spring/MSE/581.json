@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: MSE 405 and MSE 481.", 
+    "creditHours": "4 hours.", 
+    "description": "Theory of electron microscopy and use for materials structure characterization and microanalysis. Physics of electron microscopes; kinematic and dynamic electron diffraction theory; defect image contrast; high resolution electron microscopy; electron probe formation; STEM; inelastic scattering and microanalysis. Practical experience via laboratory demonstrations and project assignments. Prerequisite: MSE 405 and MSE 481.", 
+    "href": "/2017/spring/MSE/581.json", 
+    "id": "MSE 581", 
+    "label": "Advanced Electron Microscopy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Materials Science and Engineering", 
+            "href": "/2017/spring/MSE.json", 
+            "id": "MSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MSE/581/50291.json", 
+            "id": "50291"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "No graduate credit. May be repeated to a maximum of 6 hours. Each 3-hour class must be taken with a different instructor. Prerequisite: Admission to the History Honors Program; or junior or senior of high standing with the consent of the Director of Undergraduate Studies.", 
+    "creditHours": "3 hours.", 
+    "description": "Independent reading, research, and writing under the supervision of an individual instructor. Seniors in the History Honors Program taking this course in place of the Honors Senior Thesis must complete a substantive research paper (25-30 pages). No graduate credit. May be repeated to a maximum of 6 hours. Each 3-hour class must be taken with a different instructor. Prerequisite: Admission to the History Honors Program; or junior or senior of high standing with the consent of the Director of Undergraduate Studies.", 
+    "href": "/2017/spring/HIST/490.json", 
+    "id": "HIST 490", 
+    "label": "Honors Independent Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sectionRegistrationNotes": "Restricted to History major(s). Restricted to students with Junior or Senior class standing. Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/HIST/490/10419.json", 
+            "id": "10419"
+        }
+    }
+}

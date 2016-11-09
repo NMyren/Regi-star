@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: ECON 502; STAT 400; and admission to doctoral program or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Examines theoretical frameworks for financial decision making under certainty and uncertainty, as well as perfect and imperfect capital markets; discusses state preference, mean-variance, and continuous time models; emphasizes the structure of individual utility functions. Prerequisite: ECON 502; STAT 400; and admission to doctoral program or consent of instructor.", 
+    "href": "/2017/spring/FIN/591.json", 
+    "id": "FIN 591", 
+    "label": "Theory of Finance", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Finance", 
+            "href": "/2017/spring/FIN.json", 
+            "id": "FIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign. Restricted to PHD:Finance -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "C", 
+            "href": "/2017/spring/FIN/591/40610.json", 
+            "id": "40610"
+        }
+    }
+}

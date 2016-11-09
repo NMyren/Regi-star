@@ -1,0 +1,82 @@
+{
+    "classScheduleInformation": "In Fall and Spring terms, students must register for one discussion and one lecture section.", 
+    "creditHours": "3 hours.", 
+    "description": "Study of communication theory and its application to interpersonal relationships; extensive discussion of problems of conflict and misunderstanding in personal affairs to facilitate the development of knowledge, insights, and skills in the processes of face-to-face interaction.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CMN/230.json", 
+    "id": "CMN 230", 
+    "label": "Intro to Interpersonal Comm", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/CMN/230/50591.json", 
+                "id": "50591"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/CMN/230/50592.json", 
+                "id": "50592"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/CMN/230/50593.json", 
+                "id": "50593"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/CMN/230/50594.json", 
+                "id": "50594"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/CMN/230/50595.json", 
+                "id": "50595"
+            }, 
+            {
+                "content": "AD7", 
+                "href": "/2017/spring/CMN/230/50597.json", 
+                "id": "50597"
+            }, 
+            {
+                "content": "AD8", 
+                "href": "/2017/spring/CMN/230/50598.json", 
+                "id": "50598"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CMN/230/50599.json", 
+                "id": "50599"
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "Investigates the dynamical and physical processes that govern Earth's paleo, current, and future climates. Emphasizes principles of climate change, natural and anthropogenic, and regional, national, and global. Global climate models and their predictions are examined in the context of scenarios for future population growth and energy consumption.", 
+    "href": "/2017/spring/ATMS/507.json", 
+    "id": "ATMS 507", 
+    "label": "Climate Dynamics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Atmospheric Sciences", 
+            "href": "/2017/spring/ATMS.json", 
+            "id": "ATMS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ATMS/507/57310.json", 
+            "id": "57310"
+        }
+    }
+}

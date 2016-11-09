@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as TE 466. 2 undergraduate hours. 2 graduate hours. Credit is not given for both ENG 466 and BADM 365. Prerequisite: ENG 360.", 
+    "creditHours": "2 hours.", 
+    "description": "Cornerstone marketing concepts for innovators and engineers to enable analysis of products and technologies from a marketing perspective: engineering product development and adoption life cycle; objectives and strategies; marketing management; communication skills; sales process and tactics; special considerations for new high-tech engineering products and innovations. Same as TE 466. 2 undergraduate hours. 2 graduate hours. Credit is not given for both ENG 466 and BADM 365. Prerequisite: ENG 360.", 
+    "href": "/2017/spring/ENG/466.json", 
+    "id": "ENG 466", 
+    "label": "High-Tech Venture Marketing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/ENG/466/62156.json", 
+                "id": "62156"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/ENG/466/53947.json", 
+                "id": "53947"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as GWS 218.", 
+    "creditHours": "3 hours.", 
+    "description": "An introductory exploration/survey of the rich histories, theories, and practices of community-based and social issues theatre. Through discussion, participation, lecture, and performance, representative works, movement, and artists will be explored. Lively connections will be made to an array of social issues in today's world. Same as GWS 218.", 
+    "href": "/2017/spring/THEA/218.json", 
+    "id": "THEA 218", 
+    "label": "Intro to Social Issues Theatre", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/THEA/218/48020.json", 
+            "id": "48020"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated in the same or subsequent terms to a maximum of 6 hours.", 
+    "creditHours": "3 hours.", 
+    "description": "May be repeated in the same or subsequent terms to a maximum of 6 hours.", 
+    "href": "/2017/spring/AAS/390.json", 
+    "id": "AAS 390", 
+    "label": "Intermed Topics Asian Am St", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Asian American Studies", 
+            "href": "/2017/spring/AAS.json", 
+            "id": "AAS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "X", 
+            "href": "/2017/spring/AAS/390/65503.json", 
+            "id": "65503"
+        }
+    }
+}

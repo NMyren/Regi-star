@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as LLS 442 and GWS 445. See LLS 442.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as LLS 442 and GWS 445. See LLS 442.", 
+    "href": "/2017/spring/SPAN/442.json", 
+    "id": "SPAN 442", 
+    "label": "Latina Literature", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G", 
+                "href": "/2017/spring/SPAN/442/65284.json", 
+                "id": "65284"
+            }, 
+            {
+                "content": "U", 
+                "href": "/2017/spring/SPAN/442/52964.json", 
+                "id": "52964"
+            }
+        ]
+    }
+}

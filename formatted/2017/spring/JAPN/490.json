@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 6 undergraduate hours or 8 graduate hours. Prerequisite: Reading knowledge of Japanese and consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Guided readings in Japanese literature in the vernacular with regular individual conferences and a paper. 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 6 undergraduate hours or 8 graduate hours. Prerequisite: Reading knowledge of Japanese and consent of instructor.", 
+    "href": "/2017/spring/JAPN/490.json", 
+    "id": "JAPN 490", 
+    "label": "Readings in Japanese Lit", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Japanese", 
+            "href": "/2017/spring/JAPN.json", 
+            "id": "JAPN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/JAPN/490/10468.json", 
+            "id": "10468"
+        }
+    }
+}

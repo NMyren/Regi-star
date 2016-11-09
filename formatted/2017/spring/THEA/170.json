@@ -1,0 +1,44 @@
+{
+    "classScheduleInformation": "Some sections reserved for Theatre majors only, fall semester only.", 
+    "creditHours": "3 hours.", 
+    "description": "Study of the methods of acting, with emphasis on basic acting techniques; role of character in relation to the play as a whole, the play's internal and emotional values, and their interpretation through voice and action.", 
+    "href": "/2017/spring/THEA/170.json", 
+    "id": "THEA 170", 
+    "label": "Fundamentals of Acting I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "C", 
+                "href": "/2017/spring/THEA/170/36485.json", 
+                "id": "36485"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/THEA/170/36494.json", 
+                "id": "36494"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/THEA/170/36496.json", 
+                "id": "36496"
+            }
+        ]
+    }
+}

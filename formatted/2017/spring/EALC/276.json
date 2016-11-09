@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as CWL 276 and ENGL 276. See ENGL 276.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as CWL 276 and ENGL 276. See ENGL 276.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1LA", 
+                        "content": "UIUC: Literature and the Arts"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/EALC/276.json", 
+    "id": "EALC 276", 
+    "label": "Asian Film Genres", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "East Asian Language and Culture", 
+            "href": "/2017/spring/EALC.json", 
+            "id": "EALC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Literature and the Arts, and Non-Western Cultures course.", 
+    "sections": {
+        "section": {
+            "content": "R", 
+            "href": "/2017/spring/EALC/276/65127.json", 
+            "id": "65127"
+        }
+    }
+}

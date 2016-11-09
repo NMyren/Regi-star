@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated in separate terms.", 
+    "creditHours": "0 TO 8 hours.", 
+    "description": "Individual research in the various areas of agricultural and extension education under the supervision of faculty members. Approved for S/U grading only. May be repeated in separate terms.", 
+    "href": "/2017/spring/AGED/599.json", 
+    "id": "AGED 599", 
+    "label": "Thesis Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural Education", 
+            "href": "/2017/spring/AGED.json", 
+            "id": "AGED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/AGED/599/54405.json", 
+            "id": "54405"
+        }
+    }
+}

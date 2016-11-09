@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Credit is not given for both TSM 464 and ABE 466.", 
+    "creditHours": "3 hours.", 
+    "description": "Construction, performance and maintenance of internal combustion engines, power trains, and hydraulic systems for off-road equipment; methods and equipment for performance testing; and weight transfer and traction. Includes laboratory. 3 undergraduate hours. 3 graduate hours. Credit is not given for both TSM 464 and ABE 466.", 
+    "href": "/2017/spring/TSM/464.json", 
+    "id": "TSM 464", 
+    "label": "Engine and Tractor Power", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Technical Systems Management", 
+            "href": "/2017/spring/TSM.json", 
+            "id": "TSM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/TSM/464/37205.json", 
+                "id": "37205"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/TSM/464/37206.json", 
+                "id": "37206"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/TSM/464/37207.json", 
+                "id": "37207"
+            }
+        ]
+    }
+}

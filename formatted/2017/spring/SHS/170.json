@@ -1,0 +1,44 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Examines broad perspectives of theories and information regarding normal and abnormal communication: how speech and language develop, how people hear, how they produce speech and what can go wrong; addresses the impact of speech and hearing science on society, culture, and modern technologies.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1BSC", 
+                    "content": "UIUC: Behavioral Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/SHS/170.json", 
+    "id": "SHS 170", 
+    "label": "Intro Hum Comm Sys & Disorders", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Behavioral Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SHS/170/37177.json", 
+            "id": "37177"
+        }
+    }
+}

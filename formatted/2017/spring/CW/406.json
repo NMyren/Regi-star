@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 6 undergraduate hours or 8 graduate hours. Prerequisite: CW 206 or equivalent.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Practice of the writing of poetry aided by intensive study of examples. 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 6 undergraduate hours or 8 graduate hours. Prerequisite: CW 206 or equivalent.", 
+    "href": "/2017/spring/CW/406.json", 
+    "id": "CW 406", 
+    "label": "Advanced Poetry Writing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Creative Writing", 
+            "href": "/2017/spring/CW.json", 
+            "id": "CW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "1G", 
+                "href": "/2017/spring/CW/406/43384.json", 
+                "id": "43384"
+            }, 
+            {
+                "content": "1U", 
+                "href": "/2017/spring/CW/406/43383.json", 
+                "id": "43383"
+            }
+        ]
+    }
+}

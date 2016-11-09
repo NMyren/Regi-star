@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. Prerequisite: GLBL 250 and 350 or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Over the last few decades a wide range of strategies and initiatives have been applied to alleviate poverty in developing countries. The record of these initiatives is mixed. While millions of people may have moved out of poverty, over a billion remain persistently impoverished. We will examine a range of anti-poverty approaches that have been implemented and evaluates their effectiveness. Students will gain a familiarity with the interventions and an understanding of the techniques used to evaluate them. 3 undergraduate hours. No graduate credit. Prerequisite: GLBL 250 and 350 or consent of instructor.", 
+    "href": "/2017/spring/GLBL/450.json", 
+    "id": "GLBL 450", 
+    "label": "Poverty Interventions and Evaluation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Global Studies", 
+            "href": "/2017/spring/GLBL.json", 
+            "id": "GLBL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GLBL/450/63496.json", 
+            "id": "63496"
+        }
+    }
+}

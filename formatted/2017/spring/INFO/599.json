@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated in separate terms. Prerequisite: Instructor approval required.", 
+    "creditHours": "0 TO 16 hours.", 
+    "description": "Research for Ph.D. thesis. May be repeated in separate terms. Prerequisite: Instructor approval required.", 
+    "href": "/2017/spring/INFO/599.json", 
+    "id": "INFO 599", 
+    "label": "Thesis Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Informatics", 
+            "href": "/2017/spring/INFO.json", 
+            "id": "INFO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sectionCappArea": "Restricted to Chancellor's Scholar-CHPHonors or James Scholars Program students.", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/INFO/599/51392.json", 
+            "id": "51392"
+        }
+    }
+}

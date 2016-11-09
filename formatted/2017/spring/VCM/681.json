@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 OR 2 hours.", 
+    "description": "Advanced instruction in case management, laboratory data interpretation, decision-making regarding therapeutics, and advanced diagnostic techniques. Approved for S/U grading only. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/VCM/681.json", 
+    "id": "VCM 681", 
+    "label": "Adv Equine Internal Medicine", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Veterinary Clinical Medicine", 
+            "href": "/2017/spring/VCM.json", 
+            "id": "VCM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "E", 
+            "href": "/2017/spring/VCM/681/42948.json", 
+            "id": "42948"
+        }
+    }
+}

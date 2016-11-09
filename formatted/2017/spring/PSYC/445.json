@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: One of the following: PSYC 204, PSYC 210, PSYC 220, or consent of the instructor. PSYC 235 or equivalent is recommended.", 
+    "creditHours": "4 hours.", 
+    "description": "Study of the basic principles underlying scanning of the brain using functional Magnetic Resonance Imaging (fMRI). The lectures introduce how to use an MRI scanner, the basic biophysics that makes functional imaging possible, experimental design for fMRI, and basic data analysis. During the labs, students will get hands on experience analyzing fMRI data. 4 undergraduate hours. 4 graduate hours. Prerequisite: One of the following: PSYC 204, PSYC 210, PSYC 220, or consent of the instructor. PSYC 235 or equivalent is recommended.", 
+    "href": "/2017/spring/PSYC/445.json", 
+    "id": "PSYC 445", 
+    "label": "Cognitive Neuroscience Lab", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/PSYC/445/65373.json", 
+                "id": "65373"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/PSYC/445/65374.json", 
+                "id": "65374"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/PSYC/445/65369.json", 
+                "id": "65369"
+            }
+        ]
+    }
+}

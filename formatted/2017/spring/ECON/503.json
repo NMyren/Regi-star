@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Prerequisite: ECON 502, or equivalent. MSPE Graduate Student Standing.", 
+    "creditHours": "4 hours.", 
+    "description": "Develops a general methodological basis for searching for quantitative economic knowledge; integrates and gives operational content to the topics of economic, statistical, and econometric theory. Prerequisite: ECON 502, or equivalent. MSPE Graduate Student Standing.", 
+    "href": "/2017/spring/ECON/503.json", 
+    "id": "ECON 503", 
+    "label": "Econometrics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign. Restricted to MS:Economics:Policy Econ -UIUC.", 
+    "sections": {
+        "section": [
+            {
+                "content": "M1", 
+                "href": "/2017/spring/ECON/503/61888.json", 
+                "id": "61888"
+            }, 
+            {
+                "content": "M2", 
+                "href": "/2017/spring/ECON/503/61890.json", 
+                "id": "61890"
+            }
+        ]
+    }
+}

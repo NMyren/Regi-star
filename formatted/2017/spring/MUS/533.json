@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: Advanced undergraduate or graduate standing in music or music education, or consent of instructor.", 
+    "creditHours": "2 OR 4 hours.", 
+    "description": "Examines the sources of research literature in music education, provides an overview of traditional research methodologies, and introduces terminology and procedures utilized in qualitative and quantitative research. The purpose of the course is to enable graduate students to become intelligent consumers and interpreters of the music education research literature. Prerequisite: Advanced undergraduate or graduate standing in music or music education, or consent of instructor.", 
+    "href": "/2017/spring/MUS/533.json", 
+    "id": "MUS 533", 
+    "label": "Research in Music Education", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/533/63808.json", 
+            "id": "63808"
+        }
+    }
+}

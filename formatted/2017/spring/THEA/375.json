@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: THEA 371, THEA 372, THEA 373 and THEA 374, and concurrent registration in THEA 376, THEA 377 and THEA 378.", 
+    "creditHours": "1 hours.", 
+    "description": "Continuing development of movement and voice skills for actors. Enrollment limited to Theatre majors. Prerequisite: THEA 371, THEA 372, THEA 373 and THEA 374, and concurrent registration in THEA 376, THEA 377 and THEA 378.", 
+    "href": "/2017/spring/THEA/375.json", 
+    "id": "THEA 375", 
+    "label": "Acting Studio II: Dynamics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to students with Sophomore, Junior, or Senior class standing. Restricted to BFA:Theatre: Acting -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/THEA/375/37057.json", 
+            "id": "37057"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "0 to 3 undergraduate hours. No graduate credit. May be repeated in separate terms up to 6 hours. No more than 6 hours may be counted toward completion of the Global Studies major from any combination of GLBL 492 and other independent study, internship, or research assistance coursework. This includes coursework from other departments on campus or during study abroad. Prerequisite: GLBL 200; evidence of adequate preparation for such study; consent of faculty member supervising the work; and approval of Global Studies program. Global Studies majors only. Not available to freshman. Instructor approval required.", 
+    "creditHours": "0 TO 3 hours.", 
+    "description": "Assist Global Studies and program-affiliated faculty in ongoing research. Topics and nature of assistance vary. Capstone paper required. 0 to 3 undergraduate hours. No graduate credit. May be repeated in separate terms up to 6 hours. No more than 6 hours may be counted toward completion of the Global Studies major from any combination of GLBL 492 and other independent study, internship, or research assistance coursework. This includes coursework from other departments on campus or during study abroad. Prerequisite: GLBL 200; evidence of adequate preparation for such study; consent of faculty member supervising the work; and approval of Global Studies program. Global Studies majors only. Not available to freshman. Instructor approval required.", 
+    "href": "/2017/spring/GLBL/492.json", 
+    "id": "GLBL 492", 
+    "label": "UG Research Assistance", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Global Studies", 
+            "href": "/2017/spring/GLBL.json", 
+            "id": "GLBL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": [
+            {
+                "content": "AS", 
+                "href": "/2017/spring/GLBL/492/64665.json", 
+                "id": "64665"
+            }, 
+            {
+                "content": "KB", 
+                "href": "/2017/spring/GLBL/492/64669.json", 
+                "id": "64669"
+            }
+        ]
+    }
+}

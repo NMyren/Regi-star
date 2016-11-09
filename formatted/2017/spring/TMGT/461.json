@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Same as BADM 461. See BADM 461.", 
+    "creditHours": "2 hours.", 
+    "description": "Same as BADM 461. See BADM 461.", 
+    "href": "/2017/spring/TMGT/461.json", 
+    "id": "TMGT 461", 
+    "label": "Tech, Eng, & Mgt Final Project", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Technology and Management Courses", 
+            "href": "/2017/spring/TMGT.json", 
+            "id": "TMGT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Technology and Management major(s) or minor(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "TMD", 
+                "href": "/2017/spring/TMGT/461/31002.json", 
+                "id": "31002"
+            }, 
+            {
+                "content": "TME", 
+                "href": "/2017/spring/TMGT/461/31003.json", 
+                "id": "31003"
+            }
+        ]
+    }
+}

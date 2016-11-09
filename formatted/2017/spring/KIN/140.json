@@ -1,0 +1,68 @@
+{
+    "classScheduleInformation": "Some seats have been reserved for new Kinesiology Freshmen and transfer students. Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the social scientific aspects of human movement including sport; particular emphasis on concepts derived from the social sciences (including psychology) that are appropriate to human movement. Additional fees may apply. See Class Schedule.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/KIN/140.json", 
+    "id": "KIN 140", 
+    "label": "Social Sci of Human Movement", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/KIN/140/35098.json", 
+                "id": "35098"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/KIN/140/35100.json", 
+                "id": "35100"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/KIN/140/35101.json", 
+                "id": "35101"
+            }, 
+            {
+                "content": "AB5", 
+                "href": "/2017/spring/KIN/140/35116.json", 
+                "id": "35116"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/KIN/140/35117.json", 
+                "id": "35117"
+            }
+        ]
+    }
+}

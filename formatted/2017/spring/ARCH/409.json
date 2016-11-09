@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. May be repeated to a maximum of 6 hours. Prerequisite: ARCH 210.", 
+    "creditHours": "3 hours.", 
+    "description": "Explores aspects of the architecture and urban design of Spain from antiquity until the present. 3 undergraduate hours. 3 graduate hours. May be repeated to a maximum of 6 hours. Prerequisite: ARCH 210.", 
+    "href": "/2017/spring/ARCH/409.json", 
+    "id": "ARCH 409", 
+    "label": "Special Topics in Spanish Arch", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/ARCH/409/61901.json", 
+            "id": "61901"
+        }
+    }
+}

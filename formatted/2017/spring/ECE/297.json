@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. May be repeated in separate terms to a maximum of 2 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 hours.", 
+    "description": "Individual projects. Approved written application to department as specified by department or instructors is required. Approved for both letter and S/U grading. May be repeated in separate terms to a maximum of 2 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/ECE/297.json", 
+    "id": "ECE 297", 
+    "label": "Individual Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ECE/297/50224.json", 
+            "id": "50224"
+        }
+    }
+}

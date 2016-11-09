@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. Prerequisite: Graduate standing in Urban and Regional Planning, consent of instructor, and consent of the Department.", 
+    "creditHours": "4 OR 8 hours.", 
+    "description": "Major independent or small group project applying planning principles and methods to a current problem in urban and regional planning resulting in a final professional product. Approved for S/U grading only. Prerequisite: Graduate standing in Urban and Regional Planning, consent of instructor, and consent of the Department.", 
+    "href": "/2017/spring/UP/598.json", 
+    "id": "UP 598", 
+    "label": "Master's Project", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Urban and Regional Planning", 
+            "href": "/2017/spring/UP.json", 
+            "id": "UP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/UP/598/10273.json", 
+            "id": "10273"
+        }
+    }
+}

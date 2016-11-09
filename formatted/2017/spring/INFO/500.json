@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated in separate terms to a maximum of 2 hours. Prerequisite: Graduate standing in any field.", 
+    "creditHours": "1 hours.", 
+    "description": "A broad introduction to faculty research in each Informatics Area. Consists of weekly presentations by Informatics faculty highlighting their recent research, practice, and related concepts. Approved for S/U grading only. May be repeated in separate terms to a maximum of 2 hours. Prerequisite: Graduate standing in any field.", 
+    "href": "/2017/spring/INFO/500.json", 
+    "id": "INFO 500", 
+    "label": "Orientation Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Informatics", 
+            "href": "/2017/spring/INFO.json", 
+            "id": "INFO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/INFO/500/59667.json", 
+            "id": "59667"
+        }
+    }
+}

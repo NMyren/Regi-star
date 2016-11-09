@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: Restricted to senior i-Health majors.", 
+    "creditHours": "4 hours.", 
+    "description": "Designed to emphasize field/research experiences that facilitate working with individuals from a variety of health disciplines. Field experience/research placements will be selected to best prepare students address issues of health within their concentrations areas. In class sessions will focus on interdisciplinary collaboration, professionalism and important global health issues. Serves as the capstone course for i-Health majors. 4 undergraduate hours. 4 graduate hours. Prerequisite: Restricted to senior i-Health majors.", 
+    "href": "/2017/spring/IHLT/475.json", 
+    "id": "IHLT 475", 
+    "label": "Field Experience in i-Health", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "i-Health Program", 
+            "href": "/2017/spring/IHLT.json", 
+            "id": "IHLT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to BS: Health -UIUC or BS: Interdisc Health Sci -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/IHLT/475/59205.json", 
+            "id": "59205"
+        }
+    }
+}

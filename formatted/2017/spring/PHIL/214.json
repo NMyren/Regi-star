@@ -1,0 +1,61 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Philosophical study of selected moral and social problems concerning medicine and biology, such as euthanasia, abortion, allocation of scarce medical resources, health care and rights, and genetic engineering.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Humanities & the Arts", 
+            "id": "HUM", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1HP", 
+                    "content": "UIUC: Hist&Philosoph Perspect"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/PHIL/214.json", 
+    "id": "PHIL 214", 
+    "label": "Biomedical Ethics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Philosophy", 
+            "href": "/2017/spring/PHIL.json", 
+            "id": "PHIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/PHIL/214/35465.json", 
+                "id": "35465"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/PHIL/214/35466.json", 
+                "id": "35466"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/PHIL/214/35467.json", 
+                "id": "35467"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/PHIL/214/35471.json", 
+                "id": "35471"
+            }
+        ]
+    }
+}

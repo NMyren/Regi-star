@@ -1,0 +1,32 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "Discussion of major trends in development thinking and policy, and development theories from the classics in political economy through modernization theory, dependency, alternative development, neoliberalism, human development and post-development. Addresses ongoing challenges and debates such as globalization and democratization, and trends in social science, such as discourse analysis. Enables participants to assess development theories in a historical context and from the viewpoint of sociology of development knowledge.", 
+    "href": "/2017/spring/SOC/561.json", 
+    "id": "SOC 561", 
+    "label": "Development Theories", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Sociology", 
+            "href": "/2017/spring/SOC.json", 
+            "id": "SOC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "BD", 
+            "href": "/2017/spring/SOC/561/43488.json", 
+            "id": "43488"
+        }
+    }
+}

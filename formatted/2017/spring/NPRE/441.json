@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: NPRE 446.", 
+    "creditHours": "4 hours.", 
+    "description": "Sources of nuclear radiation; ionization and energy deposition in matter with an emphasis on biological systems; principles of dosimetry; determination of exposure and limits for internal and external emitters; basic shielding calculations. 4 undergraduate hours. 4 graduate hours. Prerequisite: NPRE 446.", 
+    "href": "/2017/spring/NPRE/441.json", 
+    "id": "NPRE 441", 
+    "label": "Radiation Protection", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Nuclear, Plasma, and Radiological Engineering", 
+            "href": "/2017/spring/NPRE.json", 
+            "id": "NPRE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "E", 
+            "href": "/2017/spring/NPRE/441/34725.json", 
+            "id": "34725"
+        }
+    }
+}

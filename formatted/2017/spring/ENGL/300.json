@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Prerequisite: Completion of the Composition I requirement; one year of college literature or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Writing-intensive, variable topic course designed to improve English majors' ability to write clear, well-organized, analytically sound and persuasively argued essays relevant to literary studies. Introduces students to some strategies of literary criticism and research through examination of critical texts appropriate to course topic. For majors only. Prerequisite: Completion of the Composition I requirement; one year of college literature or consent of instructor.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/ENGL/300.json", 
+    "id": "ENGL 300", 
+    "label": "Writing About Lit Text&Culture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "F", 
+                "href": "/2017/spring/ENGL/300/32119.json", 
+                "id": "32119"
+            }, 
+            {
+                "content": "P", 
+                "href": "/2017/spring/ENGL/300/32121.json", 
+                "id": "32121"
+            }, 
+            {
+                "content": "Q", 
+                "href": "/2017/spring/ENGL/300/47579.json", 
+                "id": "47579"
+            }
+        ]
+    }
+}

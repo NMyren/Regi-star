@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Same as CSE 412. 2 or 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ME 310 and ME 320.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Numerical techniques for solving the equations governing conduction and convective heat transfer in steady and unsteady fluid flows: finite-difference and finite-volume techniques, basic algorithms, and applications to real-world fluid-flow and heat-transfer problems. Same as CSE 412. 2 or 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ME 310 and ME 320.", 
+    "href": "/2017/spring/ME/412.json", 
+    "id": "ME 412", 
+    "label": "Numerical Thermo-Fluid Mechs", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "F2", 
+                "href": "/2017/spring/ME/412/61260.json", 
+                "id": "61260"
+            }, 
+            {
+                "content": "F3", 
+                "href": "/2017/spring/ME/412/37444.json", 
+                "id": "37444"
+            }, 
+            {
+                "content": "F4", 
+                "href": "/2017/spring/ME/412/37447.json", 
+                "id": "37447"
+            }
+        ]
+    }
+}

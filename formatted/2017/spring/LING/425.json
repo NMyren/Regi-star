@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as MACS 425. 3 undergraduate hours. 4 graduate hours. Credit is not given for both LING 425 and PSYC 425. Prerequisite: An introductory course in linguistics or psychology.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Introductory survey of psychological and linguistic approaches to the study of communication. Same as MACS 425. 3 undergraduate hours. 4 graduate hours. Credit is not given for both LING 425 and PSYC 425. Prerequisite: An introductory course in linguistics or psychology.", 
+    "href": "/2017/spring/LING/425.json", 
+    "id": "LING 425", 
+    "label": "Intro to Psycholinguistics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Linguistics", 
+            "href": "/2017/spring/LING.json", 
+            "id": "LING"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A3", 
+                "href": "/2017/spring/LING/425/46351.json", 
+                "id": "46351"
+            }, 
+            {
+                "content": "A4", 
+                "href": "/2017/spring/LING/425/46352.json", 
+                "id": "46352"
+            }
+        ]
+    }
+}

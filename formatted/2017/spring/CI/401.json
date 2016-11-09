@@ -1,0 +1,50 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: Admission to the Secondary Teacher Education Program or consent of the instructor/department.", 
+    "creditHours": "3 hours.", 
+    "description": "Orients the student to ways in which English, Mathematics, Science, or Social Studies is learned in high school settings. Integrates an introduction to the use of technology as both a tool and a context for teaching and learning. As participants in a series of learning activities, students will reflect on the teaching and learning of English, Mathematics, Science, or Social Studies from an inquiry oriented perspective. Coursework is integrated with a high school field experience to connect theory with practice in an examination of research and current trends in English, Mathematics, Science, or Social Studies education. 3 undergraduate hours. 3 graduate hours. Prerequisite: Admission to the Secondary Teacher Education Program or consent of the instructor/department.", 
+    "href": "/2017/spring/CI/401.json", 
+    "id": "CI 401", 
+    "label": "Introductory Teaching in a Diverse Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to Admitted Teacher Ed Student students.", 
+    "sections": {
+        "section": [
+            {
+                "content": "E", 
+                "href": "/2017/spring/CI/401/46092.json", 
+                "id": "46092"
+            }, 
+            {
+                "content": "M", 
+                "href": "/2017/spring/CI/401/46145.json", 
+                "id": "46145"
+            }, 
+            {
+                "content": "S", 
+                "href": "/2017/spring/CI/401/46146.json", 
+                "id": "46146"
+            }, 
+            {
+                "content": "T", 
+                "href": "/2017/spring/CI/401/43425.json", 
+                "id": "43425"
+            }
+        ]
+    }
+}

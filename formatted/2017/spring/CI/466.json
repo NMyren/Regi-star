@@ -1,0 +1,35 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. 2 graduate hours. Prerequisite: CI 465. Requires concurrent enrollment in EDPR 432.", 
+    "creditHours": "2 hours.", 
+    "description": "Emphasizes developmentally appropriate practices for the teaching of reading and writing in grades K-2. 2 undergraduate hours. 2 graduate hours. Prerequisite: CI 465. Requires concurrent enrollment in EDPR 432.", 
+    "href": "/2017/spring/CI/466.json", 
+    "id": "CI 466", 
+    "label": "Lang Literacy in EC Educ II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to Admitted Teacher Ed Student students.", 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sectionRegistrationNotes": "Restricted to Special Education or Early Childhood Education or Early Childhood Education major(s) or minor(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CI/466/31957.json", 
+            "id": "31957"
+        }
+    }
+}

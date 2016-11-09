@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Same as CWL 215.", 
+    "creditHours": "3 hours.", 
+    "description": "Focuses on the achievements of major Scandinavian writers of prose fiction, from 1850 to today. Explores topics of madness, myth, and murder in literature. All reading, discussion, and writing in English. Same as CWL 215.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Humanities & the Arts", 
+            "id": "HUM", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1LA", 
+                    "content": "UIUC: Literature and the Arts"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/SCAN/215.json", 
+    "id": "SCAN 215", 
+    "label": "Madness, Myth, and Murder", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Scandinavian", 
+            "href": "/2017/spring/SCAN.json", 
+            "id": "SCAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Literature and the Arts course.", 
+    "sections": {
+        "section": {
+            "content": "S", 
+            "href": "/2017/spring/SCAN/215/47986.json", 
+            "id": "47986"
+        }
+    }
+}

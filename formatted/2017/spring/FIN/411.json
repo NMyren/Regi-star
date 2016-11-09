@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. Prerequisite: FIN 300.", 
+    "creditHours": "3 hours.", 
+    "description": "Current theories of portfolio management are covered in considerable detail to provide a conceptual framework for the evaluation of investment strategies. Applications and implementation are covered in depth, including performance evaluation and international diversification. 3 undergraduate hours. No graduate credit. Prerequisite: FIN 300.", 
+    "href": "/2017/spring/FIN/411.json", 
+    "id": "FIN 411", 
+    "label": "Investment & Portfolio Mngt", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Finance", 
+            "href": "/2017/spring/FIN.json", 
+            "id": "FIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to College of Business. Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "D", 
+                "href": "/2017/spring/FIN/411/55576.json", 
+                "id": "55576"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/FIN/411/55575.json", 
+                "id": "55575"
+            }
+        ]
+    }
+}

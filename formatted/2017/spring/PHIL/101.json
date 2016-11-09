@@ -1,0 +1,73 @@
+{
+    "classScheduleInformation": "Students registering in Lecture AL1 must also register in a lecture-discussion section (AD_).", 
+    "courseSectionInformation": "Credit is not given for both PHIL 101 and PHIL 100.", 
+    "creditHours": "3 hours.", 
+    "description": "Consideration of some main problems of philosophy concerning, for example, knowledge, God, mind and body, and human freedom. Credit is not given for both PHIL 101 and PHIL 100.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Humanities & the Arts", 
+            "id": "HUM", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1HP", 
+                    "content": "UIUC: Hist&Philosoph Perspect"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/PHIL/101.json", 
+    "id": "PHIL 101", 
+    "label": "Introduction to Philosophy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Philosophy", 
+            "href": "/2017/spring/PHIL.json", 
+            "id": "PHIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/PHIL/101/43843.json", 
+                "id": "43843"
+            }, 
+            {
+                "content": "A2", 
+                "href": "/2017/spring/PHIL/101/54422.json", 
+                "id": "54422"
+            }, 
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/PHIL/101/35404.json", 
+                "id": "35404"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/PHIL/101/35405.json", 
+                "id": "35405"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/PHIL/101/39120.json", 
+                "id": "39120"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/PHIL/101/35410.json", 
+                "id": "35410"
+            }
+        ]
+    }
+}

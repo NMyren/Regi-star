@@ -1,0 +1,33 @@
+{
+    "classScheduleInformation": "For Dance majors only.", 
+    "creditHours": "1 hours.", 
+    "description": "Introduction to the basic concepts and principles of somatic practices, or body-mind disciplines, as related to dance. Through reading, writing, and experiential work, students will learn basic tenets of a number of somatic practices such as Ideokinesis and Imagery, Body-Mind Centering, The Alexander Technique, Bartenieff Fundamentals, and the Feldenkrais Method. Exploration of the ways in which somatics has helped to shape current dance training practices by looking at common themes and distinguishing features of these modalities.", 
+    "href": "/2017/spring/DANC/245.json", 
+    "id": "DANC 245", 
+    "label": "Introduction to Somatics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Dance or Dance major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/DANC/245/61018.json", 
+            "id": "61018"
+        }
+    }
+}

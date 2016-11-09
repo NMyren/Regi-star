@@ -1,0 +1,47 @@
+{
+    "classScheduleInformation": "A student registered in one or more Art & Design course(s) exhibiting this message, will be assessed a $95 facility use fee once each term.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Prerequisite: Industrial Design major, sophomore standing or consent of instructor. Concurrent registration in ARTD 201 or ARTD 202.", 
+    "creditHours": "3 hours.", 
+    "description": "Concepts, methods and applications of computer-aided industrial design to the design of products for mass manufacture. Rendering and lighting techniques to communicate product forms. Additional fees may apply. See Class Schedule. Prerequisite: Industrial Design major, sophomore standing or consent of instructor. Concurrent registration in ARTD 201 or ARTD 202.", 
+    "href": "/2017/spring/ARTD/228.json", 
+    "id": "ARTD 228", 
+    "label": "Computer Applications", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Design", 
+            "href": "/2017/spring/ARTD.json", 
+            "id": "ARTD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionFeeAmount": "Art  Industrial Design $50.00 Flat Fee.", 
+    "sectionRegistrationNotes": "Restricted to Industrial Design major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "M1", 
+                "href": "/2017/spring/ARTD/228/63648.json", 
+                "id": "63648"
+            }, 
+            {
+                "content": "T2", 
+                "href": "/2017/spring/ARTD/228/52682.json", 
+                "id": "52682"
+            }, 
+            {
+                "content": "T4", 
+                "href": "/2017/spring/ARTD/228/51410.json", 
+                "id": "51410"
+            }
+        ]
+    }
+}

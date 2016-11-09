@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: LAT 102 or two years of high school Latin.", 
+    "creditHours": "4 hours.", 
+    "description": "Review of grammar; reading of easy narrative prose. Prerequisite: LAT 102 or two years of high school Latin.", 
+    "href": "/2017/spring/LAT/201.json", 
+    "id": "LAT 201", 
+    "label": "Intermediate Latin", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latin", 
+            "href": "/2017/spring/LAT.json", 
+            "id": "LAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/LAT/201/64804.json", 
+            "id": "64804"
+        }
+    }
+}

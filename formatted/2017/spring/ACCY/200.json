@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Credit is not given for both ACCY 200 and either ACCY 201 or ACCY 202. Prerequisite: Sophomore standing.", 
+    "creditHours": "3 hours.", 
+    "description": "Survey course in the principles of accounting for students registered in schools and colleges other than the College of Business. Credit is not given for both ACCY 200 and either ACCY 201 or ACCY 202. Prerequisite: Sophomore standing.", 
+    "href": "/2017/spring/ACCY/200.json", 
+    "id": "ACCY 200", 
+    "label": "Fundamentals of Accounting", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Accountancy", 
+            "href": "/2017/spring/ACCY.json", 
+            "id": "ACCY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "OL", 
+                "href": "/2017/spring/ACCY/200/45418.json", 
+                "id": "45418"
+            }, 
+            {
+                "content": "TM", 
+                "href": "/2017/spring/ACCY/200/30111.json", 
+                "id": "30111"
+            }
+        ]
+    }
+}

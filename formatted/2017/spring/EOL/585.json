@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Completion of a campus or departmental orientation for teaching assistants.", 
+    "creditHours": "4 hours.", 
+    "description": "Scholarly approach to curriculum and pedagogy at the college level: models of student development, instructional methods, active and cooperative learning, advising, evaluation and assessment, classroom research. Faculty roles and responsibilities. This course is intended for students who plan to pursue academic careers. Prerequisite: Completion of a campus or departmental orientation for teaching assistants.", 
+    "href": "/2017/spring/EOL/585.json", 
+    "id": "EOL 585", 
+    "label": "College Teaching", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Organization and Leadership", 
+            "href": "/2017/spring/EOL.json", 
+            "id": "EOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/EOL/585/39405.json", 
+            "id": "39405"
+        }
+    }
+}

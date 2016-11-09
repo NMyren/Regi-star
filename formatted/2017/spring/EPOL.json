@@ -1,0 +1,45 @@
+{
+    "addressLine1": "351 Education Building, 1310 South Sixth", 
+    "addressLine2": "Champaign", 
+    "collegeCode": "KN", 
+    "collegeDepartmentDescription": "Department Head: Dr. James Anderson\n351 Education Building, 1310 South Sixth, Champaign, 217-333-0807\nhttp://education.illinois.edu/epol", 
+    "contactName": "Dr. James Anderson", 
+    "contactTitle": "Department Head", 
+    "courses": {
+        "course": [
+            {
+                "content": "Social Learning and Knowledge", 
+                "href": "/2017/spring/EPOL/350.json", 
+                "id": "350"
+            }, 
+            {
+                "content": "Methods of Educational Inquiry", 
+                "href": "/2017/spring/EPOL/550.json", 
+                "id": "550"
+            }, 
+            {
+                "content": "Ethnographic Methods in Educ", 
+                "href": "/2017/spring/EPOL/585.json", 
+                "id": "585"
+            }
+        ]
+    }, 
+    "departmentCode": "1760", 
+    "id": "EPOL", 
+    "label": "Education Policy, Organization and Leadership", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-0807", 
+    "unitName": "Educ Policy, Orgzn & Leadrshp", 
+    "webSiteURL": "http://education.illinois.edu/epol"
+}

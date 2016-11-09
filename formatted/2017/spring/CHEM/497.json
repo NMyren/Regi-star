@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "to 3 undergraduate hours. No graduate credit. May be repeated in separate terms. A maximum of 6 hours may be used toward the major. A maximum of 18 hours of CHEM 197, CHEM 297, CHEM 397, CHEM 497 and/or CHEM 499 may be used toward the degree. Prerequisite: Chemistry faculty approval required to register.", 
+    "creditHours": "1 TO 3 hours.", 
+    "description": "Individual study of problems related to chemistry or research not necessarily leading to a senior thesis.  to 3 undergraduate hours. No graduate credit. May be repeated in separate terms. A maximum of 6 hours may be used toward the major. A maximum of 18 hours of CHEM 197, CHEM 297, CHEM 397, CHEM 497 and/or CHEM 499 may be used toward the degree. Prerequisite: Chemistry faculty approval required to register.", 
+    "href": "/2017/spring/CHEM/497.json", 
+    "id": "CHEM 497", 
+    "label": "Individual Study Senior", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CHEM/497/53501.json", 
+            "id": "53501"
+        }
+    }
+}

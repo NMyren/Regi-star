@@ -1,0 +1,44 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Explores methods of design and management of manufacturing and service business processes; central concepts include managing process-speed, -capacity, -inventory, and -uncertainty; additional topics include simultaneous product and process design, and an introduction to quality management, process improvement and lean thinking.", 
+    "href": "/2017/spring/BADM/375.json", 
+    "id": "BADM 375", 
+    "label": "Business Process Management", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Marketing or Information Sys & Info Tech or Supply Chain Management or Business Process Management or Management major(s) or minor(s). Restricted to students with Junior or Senior class standing.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/BADM/375/46940.json", 
+                "id": "46940"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/BADM/375/52243.json", 
+                "id": "52243"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/BADM/375/64936.json", 
+                "id": "64936"
+            }
+        ]
+    }
+}

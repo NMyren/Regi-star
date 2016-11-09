@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Open to Landscape Architecture majors only. Prerequisite: Concurrent registration in LA 234; completion of LA 280 and completion of campus Composition I general education requirement or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Advanced principles and techniques of visual communication in landscape architectural rendering, emphasizing computer-based techniques. Open to Landscape Architecture majors only. Prerequisite: Concurrent registration in LA 234; completion of LA 280 and completion of campus Composition I general education requirement or consent of instructor.", 
+    "href": "/2017/spring/LA/281.json", 
+    "id": "LA 281", 
+    "label": "Design Communications II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Landscape Architecture", 
+            "href": "/2017/spring/LA.json", 
+            "id": "LA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "M1", 
+            "href": "/2017/spring/LA/281/35298.json", 
+            "id": "35298"
+        }
+    }
+}

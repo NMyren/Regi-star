@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as ENVS 380. Additional fees may apply. See Class Schedule. Credit is not given for both GEOL 380 and ESE 445. Prerequisite: CHEM 102 and CHEM 103; and GEOL 100 and GEOL 110, or one of GEOL 101, GEOL 103, GEOL 104 or GEOL 107; or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Increases student understanding of environmental issues of water supply and pollution, waste disposal, energy, environmental health, global change, and land evaluation and use by emphasizing the role of geology and its relationships to human activities. Course requires a one-day field trip. Same as ENVS 380. Additional fees may apply. See Class Schedule. Credit is not given for both GEOL 380 and ESE 445. Prerequisite: CHEM 102 and CHEM 103; and GEOL 100 and GEOL 110, or one of GEOL 101, GEOL 103, GEOL 104 or GEOL 107; or consent of instructor.", 
+    "href": "/2017/spring/GEOL/380.json", 
+    "id": "GEOL 380", 
+    "label": "Environmental Geology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/GEOL/380/33537.json", 
+                "id": "33537"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/GEOL/380/33538.json", 
+                "id": "33538"
+            }
+        ]
+    }
+}

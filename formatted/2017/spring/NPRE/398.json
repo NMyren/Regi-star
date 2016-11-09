@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated in the same or separate terms if topics vary.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Subject offerings of new and developing areas of knowledge in nuclear, plasma, and radiological engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. May be repeated in the same or separate terms if topics vary.", 
+    "href": "/2017/spring/NPRE/398.json", 
+    "id": "NPRE 398", 
+    "label": "Special Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Nuclear, Plasma, and Radiological Engineering", 
+            "href": "/2017/spring/NPRE.json", 
+            "id": "NPRE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "PL", 
+            "href": "/2017/spring/NPRE/398/65750.json", 
+            "id": "65750"
+        }
+    }
+}

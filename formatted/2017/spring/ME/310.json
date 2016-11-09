@@ -1,0 +1,115 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "Credit is not given for both ME 310 and TAM 335. Prerequisite: MATH 285; credit or concurrent registration in ME 300.", 
+    "creditHours": "4 hours.", 
+    "description": "Fundamentals of fluid mechanics with coverage of theory and applications of incompressible viscous and inviscid flows, and compressible high speed flows. Credit is not given for both ME 310 and TAM 335. Prerequisite: MATH 285; credit or concurrent registration in ME 300.", 
+    "href": "/2017/spring/ME/310.json", 
+    "id": "ME 310", 
+    "label": "Fundamentals of Fluid Dynamics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ABA", 
+                "href": "/2017/spring/ME/310/36926.json", 
+                "id": "36926"
+            }, 
+            {
+                "content": "ABB", 
+                "href": "/2017/spring/ME/310/36927.json", 
+                "id": "36927"
+            }, 
+            {
+                "content": "ABC", 
+                "href": "/2017/spring/ME/310/36928.json", 
+                "id": "36928"
+            }, 
+            {
+                "content": "ABD", 
+                "href": "/2017/spring/ME/310/36929.json", 
+                "id": "36929"
+            }, 
+            {
+                "content": "ABE", 
+                "href": "/2017/spring/ME/310/36930.json", 
+                "id": "36930"
+            }, 
+            {
+                "content": "ABF", 
+                "href": "/2017/spring/ME/310/36931.json", 
+                "id": "36931"
+            }, 
+            {
+                "content": "ABG", 
+                "href": "/2017/spring/ME/310/36932.json", 
+                "id": "36932"
+            }, 
+            {
+                "content": "ABH", 
+                "href": "/2017/spring/ME/310/36933.json", 
+                "id": "36933"
+            }, 
+            {
+                "content": "ABI", 
+                "href": "/2017/spring/ME/310/36934.json", 
+                "id": "36934"
+            }, 
+            {
+                "content": "ABJ", 
+                "href": "/2017/spring/ME/310/36935.json", 
+                "id": "36935"
+            }, 
+            {
+                "content": "ABK", 
+                "href": "/2017/spring/ME/310/36936.json", 
+                "id": "36936"
+            }, 
+            {
+                "content": "ABL", 
+                "href": "/2017/spring/ME/310/36937.json", 
+                "id": "36937"
+            }, 
+            {
+                "content": "ABM", 
+                "href": "/2017/spring/ME/310/36938.json", 
+                "id": "36938"
+            }, 
+            {
+                "content": "ABN", 
+                "href": "/2017/spring/ME/310/52246.json", 
+                "id": "52246"
+            }, 
+            {
+                "content": "ABO", 
+                "href": "/2017/spring/ME/310/52249.json", 
+                "id": "52249"
+            }, 
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/ME/310/36924.json", 
+                "id": "36924"
+            }, 
+            {
+                "content": "AE2", 
+                "href": "/2017/spring/ME/310/36925.json", 
+                "id": "36925"
+            }
+        ]
+    }
+}

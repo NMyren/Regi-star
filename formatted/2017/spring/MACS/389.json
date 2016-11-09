@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as PS 389.", 
+    "creditHours": "3 hours.", 
+    "description": "Provides an interdisciplinary approach to international communications; its structure and content; the role of international communications in conflict and conflict resolution; the semantics of international communication; the technical and economic aspects of international mass communications; and government-industry relations in communications. Same as PS 389.", 
+    "href": "/2017/spring/MACS/389.json", 
+    "id": "MACS 389", 
+    "label": "International Communications", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Media and Cinema Studies", 
+            "href": "/2017/spring/MACS.json", 
+            "id": "MACS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MACS/389/57074.json", 
+            "id": "57074"
+        }
+    }
+}

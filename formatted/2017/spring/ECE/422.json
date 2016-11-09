@@ -1,0 +1,64 @@
+{
+    "courseSectionInformation": "Same as CS 461. See CS 461.", 
+    "creditHours": "3 or 4 hours.", 
+    "description": "Same as CS 461. See CS 461.", 
+    "href": "/2017/spring/ECE/422.json", 
+    "id": "ECE 422", 
+    "label": "Computer Security I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AL4", 
+                "href": "/2017/spring/ECE/422/48201.json", 
+                "id": "48201"
+            }, 
+            {
+                "content": "AY1", 
+                "href": "/2017/spring/ECE/422/63514.json", 
+                "id": "63514"
+            }, 
+            {
+                "content": "AY2", 
+                "href": "/2017/spring/ECE/422/63515.json", 
+                "id": "63515"
+            }, 
+            {
+                "content": "AY3", 
+                "href": "/2017/spring/ECE/422/63516.json", 
+                "id": "63516"
+            }, 
+            {
+                "content": "AY4", 
+                "href": "/2017/spring/ECE/422/63517.json", 
+                "id": "63517"
+            }, 
+            {
+                "content": "AY5", 
+                "href": "/2017/spring/ECE/422/63518.json", 
+                "id": "63518"
+            }, 
+            {
+                "content": "AY6", 
+                "href": "/2017/spring/ECE/422/63519.json", 
+                "id": "63519"
+            }
+        ]
+    }
+}

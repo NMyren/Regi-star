@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Assists educators, as well as trainers and managers in business and industry, to effectively recognize and understand diversity in school and work settings. Activities focus on understanding the nature of diverse populations, their unique learning needs, and potential collaborative efforts between educators and work place personnel. 3 undergraduate hours. 4 graduate hours.", 
+    "href": "/2017/spring/HRD/415.json", 
+    "id": "HRD 415", 
+    "label": "Diversity in the Workplace", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Human Resource Development", 
+            "href": "/2017/spring/HRD.json", 
+            "id": "HRD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/HRD/415/60115.json", 
+            "id": "60115"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated.", 
+    "creditHours": "0 hours.", 
+    "description": "Noncredit course designed to give the Naval ROTC student, through practical application, a better grasp of the naval science subjects taught in the classroom and a working knowledge of close order drill. Approved for S/U grading only. May be repeated.", 
+    "href": "/2017/spring/NS/100.json", 
+    "id": "NS 100", 
+    "label": "Leadership Laboratory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Naval Science", 
+            "href": "/2017/spring/NS.json", 
+            "id": "NS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/NS/100/34520.json", 
+                "id": "34520"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/NS/100/34529.json", 
+                "id": "34529"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/NS/100/34555.json", 
+                "id": "34555"
+            }
+        ]
+    }
+}

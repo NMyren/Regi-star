@@ -1,0 +1,46 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "204 Coble Hall, 801 South Wright Street, Champaign", 
+    "collegeCode": "KS", 
+    "collegeDepartmentDescription": "Dean of College: Wojtek Choczko-Zajko\nDepartment Office, 204 Coble Hall, 801 South Wright Street, Champaign, 333-0035\nSubjects associated with this department include: Committee on Institutional Cooperation (CIC), Graduate College Study Abroad (GC), and Professional Science Master's Program (PSM).\nwww.psm.illinois.edu/", 
+    "contactName": "Wojtek Choczko-Zajko", 
+    "contactTitle": "Dean of College", 
+    "courses": {
+        "course": [
+            {
+                "content": "PSM Industry Seminar II", 
+                "href": "/2017/spring/PSM/502.json", 
+                "id": "502"
+            }, 
+            {
+                "content": "Special Topics-Sci & Business", 
+                "href": "/2017/spring/PSM/520.json", 
+                "id": "520"
+            }, 
+            {
+                "content": "PSM Internship", 
+                "href": "/2017/spring/PSM/555.json", 
+                "id": "555"
+            }
+        ]
+    }, 
+    "departmentCode": "1486", 
+    "id": "PSM", 
+    "label": "Professional Science Master's Program", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-0035", 
+    "subjectComment": "Subjects associated with this department include: Committee on Institutional Cooperation (CIC), Graduate College Study Abroad (GC), and Professional Science Master's Program (PSM).", 
+    "unitName": "Graduate College", 
+    "webSiteURL": "www.psm.illinois.edu/"
+}

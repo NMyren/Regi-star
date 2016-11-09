@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: Junior standing or consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Studies European art from 1850 to 1900, with emphasis on French painting. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: Junior standing or consent of instructor.", 
+    "href": "/2017/spring/ARTH/441.json", 
+    "id": "ARTH 441", 
+    "label": "Realism to Post-Impressionism", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--History", 
+            "href": "/2017/spring/ARTH.json", 
+            "id": "ARTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "DOG", 
+                "href": "/2017/spring/ARTH/441/50181.json", 
+                "id": "50181"
+            }, 
+            {
+                "content": "DOU", 
+                "href": "/2017/spring/ARTH/441/50179.json", 
+                "id": "50179"
+            }
+        ]
+    }
+}

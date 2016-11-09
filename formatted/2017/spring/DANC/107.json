@@ -1,0 +1,33 @@
+{
+    "classScheduleInformation": "Student costs for supplies and concert tickets are approx. $30. Written assignments and concert attendance is required.", 
+    "courseSectionInformation": "May be repeated to a maximum of 8 hours. Prerequisite: For non-dance majors.", 
+    "creditHours": "2 hours.", 
+    "description": "Introduction to ballet for nondance majors. May be repeated to a maximum of 8 hours. Prerequisite: For non-dance majors.", 
+    "href": "/2017/spring/DANC/107.json", 
+    "id": "DANC 107", 
+    "label": "Ballet I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/DANC/107/31818.json", 
+            "id": "31818"
+        }
+    }
+}

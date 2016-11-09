@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "(Summer Session, 0 to 6 hours).", 
+    "creditHours": "0 TO 18 hours.", 
+    "description": "Illinois credit placeholder for foreign study and mechanism to maintain continuous Illinois enrollment while studying abroad. A detailed proposal must be submitted by the student for approval by the student's department and the college office prior to such study abroad. Final determination of credit and its application toward the degree is made by the college office after a review of the student's work abroad. (Summer Session, 0 to 6 hours).", 
+    "href": "/2017/spring/ENG/299.json", 
+    "id": "ENG 299", 
+    "label": "Engineering Study Abroad", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ENG/299/34515.json", 
+            "id": "34515"
+        }
+    }
+}

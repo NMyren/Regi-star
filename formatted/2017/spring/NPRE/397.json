@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Individual investigations or studies of any phase of nuclear engineering selected by the student and approved by the department. May be repeated. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/NPRE/397.json", 
+    "id": "NPRE 397", 
+    "label": "Independent Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Nuclear, Plasma, and Radiological Engineering", 
+            "href": "/2017/spring/NPRE.json", 
+            "id": "NPRE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/NPRE/397/10071.json", 
+            "id": "10071"
+        }
+    }
+}

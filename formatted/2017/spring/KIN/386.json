@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 6 hours. Prerequisite: KIN 352 or consent of instructor is required. A current CPR is required at the beginning of the term and certification must remain current.", 
+    "creditHours": "3 hours.", 
+    "description": "This course is designed to offer practical experience opportunities to undergraduate Kinesiology students aspiring to work in applied exercise fields with a diverse aged population. It will entail extensive \"on the job\" training through the Lifetime Fitness Program, an older adult service program of the Department of Kinesiology. Additionally, students will gain training in current program management practicies. May be repeated to a maximum of 6 hours. Prerequisite: KIN 352 or consent of instructor is required. A current CPR is required at the beginning of the term and certification must remain current.", 
+    "href": "/2017/spring/KIN/386.json", 
+    "id": "KIN 386", 
+    "label": "Exercise Instruction & Elderly", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "content": "A1", 
+            "href": "/2017/spring/KIN/386/44638.json", 
+            "id": "44638"
+        }
+    }
+}

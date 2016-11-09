@@ -1,0 +1,66 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the theory and methodology of general linguistics; includes the various branches and applications of linguistics.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/LING/100.json", 
+    "id": "LING 100", 
+    "label": "Intro to Language Science", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Linguistics", 
+            "href": "/2017/spring/LING.json", 
+            "id": "LING"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/LING/100/36361.json", 
+                "id": "36361"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/LING/100/36366.json", 
+                "id": "36366"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/LING/100/36369.json", 
+                "id": "36369"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/LING/100/62731.json", 
+                "id": "62731"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/LING/100/36373.json", 
+                "id": "36373"
+            }
+        ]
+    }
+}

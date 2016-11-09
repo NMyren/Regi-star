@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: HDFS 105 or equivalent.", 
+    "creditHours": "3 hours.", 
+    "description": "Focuses on adult development as a means for understanding the quality of family relationships and community functioning. Uses current theoretical approaches to understand adult development and evaluate each approach's usefulness for adults in the contexts of family, health, work, leisure and challenges over the life course. Prerequisite: HDFS 105 or equivalent.", 
+    "href": "/2017/spring/HDFS/310.json", 
+    "id": "HDFS 310", 
+    "label": "Adult Development", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Human Development and Family Studies", 
+            "href": "/2017/spring/HDFS.json", 
+            "id": "HDFS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for students with Freshman class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/HDFS/310/61533.json", 
+            "id": "61533"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Same as TE 360. May be repeated in separate terms to a maximum of 2 hours, if topics vary; instructor approval required. Prerequisite: For undergraduate students only.", 
+    "creditHours": "1 hours.", 
+    "description": "Fundamental concepts of entrepreneurship and commercialization of new technology in new and existing businesses. Guest speaker topics vary, but typically include: evaluation of technologies and business ideas in genera; commercializing new technologies; financing through private and public sources; legal issues; product development; marketing; international business issues. Same as TE 360. May be repeated in separate terms to a maximum of 2 hours, if topics vary; instructor approval required. Prerequisite: For undergraduate students only.", 
+    "href": "/2017/spring/ENG/360.json", 
+    "id": "ENG 360", 
+    "label": "Lectures in Engineering Entrepreneurship", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/ENG/360/51373.json", 
+                "id": "51373"
+            }, 
+            {
+                "content": "INN", 
+                "href": "/2017/spring/ENG/360/57393.json", 
+                "id": "57393"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. Prerequisite: CHEM 202, CHEM 203, CHEM 204 or equivalent; MATH 220 or MATH 221; PHYS 211, PHYS 214 or equivalent; MCB 450.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Engineering principles that underlie many of the powerful tools in biotechnology and how scientific discoveries and engineering approaches are used in current industrial applications. Physical principles that govern self-organization and repair in biological systems; tools developed to characterize, manipulate, and quantify biomolecules; use of analytical tools and genetic manipulation in modern bioengineering and biotechnology applications. 3 undergraduate hours. 4 graduate hours. Prerequisite: CHEM 202, CHEM 203, CHEM 204 or equivalent; MATH 220 or MATH 221; PHYS 211, PHYS 214 or equivalent; MCB 450.", 
+    "href": "/2017/spring/CHBE/472.json", 
+    "id": "CHBE 472", 
+    "label": "Techniques in Biomolecular Eng", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Chemical Engineering major(s). Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHBE/472/39058.json", 
+            "id": "39058"
+        }
+    }
+}

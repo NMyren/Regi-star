@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Credit is not given for KOR 306 if credit for KOR 242 has been earned. Prerequisite: KOR 305 or as determined by a placement test and an instructor. Students must have taken KOR 305 at this University. Otherwise, they should take the placement text in January. Sign up for the exam in the office of the EALC Department (244-2725).", 
+    "creditHours": "5 hours.", 
+    "description": "Continuation of KOR 305 and second semester of third year Korean. Concentrates on enhancing the level of fluency in speaking, listening, reading and writing of Korean. Students will learn about more advanced-level vocabulary and everyday expressions and read texts in Korean where Korean culture is introduced and discussed. Credit is not given for KOR 306 if credit for KOR 242 has been earned. Prerequisite: KOR 305 or as determined by a placement test and an instructor. Students must have taken KOR 305 at this University. Otherwise, they should take the placement text in January. Sign up for the exam in the office of the EALC Department (244-2725).", 
+    "href": "/2017/spring/KOR/306.json", 
+    "id": "KOR 306", 
+    "label": "Advanced Korean II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Korean", 
+            "href": "/2017/spring/KOR.json", 
+            "id": "KOR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "D", 
+            "href": "/2017/spring/KOR/306/35290.json", 
+            "id": "35290"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Prerequisite: Consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "Individual projects and problems. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/THEA/391.json", 
+    "id": "THEA 391", 
+    "label": "Individual Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/THEA/391/10230.json", 
+                "id": "10230"
+            }, 
+            {
+                "content": "MG", 
+                "href": "/2017/spring/THEA/391/62714.json", 
+                "id": "62714"
+            }, 
+            {
+                "content": "TJM", 
+                "href": "/2017/spring/THEA/391/61096.json", 
+                "id": "61096"
+            }
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "classScheduleInformation": "A student registered in one or more Art & Design course(s) exhibiting this message, will be assessed a $95 facility use fee once each term.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. May be repeated to a maximum of 6 hours in a semester, to a maximum of 12 total hours. Prerequisite: Sophomore standing in Art and Design.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "Topics and subject matter to be published in course listings. Additional fees may apply. See Class Schedule. May be repeated to a maximum of 6 hours in a semester, to a maximum of 12 total hours. Prerequisite: Sophomore standing in Art and Design.", 
+    "href": "/2017/spring/ARTD/299.json", 
+    "id": "ARTD 299", 
+    "label": "Spec Topics in Design Courses", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Design", 
+            "href": "/2017/spring/ARTD.json", 
+            "id": "ARTD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/ARTD/299/46831.json", 
+                "id": "46831"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/ARTD/299/65500.json", 
+                "id": "65500"
+            }, 
+            {
+                "content": "JH2", 
+                "href": "/2017/spring/ARTD/299/57308.json", 
+                "id": "57308"
+            }, 
+            {
+                "content": "JH3", 
+                "href": "/2017/spring/ARTD/299/64013.json", 
+                "id": "64013"
+            }, 
+            {
+                "content": "JHI", 
+                "href": "/2017/spring/ARTD/299/64011.json", 
+                "id": "64011"
+            }
+        ]
+    }
+}

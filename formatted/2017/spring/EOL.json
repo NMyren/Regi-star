@@ -1,0 +1,140 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "351 Education Building, 1310 South Sixth, Champaign", 
+    "collegeCode": "KN", 
+    "collegeDepartmentDescription": "Department Head of Education Policy, Organization and Leadership: Dr. James Anderson\nDepartment Office, 351 Education Building, 1310 South Sixth, Champaign, 217-333-0807\nwww.ed.illinois.edu/EOL", 
+    "contactName": "Dr. James Anderson", 
+    "contactTitle": "Department Head of Education Policy, Organization and Leadership", 
+    "courses": {
+        "course": [
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/EOL/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Supervision of Learning Envir", 
+                "href": "/2017/spring/EOL/541.json", 
+                "id": "541"
+            }, 
+            {
+                "content": "Leading Learning-Centrd Schls", 
+                "href": "/2017/spring/EOL/542.json", 
+                "id": "542"
+            }, 
+            {
+                "content": "Leading School Improvement", 
+                "href": "/2017/spring/EOL/543.json", 
+                "id": "543"
+            }, 
+            {
+                "content": "Public School Finance", 
+                "href": "/2017/spring/EOL/546.json", 
+                "id": "546"
+            }, 
+            {
+                "content": "Education Law", 
+                "href": "/2017/spring/EOL/547.json", 
+                "id": "547"
+            }, 
+            {
+                "content": "Clinical Experience Admin", 
+                "href": "/2017/spring/EOL/560.json", 
+                "id": "560"
+            }, 
+            {
+                "content": "Ed Politics and Policies", 
+                "href": "/2017/spring/EOL/561.json", 
+                "id": "561"
+            }, 
+            {
+                "content": "Democracy/Politics", 
+                "href": "/2017/spring/EOL/564.json", 
+                "id": "564"
+            }, 
+            {
+                "content": "Program Planning & Evaluation", 
+                "href": "/2017/spring/EOL/567.json", 
+                "id": "567"
+            }, 
+            {
+                "content": "Diversity, Leadership & Policy", 
+                "href": "/2017/spring/EOL/568.json", 
+                "id": "568"
+            }, 
+            {
+                "content": "Foundation of Higher Edu", 
+                "href": "/2017/spring/EOL/571.json", 
+                "id": "571"
+            }, 
+            {
+                "content": "Diversity in Higher Education", 
+                "href": "/2017/spring/EOL/574.json", 
+                "id": "574"
+            }, 
+            {
+                "content": "Critical Issues in Higher Ed", 
+                "href": "/2017/spring/EOL/580.json", 
+                "id": "580"
+            }, 
+            {
+                "content": "College Student Development", 
+                "href": "/2017/spring/EOL/582.json", 
+                "id": "582"
+            }, 
+            {
+                "content": "College Teaching", 
+                "href": "/2017/spring/EOL/585.json", 
+                "id": "585"
+            }, 
+            {
+                "content": "Capstone Experience I & II", 
+                "href": "/2017/spring/EOL/588.json", 
+                "id": "588"
+            }, 
+            {
+                "content": "Internship in Higher Ed", 
+                "href": "/2017/spring/EOL/589.json", 
+                "id": "589"
+            }, 
+            {
+                "content": "Advanced Seminar", 
+                "href": "/2017/spring/EOL/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/EOL/595.json", 
+                "id": "595"
+            }, 
+            {
+                "content": "Thesis Seminar", 
+                "href": "/2017/spring/EOL/598.json", 
+                "id": "598"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/EOL/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1674", 
+    "id": "EOL", 
+    "label": "Educational Organization and Leadership", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-0807", 
+    "unitName": "Educational Organization and Leadership", 
+    "webSiteURL": "www.ed.illinois.edu/EOL"
+}

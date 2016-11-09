@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Prerequisite: CMN 101.", 
+    "creditHours": "3 hours.", 
+    "description": "Focus on relevant theory and research on communication strategies and skills vital to diverse business contexts.  Topics will include communication in civic engagement and in multinational corporations, cross-cultural communication, ethics, telecommuting, virtual work teams, and effective writing. Study, preparation, and presentation of the chief types of business speeches and other forms of communication; special attention to conferences, sales talks, interviews, and job applications are included. Prerequisite: CMN 101.", 
+    "href": "/2017/spring/CMN/211.json", 
+    "id": "CMN 211", 
+    "label": "Business Communication", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Speech Communication or Communication major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "1", 
+                "href": "/2017/spring/CMN/211/50585.json", 
+                "id": "50585"
+            }, 
+            {
+                "content": "2", 
+                "href": "/2017/spring/CMN/211/52898.json", 
+                "id": "52898"
+            }, 
+            {
+                "content": "3", 
+                "href": "/2017/spring/CMN/211/53252.json", 
+                "id": "53252"
+            }
+        ]
+    }
+}

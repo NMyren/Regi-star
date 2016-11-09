@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: AE 416.", 
+    "creditHours": "4 hours.", 
+    "description": "Theoretical analysis of the aerodynamic characteristics of two- and three-dimensional wings and multiple-body systems in subsonic and supersonic flows. Prerequisite: AE 416.", 
+    "href": "/2017/spring/AE/515.json", 
+    "id": "AE 515", 
+    "label": "Wing Theory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Aerospace Engineering", 
+            "href": "/2017/spring/AE.json", 
+            "id": "AE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/AE/515/39828.json", 
+                "id": "39828"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/AE/515/62444.json", 
+                "id": "62444"
+            }
+        ]
+    }
+}

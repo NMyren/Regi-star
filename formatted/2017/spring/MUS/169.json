@@ -1,0 +1,115 @@
+{
+    "classScheduleInformation": "For unit one students only.", 
+    "courseSectionInformation": "Approved for letter and S/U grading. May be repeated to a maximum of 4 hours. Prerequisite: For non-music majors only.", 
+    "creditHours": "0 TO 2 hours.", 
+    "description": "Experimental seminar courses to introduce non-music majors to contemporary ideas in music. Approved for letter and S/U grading. May be repeated to a maximum of 4 hours. Prerequisite: For non-music majors only.", 
+    "href": "/2017/spring/MUS/169.json", 
+    "id": "MUS 169", 
+    "label": "Unit One Sem Instruct in Music", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/MUS/169/35587.json", 
+                "id": "35587"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/MUS/169/35592.json", 
+                "id": "35592"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/MUS/169/35595.json", 
+                "id": "35595"
+            }, 
+            {
+                "content": "L1", 
+                "href": "/2017/spring/MUS/169/35599.json", 
+                "id": "35599"
+            }, 
+            {
+                "content": "L10", 
+                "href": "/2017/spring/MUS/169/35610.json", 
+                "id": "35610"
+            }, 
+            {
+                "content": "L11", 
+                "href": "/2017/spring/MUS/169/35612.json", 
+                "id": "35612"
+            }, 
+            {
+                "content": "L12", 
+                "href": "/2017/spring/MUS/169/35613.json", 
+                "id": "35613"
+            }, 
+            {
+                "content": "L13", 
+                "href": "/2017/spring/MUS/169/35615.json", 
+                "id": "35615"
+            }, 
+            {
+                "content": "L2", 
+                "href": "/2017/spring/MUS/169/35602.json", 
+                "id": "35602"
+            }, 
+            {
+                "content": "L3", 
+                "href": "/2017/spring/MUS/169/35603.json", 
+                "id": "35603"
+            }, 
+            {
+                "content": "L4", 
+                "href": "/2017/spring/MUS/169/35604.json", 
+                "id": "35604"
+            }, 
+            {
+                "content": "L5", 
+                "href": "/2017/spring/MUS/169/35605.json", 
+                "id": "35605"
+            }, 
+            {
+                "content": "L6", 
+                "href": "/2017/spring/MUS/169/35606.json", 
+                "id": "35606"
+            }, 
+            {
+                "content": "L7", 
+                "href": "/2017/spring/MUS/169/35607.json", 
+                "id": "35607"
+            }, 
+            {
+                "content": "L8", 
+                "href": "/2017/spring/MUS/169/35608.json", 
+                "id": "35608"
+            }, 
+            {
+                "content": "L9", 
+                "href": "/2017/spring/MUS/169/35609.json", 
+                "id": "35609"
+            }, 
+            {
+                "content": "LH6", 
+                "href": "/2017/spring/MUS/169/42040.json", 
+                "id": "42040"
+            }
+        ]
+    }
+}

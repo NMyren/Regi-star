@@ -1,0 +1,32 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "The origin, diversity, and extinction of dinosaurs will serve as a conceptual framework to explore fundamental principles of biology. We will consider dinosaurs as animals, examining evidence for their physiology and behavior, and how evolution and speciation produced the diversity of dinosaurs. We will relate the influence of Earth's changing environments on dinosaurs to environmental change on human timescales. We will emphasize how scientists collect and evaluate fossil data through an understanding of living organisms.", 
+    "href": "/2017/spring/IB/108.json", 
+    "id": "IB 108", 
+    "label": "The Biology of Dinosaurs", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Integrative Biology", 
+            "href": "/2017/spring/IB.json", 
+            "id": "IB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": {
+            "content": "ONL", 
+            "href": "/2017/spring/IB/108/65714.json", 
+            "id": "65714"
+        }
+    }
+}

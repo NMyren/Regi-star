@@ -1,0 +1,58 @@
+{
+    "classScheduleInformation": "Priority will be given to Sociology and Geography majors.", 
+    "courseSectionInformation": "Same as GEOG 280. Credit is not given for SOC 280 if credit for a college level introductory statistics course has been earned.", 
+    "creditHours": "4 hours.", 
+    "description": "First course in social statistics for students without mathematics beyond the high school level; topics include the role of statistics in social science inquiry, measures of central tendency and dispersion, simple correlation techniques, contingency analysis, and introduction to statistical inference; includes the statistical analysis of social science data using personal computers. Same as GEOG 280. Credit is not given for SOC 280 if credit for a college level introductory statistics course has been earned.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Quantitative Reasoning", 
+            "id": "QR", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1QR1", 
+                    "content": "UIUC: Quant Reasoning I"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/SOC/280.json", 
+    "id": "SOC 280", 
+    "label": "Intro to Social Statistics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Sociology", 
+            "href": "/2017/spring/SOC.json", 
+            "id": "SOC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Quant Reasoning I course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/SOC/280/34332.json", 
+                "id": "34332"
+            }, 
+            {
+                "content": "AQ1", 
+                "href": "/2017/spring/SOC/280/34344.json", 
+                "id": "34344"
+            }, 
+            {
+                "content": "AQ2", 
+                "href": "/2017/spring/SOC/280/34346.json", 
+                "id": "34346"
+            }
+        ]
+    }
+}

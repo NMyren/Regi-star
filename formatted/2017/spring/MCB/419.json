@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as BIOP 419 and NEUR 419. 3 undergraduate hours. 3 graduate hours. Prerequisite: CS 101; and PHYS 102 or PHYS 212; and MCB 252; or equivalent or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Exploration of the neural basis of animal behavior. Emphasis on the information processing problems that animals face in complex natural environments and how nervous systems have evolved to solve these problems. Introduction to the use of computer modeling and simulation techniques for exploring principles of nervous system design and function. Current literature in computational neurobiology and neuroethology will be incorporated in readings and class discussion. Same as BIOP 419 and NEUR 419. 3 undergraduate hours. 3 graduate hours. Prerequisite: CS 101; and PHYS 102 or PHYS 212; and MCB 252; or equivalent or consent of instructor.", 
+    "href": "/2017/spring/MCB/419.json", 
+    "id": "MCB 419", 
+    "label": "Brain, Behavior & Info Process", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MCB/419/41123.json", 
+            "id": "41123"
+        }
+    }
+}

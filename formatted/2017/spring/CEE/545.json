@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as ATMS 535. Prerequisite: CEE 446 and MATH 285.", 
+    "creditHours": "4 hours.", 
+    "description": "Principles of sampling for particles and gases in the field of air pollution; instrumental techniques relevant to the design of sampling systems used in process control, ambient air monitoring, and laboratory experiments; methods of sample analysis and their limitations. Same as ATMS 535. Prerequisite: CEE 446 and MATH 285.", 
+    "href": "/2017/spring/CEE/545.json", 
+    "id": "CEE 545", 
+    "label": "Aerosol Sampling and Analysis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "RS", 
+            "href": "/2017/spring/CEE/545/58729.json", 
+            "id": "58729"
+        }
+    }
+}

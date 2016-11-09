@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Same as CHLH 330.", 
+    "creditHours": "3 hours.", 
+    "description": "Presents a range of issues pertaining to disability including demographics, disability rights, services, policies and current issues. Applies a disability studies perspective in which problems associated with individuals' impairments are seen to result from socially imposed barriers. Same as CHLH 330.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/REHB/330.json", 
+    "id": "REHB 330", 
+    "label": "Disability in American Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Rehabilitation Counseling", 
+            "href": "/2017/spring/REHB.json", 
+            "id": "REHB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "LR1", 
+            "href": "/2017/spring/REHB/330/64478.json", 
+            "id": "64478"
+        }
+    }
+}

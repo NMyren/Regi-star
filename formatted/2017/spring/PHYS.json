@@ -1,0 +1,240 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "209 Loomis Laboratory of Physics, 1110 West Green, Urbana", 
+    "collegeCode": "KP", 
+    "collegeDepartmentDescription": "Head of Department: Dale Van Harlingen\nDepartment Office, 209 Loomis Laboratory of Physics, 1110 West Green, Urbana, 333-3761\nwww.physics.uiuc.edu", 
+    "contactName": "Dale Van Harlingen", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Thinking About Physics", 
+                "href": "/2017/spring/PHYS/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "College Physics: Mech & Heat", 
+                "href": "/2017/spring/PHYS/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "College Physics: E&M & Modern", 
+                "href": "/2017/spring/PHYS/102.json", 
+                "id": "102"
+            }, 
+            {
+                "content": "Physics Made Easy", 
+                "href": "/2017/spring/PHYS/123.json", 
+                "id": "123"
+            }, 
+            {
+                "content": "Physics of Societal Issues", 
+                "href": "/2017/spring/PHYS/150.json", 
+                "id": "150"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/PHYS/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "University Physics: Mechanics", 
+                "href": "/2017/spring/PHYS/211.json", 
+                "id": "211"
+            }, 
+            {
+                "content": "University Physics: Elec & Mag", 
+                "href": "/2017/spring/PHYS/212.json", 
+                "id": "212"
+            }, 
+            {
+                "content": "Univ Physics: Thermal Physics", 
+                "href": "/2017/spring/PHYS/213.json", 
+                "id": "213"
+            }, 
+            {
+                "content": "Univ Physics: Quantum Physics", 
+                "href": "/2017/spring/PHYS/214.json", 
+                "id": "214"
+            }, 
+            {
+                "content": "Enrichment Mechanics", 
+                "href": "/2017/spring/PHYS/221.json", 
+                "id": "221"
+            }, 
+            {
+                "content": "Relativity & Math Applications", 
+                "href": "/2017/spring/PHYS/225.json", 
+                "id": "225"
+            }, 
+            {
+                "content": "Nuclear Weapons & Arms Control", 
+                "href": "/2017/spring/PHYS/280.json", 
+                "id": "280"
+            }, 
+            {
+                "content": "Freshmen/Sophomore Special Topics in Physics", 
+                "href": "/2017/spring/PHYS/298.json", 
+                "id": "298"
+            }, 
+            {
+                "content": "Classical Mechanics I", 
+                "href": "/2017/spring/PHYS/325.json", 
+                "id": "325"
+            }, 
+            {
+                "content": "Classical Mechanics II", 
+                "href": "/2017/spring/PHYS/326.json", 
+                "id": "326"
+            }, 
+            {
+                "content": "Classical Physics Lab", 
+                "href": "/2017/spring/PHYS/401.json", 
+                "id": "401"
+            }, 
+            {
+                "content": "Light", 
+                "href": "/2017/spring/PHYS/402.json", 
+                "id": "402"
+            }, 
+            {
+                "content": "Modern Experimental Physics", 
+                "href": "/2017/spring/PHYS/403.json", 
+                "id": "403"
+            }, 
+            {
+                "content": "Acoustical Physics of Music", 
+                "href": "/2017/spring/PHYS/406.json", 
+                "id": "406"
+            }, 
+            {
+                "content": "Space, Time, and Matter-ACP", 
+                "href": "/2017/spring/PHYS/419.json", 
+                "id": "419"
+            }, 
+            {
+                "content": "Space, Time, and Matter", 
+                "href": "/2017/spring/PHYS/420.json", 
+                "id": "420"
+            }, 
+            {
+                "content": "Thermal & Statistical Physics", 
+                "href": "/2017/spring/PHYS/427.json", 
+                "id": "427"
+            }, 
+            {
+                "content": "Electromagnetic Fields I", 
+                "href": "/2017/spring/PHYS/435.json", 
+                "id": "435"
+            }, 
+            {
+                "content": "Electromagnetic Fields II", 
+                "href": "/2017/spring/PHYS/436.json", 
+                "id": "436"
+            }, 
+            {
+                "content": "Subatomic Physics", 
+                "href": "/2017/spring/PHYS/470.json", 
+                "id": "470"
+            }, 
+            {
+                "content": "Quantum Physics I", 
+                "href": "/2017/spring/PHYS/486.json", 
+                "id": "486"
+            }, 
+            {
+                "content": "Quantum Physics II", 
+                "href": "/2017/spring/PHYS/487.json", 
+                "id": "487"
+            }, 
+            {
+                "content": "Intro to Physics Research", 
+                "href": "/2017/spring/PHYS/496.json", 
+                "id": "496"
+            }, 
+            {
+                "content": "Individual Study", 
+                "href": "/2017/spring/PHYS/497.json", 
+                "id": "497"
+            }, 
+            {
+                "content": "Special Topics in Physics", 
+                "href": "/2017/spring/PHYS/498.json", 
+                "id": "498"
+            }, 
+            {
+                "content": "Statistical Physics", 
+                "href": "/2017/spring/PHYS/504.json", 
+                "id": "504"
+            }, 
+            {
+                "content": "Mathematical Physics II", 
+                "href": "/2017/spring/PHYS/509.json", 
+                "id": "509"
+            }, 
+            {
+                "content": "Physics of Compact Objects", 
+                "href": "/2017/spring/PHYS/541.json", 
+                "id": "541"
+            }, 
+            {
+                "content": "Condensed Matter Physics I", 
+                "href": "/2017/spring/PHYS/560.json", 
+                "id": "560"
+            }, 
+            {
+                "content": "Phase Transitions", 
+                "href": "/2017/spring/PHYS/563.json", 
+                "id": "563"
+            }, 
+            {
+                "content": "Particle Physics I", 
+                "href": "/2017/spring/PHYS/575.json", 
+                "id": "575"
+            }, 
+            {
+                "content": "Quantum Mechanics II", 
+                "href": "/2017/spring/PHYS/581.json", 
+                "id": "581"
+            }, 
+            {
+                "content": "Advanced Field Theory", 
+                "href": "/2017/spring/PHYS/583.json", 
+                "id": "583"
+            }, 
+            {
+                "content": "Individual Study", 
+                "href": "/2017/spring/PHYS/597.json", 
+                "id": "597"
+            }, 
+            {
+                "content": "Special Topics in Physics", 
+                "href": "/2017/spring/PHYS/598.json", 
+                "id": "598"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/PHYS/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1244", 
+    "id": "PHYS", 
+    "label": "Physics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-3761", 
+    "unitName": "Physics", 
+    "webSiteURL": "www.physics.uiuc.edu"
+}

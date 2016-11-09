@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: CHEM 103 and TAM 251.", 
+    "creditHours": "4 hours.", 
+    "description": "Integrative approach to mechanobiology; mechanics of cell adhesion; cytoskeletal structure and mechanics; mechanotransduction; mechanics of cell proliferation, apoptosis, cancer cells, and stem cells; aging; critical issues facing the mechanobiological sciences. 4 undergraduate hours. 4 graduate hours. Prerequisite: CHEM 103 and TAM 251.", 
+    "href": "/2017/spring/ME/483.json", 
+    "id": "ME 483", 
+    "label": "Mechanobiology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ME/483/53979.json", 
+            "id": "53979"
+        }
+    }
+}

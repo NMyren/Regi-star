@@ -1,0 +1,63 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. May be repeated to a maximum of 6 hours.", 
+    "creditHours": "3 hours.", 
+    "description": "Capstone course required of all majors. Students will make history by researching and writing a work of original scholarship. Several of these seminars are offered each term and each focuses on a special topic, thus allowing students with similar interests to work through the process of gathering, interpreting, and organizing historical evidence under the direction of an expert in the field. The topics on offer each semester will be listed in the Class Schedule and described in the department's course guide at http://www.history.illinois.edu. 3 undergraduate hours. No graduate credit. May be repeated to a maximum of 6 hours.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/HIST/498.json", 
+    "id": "HIST 498", 
+    "label": "Research and Writing Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/HIST/498/32175.json", 
+                "id": "32175"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/HIST/498/32178.json", 
+                "id": "32178"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/HIST/498/32180.json", 
+                "id": "32180"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/HIST/498/32184.json", 
+                "id": "32184"
+            }
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "classScheduleInformation": "A student registered in one or more Art & Design course(s) exhibiting this message, will be assessed a $95 facility use fee once each term.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Prerequisite: ARTE 203 and ARTE 204; Art education majors only.", 
+    "creditHours": "3 hours.", 
+    "description": "Early field experience in local elementary schools one half day weekly; includes identification, instruction, methods, and practicum on the psychology of the exceptional child. Additional fees may apply. See Class Schedule. Prerequisite: ARTE 203 and ARTE 204; Art education majors only.", 
+    "href": "/2017/spring/ARTE/301.json", 
+    "id": "ARTE 301", 
+    "label": "Early Field Art Teaching", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Education", 
+            "href": "/2017/spring/ARTE.json", 
+            "id": "ARTE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to Admitted Teacher Ed Student students.", 
+    "sectionFeeAmount": "Art Education Design $35.00 Flat Fee.", 
+    "sectionRegistrationNotes": "Restricted to Art Education major(s).", 
+    "sections": {
+        "section": {
+            "content": "R8", 
+            "href": "/2017/spring/ARTE/301/30427.json", 
+            "id": "30427"
+        }
+    }
+}

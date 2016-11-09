@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: CEE 350.", 
+    "creditHours": "4 hours.", 
+    "description": "Hydraulic analysis and design of urban, highway, airport, and small rural watershed drainage problems; discussion of overland and drainage channel flows; hydraulics of storm-drain systems and culverts; determination of design flow; runoff for highways, airports, and urban areas; design of drainage gutters, channels, sewer networks, and culverts. 4 undergraduate hours. 4 graduate hours. Prerequisite: CEE 350.", 
+    "href": "/2017/spring/CEE/453.json", 
+    "id": "CEE 453", 
+    "label": "Urban Hydrology and Hydraulics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CEE/453/44664.json", 
+                "id": "44664"
+            }, 
+            {
+                "content": "TW", 
+                "href": "/2017/spring/CEE/453/31728.json", 
+                "id": "31728"
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as GEOL 208. See GEOL 208.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as GEOL 208. See GEOL 208.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Natural Sciences & Technology", 
+            "id": "NAT", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1PS", 
+                    "content": "UIUC: Physical Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/ESE/208.json", 
+    "id": "ESE 208", 
+    "label": "History of the Earth System", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Earth, Society, and Environment", 
+            "href": "/2017/spring/ESE.json", 
+            "id": "ESE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Physical Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ESE/208/54832.json", 
+                "id": "54832"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/ESE/208/54833.json", 
+                "id": "54833"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ESE/208/54831.json", 
+                "id": "54831"
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "Same as LING 303.", 
+    "creditHours": "4 hours.", 
+    "description": "Consideration of the physiology of the speaking act, and the acoustical and perceptual aspects of speech. Same as LING 303.", 
+    "href": "/2017/spring/SHS/301.json", 
+    "id": "SHS 301", 
+    "label": "General Speech Science", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/SHS/301/37319.json", 
+                "id": "37319"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/SHS/301/63728.json", 
+                "id": "63728"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/SHS/301/47514.json", 
+                "id": "47514"
+            }, 
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/SHS/301/37321.json", 
+                "id": "37321"
+            }
+        ]
+    }
+}

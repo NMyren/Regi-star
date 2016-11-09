@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as ANTH 404, CHLH 407, and KIN 407. See CHLH 407.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as ANTH 404, CHLH 407, and KIN 407. See CHLH 407.", 
+    "href": "/2017/spring/REHB/407.json", 
+    "id": "REHB 407", 
+    "label": "Disability, Culture & Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Rehabilitation Counseling", 
+            "href": "/2017/spring/REHB.json", 
+            "id": "REHB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G4", 
+                "href": "/2017/spring/REHB/407/60723.json", 
+                "id": "60723"
+            }, 
+            {
+                "content": "U3", 
+                "href": "/2017/spring/REHB/407/60724.json", 
+                "id": "60724"
+            }
+        ]
+    }
+}

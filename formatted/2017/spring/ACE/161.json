@@ -1,0 +1,90 @@
+{
+    "classScheduleInformation": "Weekly participation is required in a laboratory discussion and in 1-2 hours (unscheduled) on microcomputer projects.", 
+    "creditHours": "3 hours.", 
+    "description": "Instruction and practice in solving data-related problems with microcomputers and general purpose software packages.", 
+    "href": "/2017/spring/ACE/161.json", 
+    "id": "ACE 161", 
+    "label": "Microcomputer Applications", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural and Consumer Economics", 
+            "href": "/2017/spring/ACE.json", 
+            "id": "ACE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Agr, Consumer, & Env Sciences.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/ACE/161/30503.json", 
+                "id": "30503"
+            }, 
+            {
+                "content": "C1", 
+                "href": "/2017/spring/ACE/161/30486.json", 
+                "id": "30486"
+            }, 
+            {
+                "content": "C2", 
+                "href": "/2017/spring/ACE/161/30504.json", 
+                "id": "30504"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/ACE/161/30505.json", 
+                "id": "30505"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/ACE/161/30487.json", 
+                "id": "30487"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/ACE/161/30507.json", 
+                "id": "30507"
+            }, 
+            {
+                "content": "L1", 
+                "href": "/2017/spring/ACE/161/30489.json", 
+                "id": "30489"
+            }, 
+            {
+                "content": "L2", 
+                "href": "/2017/spring/ACE/161/30509.json", 
+                "id": "30509"
+            }, 
+            {
+                "content": "N1", 
+                "href": "/2017/spring/ACE/161/30491.json", 
+                "id": "30491"
+            }, 
+            {
+                "content": "N2", 
+                "href": "/2017/spring/ACE/161/30513.json", 
+                "id": "30513"
+            }, 
+            {
+                "content": "R", 
+                "href": "/2017/spring/ACE/161/30493.json", 
+                "id": "30493"
+            }, 
+            {
+                "content": "T", 
+                "href": "/2017/spring/ACE/161/30494.json", 
+                "id": "30494"
+            }
+        ]
+    }
+}

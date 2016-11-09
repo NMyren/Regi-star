@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "May be repeated as topics vary.", 
+    "creditHours": "3 hours.", 
+    "description": "Origin of problems; consequences of ameliorative strategies. Typical topics include crime, mental illness, drug use, suicide, sexual behavior, violence, and intergroup conflict. May be repeated as topics vary.", 
+    "href": "/2017/spring/SOC/196.json", 
+    "id": "SOC 196", 
+    "label": "Issues in Sociology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Sociology", 
+            "href": "/2017/spring/SOC.json", 
+            "id": "SOC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "CB", 
+                "href": "/2017/spring/SOC/196/58848.json", 
+                "id": "58848"
+            }, 
+            {
+                "content": "CB2", 
+                "href": "/2017/spring/SOC/196/65460.json", 
+                "id": "65460"
+            }
+        ]
+    }
+}

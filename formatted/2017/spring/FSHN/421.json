@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: FSHN 420; FSHN 322 is highly recommended.", 
+    "creditHours": "3 hours.", 
+    "description": "Examines physiological, biochemical and nutritional aspects of disease processes relevant to infants, children and adolescents. Topics covered include prematurity, developmental disabilities, inborn errors of metabolism, food allergy, obesity and eating disorders. The role of nutrition in prevention, management and treatment of disease is also covered. Offered every other year. 3 undergraduate hours. 3 graduate hours. Prerequisite: FSHN 420; FSHN 322 is highly recommended.", 
+    "href": "/2017/spring/FSHN/421.json", 
+    "id": "FSHN 421", 
+    "label": "Pediatric Clinical Nutrition", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Food Science and Human Nutrition", 
+            "href": "/2017/spring/FSHN.json", 
+            "id": "FSHN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/FSHN/421/50422.json", 
+            "id": "50422"
+        }
+    }
+}

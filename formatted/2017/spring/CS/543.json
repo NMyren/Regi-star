@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as ECE 549. See ECE 549.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as ECE 549. See ECE 549.", 
+    "href": "/2017/spring/CS/543.json", 
+    "id": "CS 543", 
+    "label": "Computer Vision", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "R", 
+            "href": "/2017/spring/CS/543/33995.json", 
+            "id": "33995"
+        }
+    }
+}

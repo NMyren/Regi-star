@@ -1,0 +1,34 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. 2 graduate hours. Offered in alternate years. Prerequisite: GEOG 479 or NRES 454.", 
+    "creditHours": "2 hours.", 
+    "description": "Examines the application of Geographic Information Systems (GIS) to natural resource planning and decision making. Integrates principles of decision making in various contexts: public and private, single and multiple criteria, and various forms of management constraints. Management alternatives are then incorporated into a GIS system for further review and analysis. Course combines GIS software with computer-based optimization and quantitative decision making models. 2 undergraduate hours. 2 graduate hours. Offered in alternate years. Prerequisite: GEOG 479 or NRES 454.", 
+    "href": "/2017/spring/NRES/455.json", 
+    "id": "NRES 455", 
+    "label": "Adv GIS for Nat Res Planning", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Natural Resources and Environmental Sciences", 
+            "href": "/2017/spring/NRES.json", 
+            "id": "NRES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": {
+            "content": "ONL", 
+            "href": "/2017/spring/NRES/455/55915.json", 
+            "id": "55915"
+        }
+    }
+}

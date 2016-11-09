@@ -1,0 +1,33 @@
+{
+    "addressLine1": "320 International Studies Building, MC-401", 
+    "addressLine2": "910 S. Fifth Street, Champaign IL 61820", 
+    "collegeCode": "LL", 
+    "collegeDepartmentDescription": "Director: Colleen Murphy\n320 International Studies Building, MC-401, 910 S. Fifth Street, Champaign IL 61820, (217) 333-1994\nhttp://ips.illinois.edu/wggp", 
+    "contactName": "Colleen Murphy", 
+    "contactTitle": "Director", 
+    "courses": {
+        "course": {
+            "content": "Gender Relations & Intl Dev", 
+            "href": "/2017/spring/WGGP/581.json", 
+            "id": "581"
+        }
+    }, 
+    "departmentCode": "1783", 
+    "id": "WGGP", 
+    "label": "Women and Gender in Global Perspectives Program", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "(217) 333-1994", 
+    "unitName": "Women and Gender in Global Perspectives", 
+    "webSiteURL": "http://ips.illinois.edu/wggp"
+}

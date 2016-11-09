@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as ANTH 361. Prerequisite: IB 203 or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Exploration of the emergence of infectious diseases and other human health issues from an ecological perspective, including vector-borne diseases, diseases spread from wildlife in terrestrial and aquatic ecosystems, and the role of pathogens and parasites in community and population ecology, food webs, and ecosystem functioning. Attention will be placed on how current and future global change and biodiversity loss will contribute to the increasing prevalence of human emerging diseases. Same as ANTH 361. Prerequisite: IB 203 or consent of instructor.", 
+    "href": "/2017/spring/IB/361.json", 
+    "id": "IB 361", 
+    "label": "Ecology and Human Health", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Integrative Biology", 
+            "href": "/2017/spring/IB.json", 
+            "id": "IB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/IB/361/55722.json", 
+            "id": "55722"
+        }
+    }
+}

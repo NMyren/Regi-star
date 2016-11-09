@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: MCB 252 or equivalent or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Addresses key issues in medical genetics, defined as human genetics for pre-health care professionals. The course covers basic principles of medical ethics, modes of inheritance, the molecular basis of genetic disorders, treatment approaches, gene therapy and emerging technologies like whole genome sequencing. Prerequisite: MCB 252 or equivalent or consent of instructor.", 
+    "href": "/2017/spring/MCB/270.json", 
+    "id": "MCB 270", 
+    "label": "Medical Genetics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MCB/270/63412.json", 
+            "id": "63412"
+        }
+    }
+}

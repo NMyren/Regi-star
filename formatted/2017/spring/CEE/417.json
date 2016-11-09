@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as UP 430. See UP 430.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as UP 430. See UP 430.", 
+    "href": "/2017/spring/CEE/417.json", 
+    "id": "CEE 417", 
+    "label": "Urban Transportation Planning", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CEE/417/37268.json", 
+            "id": "37268"
+        }
+    }
+}

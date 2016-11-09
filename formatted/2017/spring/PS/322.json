@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: PS 101, six hours of Political Science credit, or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Examines the nature of law, law makers, and law appliers; the determinants of law-making; and the societal impact of law. Prerequisite: PS 101, six hours of Political Science credit, or consent of instructor.", 
+    "href": "/2017/spring/PS/322.json", 
+    "id": "PS 322", 
+    "label": "Law and Public Policy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for students with Freshman class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PS/322/39980.json", 
+            "id": "39980"
+        }
+    }
+}

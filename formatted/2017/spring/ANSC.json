@@ -1,0 +1,245 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "116 Animal Sciences Laboratory, 1207 West Gregory, Urbana", 
+    "collegeCode": "KL", 
+    "collegeDepartmentDescription": "Head of Department: Steve Loerch\nDepartment Office, 116 Animal Sciences Laboratory, 1207 West Gregory, Urbana, 217-333-3131\nwww.ansci.illinois.edu", 
+    "contactName": "Steve Loerch", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Intro to Animal Sciences", 
+                "href": "/2017/spring/ANSC/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "Contemporary Animal Issues", 
+                "href": "/2017/spring/ANSC/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "Working With Farm Animals", 
+                "href": "/2017/spring/ANSC/103.json", 
+                "id": "103"
+            }, 
+            {
+                "content": "Life With Animals and Biotech", 
+                "href": "/2017/spring/ANSC/110.json", 
+                "id": "110"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/ANSC/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Intro Dairy Cattle Evaluation", 
+                "href": "/2017/spring/ANSC/204.json", 
+                "id": "204"
+            }, 
+            {
+                "content": "World Animal Resources", 
+                "href": "/2017/spring/ANSC/205.json", 
+                "id": "205"
+            }, 
+            {
+                "content": "Companion Animal Biology &Care", 
+                "href": "/2017/spring/ANSC/207.json", 
+                "id": "207"
+            }, 
+            {
+                "content": "Breeding Animal Evaluation", 
+                "href": "/2017/spring/ANSC/211.json", 
+                "id": "211"
+            }, 
+            {
+                "content": "Animal Nutrition", 
+                "href": "/2017/spring/ANSC/223.json", 
+                "id": "223"
+            }, 
+            {
+                "content": "Animal Reproduction and Growth", 
+                "href": "/2017/spring/ANSC/224.json", 
+                "id": "224"
+            }, 
+            {
+                "content": "Companion Animals in Society", 
+                "href": "/2017/spring/ANSC/250.json", 
+                "id": "250"
+            }, 
+            {
+                "content": "Undergraduate Seminar", 
+                "href": "/2017/spring/ANSC/298.json", 
+                "id": "298"
+            }, 
+            {
+                "content": "Food Animal Production, Management, and Evaluation", 
+                "href": "/2017/spring/ANSC/301.json", 
+                "id": "301"
+            }, 
+            {
+                "content": "Human Animal Interactions", 
+                "href": "/2017/spring/ANSC/305.json", 
+                "id": "305"
+            }, 
+            {
+                "content": "Equine Science", 
+                "href": "/2017/spring/ANSC/306.json", 
+                "id": "306"
+            }, 
+            {
+                "content": "Behavior of Domestic Animals", 
+                "href": "/2017/spring/ANSC/363.json", 
+                "id": "363"
+            }, 
+            {
+                "content": "Animal Behavior", 
+                "href": "/2017/spring/ANSC/366.json", 
+                "id": "366"
+            }, 
+            {
+                "content": "UG Experiential Learning", 
+                "href": "/2017/spring/ANSC/398.json", 
+                "id": "398"
+            }, 
+            {
+                "content": "Sheep Production", 
+                "href": "/2017/spring/ANSC/402.json", 
+                "id": "402"
+            }, 
+            {
+                "content": "Pork Production", 
+                "href": "/2017/spring/ANSC/403.json", 
+                "id": "403"
+            }, 
+            {
+                "content": "Poultry Science", 
+                "href": "/2017/spring/ANSC/404.json", 
+                "id": "404"
+            }, 
+            {
+                "content": "Zoo Animal Conservation Sci", 
+                "href": "/2017/spring/ANSC/406.json", 
+                "id": "406"
+            }, 
+            {
+                "content": "Animal Shelter Management", 
+                "href": "/2017/spring/ANSC/407.json", 
+                "id": "407"
+            }, 
+            {
+                "content": "Meat Science", 
+                "href": "/2017/spring/ANSC/409.json", 
+                "id": "409"
+            }, 
+            {
+                "content": "Companion Animal Nutrition", 
+                "href": "/2017/spring/ANSC/422.json", 
+                "id": "422"
+            }, 
+            {
+                "content": "Advanced Dairy Nutrition", 
+                "href": "/2017/spring/ANSC/423.json", 
+                "id": "423"
+            }, 
+            {
+                "content": "Lactation Biology", 
+                "href": "/2017/spring/ANSC/438.json", 
+                "id": "438"
+            }, 
+            {
+                "content": "Applied Statistical Methods I", 
+                "href": "/2017/spring/ANSC/440.json", 
+                "id": "440"
+            }, 
+            {
+                "content": "Applied Animal Genetics", 
+                "href": "/2017/spring/ANSC/444.json", 
+                "id": "444"
+            }, 
+            {
+                "content": "Population Genetics", 
+                "href": "/2017/spring/ANSC/446.json", 
+                "id": "446"
+            }, 
+            {
+                "content": "Math Modeling in Life Sciences", 
+                "href": "/2017/spring/ANSC/448.json", 
+                "id": "448"
+            }, 
+            {
+                "content": "Comparative Immunobiology", 
+                "href": "/2017/spring/ANSC/450.json", 
+                "id": "450"
+            }, 
+            {
+                "content": "Integrating Animal Sciences", 
+                "href": "/2017/spring/ANSC/498.json", 
+                "id": "498"
+            }, 
+            {
+                "content": "Seminar", 
+                "href": "/2017/spring/ANSC/499.json", 
+                "id": "499"
+            }, 
+            {
+                "content": "Protein and Energy Nutrition", 
+                "href": "/2017/spring/ANSC/520.json", 
+                "id": "520"
+            }, 
+            {
+                "content": "Regulation of Metabolism", 
+                "href": "/2017/spring/ANSC/521.json", 
+                "id": "521"
+            }, 
+            {
+                "content": "Topics in Nutrition Research", 
+                "href": "/2017/spring/ANSC/525.json", 
+                "id": "525"
+            }, 
+            {
+                "content": "Bioinformatics", 
+                "href": "/2017/spring/ANSC/543.json", 
+                "id": "543"
+            }, 
+            {
+                "content": "Animal Stress Physiology", 
+                "href": "/2017/spring/ANSC/561.json", 
+                "id": "561"
+            }, 
+            {
+                "content": "Animal Sciences Seminar", 
+                "href": "/2017/spring/ANSC/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Res Studies in Animal Sciences", 
+                "href": "/2017/spring/ANSC/593.json", 
+                "id": "593"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/ANSC/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1538", 
+    "id": "ANSC", 
+    "label": "Animal Sciences", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-3131", 
+    "unitName": "Animal Sciences", 
+    "webSiteURL": "www.ansci.illinois.edu"
+}

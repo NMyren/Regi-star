@@ -1,0 +1,103 @@
+{
+    "courseSectionInformation": "Prerequisite: PSYC 100 or PSYC 103.", 
+    "creditHours": "3 hours.", 
+    "description": "Systematic study of social factors in individual and group behavior; attention to social perception, motivation, and learning; attitudes, norms, and social influence processes; the development and dynamics of groups; and the effects of social and cultural factors on the individual. Prerequisite: PSYC 100 or PSYC 103.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1BSC", 
+                    "content": "UIUC: Behavioral Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/PSYC/201.json", 
+    "id": "PSYC 201", 
+    "label": "Intro to Social Psych", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Behavioral Sciences course.", 
+    "sectionDeptRestriction": "Restricted to students in the Psychology department.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/PSYC/201/37034.json", 
+                "id": "37034"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/PSYC/201/37035.json", 
+                "id": "37035"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/PSYC/201/37036.json", 
+                "id": "37036"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/PSYC/201/37037.json", 
+                "id": "37037"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/PSYC/201/37041.json", 
+                "id": "37041"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/PSYC/201/40680.json", 
+                "id": "40680"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/PSYC/201/37039.json", 
+                "id": "37039"
+            }, 
+            {
+                "content": "H", 
+                "href": "/2017/spring/PSYC/201/37040.json", 
+                "id": "37040"
+            }, 
+            {
+                "content": "I", 
+                "href": "/2017/spring/PSYC/201/37032.json", 
+                "id": "37032"
+            }, 
+            {
+                "content": "J", 
+                "href": "/2017/spring/PSYC/201/37033.json", 
+                "id": "37033"
+            }, 
+            {
+                "content": "K", 
+                "href": "/2017/spring/PSYC/201/37038.json", 
+                "id": "37038"
+            }, 
+            {
+                "content": "L", 
+                "href": "/2017/spring/PSYC/201/40681.json", 
+                "id": "40681"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as GWS 417. 4 undergraduate hours. 4 graduate hours. Prerequisite: Junior standing or above or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Study of the history, processes, and methods of leading discussions with social issues theatre audiences. Emphasis on the skills and techniques of facilitators/peer educators; artistic considerations; function and application of the dramaturg; and practical experience through facilitation of social issues theatre dialog. Same as GWS 417. 4 undergraduate hours. 4 graduate hours. Prerequisite: Junior standing or above or consent of instructor.", 
+    "href": "/2017/spring/THEA/417.json", 
+    "id": "THEA 417", 
+    "label": "Leading Post-Perform Dialog", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "LTD", 
+            "href": "/2017/spring/THEA/417/40170.json", 
+            "id": "40170"
+        }
+    }
+}

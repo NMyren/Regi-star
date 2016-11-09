@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as CI 550, EPOL 550, and EPSY 573. See CI 550.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as CI 550, EPOL 550, and EPSY 573. See CI 550.", 
+    "href": "/2017/spring/SPED/550.json", 
+    "id": "SPED 550", 
+    "label": "Methods of Educational Inquiry", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Special Education", 
+            "href": "/2017/spring/SPED.json", 
+            "id": "SPED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SPED/550/32005.json", 
+            "id": "32005"
+        }
+    }
+}

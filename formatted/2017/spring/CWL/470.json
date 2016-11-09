@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as EURO 470 and SCAN 470. See SCAN 470.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as EURO 470 and SCAN 470. See SCAN 470.", 
+    "href": "/2017/spring/CWL/470.json", 
+    "id": "CWL 470", 
+    "label": "Imagining the Welfare State", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Comparative and World Literature", 
+            "href": "/2017/spring/CWL.json", 
+            "id": "CWL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G", 
+                "href": "/2017/spring/CWL/470/64964.json", 
+                "id": "64964"
+            }, 
+            {
+                "content": "UG", 
+                "href": "/2017/spring/CWL/470/64965.json", 
+                "id": "64965"
+            }
+        ]
+    }
+}

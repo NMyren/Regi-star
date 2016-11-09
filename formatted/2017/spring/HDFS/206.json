@@ -1,0 +1,64 @@
+{
+    "courseSectionInformation": "Prerequisite: HDFS 105.", 
+    "creditHours": "4 hours.", 
+    "description": "Introduces development of curriculum for children from birth to age five; integrates child development theory and principles with programming for young children in preschool and childcare setting. Prerequisite: HDFS 105.", 
+    "href": "/2017/spring/HDFS/206.json", 
+    "id": "HDFS 206", 
+    "label": "Early Childhood Curriculum Dev", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Human Development and Family Studies", 
+            "href": "/2017/spring/HDFS.json", 
+            "id": "HDFS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB0", 
+                "href": "/2017/spring/HDFS/206/58499.json", 
+                "id": "58499"
+            }, 
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/HDFS/206/33793.json", 
+                "id": "33793"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/HDFS/206/33794.json", 
+                "id": "33794"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/HDFS/206/33795.json", 
+                "id": "33795"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/HDFS/206/33796.json", 
+                "id": "33796"
+            }, 
+            {
+                "content": "AB5", 
+                "href": "/2017/spring/HDFS/206/33797.json", 
+                "id": "33797"
+            }, 
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/HDFS/206/33802.json", 
+                "id": "33802"
+            }
+        ]
+    }
+}

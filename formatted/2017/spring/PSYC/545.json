@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: Consent of instructor required for all students not admitted to graduate program in clinical-community psychology.", 
+    "creditHours": "4 hours.", 
+    "description": "Part 4 of a 4 part sequence designed to provide clinical-community graduate students with a broad overview of theories, approaches, and methods in clinical and community psychology. This set of courses includes coverage of al major domains in clinical-community psychology, including psychopathology/problems in living, clinical-community assessment, diagnosis, effective interventions and their evaluation, and prevention. These courses are also meant to engage graduate students in the process of critical inquiry in clinical-community psychology. Required of all entering graduate students in clinical-community psychology. Prerequisite: Consent of instructor required for all students not admitted to graduate program in clinical-community psychology.", 
+    "href": "/2017/spring/PSYC/545.json", 
+    "id": "PSYC 545", 
+    "label": "Intro to Clin-Comm Psych IV", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PSYC/545/39627.json", 
+            "id": "39627"
+        }
+    }
+}

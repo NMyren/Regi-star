@@ -1,0 +1,59 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Approved for Letter and S/U grading. May be repeated.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "Covering various topics for undergraduates in Recreation, Sport & Tourism. Additional fees may apply. See Class Schedule. Approved for Letter and S/U grading. May be repeated.", 
+    "href": "/2017/spring/RST/199.json", 
+    "id": "RST 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/RST/199/65686.json", 
+                "id": "65686"
+            }, 
+            {
+                "content": "FT", 
+                "href": "/2017/spring/RST/199/54326.json", 
+                "id": "54326"
+            }, 
+            {
+                "content": "MHF", 
+                "href": "/2017/spring/RST/199/59623.json", 
+                "id": "59623"
+            }, 
+            {
+                "content": "ONA", 
+                "href": "/2017/spring/RST/199/61677.json", 
+                "id": "61677"
+            }, 
+            {
+                "content": "ONB", 
+                "href": "/2017/spring/RST/199/61678.json", 
+                "id": "61678"
+            }, 
+            {
+                "content": "SS", 
+                "href": "/2017/spring/RST/199/65707.json", 
+                "id": "65707"
+            }
+        ]
+    }
+}

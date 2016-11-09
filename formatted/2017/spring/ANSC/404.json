@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 or 4 undergraduate hours. 3 or 4 graduate hours. Undergraduate and graduate students must complete research project to obtain 4 hours.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Basic principles of genetics, physiology, nutrition, and health of avian species; the application of science and technology in solving the breeding, nutrition, disease, housing, and other management problems encountered in commercial egg and poultry meat production. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Undergraduate and graduate students must complete research project to obtain 4 hours.", 
+    "href": "/2017/spring/ANSC/404.json", 
+    "id": "ANSC 404", 
+    "label": "Poultry Science", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "1", 
+                "href": "/2017/spring/ANSC/404/29967.json", 
+                "id": "29967"
+            }, 
+            {
+                "content": "2", 
+                "href": "/2017/spring/ANSC/404/29968.json", 
+                "id": "29968"
+            }
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "courseSectionInformation": "May be repeated. Prerequisite: Graduate standing with a major or minor in Russian; consent of department.", 
+    "creditHours": "1 TO 8 hours.", 
+    "description": "May be repeated. Prerequisite: Graduate standing with a major or minor in Russian; consent of department.", 
+    "href": "/2017/spring/SLAV/591.json", 
+    "id": "SLAV 591", 
+    "label": "Individual Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Slavic", 
+            "href": "/2017/spring/SLAV.json", 
+            "id": "SLAV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/SLAV/591/10373.json", 
+                "id": "10373"
+            }, 
+            {
+                "content": "A", 
+                "href": "/2017/spring/SLAV/591/34240.json", 
+                "id": "34240"
+            }
+        ]
+    }
+}

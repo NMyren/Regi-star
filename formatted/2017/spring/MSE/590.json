@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated. Prerequisite: Consent of instructor.", 
+    "creditHours": "0 TO 1 hours.", 
+    "description": "Discussions and lectures on current research under the direction of individual staff members. Approved for S/U grading only. May be repeated. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/MSE/590.json", 
+    "id": "MSE 590", 
+    "label": "Research Seminars", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Materials Science and Engineering", 
+            "href": "/2017/spring/MSE.json", 
+            "id": "MSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/MSE/590/10568.json", 
+            "id": "10568"
+        }
+    }
+}

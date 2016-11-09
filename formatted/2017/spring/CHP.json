@@ -1,0 +1,46 @@
+{
+    "addressLine1": "Program Office", 
+    "addressLine2": "1205 West Oregon, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Director: Kim Graber\nProgram Office, 1205 West Oregon, Urbana, 244-0922\nSubjects associated with this department include: Campus Honors Program courses (CHP).\nwww.honors.illinois.edu", 
+    "contactName": "Kim Graber", 
+    "contactTitle": "Director", 
+    "courses": {
+        "course": [
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/CHP/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Interdisciplinary Seminar", 
+                "href": "/2017/spring/CHP/395.json", 
+                "id": "395"
+            }, 
+            {
+                "content": "Interdisciplinary Seminar ACP", 
+                "href": "/2017/spring/CHP/396.json", 
+                "id": "396"
+            }
+        ]
+    }, 
+    "departmentCode": "1670", 
+    "id": "CHP", 
+    "label": "Campus Honors Program Courses", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "244-0922", 
+    "subjectComment": "Subjects associated with this department include: Campus Honors Program courses (CHP).", 
+    "unitName": "Campus Honors Program", 
+    "webSiteURL": "www.honors.illinois.edu"
+}

@@ -1,0 +1,40 @@
+{
+    "classScheduleInformation": "Graduate students in the MA in Translation and Interpreting and the graduate certificate or planned graduate minor in translation.", 
+    "courseSectionInformation": "May be repeated in separate terms for a maximum of 8 hours.", 
+    "creditHours": "4 hours.", 
+    "description": "Covers topics of special interests to rising professional translators in the three areas of specialization of the MA in Translation and Interpreting: Applied Literary Translation, Translation for the Professions and Interpreting. Examples of topics may include: Translation for Government, Literary Translation, Translation and Digital Humanities. May be repeated in separate terms for a maximum of 8 hours.", 
+    "href": "/2017/spring/TRST/580.json", 
+    "id": "TRST 580", 
+    "label": "Special Topics in Translation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Translation Studies", 
+            "href": "/2017/spring/TRST.json", 
+            "id": "TRST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G4", 
+                "href": "/2017/spring/TRST/580/61960.json", 
+                "id": "61960"
+            }, 
+            {
+                "content": "O", 
+                "href": "/2017/spring/TRST/580/65520.json", 
+                "id": "65520"
+            }
+        ]
+    }
+}

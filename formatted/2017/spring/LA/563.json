@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as ARCH 563. See ARCH 563.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as ARCH 563. See ARCH 563.", 
+    "href": "/2017/spring/LA/563.json", 
+    "id": "LA 563", 
+    "label": "Soc/Beh Research Designed Env", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Landscape Architecture", 
+            "href": "/2017/spring/LA.json", 
+            "id": "LA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign. Restricted to PHD:Lndscpe Architecture -UIUC, PHD:Architecture -UIUC, PHD:Regional Planning -UIUC, or MS: Architectural Studies-UIUC.", 
+    "sections": {
+        "section": {
+            "content": "C", 
+            "href": "/2017/spring/LA/563/60572.json", 
+            "id": "60572"
+        }
+    }
+}

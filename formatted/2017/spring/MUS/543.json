@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional hours. Prerequisite: PhD Students in Music Education, or as approved by instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "This course focuses on the issues, concepts, and processes for the development of preservice music teachers. Intended for prospective university teachers of undergraduate music education majors. Covers educational philosophy, curriculum design, methods of teaching and evaluation, and student teaching and observational experiences as they relate to undergraduate music teacher programs. 4 graduate hours. No professional hours. Prerequisite: PhD Students in Music Education, or as approved by instructor.", 
+    "href": "/2017/spring/MUS/543.json", 
+    "id": "MUS 543", 
+    "label": "Music Teacher Education", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/543/65695.json", 
+            "id": "65695"
+        }
+    }
+}

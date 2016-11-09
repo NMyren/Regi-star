@@ -1,0 +1,340 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "4-122 Krannert Center for the Performing Arts, 500 South Goodwin, Urbana", 
+    "collegeCode": "KR", 
+    "collegeDepartmentDescription": "Head of Department: Jeffrey Eric Jenkins\nDepartment Office, 4-122 Krannert Center for the Performing Arts, 500 South Goodwin, Urbana, 333-3538\ntheatre.illinois.edu/", 
+    "contactName": "Jeffrey Eric Jenkins", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Practicum I", 
+                "href": "/2017/spring/THEA/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "Introduction to Theatre Arts", 
+                "href": "/2017/spring/THEA/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "Survey of Theatre Production", 
+                "href": "/2017/spring/THEA/103.json", 
+                "id": "103"
+            }, 
+            {
+                "content": "Broadway Musicals", 
+                "href": "/2017/spring/THEA/110.json", 
+                "id": "110"
+            }, 
+            {
+                "content": "Graphic Skills", 
+                "href": "/2017/spring/THEA/125.json", 
+                "id": "125"
+            }, 
+            {
+                "content": "Stage Mechanics I", 
+                "href": "/2017/spring/THEA/126.json", 
+                "id": "126"
+            }, 
+            {
+                "content": "Fundamentals of Acting I", 
+                "href": "/2017/spring/THEA/170.json", 
+                "id": "170"
+            }, 
+            {
+                "content": "Fundamentals of Acting II", 
+                "href": "/2017/spring/THEA/175.json", 
+                "id": "175"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/THEA/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Theatre of Black Experience", 
+                "href": "/2017/spring/THEA/203.json", 
+                "id": "203"
+            }, 
+            {
+                "content": "Introduction to Directing", 
+                "href": "/2017/spring/THEA/212.json", 
+                "id": "212"
+            }, 
+            {
+                "content": "Intro to Social Issues Theatre", 
+                "href": "/2017/spring/THEA/218.json", 
+                "id": "218"
+            }, 
+            {
+                "content": "Introduction to Scenic Design", 
+                "href": "/2017/spring/THEA/222.json", 
+                "id": "222"
+            }, 
+            {
+                "content": "Literature of Modern Theatre", 
+                "href": "/2017/spring/THEA/262.json", 
+                "id": "262"
+            }, 
+            {
+                "content": "Relationships in Acting I", 
+                "href": "/2017/spring/THEA/270.json", 
+                "id": "270"
+            }, 
+            {
+                "content": "Relationships in Acting II", 
+                "href": "/2017/spring/THEA/275.json", 
+                "id": "275"
+            }, 
+            {
+                "content": "Voice and Movement II", 
+                "href": "/2017/spring/THEA/276.json", 
+                "id": "276"
+            }, 
+            {
+                "content": "History of Theatre II", 
+                "href": "/2017/spring/THEA/361.json", 
+                "id": "361"
+            }, 
+            {
+                "content": "Acting Studio II: Dynamics", 
+                "href": "/2017/spring/THEA/375.json", 
+                "id": "375"
+            }, 
+            {
+                "content": "Acting Studio II: Voice", 
+                "href": "/2017/spring/THEA/376.json", 
+                "id": "376"
+            }, 
+            {
+                "content": "Acting Studio II: Movement", 
+                "href": "/2017/spring/THEA/377.json", 
+                "id": "377"
+            }, 
+            {
+                "content": "Acting Studio II: Acting", 
+                "href": "/2017/spring/THEA/378.json", 
+                "id": "378"
+            }, 
+            {
+                "content": "Individual Topics", 
+                "href": "/2017/spring/THEA/391.json", 
+                "id": "391"
+            }, 
+            {
+                "content": "Individual Topics", 
+                "href": "/2017/spring/THEA/392.json", 
+                "id": "392"
+            }, 
+            {
+                "content": "Undergraduate Group Seminar", 
+                "href": "/2017/spring/THEA/399.json", 
+                "id": "399"
+            }, 
+            {
+                "content": "Practicum II", 
+                "href": "/2017/spring/THEA/400.json", 
+                "id": "400"
+            }, 
+            {
+                "content": "Dramaturgs Workshop", 
+                "href": "/2017/spring/THEA/410.json", 
+                "id": "410"
+            }, 
+            {
+                "content": "Playwrights Workshop", 
+                "href": "/2017/spring/THEA/411.json", 
+                "id": "411"
+            }, 
+            {
+                "content": "Leading Post-Perform Dialog", 
+                "href": "/2017/spring/THEA/417.json", 
+                "id": "417"
+            }, 
+            {
+                "content": "Devising Social Issues Theatre", 
+                "href": "/2017/spring/THEA/418.json", 
+                "id": "418"
+            }, 
+            {
+                "content": "Stage Drafting", 
+                "href": "/2017/spring/THEA/425.json", 
+                "id": "425"
+            }, 
+            {
+                "content": "History of Decor", 
+                "href": "/2017/spring/THEA/426.json", 
+                "id": "426"
+            }, 
+            {
+                "content": "Convergence Design I", 
+                "href": "/2017/spring/THEA/431.json", 
+                "id": "431"
+            }, 
+            {
+                "content": "Convergence Design III", 
+                "href": "/2017/spring/THEA/433.json", 
+                "id": "433"
+            }, 
+            {
+                "content": "Stage Mechanics III", 
+                "href": "/2017/spring/THEA/440.json", 
+                "id": "440"
+            }, 
+            {
+                "content": "Costume Patterning", 
+                "href": "/2017/spring/THEA/442.json", 
+                "id": "442"
+            }, 
+            {
+                "content": "Costume Draping", 
+                "href": "/2017/spring/THEA/444.json", 
+                "id": "444"
+            }, 
+            {
+                "content": "Costume History and Design I", 
+                "href": "/2017/spring/THEA/445.json", 
+                "id": "445"
+            }, 
+            {
+                "content": "Costume Rendering", 
+                "href": "/2017/spring/THEA/447.json", 
+                "id": "447"
+            }, 
+            {
+                "content": "Costume Fabrication", 
+                "href": "/2017/spring/THEA/449.json", 
+                "id": "449"
+            }, 
+            {
+                "content": "Management Seminar", 
+                "href": "/2017/spring/THEA/450.json", 
+                "id": "450"
+            }, 
+            {
+                "content": "Sound Design I", 
+                "href": "/2017/spring/THEA/454.json", 
+                "id": "454"
+            }, 
+            {
+                "content": "Audio Production", 
+                "href": "/2017/spring/THEA/455.json", 
+                "id": "455"
+            }, 
+            {
+                "content": "Properties Design", 
+                "href": "/2017/spring/THEA/456.json", 
+                "id": "456"
+            }, 
+            {
+                "content": "Model Making for the Stage", 
+                "href": "/2017/spring/THEA/457.json", 
+                "id": "457"
+            }, 
+            {
+                "content": "Rendering for Live Performance", 
+                "href": "/2017/spring/THEA/458.json", 
+                "id": "458"
+            }, 
+            {
+                "content": "Sound Systems", 
+                "href": "/2017/spring/THEA/459.json", 
+                "id": "459"
+            }, 
+            {
+                "content": "Acting Studio IV: Dynamics", 
+                "href": "/2017/spring/THEA/475.json", 
+                "id": "475"
+            }, 
+            {
+                "content": "Acting Studio IV: Voice", 
+                "href": "/2017/spring/THEA/476.json", 
+                "id": "476"
+            }, 
+            {
+                "content": "Acting Studio IV: Movement", 
+                "href": "/2017/spring/THEA/477.json", 
+                "id": "477"
+            }, 
+            {
+                "content": "Acting Studio IV: Acting", 
+                "href": "/2017/spring/THEA/478.json", 
+                "id": "478"
+            }, 
+            {
+                "content": "Preparation for Auditions", 
+                "href": "/2017/spring/THEA/479.json", 
+                "id": "479"
+            }, 
+            {
+                "content": "Professional Internship", 
+                "href": "/2017/spring/THEA/490.json", 
+                "id": "490"
+            }, 
+            {
+                "content": "Colloquium Design & Theat Tech", 
+                "href": "/2017/spring/THEA/550.json", 
+                "id": "550"
+            }, 
+            {
+                "content": "Seminar in Theatre History", 
+                "href": "/2017/spring/THEA/560.json", 
+                "id": "560"
+            }, 
+            {
+                "content": "Colloquium in Acting: Dynamics", 
+                "href": "/2017/spring/THEA/571.json", 
+                "id": "571"
+            }, 
+            {
+                "content": "Colloquium in Acting: Voice", 
+                "href": "/2017/spring/THEA/572.json", 
+                "id": "572"
+            }, 
+            {
+                "content": "Colloquium in Acting: Movement", 
+                "href": "/2017/spring/THEA/573.json", 
+                "id": "573"
+            }, 
+            {
+                "content": "Colloquium in Acting: Acting", 
+                "href": "/2017/spring/THEA/574.json", 
+                "id": "574"
+            }, 
+            {
+                "content": "Special Problems", 
+                "href": "/2017/spring/THEA/591.json", 
+                "id": "591"
+            }, 
+            {
+                "content": "Creative Project", 
+                "href": "/2017/spring/THEA/595.json", 
+                "id": "595"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/THEA/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1883", 
+    "id": "THEA", 
+    "label": "Theatre", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-3538", 
+    "unitName": "Theatre", 
+    "webSiteURL": "theatre.illinois.edu/"
+}

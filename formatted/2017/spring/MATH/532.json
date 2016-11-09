@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated. Prerequisite: MATH 531.", 
+    "creditHours": "4 hours.", 
+    "description": "Development of themes from MATH 531 and further topics chosen from additive number theory, asymptotic properties of multiplicative functions, circle method, diophantine approximation, lattice point problems, metric theory, modular forms, sieve theory. May be repeated. Prerequisite: MATH 531.", 
+    "href": "/2017/spring/MATH/532.json", 
+    "id": "MATH 532", 
+    "label": "Analytic Theory of Numbers II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Undergrad - Urbana-Champaign. Not intended for MS:Economics:Policy Econ -UIUC or MS: Financial Engineering.", 
+    "sections": {
+        "section": {
+            "content": "D1", 
+            "href": "/2017/spring/MATH/532/38176.json", 
+            "id": "38176"
+        }
+    }
+}

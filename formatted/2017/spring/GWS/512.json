@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as SOCW 581 and WGGP 581. See WGGP 581.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as SOCW 581 and WGGP 581. See WGGP 581.", 
+    "href": "/2017/spring/GWS/512.json", 
+    "id": "GWS 512", 
+    "label": "Gender Relations & Intl Dev", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Gender and Women's Studies", 
+            "href": "/2017/spring/GWS.json", 
+            "id": "GWS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GWS/512/54826.json", 
+            "id": "54826"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading. May be repeated in separate terms. Course will not satisfy Finance major requirements. Prerequisite: Induction into the Finance Academy.", 
+    "creditHours": "1 hours.", 
+    "description": "The Finance Academy is an enrichment program for outstanding undergraduate Finance majors. A select program that focuses on developing future business leaders via enhanced academic and career opportunities. Students are normally invited to participate by the faculty during their junior year, when they are enrolled in FIN 300. If inducted, students participate throughout their junior and senior years. Approved for letter and S/U grading. May be repeated in separate terms. Course will not satisfy Finance major requirements. Prerequisite: Induction into the Finance Academy.", 
+    "href": "/2017/spring/FIN/390.json", 
+    "id": "FIN 390", 
+    "label": "Finance Academy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Finance", 
+            "href": "/2017/spring/FIN.json", 
+            "id": "FIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "content": "FA", 
+            "href": "/2017/spring/FIN/390/55580.json", 
+            "id": "55580"
+        }
+    }
+}

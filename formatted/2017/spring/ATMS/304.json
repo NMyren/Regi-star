@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: MATH 241 and PHYS 212.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the laws governing the propagation of electromagnetic radiation in the Earth's atmosphere. Topics include absorption, emission, and scattering of radiation, absorption and scattering properties of atmospheric constituents, the Sun as a source of radiation, the radiative transfer equation, and simple radiative balance models. Emphasis will be placed on the role of radiation in weather and climate, the description of atmospheric optical phenomena, and the application to remote sensing. Prerequisite: MATH 241 and PHYS 212.", 
+    "href": "/2017/spring/ATMS/304.json", 
+    "id": "ATMS 304", 
+    "label": "Radiative Transfer-Remote Sens", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Atmospheric Sciences", 
+            "href": "/2017/spring/ATMS.json", 
+            "id": "ATMS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ATMS/304/50295.json", 
+            "id": "50295"
+        }
+    }
+}

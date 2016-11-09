@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. A maximum of 2 hours may be applied toward a degree program. Prerequisite: Completion of 14 graduate hours of library and information science courses; submission of Practicum forms.", 
+    "creditHours": "2 hours.", 
+    "description": "Supervised field experience of professional-level duties in an approved library or information center. Approved for S/U grading only. A maximum of 2 hours may be applied toward a degree program. Prerequisite: Completion of 14 graduate hours of library and information science courses; submission of Practicum forms.", 
+    "href": "/2017/spring/LIS/591.json", 
+    "id": "LIS 591", 
+    "label": "Practicum", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/LIS/591/10533.json", 
+            "id": "10533"
+        }
+    }
+}

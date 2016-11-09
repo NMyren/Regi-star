@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "May be repeated in same or separate terms to a maximum of 6 hours.", 
+    "creditHours": "3 hours.", 
+    "description": "Course examines specific topics in Latina/Latino Studies not addressed in regularly offered courses. Examples include theories of ethnic identity, historical foundations, cultural expression, and relevant topics in public policy studies of Latina/Latino communities. May be repeated in same or separate terms to a maximum of 6 hours.", 
+    "href": "/2017/spring/LLS/296.json", 
+    "id": "LLS 296", 
+    "label": "Topics Latina/o Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latina/Latino Studies", 
+            "href": "/2017/spring/LLS.json", 
+            "id": "LLS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "LC", 
+                "href": "/2017/spring/LLS/296/58349.json", 
+                "id": "58349"
+            }, 
+            {
+                "content": "WC", 
+                "href": "/2017/spring/LLS/296/54576.json", 
+                "id": "54576"
+            }
+        ]
+    }
+}

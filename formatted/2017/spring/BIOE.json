@@ -1,0 +1,180 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "1270 Digital Computer Lab, 1304 West Springfield Avenue", 
+    "collegeCode": "KP", 
+    "collegeDepartmentDescription": "Head of Department: Rashid Bashir\nDepartment Office, 1270 Digital Computer Lab, 1304 West Springfield Avenue, 217-333-1867\nwww.bioen.illinois.edu", 
+    "contactName": "Rashid Bashir", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Introduction to Bioengineering", 
+                "href": "/2017/spring/BIOE/120.json", 
+                "id": "120"
+            }, 
+            {
+                "content": "Cell & Tissue Engineering Lab", 
+                "href": "/2017/spring/BIOE/202.json", 
+                "id": "202"
+            }, 
+            {
+                "content": "Signals & Systems in Bioengrg", 
+                "href": "/2017/spring/BIOE/205.json", 
+                "id": "205"
+            }, 
+            {
+                "content": "Individual Study", 
+                "href": "/2017/spring/BIOE/297.json", 
+                "id": "297"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/BIOE/298.json", 
+                "id": "298"
+            }, 
+            {
+                "content": "Quantitative Physiology Lab", 
+                "href": "/2017/spring/BIOE/303.json", 
+                "id": "303"
+            }, 
+            {
+                "content": "Comp Tools Bio Data", 
+                "href": "/2017/spring/BIOE/310.json", 
+                "id": "310"
+            }, 
+            {
+                "content": "Transport & Flow in Bioengrg", 
+                "href": "/2017/spring/BIOE/360.json", 
+                "id": "360"
+            }, 
+            {
+                "content": "Individual Study", 
+                "href": "/2017/spring/BIOE/397.json", 
+                "id": "397"
+            }, 
+            {
+                "content": "Biomedical Instrumentation", 
+                "href": "/2017/spring/BIOE/414.json", 
+                "id": "414"
+            }, 
+            {
+                "content": "Biomedical Instrumentation Lab", 
+                "href": "/2017/spring/BIOE/415.json", 
+                "id": "415"
+            }, 
+            {
+                "content": "Biosensors", 
+                "href": "/2017/spring/BIOE/416.json", 
+                "id": "416"
+            }, 
+            {
+                "content": "Intro Bio Control Systems", 
+                "href": "/2017/spring/BIOE/420.json", 
+                "id": "420"
+            }, 
+            {
+                "content": "Senior Design II", 
+                "href": "/2017/spring/BIOE/436.json", 
+                "id": "436"
+            }, 
+            {
+                "content": "Biomaterials Laboratory", 
+                "href": "/2017/spring/BIOE/473.json", 
+                "id": "473"
+            }, 
+            {
+                "content": "Cancer Nanotechnology", 
+                "href": "/2017/spring/BIOE/479.json", 
+                "id": "479"
+            }, 
+            {
+                "content": "Magnetic Resonance Imaging", 
+                "href": "/2017/spring/BIOE/480.json", 
+                "id": "480"
+            }, 
+            {
+                "content": "Whole-Body Musculoskel Biomech", 
+                "href": "/2017/spring/BIOE/481.json", 
+                "id": "481"
+            }, 
+            {
+                "content": "Individual Study", 
+                "href": "/2017/spring/BIOE/497.json", 
+                "id": "497"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/BIOE/498.json", 
+                "id": "498"
+            }, 
+            {
+                "content": "Senior Thesis", 
+                "href": "/2017/spring/BIOE/499.json", 
+                "id": "499"
+            }, 
+            {
+                "content": "Graduate Seminar", 
+                "href": "/2017/spring/BIOE/500.json", 
+                "id": "500"
+            }, 
+            {
+                "content": "Molecular Biotechniques", 
+                "href": "/2017/spring/BIOE/506.json", 
+                "id": "506"
+            }, 
+            {
+                "content": "Advanced Bioinstrumentation", 
+                "href": "/2017/spring/BIOE/507.json", 
+                "id": "507"
+            }, 
+            {
+                "content": "Bioinstrumentation Seminar", 
+                "href": "/2017/spring/BIOE/570.json", 
+                "id": "570"
+            }, 
+            {
+                "content": "Biological Measurement II", 
+                "href": "/2017/spring/BIOE/572.json", 
+                "id": "572"
+            }, 
+            {
+                "content": "Bioinstrument Innovation", 
+                "href": "/2017/spring/BIOE/574.json", 
+                "id": "574"
+            }, 
+            {
+                "content": "Individual Study", 
+                "href": "/2017/spring/BIOE/597.json", 
+                "id": "597"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/BIOE/598.json", 
+                "id": "598"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/BIOE/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1343", 
+    "id": "BIOE", 
+    "label": "Bioengineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-1867", 
+    "unitName": "Bioengineering", 
+    "webSiteURL": "www.bioen.illinois.edu"
+}

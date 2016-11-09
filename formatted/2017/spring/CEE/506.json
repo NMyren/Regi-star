@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: CEE 406.", 
+    "creditHours": "4 hours.", 
+    "description": "Development of layered elastic and plate theory models for area analysis of pavement systems; performance prediction of flexible and rigid pavements; characterization of aircraft traffic; design of airfield pavement systems;  construction material fatigue and failure criteria (strength theory and fracture mechanics); industrial floor and reinforced concrete slab design; climatic factors. Prerequisite: CEE 406.", 
+    "href": "/2017/spring/CEE/506.json", 
+    "id": "CEE 506", 
+    "label": "Pavement Design II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "B", 
+                "href": "/2017/spring/CEE/506/31744.json", 
+                "id": "31744"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CEE/506/59242.json", 
+                "id": "59242"
+            }
+        ]
+    }
+}

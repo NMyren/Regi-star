@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated in separate terms to a maximum of 30 graduate hours. Note that a maximum of 8 credit hours will count towards a graduate degree. Prerequisite: DVM degree or equivalent, clinical pathology graduate student or consent of instructor.", 
+    "creditHours": "2 OR 4 hours.", 
+    "description": "Instruction in diagnostic cytology for clinical pathology majors. The course is for clinical pathology graduate students to advance their training in cytology. This is an intensive course with one-on-one training with the instructor. Clinical cytology cases and blood smears are evaluated microscopically and then a thorough written description and interpretation of each case is performed and reviewed. May be repeated in separate terms to a maximum of 30 graduate hours. Note that a maximum of 8 credit hours will count towards a graduate degree. Prerequisite: DVM degree or equivalent, clinical pathology graduate student or consent of instructor.", 
+    "href": "/2017/spring/PATH/552.json", 
+    "id": "PATH 552", 
+    "label": "Diagnostic Cytology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Pathobiology", 
+            "href": "/2017/spring/PATH.json", 
+            "id": "PATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PATH/552/58478.json", 
+            "id": "58478"
+        }
+    }
+}

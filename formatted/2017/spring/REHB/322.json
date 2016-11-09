@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Same as PSYC 322 and SPED 322. See SPED 322.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as PSYC 322 and SPED 322. See SPED 322.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1BSC", 
+                    "content": "UIUC: Behavioral Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/REHB/322.json", 
+    "id": "REHB 322", 
+    "label": "Intro Intellectual Disability", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Rehabilitation Counseling", 
+            "href": "/2017/spring/REHB.json", 
+            "id": "REHB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Behavioral Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/REHB/322/34524.json", 
+            "id": "34524"
+        }
+    }
+}

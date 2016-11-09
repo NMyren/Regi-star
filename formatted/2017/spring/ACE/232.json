@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Three hours credit without home farm problem, or four hours credit with home farm problem. Prerequisite: ACE 100 or ECON 102 or consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Economic principles are applied to the management of farms using budgeting system analysis, record analysis, financial management, and lease analysis. Problems related to resource appraisal and business organization are also addressed. Three hours credit without home farm problem, or four hours credit with home farm problem. Prerequisite: ACE 100 or ECON 102 or consent of instructor.", 
+    "href": "/2017/spring/ACE/232.json", 
+    "id": "ACE 232", 
+    "label": "Management of Farm Enterprises", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural and Consumer Economics", 
+            "href": "/2017/spring/ACE.json", 
+            "id": "ACE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Agr, Consumer, & Env Sciences.", 
+    "sections": {
+        "section": {
+            "content": "S", 
+            "href": "/2017/spring/ACE/232/30577.json", 
+            "id": "30577"
+        }
+    }
+}

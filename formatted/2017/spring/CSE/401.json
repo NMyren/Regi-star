@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as CS 450, ECE 491 and MATH 450. See CS 450.", 
+    "creditHours": "3 or 4 hours.", 
+    "description": "Same as CS 450, ECE 491 and MATH 450. See CS 450.", 
+    "href": "/2017/spring/CSE/401.json", 
+    "id": "CSE 401", 
+    "label": "Numerical Analysis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computational Science and Engineering", 
+            "href": "/2017/spring/CSE.json", 
+            "id": "CSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "B3", 
+                "href": "/2017/spring/CSE/401/31432.json", 
+                "id": "31432"
+            }, 
+            {
+                "content": "B4", 
+                "href": "/2017/spring/CSE/401/31434.json", 
+                "id": "31434"
+            }
+        ]
+    }
+}

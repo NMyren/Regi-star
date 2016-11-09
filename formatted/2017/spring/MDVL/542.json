@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as HIST 542. See HIST 542.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as HIST 542. See HIST 542.", 
+    "href": "/2017/spring/MDVL/542.json", 
+    "id": "MDVL 542", 
+    "label": "Problems in Medieval History", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Medieval Studies", 
+            "href": "/2017/spring/MDVL.json", 
+            "id": "MDVL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MDVL/542/32411.json", 
+            "id": "32411"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Credit is not given for KOR 204 if credit for KOR 241 has been earned. Prerequisite: KOR 203 or as determined by a placement exam and an instructor. Students must have taken KOR 203 at this University. Otherwise, they should take the placement exam in January. Sign up for the test in the office of the EALC Department (244- 2725).", 
+    "creditHours": "5 hours.", 
+    "description": "Continuation of KOR 203 and second semester of the second year Korean. Students practice conversations and study grammar based on conversational materials with variety of styles and levels of discourse and usage, to achieve intermediate-level fluency in speaking, listening, reading and writing in the Korean language. Credit is not given for KOR 204 if credit for KOR 241 has been earned. Prerequisite: KOR 203 or as determined by a placement exam and an instructor. Students must have taken KOR 203 at this University. Otherwise, they should take the placement exam in January. Sign up for the test in the office of the EALC Department (244- 2725).", 
+    "href": "/2017/spring/KOR/204.json", 
+    "id": "KOR 204", 
+    "label": "Intermediate Korean II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Korean", 
+            "href": "/2017/spring/KOR.json", 
+            "id": "KOR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "C", 
+                "href": "/2017/spring/KOR/204/35284.json", 
+                "id": "35284"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/KOR/204/65683.json", 
+                "id": "65683"
+            }
+        ]
+    }
+}

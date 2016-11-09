@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 4 hours, but only 2 hours may be applied toward the degree. Prerequisite: Music education majors or consent of instructor.", 
+    "creditHours": "1 OR 2 hours.", 
+    "description": "Early Field Experiences in music teacher education. Includes supervised practicum work in observation, co-teaching, and individual teaching in local public schools. Twenty-seven (27) clock hours of EFE required for each hour of credit. May be repeated to a maximum of 4 hours, but only 2 hours may be applied toward the degree. Prerequisite: Music education majors or consent of instructor.", 
+    "href": "/2017/spring/MUS/320.json", 
+    "id": "MUS 320", 
+    "label": "Pre-Student Tchng Experience", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "CG", 
+                "href": "/2017/spring/MUS/320/48897.json", 
+                "id": "48897"
+            }, 
+            {
+                "content": "HD", 
+                "href": "/2017/spring/MUS/320/35584.json", 
+                "id": "35584"
+            }
+        ]
+    }
+}

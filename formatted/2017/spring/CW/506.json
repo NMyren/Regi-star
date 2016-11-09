@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 16 hours. Prerequisite: Admission to the MFA program, or graduate standing in English with advanced submission of creative work and  consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Directed individual projects, with group discussion in poetry. May be repeated to a maximum of 16 hours. Prerequisite: Admission to the MFA program, or graduate standing in English with advanced submission of creative work and  consent of instructor.", 
+    "href": "/2017/spring/CW/506.json", 
+    "id": "CW 506", 
+    "label": "Writing Workshop in Poetry", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Creative Writing", 
+            "href": "/2017/spring/CW.json", 
+            "id": "CW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Creative Writing major(s) or minor(s). Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "R", 
+            "href": "/2017/spring/CW/506/43390.json", 
+            "id": "43390"
+        }
+    }
+}

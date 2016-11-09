@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Prerequisite: ME 330 and ME 370.", 
+    "creditHours": "3 hours.", 
+    "description": "Design and analysis of machinery for load-bearing and power transmission. Consideration of material failure modes, including yielding, fracture, fatigue, and creep. Design and selection of machine elements: bolts, springs, rolling-element bearings, fluid-film lubrication, and power transmissions, including gears and friction drives. Prerequisite: ME 330 and ME 370.", 
+    "href": "/2017/spring/ME/371.json", 
+    "id": "ME 371", 
+    "label": "Mechanical Design II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Engineering Mechanics or Mechanical Engineering major(s). Restricted to students with Senior class standing.", 
+    "sections": {
+        "section": [
+            {
+                "content": "N", 
+                "href": "/2017/spring/ME/371/37390.json", 
+                "id": "37390"
+            }, 
+            {
+                "content": "R", 
+                "href": "/2017/spring/ME/371/37392.json", 
+                "id": "37392"
+            }
+        ]
+    }
+}

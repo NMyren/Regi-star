@@ -1,0 +1,41 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Prerequisite: Sophomore standing or consent of instructor. For Art majors only.", 
+    "creditHours": "3 hours.", 
+    "description": "Design and execution of jewelry and related objects through fabrication, focusing on surface embellishment, joining, and finishing processes; exploring metal as a medium of personal aesthetic expression. Additional fees may apply. See Class Schedule. Prerequisite: Sophomore standing or consent of instructor. For Art majors only.", 
+    "href": "/2017/spring/ARTS/230.json", 
+    "id": "ARTS 230", 
+    "label": "Jewelry/Metals I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Studio", 
+            "href": "/2017/spring/ARTS.json", 
+            "id": "ARTS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionFeeAmount": "Art  Design Metals $95.00 Flat Fee.", 
+    "sectionRegistrationNotes": "Restricted to Graphic Design or Crafts or History of Art or Photography or Industrial Design or Painting or Sculpture or Art Education or Art and Design or Art Foundation or New Media major(s) or minor(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "M4", 
+                "href": "/2017/spring/ARTS/230/30371.json", 
+                "id": "30371"
+            }, 
+            {
+                "content": "T4", 
+                "href": "/2017/spring/ARTS/230/30370.json", 
+                "id": "30370"
+            }
+        ]
+    }
+}

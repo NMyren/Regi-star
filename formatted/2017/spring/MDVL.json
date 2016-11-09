@@ -1,0 +1,65 @@
+{
+    "addressLine1": "Program Office", 
+    "addressLine2": "4080 Foreign Languages Building, 707 South Mathews, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Director: Eleonora Stoppino\nProgram Office, 4080 Foreign Languages Building, 707 South Mathews, Urbana, 217-333-5572\nwww.medieval.illinois.edu", 
+    "contactName": "Eleonora Stoppino", 
+    "contactTitle": "Director", 
+    "courses": {
+        "course": [
+            {
+                "content": "Swords, Sorcery & Sex: The Middle Ages in Popular Culture", 
+                "href": "/2017/spring/MDVL/122.json", 
+                "id": "122"
+            }, 
+            {
+                "content": "Medieval Europe", 
+                "href": "/2017/spring/MDVL/247.json", 
+                "id": "247"
+            }, 
+            {
+                "content": "Viking Sagas in Translation", 
+                "href": "/2017/spring/MDVL/252.json", 
+                "id": "252"
+            }, 
+            {
+                "content": "Chaucer", 
+                "href": "/2017/spring/MDVL/411.json", 
+                "id": "411"
+            }, 
+            {
+                "content": "Seminar in Medieval Studies", 
+                "href": "/2017/spring/MDVL/500.json", 
+                "id": "500"
+            }, 
+            {
+                "content": "Beowulf", 
+                "href": "/2017/spring/MDVL/508.json", 
+                "id": "508"
+            }, 
+            {
+                "content": "Problems in Medieval History", 
+                "href": "/2017/spring/MDVL/542.json", 
+                "id": "542"
+            }
+        ]
+    }, 
+    "departmentCode": "1652", 
+    "id": "MDVL", 
+    "label": "Medieval Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-5572", 
+    "unitName": "Medieval Studies, Program in", 
+    "webSiteURL": "www.medieval.illinois.edu"
+}

@@ -1,0 +1,42 @@
+{
+    "creditHours": "0 TO 18 hours.", 
+    "href": "/2017/spring/CIC/390.json", 
+    "id": "CIC 390", 
+    "label": "CIC Intercampus Reg", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Committee on Inst Cooperation", 
+            "href": "/2017/spring/CIC.json", 
+            "id": "CIC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/CIC/390/30930.json", 
+                "id": "30930"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/CIC/390/49492.json", 
+                "id": "49492"
+            }, 
+            {
+                "content": "DE", 
+                "href": "/2017/spring/CIC/390/58017.json", 
+                "id": "58017"
+            }
+        ]
+    }
+}

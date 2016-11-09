@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as RST 346 and MACS 346.", 
+    "creditHours": "3 hours.", 
+    "description": "The 1966 classic film --The Endless Summer-- and related films and literature are used as lenses for the historical-cultural study of human movement in the form of riding waves of water. Surf culture and films are global phenomena and by using such as unique cases, students gain mastery in cultural-interpretive theories, themes, and vocabulary, and in articulating perspectives on social roles, knowledge, and power. Same as RST 346 and MACS 346.", 
+    "href": "/2017/spring/KIN/346.json", 
+    "id": "KIN 346", 
+    "label": "Case Study: Endless Summer", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/KIN/346/61941.json", 
+            "id": "61941"
+        }
+    }
+}

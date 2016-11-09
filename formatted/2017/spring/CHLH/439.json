@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as GEOG 439 and PATH 439. See PATH 439.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as GEOG 439 and PATH 439. See PATH 439.", 
+    "href": "/2017/spring/CHLH/439.json", 
+    "id": "CHLH 439", 
+    "label": "Health Applications of GIS", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHLH/439/48460.json", 
+            "id": "48460"
+        }
+    }
+}

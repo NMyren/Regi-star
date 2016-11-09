@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading. May be repeated in the same or separate terms if topics vary.", 
+    "creditHours": "0 TO 4 hours.", 
+    "description": "Subject offerings of new and developing areas of knowledge in civil and environmental engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. Approved for letter and S/U grading. May be repeated in the same or separate terms if topics vary.", 
+    "href": "/2017/spring/CEE/398.json", 
+    "id": "CEE 398", 
+    "label": "Special Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "REU", 
+            "href": "/2017/spring/CEE/398/63170.json", 
+            "id": "63170"
+        }
+    }
+}

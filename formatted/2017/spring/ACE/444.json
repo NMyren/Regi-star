@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ACE 240, ACE 345, or FIN 221, and ECON 302 or consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Advanced skills in and understanding of asset pricing, equity and debt investment, portfolio theory and diversification, asset allocation, financial risk management, and financial intermediation and regulation emphasizing applications in financial planning and agricultural finance. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ACE 240, ACE 345, or FIN 221, and ECON 302 or consent of instructor.", 
+    "href": "/2017/spring/ACE/444.json", 
+    "id": "ACE 444", 
+    "label": "Finan Serv & Invest Plan", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural and Consumer Economics", 
+            "href": "/2017/spring/ACE.json", 
+            "id": "ACE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Agr & Consumer Economics department.", 
+    "sections": {
+        "section": {
+            "content": "P", 
+            "href": "/2017/spring/ACE/444/55323.json", 
+            "id": "55323"
+        }
+    }
+}

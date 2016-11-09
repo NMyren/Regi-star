@@ -1,0 +1,38 @@
+{
+    "courseSectionInformation": "May be repeated.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "May be repeated.", 
+    "href": "/2017/spring/EALC/199.json", 
+    "id": "EALC 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "East Asian Language and Culture", 
+            "href": "/2017/spring/EALC.json", 
+            "id": "EALC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/EALC/199/10596.json", 
+                "id": "10596"
+            }, 
+            {
+                "content": "GPP", 
+                "href": "/2017/spring/EALC/199/65585.json", 
+                "id": "65585"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 16 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Studies in the history of the theatre. May be repeated to a maximum of 16 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/THEA/560.json", 
+    "id": "THEA 560", 
+    "label": "Seminar in Theatre History", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to students with Graduate I, Graduate II, or Graduate class standing. Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/THEA/560/44228.json", 
+            "id": "44228"
+        }
+    }
+}

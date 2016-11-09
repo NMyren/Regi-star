@@ -1,0 +1,32 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "Introduces practical skills for evaluating service, intervention, and educational programs, including needs assessment, program monitoring and impact assessment, with emphasis on outcome measure selection, randomized and quasi-experimental designs, statistical power analysis, and ethical issues.", 
+    "href": "/2017/spring/HDFS/562.json", 
+    "id": "HDFS 562", 
+    "label": "Child & Family Program Eval", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Human Development and Family Studies", 
+            "href": "/2017/spring/HDFS.json", 
+            "id": "HDFS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/HDFS/562/50153.json", 
+            "id": "50153"
+        }
+    }
+}

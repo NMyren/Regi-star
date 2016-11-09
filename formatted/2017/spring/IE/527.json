@@ -1,0 +1,34 @@
+{
+    "classScheduleInformation": "Students must pass this seminar each semester to receive the M.S. Financial Engineering Degree. Failure to meet the requirements for this course, will result in attending that number of equivalent seminars offered within the College of Engineering (mainly ISE) or within the College of Business (mainly Finance) or additional conversation courses with the Director.", 
+    "courseSectionInformation": "1 graduate hour. No professional credit. Approved for S/U grading only. May be repeated in separate terms up to 2 hours. Note that this course is for 1 credit hour during your first and second semester and will require a mandatory final paper. Prerequisite: Graduate MS: Financial Engineering Students only.", 
+    "creditHours": "1 hours.", 
+    "description": "This course is required to encourage participation in professional development activities. Students will be required to be in attendance for at least 70% of the Practitioner Speaker Series in addition to other sanctioned MSFE Events. The Practitioner Speaker Series is an essential part of the MSFE curriculum. It allows firsthand interaction with Quantitative Practitioners. Exposure to insights on how the financial world is changing; regarding new products and needs, evolving data and information systems, and much more. Other events might include but are not limited to special seminars, workshops and conversation groups. 1 graduate hour. No professional credit. Approved for S/U grading only. May be repeated in separate terms up to 2 hours. Note that this course is for 1 credit hour during your first and second semester and will require a mandatory final paper. Prerequisite: Graduate MS: Financial Engineering Students only.", 
+    "href": "/2017/spring/IE/527.json", 
+    "id": "IE 527", 
+    "label": "MSFE Professional Development", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Industrial Engineering", 
+            "href": "/2017/spring/IE.json", 
+            "id": "IE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to MS: Financial Engineering.", 
+    "sections": {
+        "section": {
+            "content": "MSE", 
+            "href": "/2017/spring/IE/527/63360.json", 
+            "id": "63360"
+        }
+    }
+}

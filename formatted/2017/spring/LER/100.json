@@ -1,0 +1,55 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Provides an overview of workers and unions in American society. Looks at economic, political, and workplace issues facing working people, why and how workers join unions, how unions are structured and function, and how unions and management bargain a contract. Provides a historical overview of the American labor movement, and discusses the contemporary struggles workers and unions face in a rapidly changing global economy.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/LER/100.json", 
+    "id": "LER 100", 
+    "label": "Introduction to Labor Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Labor and Employment Relations", 
+            "href": "/2017/spring/LER.json", 
+            "id": "LER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/LER/100/53032.json", 
+                "id": "53032"
+            }, 
+            {
+                "content": "AA", 
+                "href": "/2017/spring/LER/100/58405.json", 
+                "id": "58405"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/LER/100/53034.json", 
+                "id": "53034"
+            }
+        ]
+    }
+}

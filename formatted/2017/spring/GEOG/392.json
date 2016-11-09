@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for Letter and S/U grading. May be repeated in separate terms up to 6 hours. Prerequisite: Consent of faculty sponsor and Director of Undergraduate Studies; at least two courses taken within Geography & GIS.", 
+    "creditHours": "0 TO 3 hours.", 
+    "description": "Supervised, off-campus experience in a field directly pertaining to Geography and/or GIS. A written report is required at the end of the internship relating work accomplishments to the student's program of study. Approved for Letter and S/U grading. May be repeated in separate terms up to 6 hours. Prerequisite: Consent of faculty sponsor and Director of Undergraduate Studies; at least two courses taken within Geography & GIS.", 
+    "href": "/2017/spring/GEOG/392.json", 
+    "id": "GEOG 392", 
+    "label": "Geography & GIS Internship", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geography", 
+            "href": "/2017/spring/GEOG.json", 
+            "id": "GEOG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "content": "INT", 
+            "href": "/2017/spring/GEOG/392/64794.json", 
+            "id": "64794"
+        }
+    }
+}

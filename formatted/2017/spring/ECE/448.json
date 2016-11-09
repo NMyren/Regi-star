@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as CS 440. See CS 440.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as CS 440. See CS 440.", 
+    "href": "/2017/spring/ECE/448.json", 
+    "id": "ECE 448", 
+    "label": "Artificial Intelligence", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "Q3", 
+                "href": "/2017/spring/ECE/448/31425.json", 
+                "id": "31425"
+            }, 
+            {
+                "content": "Q4", 
+                "href": "/2017/spring/ECE/448/31426.json", 
+                "id": "31426"
+            }
+        ]
+    }
+}

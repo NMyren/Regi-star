@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 329, credit or concurrent registration in ECE 342.", 
+    "creditHours": "4 hours.", 
+    "description": "Design of a radio system for transmission of information; modulation, receivers, impedance matching, oscillators, two-port network analysis, receiver and antenna noise, nonlinear effects, mixers, phase-locked loops. 4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 329, credit or concurrent registration in ECE 342.", 
+    "href": "/2017/spring/ECE/453.json", 
+    "id": "ECE 453", 
+    "label": "Wireless Communication Systems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ABA", 
+                "href": "/2017/spring/ECE/453/33916.json", 
+                "id": "33916"
+            }, 
+            {
+                "content": "ABB", 
+                "href": "/2017/spring/ECE/453/33917.json", 
+                "id": "33917"
+            }, 
+            {
+                "content": "ABC", 
+                "href": "/2017/spring/ECE/453/33919.json", 
+                "id": "33919"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ECE/453/33918.json", 
+                "id": "33918"
+            }
+        ]
+    }
+}

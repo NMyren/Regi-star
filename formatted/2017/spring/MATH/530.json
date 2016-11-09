@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: MATH 500 or equivalent.", 
+    "creditHours": "4 hours.", 
+    "description": "Further development of the theory of fields covering topics from valuation theory, ideal theory, units in algebraic number fields, ramification, function fields, and local class field theory. Prerequisite: MATH 500 or equivalent.", 
+    "href": "/2017/spring/MATH/530.json", 
+    "id": "MATH 530", 
+    "label": "Algebraic Number Theory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Undergrad - Urbana-Champaign. Not intended for MS:Economics:Policy Econ -UIUC or MS: Financial Engineering.", 
+    "sections": {
+        "section": {
+            "content": "M1", 
+            "href": "/2017/spring/MATH/530/38155.json", 
+            "id": "38155"
+        }
+    }
+}

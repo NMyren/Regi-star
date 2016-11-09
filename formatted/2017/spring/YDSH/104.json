@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: YDSH 103 or equivalent placement score.", 
+    "creditHours": "4 hours.", 
+    "description": "Continuation of YDSH 103. Prerequisite: YDSH 103 or equivalent placement score.", 
+    "href": "/2017/spring/YDSH/104.json", 
+    "id": "YDSH 104", 
+    "label": "Intermediate Yiddish II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Yiddish", 
+            "href": "/2017/spring/YDSH.json", 
+            "id": "YDSH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/YDSH/104/65778.json", 
+            "id": "65778"
+        }
+    }
+}

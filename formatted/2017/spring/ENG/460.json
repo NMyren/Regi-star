@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as TE 460. 1 undergraduate hour. 1 graduate hour. Credit is not given for both ENG 360 and ENG 460.", 
+    "creditHours": "1 hours.", 
+    "description": "Fundamental concepts of entrepreneurship and commercialization of new technology in new and existing engineering and high-tech businesses. Guest speaker topics vary, but typically include: evaluation of technologies and business ideas in general; commercializing new technologies; financing through private and public sources; legal issues; product development; marketing; international business issues. Same as TE 460. 1 undergraduate hour. 1 graduate hour. Credit is not given for both ENG 360 and ENG 460.", 
+    "href": "/2017/spring/ENG/460.json", 
+    "id": "ENG 460", 
+    "label": "Entrepreneurship for Engineers", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/ENG/460/54060.json", 
+                "id": "54060"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/ENG/460/53946.json", 
+                "id": "53946"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "classScheduleInformation": "This course is for students seeking Master's and Doctoral degrees.", 
+    "courseSectionInformation": "Approved for S/U grading only. Prerequisite: Consent of instructor.", 
+    "creditHours": "0 TO 16 hours.", 
+    "description": "Check with the department to identify which CRN is needed for your advisor and any related registration questions. Approved for S/U grading only. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/ATMS/599.json", 
+    "id": "ATMS 599", 
+    "label": "Thesis Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Atmospheric Sciences", 
+            "href": "/2017/spring/ATMS.json", 
+            "id": "ATMS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ATMS/599/10394.json", 
+            "id": "10394"
+        }
+    }
+}

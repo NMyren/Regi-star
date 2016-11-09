@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: One 200 or 300 level social science course or consent of instructor. Junior standing required.", 
+    "creditHours": "3 hours.", 
+    "description": "Conserving the earth's rich biological heritage while enhancing the well-being of the poor stands as a critical global challenge. This course examines this complex issue using the lens of political science and allied fields. Readings, discussion, and written work will demonstrate how insights and approaches from these areas of scholarship can help understand and address the twin problems of biodiversity loss and human poverty in developing countries. Examples focus on forest and wildlife conservation and management. 3 undergraduate hours. 3 graduate hours. Prerequisite: One 200 or 300 level social science course or consent of instructor. Junior standing required.", 
+    "href": "/2017/spring/NRES/423.json", 
+    "id": "NRES 423", 
+    "label": "Politics of International Conservation and Development", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Natural Resources and Environmental Sciences", 
+            "href": "/2017/spring/NRES.json", 
+            "id": "NRES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/NRES/423/65671.json", 
+            "id": "65671"
+        }
+    }
+}

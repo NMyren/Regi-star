@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: SHS 550.", 
+    "creditHours": "4 hours.", 
+    "description": "Study of the major etiologies underlying hearing impairments encountered in the pediatric population, program models for infants and young children at risk for hearing impairment, behavioral and physiologic issues in assessment and evaluation of residual hearing, and selection of hearing aids and other sensory prosthetic devices. Prerequisite: SHS 550.", 
+    "href": "/2017/spring/SHS/552.json", 
+    "id": "SHS 552", 
+    "label": "Diag Hear Impair Infants Child", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SHS/552/37424.json", 
+            "id": "37424"
+        }
+    }
+}

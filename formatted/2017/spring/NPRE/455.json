@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: NPRE 247.", 
+    "creditHours": "4 hours.", 
+    "description": "Neutron migration, neutron slowing down and thermalization; neutron continuity equation, multigroup diffusion theory, homogeneous and heterogeneous medium, thermal and fast assemblies; numerical methods for multigroup diffusion equations; reactor dynamics perturbation theory; reactivity coefficients; introductory transport theory. 4 undergraduate hours. 4 graduate hours. Prerequisite: NPRE 247.", 
+    "href": "/2017/spring/NPRE/455.json", 
+    "id": "NPRE 455", 
+    "label": "Neutron Diffusion & Transport", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Nuclear, Plasma, and Radiological Engineering", 
+            "href": "/2017/spring/NPRE.json", 
+            "id": "NPRE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "N", 
+            "href": "/2017/spring/NPRE/455/34761.json", 
+            "id": "34761"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 12 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Intensive study of selected problems in European art. May be repeated to a maximum of 12 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/ARTH/540.json", 
+    "id": "ARTH 540", 
+    "label": "Seminar in Art 1750 to 1900", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--History", 
+            "href": "/2017/spring/ARTH.json", 
+            "id": "ARTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ARTH/540/30649.json", 
+            "id": "30649"
+        }
+    }
+}

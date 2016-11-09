@@ -1,0 +1,150 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "119 Gregory Hall, 810 South Wright, Urbana", 
+    "collegeCode": "KT", 
+    "collegeDepartmentDescription": "Head of Department: Nancy Benson\nDepartment Office, 119 Gregory Hall, 810 South Wright, Urbana, 333-0709\nwww.media.illinois.edu/journalism/", 
+    "contactName": "Nancy Benson", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/JOUR/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Introduction to Journalism", 
+                "href": "/2017/spring/JOUR/200.json", 
+                "id": "200"
+            }, 
+            {
+                "content": "History of American Journalism", 
+                "href": "/2017/spring/JOUR/205.json", 
+                "id": "205"
+            }, 
+            {
+                "content": "Newsgathering Across Platforms", 
+                "href": "/2017/spring/JOUR/210.json", 
+                "id": "210"
+            }, 
+            {
+                "content": "Multimedia Reporting", 
+                "href": "/2017/spring/JOUR/215.json", 
+                "id": "215"
+            }, 
+            {
+                "content": "Media Law", 
+                "href": "/2017/spring/JOUR/311.json", 
+                "id": "311"
+            }, 
+            {
+                "content": "Adv Public Affairs Reporting", 
+                "href": "/2017/spring/JOUR/315.json", 
+                "id": "315"
+            }, 
+            {
+                "content": "News Editing", 
+                "href": "/2017/spring/JOUR/320.json", 
+                "id": "320"
+            }, 
+            {
+                "content": "Audio Journalism", 
+                "href": "/2017/spring/JOUR/335.json", 
+                "id": "335"
+            }, 
+            {
+                "content": "Video Reporting & Storytelling", 
+                "href": "/2017/spring/JOUR/340.json", 
+                "id": "340"
+            }, 
+            {
+                "content": "Readings in Sports Journalism", 
+                "href": "/2017/spring/JOUR/361.json", 
+                "id": "361"
+            }, 
+            {
+                "content": "Multimedia Editing and Design", 
+                "href": "/2017/spring/JOUR/425.json", 
+                "id": "425"
+            }, 
+            {
+                "content": "Video Storytelling 2-Producing", 
+                "href": "/2017/spring/JOUR/445.json", 
+                "id": "445"
+            }, 
+            {
+                "content": "Crisis Communications", 
+                "href": "/2017/spring/JOUR/453.json", 
+                "id": "453"
+            }, 
+            {
+                "content": "Propaganda & the News Media", 
+                "href": "/2017/spring/JOUR/454.json", 
+                "id": "454"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/JOUR/460.json", 
+                "id": "460"
+            }, 
+            {
+                "content": "Science Journalism", 
+                "href": "/2017/spring/JOUR/471.json", 
+                "id": "471"
+            }, 
+            {
+                "content": "Advanced Reporting Topics", 
+                "href": "/2017/spring/JOUR/480.json", 
+                "id": "480"
+            }, 
+            {
+                "content": "Immersion Journalism", 
+                "href": "/2017/spring/JOUR/482.json", 
+                "id": "482"
+            }, 
+            {
+                "content": "Investigative Journalism", 
+                "href": "/2017/spring/JOUR/483.json", 
+                "id": "483"
+            }, 
+            {
+                "content": "Internship Seminar", 
+                "href": "/2017/spring/JOUR/495.json", 
+                "id": "495"
+            }, 
+            {
+                "content": "Current Issues in Journalism", 
+                "href": "/2017/spring/JOUR/500.json", 
+                "id": "500"
+            }, 
+            {
+                "content": "Master's Project", 
+                "href": "/2017/spring/JOUR/515.json", 
+                "id": "515"
+            }, 
+            {
+                "content": "Advanced Topics in Journalism", 
+                "href": "/2017/spring/JOUR/590.json", 
+                "id": "590"
+            }
+        ]
+    }, 
+    "departmentCode": "1642", 
+    "id": "JOUR", 
+    "label": "Journalism", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-0709", 
+    "unitName": "Journalism", 
+    "webSiteURL": "www.media.illinois.edu/journalism/"
+}

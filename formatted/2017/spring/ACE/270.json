@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Sophomore standing or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the study of the consumer in the American economy; sources of consumer information and consumer protection; and examination of current consumer issues within an economic framework. Prerequisite: Sophomore standing or consent of instructor.", 
+    "href": "/2017/spring/ACE/270.json", 
+    "id": "ACE 270", 
+    "label": "Consumer Economics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural and Consumer Economics", 
+            "href": "/2017/spring/ACE.json", 
+            "id": "ACE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "E", 
+            "href": "/2017/spring/ACE/270/30581.json", 
+            "id": "30581"
+        }
+    }
+}

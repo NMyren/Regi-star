@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated in separate terms. Prerequisite: Must be a student in the LER program.", 
+    "creditHours": "0 hours.", 
+    "description": "Full or part-time practice of human resources or employment relations in an off-campus government, corporate or not-for-profit environment. Approved for S/U grading only. May be repeated in separate terms. Prerequisite: Must be a student in the LER program.", 
+    "href": "/2017/spring/LER/580.json", 
+    "id": "LER 580", 
+    "label": "Internship", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Labor and Employment Relations", 
+            "href": "/2017/spring/LER.json", 
+            "id": "LER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/LER/580/58055.json", 
+            "id": "58055"
+        }
+    }
+}

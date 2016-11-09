@@ -1,0 +1,62 @@
+{
+    "courseSectionInformation": "Credit is not given for both ANTH 271 and ANTH 270. Prerequisite: Completion of campus Composition I general education requirement.", 
+    "creditHours": "3 hours.", 
+    "description": "Course is identical to ANTH 270 except for the additional writing component. Credit is not given for both ANTH 271 and ANTH 270. Prerequisite: Completion of campus Composition I general education requirement.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/ANTH/271.json", 
+    "id": "ANTH 271", 
+    "label": "Language in Culture-ACP", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Anthropology", 
+            "href": "/2017/spring/ANTH.json", 
+            "id": "ANTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/ANTH/271/30083.json", 
+                "id": "30083"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/ANTH/271/30084.json", 
+                "id": "30084"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/ANTH/271/62775.json", 
+                "id": "62775"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ANTH/271/30085.json", 
+                "id": "30085"
+            }
+        ]
+    }
+}

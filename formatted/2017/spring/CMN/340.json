@@ -1,0 +1,49 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Explores the role of visual images in U.S. culture, paying special attention to the ways that images function persuasively as political communication. Provides tools for analyzing historical and contemporary images and artifacts, such as photographs, prints, paintings, advertisements, and memorials. Emphasis on how visual images are used for remembering and memorializing; confronting and resisting; consuming and commodifying; governing and authorizing; and visualizing and informing.", 
+    "href": "/2017/spring/CMN/340.json", 
+    "id": "CMN 340", 
+    "label": "Visual Politics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Speech Communication or Communication major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "1", 
+                "href": "/2017/spring/CMN/340/52899.json", 
+                "id": "52899"
+            }, 
+            {
+                "content": "2", 
+                "href": "/2017/spring/CMN/340/60186.json", 
+                "id": "60186"
+            }, 
+            {
+                "content": "3", 
+                "href": "/2017/spring/CMN/340/60187.json", 
+                "id": "60187"
+            }, 
+            {
+                "content": "4", 
+                "href": "/2017/spring/CMN/340/60188.json", 
+                "id": "60188"
+            }
+        ]
+    }
+}

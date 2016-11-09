@@ -1,0 +1,61 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Geospatial technologies such as global positioning systems (GPS) and geographic information systems (GIS) are becoming increasingly important tools in research and policy arenas and in everyday life. This course will provide an introduction to these emerging technologies and to the principles of mapping science that underpin them. At the same time, the course will explore how these innovative technologies are changing the spaces and places around us, including how we interact with the environment and each other. Lab exercises provide hands-on experience in collecting and mapping geospatial information, interpreting digital imagery and the Earth's environments, and critically thinking about the social implications of the digital Earth.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/GEOG/105.json", 
+    "id": "GEOG 105", 
+    "label": "The Digital Earth", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geography", 
+            "href": "/2017/spring/GEOG.json", 
+            "id": "GEOG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/GEOG/105/56633.json", 
+                "id": "56633"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/GEOG/105/56634.json", 
+                "id": "56634"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/GEOG/105/58744.json", 
+                "id": "58744"
+            }, 
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/GEOG/105/53451.json", 
+                "id": "53451"
+            }
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "courseSectionInformation": "Prerequisite: ACCY 202 or equivalent and concurrent enrollment in ACCY 302 by students majoring in accountancy (recommended for non-accountancy majors); or consent of department.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to measurement and reporting of organizational performance for strategic and operational purposes with a focus on a variety of financial and non-financial performance measures suitable for both internal and external decision-making. Projects, together with a series of practical workshops, facilitate self-discovery of knowledge and development of a variety of professional skills and attitudes. Prerequisite: ACCY 202 or equivalent and concurrent enrollment in ACCY 302 by students majoring in accountancy (recommended for non-accountancy majors); or consent of department.", 
+    "href": "/2017/spring/ACCY/301.json", 
+    "id": "ACCY 301", 
+    "label": "Atg Measurement & Disclosure", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Accountancy", 
+            "href": "/2017/spring/ACCY.json", 
+            "id": "ACCY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Accountancy or Finance major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/ACCY/301/30192.json", 
+                "id": "30192"
+            }, 
+            {
+                "content": "AE2", 
+                "href": "/2017/spring/ACCY/301/30195.json", 
+                "id": "30195"
+            }, 
+            {
+                "content": "AE3", 
+                "href": "/2017/spring/ACCY/301/30197.json", 
+                "id": "30197"
+            }, 
+            {
+                "content": "AE4", 
+                "href": "/2017/spring/ACCY/301/30200.json", 
+                "id": "30200"
+            }, 
+            {
+                "content": "AE5", 
+                "href": "/2017/spring/ACCY/301/30201.json", 
+                "id": "30201"
+            }, 
+            {
+                "content": "AE6", 
+                "href": "/2017/spring/ACCY/301/30203.json", 
+                "id": "30203"
+            }
+        ]
+    }
+}

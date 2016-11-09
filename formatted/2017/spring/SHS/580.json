@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional credit. Prerequisite: Graduate standing in the Department of Speech and Hearing Science.", 
+    "creditHours": "4 hours.", 
+    "description": "Focuses on current cochlear implant technologies, principles of evidence-based practice of cochlear implant assessment and intervention by audiologists and speech-language pathologists, and empirical outcomes for children and adults. 4 graduate hours. No professional credit. Prerequisite: Graduate standing in the Department of Speech and Hearing Science.", 
+    "href": "/2017/spring/SHS/580.json", 
+    "id": "SHS 580", 
+    "label": "Cochlear Implants", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SHS/580/51011.json", 
+            "id": "51011"
+        }
+    }
+}

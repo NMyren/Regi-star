@@ -1,0 +1,47 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. PSYC 398 and PSYC 499 are approved for General Education credit only as a sequence. All courses must be completed to receive Advanced Composition credit. Prerequisite: PSYC 498.", 
+    "creditHours": "3 hours.", 
+    "description": "The completion of writing of an undergraduate honors thesis, under supervision of a faculty member, on a problem of appropriate scope and character. Students also create posters describing their work for presentation at the Psychology Honors Poster Fair and the Campus Undergraduate Research Symposium. 3 undergraduate hours. No graduate credit. PSYC 398 and PSYC 499 are approved for General Education credit only as a sequence. All courses must be completed to receive Advanced Composition credit. Prerequisite: PSYC 498.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/PSYC/499.json", 
+    "id": "PSYC 499", 
+    "label": "Senior Honors Seminar II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sectionDeptRestriction": "Restricted to students in the Psychology department.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PSYC/499/63199.json", 
+            "id": "63199"
+        }
+    }
+}

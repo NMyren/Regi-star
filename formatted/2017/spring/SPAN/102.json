@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Credit is not given for both SPAN 102 and SPAN 122. Prerequisite: SPAN 101 or equivalent.", 
+    "creditHours": "4 hours.", 
+    "description": "Continuation of SPAN 101. Students continue developing basic listening, speaking, reading and writing skills in Spanish to an intermediate low level, based on the ACTFL proficiency and provides introduction to the various cultures of the Spanish-speaking world and Hispanics in the United States. Credit is not given for both SPAN 102 and SPAN 122. Prerequisite: SPAN 101 or equivalent.", 
+    "href": "/2017/spring/SPAN/102.json", 
+    "id": "SPAN 102", 
+    "label": "Elementary Spanish II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/SPAN/102/65386.json", 
+            "id": "65386"
+        }
+    }
+}

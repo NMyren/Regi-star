@@ -1,0 +1,38 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the study of science fiction, the genre that has both contributed to scientific knowledge and attempted to make sense of the changes that have taken place in the world since the Enlightenment, the onset of industrialization, and the acceleration of technology. Texts are taken from a variety of literary and pop culture sources: pulps and magazines, novels and films, comics and TV shows.", 
+    "href": "/2017/spring/ENGL/120.json", 
+    "id": "ENGL 120", 
+    "label": "Science Fiction", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "C", 
+                "href": "/2017/spring/ENGL/120/31939.json", 
+                "id": "31939"
+            }, 
+            {
+                "content": "M", 
+                "href": "/2017/spring/ENGL/120/65181.json", 
+                "id": "65181"
+            }
+        ]
+    }
+}

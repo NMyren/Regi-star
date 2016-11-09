@@ -1,0 +1,79 @@
+{
+    "courseSectionInformation": "Credit is not given for both HIST 143 and HIST 142. Prerequisite: Completion of campus Composition I General Education requirement.", 
+    "creditHours": "4 hours.", 
+    "description": "Course is identical to HIST 142 except for the additional writing component. Credit is not given for both HIST 143 and HIST 142. Prerequisite: Completion of campus Composition I General Education requirement.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }, 
+            {
+                "description": "Advanced Composition", 
+                "id": "ACP", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1CLL", 
+                        "content": "UIUC: Advanced Composition"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/HIST/143.json", 
+    "id": "HIST 143", 
+    "label": "Western Civ Since 1660-ACP", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition, Hist&Philosoph Perspect, and Western Compartv Cult course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/HIST/143/34043.json", 
+                "id": "34043"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/HIST/143/39921.json", 
+                "id": "39921"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/HIST/143/34044.json", 
+                "id": "34044"
+            }
+        ]
+    }
+}

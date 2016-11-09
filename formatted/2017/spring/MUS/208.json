@@ -1,0 +1,65 @@
+{
+    "courseSectionInformation": "Prerequisite: MUS 201 and MUS 207, or placement by examination.", 
+    "creditHours": "1 hours.", 
+    "description": "Continuation of MUS 207. Emphasis on atonal pitch structures and complex rhythmic organization. Prerequisite: MUS 201 and MUS 207, or placement by examination.", 
+    "href": "/2017/spring/MUS/208.json", 
+    "id": "MUS 208", 
+    "label": "Aural Skills IV", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Music department.", 
+    "sections": {
+        "section": [
+            {
+                "content": "ADA", 
+                "href": "/2017/spring/MUS/208/35488.json", 
+                "id": "35488"
+            }, 
+            {
+                "content": "ADB", 
+                "href": "/2017/spring/MUS/208/35489.json", 
+                "id": "35489"
+            }, 
+            {
+                "content": "ADC", 
+                "href": "/2017/spring/MUS/208/35492.json", 
+                "id": "35492"
+            }, 
+            {
+                "content": "ADD", 
+                "href": "/2017/spring/MUS/208/35490.json", 
+                "id": "35490"
+            }, 
+            {
+                "content": "ADE", 
+                "href": "/2017/spring/MUS/208/52954.json", 
+                "id": "52954"
+            }, 
+            {
+                "content": "ADH", 
+                "href": "/2017/spring/MUS/208/48896.json", 
+                "id": "48896"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/MUS/208/57351.json", 
+                "id": "57351"
+            }
+        ]
+    }
+}

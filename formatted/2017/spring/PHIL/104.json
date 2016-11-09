@@ -1,0 +1,79 @@
+{
+    "courseSectionInformation": "Credit is not given for both PHIL 104 and either PHIL 105 or PHIL 106. Prerequisite: Completion of campus Composition I general education requirement.", 
+    "creditHours": "3 hours.", 
+    "description": "Some basic questions of ethics, discussed in the light of influential ethical theories and with reference to specific moral problems, such as: What makes an action morally right? Are moral standards absolute or relative? What is relation between personal morality and social morality, and between social morality and law? Course is identical to PHIL 105 except for the additional writing component. Credit is not given for both PHIL 104 and either PHIL 105 or PHIL 106. Prerequisite: Completion of campus Composition I general education requirement.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Advanced Composition", 
+                "id": "ACP", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1CLL", 
+                        "content": "UIUC: Advanced Composition"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/PHIL/104.json", 
+    "id": "PHIL 104", 
+    "label": "Intro to Ethics-ACP", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Philosophy", 
+            "href": "/2017/spring/PHIL.json", 
+            "id": "PHIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition, and Hist&Philosoph Perspect course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/PHIL/104/43084.json", 
+                "id": "43084"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/PHIL/104/43088.json", 
+                "id": "43088"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/PHIL/104/43090.json", 
+                "id": "43090"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/PHIL/104/43092.json", 
+                "id": "43092"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/PHIL/104/41132.json", 
+                "id": "41132"
+            }
+        ]
+    }
+}

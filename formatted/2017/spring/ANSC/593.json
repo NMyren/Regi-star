@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 4 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Directed and supervised study of selected research topics in Animal Sciences. May be repeated to a maximum of 4 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/ANSC/593.json", 
+    "id": "ANSC 593", 
+    "label": "Res Studies in Animal Sciences", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ANSC/593/10258.json", 
+            "id": "10258"
+        }
+    }
+}

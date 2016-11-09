@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Credit is not given for ADV 281 if credit for ADV 481 has been earned. Prerequisite: ADV 150, STAT 100 or equivalent.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduces students to the wide spectrum of qualitative and quantitative research techniques that are commonly used in the advertising industry. In addition to examining the principles, methods and techniques of advertising research, the course will address issues such as when research should and should not be conducted, analyzing data sets, forming meaningful research questions, figuring out how to answer the questions, and presenting the answers to these questions in a clear and compelling manner. Credit is not given for ADV 281 if credit for ADV 481 has been earned. Prerequisite: ADV 150, STAT 100 or equivalent.", 
+    "href": "/2017/spring/ADV/281.json", 
+    "id": "ADV 281", 
+    "label": "Advertising Research Methods", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Advertising", 
+            "href": "/2017/spring/ADV.json", 
+            "id": "ADV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Advertising or Agricultural Communications major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/ADV/281/60079.json", 
+                "id": "60079"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/ADV/281/60083.json", 
+                "id": "60083"
+            }
+        ]
+    }
+}

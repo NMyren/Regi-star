@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: UP 211, senior or graduate standing, or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "What is rural and why does it matter? This workshop focuses on small towns and rural communities using Central Illinois communities in local case studies. Students will apply concepts and skills from prior courses and work extensively in teams to compile, synthesize, and communicate information that furthers planning and placemaking efforts. Archival research techniques; analysis of demographic, social, and economic trends; qualitative interviewing; and documentary film production are examples of the kinds of skills students will develop and refine. 4 undergraduate hours. 4 graduate hours. Prerequisite: UP 211, senior or graduate standing, or consent of instructor.", 
+    "href": "/2017/spring/UP/457.json", 
+    "id": "UP 457", 
+    "label": "Small Town/Rural Planning Workshop", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Urban and Regional Planning", 
+            "href": "/2017/spring/UP.json", 
+            "id": "UP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "BW", 
+            "href": "/2017/spring/UP/457/61779.json", 
+            "id": "61779"
+        }
+    }
+}

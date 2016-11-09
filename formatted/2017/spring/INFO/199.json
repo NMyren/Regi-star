@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated in separate terms to a maximum of 6 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 3 hours.", 
+    "description": "May be repeated in separate terms to a maximum of 6 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/INFO/199.json", 
+    "id": "INFO 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Informatics", 
+            "href": "/2017/spring/INFO.json", 
+            "id": "INFO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/INFO/199/53622.json", 
+            "id": "53622"
+        }
+    }
+}

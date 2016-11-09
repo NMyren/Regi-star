@@ -1,0 +1,55 @@
+{
+    "addressLine1": "Office", 
+    "addressLine2": "1204 West Nevada, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Interim Director: Adrian Burgos\nOffice, 1204 West Nevada, Urbana, 217-265-9870\nwww.ais.illinois.edu", 
+    "contactName": "Adrian Burgos", 
+    "contactTitle": "Interim Director", 
+    "courses": {
+        "course": [
+            {
+                "content": "Intro to Amer Indian Studies", 
+                "href": "/2017/spring/AIS/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/AIS/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Intro to American Indian Lit", 
+                "href": "/2017/spring/AIS/265.json", 
+                "id": "265"
+            }, 
+            {
+                "content": "Encounters in Native America", 
+                "href": "/2017/spring/AIS/277.json", 
+                "id": "277"
+            }, 
+            {
+                "content": "US Citizenship Comparatively", 
+                "href": "/2017/spring/AIS/295.json", 
+                "id": "295"
+            }
+        ]
+    }, 
+    "departmentCode": "1577", 
+    "id": "AIS", 
+    "label": "American Indian Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-265-9870", 
+    "unitName": "American Indian Studies", 
+    "webSiteURL": "www.ais.illinois.edu"
+}

@@ -1,0 +1,211 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "2090 Foreign Languages Building, 707 South Mathews Avenue, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Head of Department: Marcus Keller\nDepartment Office, 2090 Foreign Languages Building, 707 South Mathews Avenue, Urbana, 217-333-2020\nNote: Students in elementary and intermediate language courses may not ordinarily register for credit in more than one course at the same semester level (e.g., 104 or 134). Approval to do so must be obtained from the department.\n//www.frit.illinois.edu/", 
+    "contactName": "Marcus Keller", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Elementary French I", 
+                "href": "/2017/spring/FR/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "Elementary French II", 
+                "href": "/2017/spring/FR/102.json", 
+                "id": "102"
+            }, 
+            {
+                "content": "Intermediate French I", 
+                "href": "/2017/spring/FR/103.json", 
+                "id": "103"
+            }, 
+            {
+                "content": "Intermediate French II", 
+                "href": "/2017/spring/FR/104.json", 
+                "id": "104"
+            }, 
+            {
+                "content": "Accel Intermediate French I", 
+                "href": "/2017/spring/FR/133.json", 
+                "id": "133"
+            }, 
+            {
+                "content": "Accel Intermed French II", 
+                "href": "/2017/spring/FR/134.json", 
+                "id": "134"
+            }, 
+            {
+                "content": "Freshman Honors Tutorial", 
+                "href": "/2017/spring/FR/191.json", 
+                "id": "191"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/FR/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Oral French", 
+                "href": "/2017/spring/FR/205.json", 
+                "id": "205"
+            }, 
+            {
+                "content": "Writing and Grammar Workshop", 
+                "href": "/2017/spring/FR/207.json", 
+                "id": "207"
+            }, 
+            {
+                "content": "Critical Writing and Reading", 
+                "href": "/2017/spring/FR/208.json", 
+                "id": "208"
+            }, 
+            {
+                "content": "Intro to French Lit I", 
+                "href": "/2017/spring/FR/209.json", 
+                "id": "209"
+            }, 
+            {
+                "content": "Intro to French Lit II", 
+                "href": "/2017/spring/FR/210.json", 
+                "id": "210"
+            }, 
+            {
+                "content": "Introduction to Literary Studies", 
+                "href": "/2017/spring/FR/211.json", 
+                "id": "211"
+            }, 
+            {
+                "content": "Introduction to Cultural Analysis: French Identities", 
+                "href": "/2017/spring/FR/212.json", 
+                "id": "212"
+            }, 
+            {
+                "content": "French Phonetics", 
+                "href": "/2017/spring/FR/213.json", 
+                "id": "213"
+            }, 
+            {
+                "content": "Study Abroad", 
+                "href": "/2017/spring/FR/299.json", 
+                "id": "299"
+            }, 
+            {
+                "content": "Advanced Grammar in Context", 
+                "href": "/2017/spring/FR/314.json", 
+                "id": "314"
+            }, 
+            {
+                "content": "Movements and Perspectives", 
+                "href": "/2017/spring/FR/322.json", 
+                "id": "322"
+            }, 
+            {
+                "content": "Literature and the Other Arts", 
+                "href": "/2017/spring/FR/324.json", 
+                "id": "324"
+            }, 
+            {
+                "content": "French Cultural History 1789-1968", 
+                "href": "/2017/spring/FR/336.json", 
+                "id": "336"
+            }, 
+            {
+                "content": "Indiv Study Major Tutorial", 
+                "href": "/2017/spring/FR/390.json", 
+                "id": "390"
+            }, 
+            {
+                "content": "Modern African Fiction", 
+                "href": "/2017/spring/FR/410.json", 
+                "id": "410"
+            }, 
+            {
+                "content": "Language&Minorities in Europe", 
+                "href": "/2017/spring/FR/418.json", 
+                "id": "418"
+            }, 
+            {
+                "content": "Techniques in Translation II", 
+                "href": "/2017/spring/FR/421.json", 
+                "id": "421"
+            }, 
+            {
+                "content": "Principles of Language Testing", 
+                "href": "/2017/spring/FR/460.json", 
+                "id": "460"
+            }, 
+            {
+                "content": "Introduction to Romance Linguistics", 
+                "href": "/2017/spring/FR/462.json", 
+                "id": "462"
+            }, 
+            {
+                "content": "Theoretical Foundations of SLA", 
+                "href": "/2017/spring/FR/481.json", 
+                "id": "481"
+            }, 
+            {
+                "content": "Senior Thesis", 
+                "href": "/2017/spring/FR/492.json", 
+                "id": "492"
+            }, 
+            {
+                "content": "Reading French Grads", 
+                "href": "/2017/spring/FR/501.json", 
+                "id": "501"
+            }, 
+            {
+                "content": "Studies French & Comp Cinema", 
+                "href": "/2017/spring/FR/552.json", 
+                "id": "552"
+            }, 
+            {
+                "content": "Sem Romance Ling", 
+                "href": "/2017/spring/FR/559.json", 
+                "id": "559"
+            }, 
+            {
+                "content": "Seminar 18thC French Lit", 
+                "href": "/2017/spring/FR/573.json", 
+                "id": "573"
+            }, 
+            {
+                "content": "Sem Second Lang Learn", 
+                "href": "/2017/spring/FR/588.json", 
+                "id": "588"
+            }, 
+            {
+                "content": "Individual Topics", 
+                "href": "/2017/spring/FR/591.json", 
+                "id": "591"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/FR/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1985", 
+    "id": "FR", 
+    "label": "French", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-2020", 
+    "subjectComment": "Note: Students in elementary and intermediate language courses may not ordinarily register for credit in more than one course at the same semester level (e.g., 104 or 134). Approval to do so must be obtained from the department.", 
+    "unitName": "French and Italian", 
+    "webSiteURL": "//www.frit.illinois.edu/"
+}

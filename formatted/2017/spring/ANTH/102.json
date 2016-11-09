@@ -1,0 +1,56 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "Introduction to and survey of human origins and evolution, physical anthropology, race and racism, archaeology, and the beginning of human civilization. Recommended, though not required, to be taken with ANTH 103 as a survey of the field of anthropology.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/ANTH/102.json", 
+    "id": "ANTH 102", 
+    "label": "Human Origins and Culture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Anthropology", 
+            "href": "/2017/spring/ANTH.json", 
+            "id": "ANTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "ADA", 
+                "href": "/2017/spring/ANTH/102/30016.json", 
+                "id": "30016"
+            }, 
+            {
+                "content": "ADB", 
+                "href": "/2017/spring/ANTH/102/30017.json", 
+                "id": "30017"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ANTH/102/30026.json", 
+                "id": "30026"
+            }
+        ]
+    }
+}

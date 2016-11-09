@@ -1,0 +1,35 @@
+{
+    "courseSectionInformation": "Prerequisite: RST 410 or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Examines theoretical and technical principles of personnel managers in leisure service agencies; recruitment, training, selection, and evaluation of personnel with special emphasis on applied measurement concepts and legislation related to personnel administration in leisure services. Prerequisite: RST 410 or consent of instructor.", 
+    "href": "/2017/spring/RST/512.json", 
+    "id": "RST 512", 
+    "label": "Managing Recreation, Sport & Tourism Organizations", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 28-Dec-16 - 21-Feb-17.", 
+    "sectionDescription": "Online", 
+    "sectionRegistrationNotes": "Restricted to MS : Rec, Sport, Tourism -UIUC or MS: Rec,Sport,Tourism -UCGC.", 
+    "sections": {
+        "section": {
+            "content": "XM", 
+            "href": "/2017/spring/RST/512/55952.json", 
+            "id": "55952"
+        }
+    }
+}

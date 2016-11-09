@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisites: TRST 407, 410, and 500. Students must be in the final stages of their graduate work in translation studies.", 
+    "creditHours": "4 hours.", 
+    "description": "Graduate level capstone project in translation done under the supervision of a mentor or instructor in a specialized area of translation according to the student's area of interest and language pair. The possible specializations include literary, technical, commercial, legal, medical, or translation for film and new media. The student may combine the project with an internship or apprenticeship in an appropriate organization, such as a health center, courthouse, international corporation, governmental or non-governmental organization, or a publishing house. Students must complete a contract with the instructor or mentor prior to initiating the project and must meet weekly with the advisor. Prerequisites: TRST 407, 410, and 500. Students must be in the final stages of their graduate work in translation studies.", 
+    "href": "/2017/spring/TRST/540.json", 
+    "id": "TRST 540", 
+    "label": "Translation Capstone", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Translation Studies", 
+            "href": "/2017/spring/TRST.json", 
+            "id": "TRST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/TRST/540/62062.json", 
+            "id": "62062"
+        }
+    }
+}

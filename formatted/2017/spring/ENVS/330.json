@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as AGCM 330 and NRES 330. See AGCM 330.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as AGCM 330 and NRES 330. See AGCM 330.", 
+    "href": "/2017/spring/ENVS/330.json", 
+    "id": "ENVS 330", 
+    "label": "Environmental Communications", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Environmental Studies", 
+            "href": "/2017/spring/ENVS.json", 
+            "id": "ENVS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for students with Freshman class standing.", 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/ENVS/330/59463.json", 
+            "id": "59463"
+        }
+    }
+}

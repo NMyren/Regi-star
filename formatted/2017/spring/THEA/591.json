@@ -1,0 +1,148 @@
+{
+    "courseSectionInformation": "0 to 8 graduate hours. No professional credit. Approved for Letter and S/U grading. May be repeated up to 72 hours if topics vary. Prerequisite: Consent of instructor.", 
+    "creditHours": "0 TO 8 hours.", 
+    "description": "Individual research in selected topics by arrangement with the instructor. 0 to 8 graduate hours. No professional credit. Approved for Letter and S/U grading. May be repeated up to 72 hours if topics vary. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/THEA/591.json", 
+    "id": "THEA 591", 
+    "label": "Special Problems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/THEA/591/10237.json", 
+                "id": "10237"
+            }, 
+            {
+                "content": "A", 
+                "href": "/2017/spring/THEA/591/56227.json", 
+                "id": "56227"
+            }, 
+            {
+                "content": "ACD", 
+                "href": "/2017/spring/THEA/591/65723.json", 
+                "id": "65723"
+            }, 
+            {
+                "content": "AS", 
+                "href": "/2017/spring/THEA/591/62881.json", 
+                "id": "62881"
+            }, 
+            {
+                "content": "ASD", 
+                "href": "/2017/spring/THEA/591/44179.json", 
+                "id": "44179"
+            }, 
+            {
+                "content": "CGS", 
+                "href": "/2017/spring/THEA/591/37143.json", 
+                "id": "37143"
+            }, 
+            {
+                "content": "CV2", 
+                "href": "/2017/spring/THEA/591/57896.json", 
+                "id": "57896"
+            }, 
+            {
+                "content": "D4", 
+                "href": "/2017/spring/THEA/591/64377.json", 
+                "id": "64377"
+            }, 
+            {
+                "content": "GCS", 
+                "href": "/2017/spring/THEA/591/57685.json", 
+                "id": "57685"
+            }, 
+            {
+                "content": "JB", 
+                "href": "/2017/spring/THEA/591/59473.json", 
+                "id": "59473"
+            }, 
+            {
+                "content": "LB", 
+                "href": "/2017/spring/THEA/591/63094.json", 
+                "id": "63094"
+            }, 
+            {
+                "content": "LDM", 
+                "href": "/2017/spring/THEA/591/65724.json", 
+                "id": "65724"
+            }, 
+            {
+                "content": "MG", 
+                "href": "/2017/spring/THEA/591/63053.json", 
+                "id": "63053"
+            }, 
+            {
+                "content": "MGT", 
+                "href": "/2017/spring/THEA/591/37156.json", 
+                "id": "37156"
+            }, 
+            {
+                "content": "MPD", 
+                "href": "/2017/spring/THEA/591/37153.json", 
+                "id": "37153"
+            }, 
+            {
+                "content": "PC", 
+                "href": "/2017/spring/THEA/591/59661.json", 
+                "id": "59661"
+            }, 
+            {
+                "content": "RES", 
+                "href": "/2017/spring/THEA/591/63058.json", 
+                "id": "63058"
+            }, 
+            {
+                "content": "SCJ", 
+                "href": "/2017/spring/THEA/591/64357.json", 
+                "id": "64357"
+            }, 
+            {
+                "content": "SDS", 
+                "href": "/2017/spring/THEA/591/56243.json", 
+                "id": "56243"
+            }, 
+            {
+                "content": "SND", 
+                "href": "/2017/spring/THEA/591/44177.json", 
+                "id": "44177"
+            }, 
+            {
+                "content": "STL", 
+                "href": "/2017/spring/THEA/591/55435.json", 
+                "id": "55435"
+            }, 
+            {
+                "content": "STS", 
+                "href": "/2017/spring/THEA/591/37146.json", 
+                "id": "37146"
+            }, 
+            {
+                "content": "TAC", 
+                "href": "/2017/spring/THEA/591/51685.json", 
+                "id": "51685"
+            }, 
+            {
+                "content": "X", 
+                "href": "/2017/spring/THEA/591/62969.json", 
+                "id": "62969"
+            }
+        ]
+    }
+}

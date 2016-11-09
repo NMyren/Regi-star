@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "0 to 4 graduate hours. No professional credit. Approved for S/U grading only. May be repeated. Prerequisite: Must be admitted to an educator preparation program.", 
+    "creditHours": "0 TO 4 hours.", 
+    "description": "Early field experiences in teacher education, including observation and laboratory experiences in schools: Designed to provide opportunities for career exploration, professional orientation, the development of insight into the relationships of theory and practice, and the place of the student in the educational process. 0 to 4 graduate hours. No professional credit. Approved for S/U grading only. May be repeated. Prerequisite: Must be admitted to an educator preparation program.", 
+    "href": "/2017/spring/EDPR/550.json", 
+    "id": "EDPR 550", 
+    "label": "School and Community Experience", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Practice", 
+            "href": "/2017/spring/EDPR.json", 
+            "id": "EDPR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Elementary Education major(s).", 
+    "sections": {
+        "section": {
+            "content": "EL", 
+            "href": "/2017/spring/EDPR/550/65893.json", 
+            "id": "65893"
+        }
+    }
+}

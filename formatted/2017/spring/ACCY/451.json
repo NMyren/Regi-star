@@ -1,0 +1,79 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: Senior standing and ACCY 312.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Introduction to the U.S. federal income taxation of corporations, their shareholders and owners, as well as entities receiving flow-through treatment under U.S. federal tax law e.g., Subchapter S corporations, partnerships and limited liability companies). 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: Senior standing and ACCY 312.", 
+    "href": "/2017/spring/ACCY/451.json", 
+    "id": "ACCY 451", 
+    "label": "Advanced Income Tax Problems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Accountancy", 
+            "href": "/2017/spring/ACCY.json", 
+            "id": "ACCY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A3", 
+                "href": "/2017/spring/ACCY/451/61737.json", 
+                "id": "61737"
+            }, 
+            {
+                "content": "A4", 
+                "href": "/2017/spring/ACCY/451/61738.json", 
+                "id": "61738"
+            }, 
+            {
+                "content": "B3", 
+                "href": "/2017/spring/ACCY/451/61739.json", 
+                "id": "61739"
+            }, 
+            {
+                "content": "B4", 
+                "href": "/2017/spring/ACCY/451/61740.json", 
+                "id": "61740"
+            }, 
+            {
+                "content": "C3", 
+                "href": "/2017/spring/ACCY/451/61741.json", 
+                "id": "61741"
+            }, 
+            {
+                "content": "C4", 
+                "href": "/2017/spring/ACCY/451/61742.json", 
+                "id": "61742"
+            }, 
+            {
+                "content": "D3", 
+                "href": "/2017/spring/ACCY/451/61743.json", 
+                "id": "61743"
+            }, 
+            {
+                "content": "D4", 
+                "href": "/2017/spring/ACCY/451/61744.json", 
+                "id": "61744"
+            }, 
+            {
+                "content": "E3", 
+                "href": "/2017/spring/ACCY/451/65160.json", 
+                "id": "65160"
+            }, 
+            {
+                "content": "E4", 
+                "href": "/2017/spring/ACCY/451/65161.json", 
+                "id": "65161"
+            }
+        ]
+    }
+}

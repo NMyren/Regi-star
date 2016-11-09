@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Same as CS 482. 3 undergraduate hours. 4 graduate hours. Prerequisite: CS 101 and IE 310.", 
+    "creditHours": "3 or 4 hours.", 
+    "description": "Use of discrete-event simulation in modeling and analysis of complex systems. Data structures and event-list management; verification and validation of simulation models; input modeling, including selection of probability distributions and random variate generation; statistical analysis of output data. Same as CS 482. 3 undergraduate hours. 4 graduate hours. Prerequisite: CS 101 and IE 310.", 
+    "href": "/2017/spring/IE/413.json", 
+    "id": "IE 413", 
+    "label": "Simulation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Industrial Engineering", 
+            "href": "/2017/spring/IE.json", 
+            "id": "IE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/IE/413/53236.json", 
+                "id": "53236"
+            }, 
+            {
+                "content": "AE3", 
+                "href": "/2017/spring/IE/413/43422.json", 
+                "id": "43422"
+            }, 
+            {
+                "content": "AE4", 
+                "href": "/2017/spring/IE/413/43424.json", 
+                "id": "43424"
+            }
+        ]
+    }
+}

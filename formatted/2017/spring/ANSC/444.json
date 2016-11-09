@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours.", 
+    "creditHours": "3 hours.", 
+    "description": "Principles of heredity and their application to the problems of animal improvement. 3 undergraduate hours. 3 graduate hours.", 
+    "href": "/2017/spring/ANSC/444.json", 
+    "id": "ANSC 444", 
+    "label": "Applied Animal Genetics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "1", 
+            "href": "/2017/spring/ANSC/444/29969.json", 
+            "id": "29969"
+        }
+    }
+}

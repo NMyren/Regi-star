@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Requires concurrent enrollment with AFAS 102. Prerequisite: AFAS 341 or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "\"National Security Affairs/Preparation for Active Duty\" is designed for college seniors and gives them the foundation to understand their role as military officers in American society. It is an overview of the complex social and political issues facing the military profession and requires a measure of sophistication commensurate with the senior college level. Requires concurrent enrollment with AFAS 102. Prerequisite: AFAS 341 or consent of instructor.", 
+    "href": "/2017/spring/AFAS/342.json", 
+    "id": "AFAS 342", 
+    "label": "Nat Sec Afrs/Prep Actv Duty II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Air Force Aerospace Studies", 
+            "href": "/2017/spring/AFAS.json", 
+            "id": "AFAS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "Y", 
+            "href": "/2017/spring/AFAS/342/30795.json", 
+            "id": "30795"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 16 hours. Prerequisite: MM wind band conducting students and/or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Examination of techniques of rehearsal, conducting, and preparation of wind band and chamber wind ensembles for concert performance. Emphasizes discussion, analysis, and preparation of selected scores for private and group lessons; as well as coaching/experience with live ensembles and select performance opportunities. May be repeated to a maximum of 16 hours. Prerequisite: MM wind band conducting students and/or consent of instructor.", 
+    "href": "/2017/spring/MUS/540.json", 
+    "id": "MUS 540", 
+    "label": "Graduate Wind Band Conducting", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Instrumental Conducting (Band) or Instrmntl Conducting Wind Band major(s) or minor(s). Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/540/57259.json", 
+            "id": "57259"
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section.", 
+    "courseSectionInformation": "Credit is not given for both GEOL 100 and GEOL 101, GEOL 103 or GEOL 107.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduces non-science majors to physical aspects (earthquakes, volcanoes, floods, tsunamis, mountains, plate tectonics) and historical aspects (formation of earth and life, dinosaurs, ice age, evolution of climate) in earth science. Presents information on earth resources, natural hazards, and development of natural landscapes. Focuses on humanistic issues; provides context for understanding environmental change. Optional lab demonstrations and field trips with co-registration in GEOL 110. Credit is not given for both GEOL 100 and GEOL 101, GEOL 103 or GEOL 107.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Natural Sciences & Technology", 
+            "id": "NAT", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1PS", 
+                    "content": "UIUC: Physical Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/GEOL/100.json", 
+    "id": "GEOL 100", 
+    "label": "Planet Earth", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Physical Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "ADA", 
+                "href": "/2017/spring/GEOL/100/33391.json", 
+                "id": "33391"
+            }, 
+            {
+                "content": "ADB", 
+                "href": "/2017/spring/GEOL/100/33394.json", 
+                "id": "33394"
+            }, 
+            {
+                "content": "ADD", 
+                "href": "/2017/spring/GEOL/100/33397.json", 
+                "id": "33397"
+            }, 
+            {
+                "content": "ADE", 
+                "href": "/2017/spring/GEOL/100/33399.json", 
+                "id": "33399"
+            }, 
+            {
+                "content": "ADF", 
+                "href": "/2017/spring/GEOL/100/33401.json", 
+                "id": "33401"
+            }, 
+            {
+                "content": "ADG", 
+                "href": "/2017/spring/GEOL/100/33403.json", 
+                "id": "33403"
+            }, 
+            {
+                "content": "AL2", 
+                "href": "/2017/spring/GEOL/100/33389.json", 
+                "id": "33389"
+            }, 
+            {
+                "content": "OO", 
+                "href": "/2017/spring/GEOL/100/57215.json", 
+                "id": "57215"
+            }
+        ]
+    }
+}

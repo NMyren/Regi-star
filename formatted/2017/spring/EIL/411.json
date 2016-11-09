@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Introduction to TESL/TEFL, including the concept of \"communicative competence\" and its components; teaching contexts; current research on teaching second language skills; syllabus, lesson, and materials design; and classroom techniques. 3 undergraduate hours. 4 graduate hours.", 
+    "href": "/2017/spring/EIL/411.json", 
+    "id": "EIL 411", 
+    "label": "Intro to TESL Methodology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English as an International Language", 
+            "href": "/2017/spring/EIL.json", 
+            "id": "EIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G4", 
+                "href": "/2017/spring/EIL/411/43708.json", 
+                "id": "43708"
+            }, 
+            {
+                "content": "U3", 
+                "href": "/2017/spring/EIL/411/43683.json", 
+                "id": "43683"
+            }
+        ]
+    }
+}

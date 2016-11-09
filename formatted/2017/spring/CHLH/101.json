@@ -1,0 +1,97 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the nation's public health system; includes an overview of the basic concepts and core functions of public health practice, the scope of applications, and the variety of service organizations (both public and private) that shape public health.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CHLH/101.json", 
+    "id": "CHLH 101", 
+    "label": "Introduction to Public Health", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/CHLH/101/31077.json", 
+                "id": "31077"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/CHLH/101/31081.json", 
+                "id": "31081"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/CHLH/101/31083.json", 
+                "id": "31083"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/CHLH/101/31085.json", 
+                "id": "31085"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CHLH/101/31079.json", 
+                "id": "31079"
+            }, 
+            {
+                "content": "BD1", 
+                "href": "/2017/spring/CHLH/101/31088.json", 
+                "id": "31088"
+            }, 
+            {
+                "content": "BD2", 
+                "href": "/2017/spring/CHLH/101/31090.json", 
+                "id": "31090"
+            }, 
+            {
+                "content": "BD3", 
+                "href": "/2017/spring/CHLH/101/31091.json", 
+                "id": "31091"
+            }, 
+            {
+                "content": "BD4", 
+                "href": "/2017/spring/CHLH/101/31092.json", 
+                "id": "31092"
+            }, 
+            {
+                "content": "BL1", 
+                "href": "/2017/spring/CHLH/101/31089.json", 
+                "id": "31089"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CHLH/101/63867.json", 
+                "id": "63867"
+            }
+        ]
+    }
+}

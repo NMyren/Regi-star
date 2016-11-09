@@ -1,0 +1,100 @@
+{
+    "courseSectionInformation": "Prerequisite: ECE 120. Restricted to Computer Engineering or Electrical Engineering majors or transfer students with ECE Department consent.", 
+    "creditHours": "4 hours.", 
+    "description": "Advanced use of LC-3 assembly language for I/O and function calling convention. C programming, covering basic programming concepts, functions, arrays, pointers, I/O, recursion, simple data structures, linked lists, dynamic memory management, and basic algorithms. Information hiding and object-oriented design as commonly implemented in modern software and computer systems programming. Prerequisite: ECE 120. Restricted to Computer Engineering or Electrical Engineering majors or transfer students with ECE Department consent.", 
+    "href": "/2017/spring/ECE/220.json", 
+    "id": "ECE 220", 
+    "label": "Computer Systems & Programming", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "BD1", 
+                "href": "/2017/spring/ECE/220/61635.json", 
+                "id": "61635"
+            }, 
+            {
+                "content": "BD2", 
+                "href": "/2017/spring/ECE/220/61636.json", 
+                "id": "61636"
+            }, 
+            {
+                "content": "BD3", 
+                "href": "/2017/spring/ECE/220/61637.json", 
+                "id": "61637"
+            }, 
+            {
+                "content": "BD4", 
+                "href": "/2017/spring/ECE/220/61639.json", 
+                "id": "61639"
+            }, 
+            {
+                "content": "BD5", 
+                "href": "/2017/spring/ECE/220/61638.json", 
+                "id": "61638"
+            }, 
+            {
+                "content": "BD6", 
+                "href": "/2017/spring/ECE/220/61640.json", 
+                "id": "61640"
+            }, 
+            {
+                "content": "BD7", 
+                "href": "/2017/spring/ECE/220/61641.json", 
+                "id": "61641"
+            }, 
+            {
+                "content": "BD8", 
+                "href": "/2017/spring/ECE/220/61642.json", 
+                "id": "61642"
+            }, 
+            {
+                "content": "BD9", 
+                "href": "/2017/spring/ECE/220/61643.json", 
+                "id": "61643"
+            }, 
+            {
+                "content": "BDA", 
+                "href": "/2017/spring/ECE/220/64369.json", 
+                "id": "64369"
+            }, 
+            {
+                "content": "BL", 
+                "href": "/2017/spring/ECE/220/61629.json", 
+                "id": "61629"
+            }, 
+            {
+                "content": "BL2", 
+                "href": "/2017/spring/ECE/220/63649.json", 
+                "id": "63649"
+            }, 
+            {
+                "content": "BL3", 
+                "href": "/2017/spring/ECE/220/63650.json", 
+                "id": "63650"
+            }, 
+            {
+                "content": "BL4", 
+                "href": "/2017/spring/ECE/220/63841.json", 
+                "id": "63841"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: Senior or graduate standing, or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Examines management principles relative to health care institutions emphasizing goal setting, decision making, system analysis, organizational structure, conflict resolution, and leadership theories. 3 undergraduate hours. 3 graduate hours. Prerequisite: Senior or graduate standing, or consent of instructor.", 
+    "href": "/2017/spring/CHLH/458.json", 
+    "id": "CHLH 458", 
+    "label": "Health Administration", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to students with Junior, Senior, or Graduate class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHLH/458/31294.json", 
+            "id": "31294"
+        }
+    }
+}

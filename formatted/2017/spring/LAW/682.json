@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "4 graduate hours. 3 or 4 professional hours.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Law governing the proof of disputed issues of fact; function of the court and jury; competence and examination of witnesses; standards of relevancy; privileged communications; illegal evidence; hearsay rule; best evidence rule; presumptions; and judicial notice. 4 graduate hours. 3 or 4 professional hours.", 
+    "href": "/2017/spring/LAW/682.json", 
+    "id": "LAW 682", 
+    "label": "Evidence", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Law department.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/LAW/682/35968.json", 
+                "id": "35968"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/LAW/682/42019.json", 
+                "id": "42019"
+            }
+        ]
+    }
+}

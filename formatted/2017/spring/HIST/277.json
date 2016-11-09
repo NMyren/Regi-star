@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as AIS 277.", 
+    "creditHours": "3 hours.", 
+    "description": "An examination of pivotal events in the history of Native peoples in North America. Students will explore the complexity of encounters between American Indians and others through a focus on key moments. These will include religious encounters, military confrontations, and legal struggles as well as social and artistic interactions. Same as AIS 277.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1US", 
+                        "content": "UIUC: US Minority Culture(s)"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/HIST/277.json", 
+    "id": "HIST 277", 
+    "label": "Encounters in Native America", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and US Minority Culture(s) course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/HIST/277/52347.json", 
+            "id": "52347"
+        }
+    }
+}

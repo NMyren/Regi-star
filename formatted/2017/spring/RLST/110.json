@@ -1,0 +1,159 @@
+{
+    "courseSectionInformation": "Same as PHIL 110. This course can be used to fulfill either Western or Nonwestern general education categories, but not both.", 
+    "creditHours": "3 hours.", 
+    "description": "Survey of the leading living religions, including Hinduism, Buddhism, Confucianism, Taoism, Judaism, Christianity, and Islam; examination of basic texts and of philosophic theological elaborations of each religion. Same as PHIL 110. This course can be used to fulfill either Western or Nonwestern general education categories, but not both.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/RLST/110.json", 
+    "id": "RLST 110", 
+    "label": "World Religions", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Religious Studies", 
+            "href": "/2017/spring/RLST.json", 
+            "id": "RLST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, Non-Western Cultures, and Western Compartv Cult course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "ADB", 
+                "href": "/2017/spring/RLST/110/37863.json", 
+                "id": "37863"
+            }, 
+            {
+                "content": "ADC", 
+                "href": "/2017/spring/RLST/110/37864.json", 
+                "id": "37864"
+            }, 
+            {
+                "content": "ADD", 
+                "href": "/2017/spring/RLST/110/37865.json", 
+                "id": "37865"
+            }, 
+            {
+                "content": "ADE", 
+                "href": "/2017/spring/RLST/110/37866.json", 
+                "id": "37866"
+            }, 
+            {
+                "content": "ADF", 
+                "href": "/2017/spring/RLST/110/37867.json", 
+                "id": "37867"
+            }, 
+            {
+                "content": "ADG", 
+                "href": "/2017/spring/RLST/110/37868.json", 
+                "id": "37868"
+            }, 
+            {
+                "content": "ADH", 
+                "href": "/2017/spring/RLST/110/37869.json", 
+                "id": "37869"
+            }, 
+            {
+                "content": "ADI", 
+                "href": "/2017/spring/RLST/110/37870.json", 
+                "id": "37870"
+            }, 
+            {
+                "content": "ADJ", 
+                "href": "/2017/spring/RLST/110/37871.json", 
+                "id": "37871"
+            }, 
+            {
+                "content": "ADL", 
+                "href": "/2017/spring/RLST/110/37933.json", 
+                "id": "37933"
+            }, 
+            {
+                "content": "ADM", 
+                "href": "/2017/spring/RLST/110/39143.json", 
+                "id": "39143"
+            }, 
+            {
+                "content": "ADN", 
+                "href": "/2017/spring/RLST/110/39146.json", 
+                "id": "39146"
+            }, 
+            {
+                "content": "ADO", 
+                "href": "/2017/spring/RLST/110/39148.json", 
+                "id": "39148"
+            }, 
+            {
+                "content": "ADQ", 
+                "href": "/2017/spring/RLST/110/51721.json", 
+                "id": "51721"
+            }, 
+            {
+                "content": "ADR", 
+                "href": "/2017/spring/RLST/110/51723.json", 
+                "id": "51723"
+            }, 
+            {
+                "content": "ADS", 
+                "href": "/2017/spring/RLST/110/53442.json", 
+                "id": "53442"
+            }, 
+            {
+                "content": "ADT", 
+                "href": "/2017/spring/RLST/110/53444.json", 
+                "id": "53444"
+            }, 
+            {
+                "content": "ADU", 
+                "href": "/2017/spring/RLST/110/53446.json", 
+                "id": "53446"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/RLST/110/37938.json", 
+                "id": "37938"
+            }
+        ]
+    }
+}

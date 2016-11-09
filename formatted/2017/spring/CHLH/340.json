@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as SOCW 350. Approved for both letter and S/U grading. May be repeated to a maximum of 6 hours. Prerequisite: Junior standing or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Preparation and presentation of lifestyle workshops to campus community groups. Practica selected from one or more of the following topics: chemical education, sexuality, stress management or campus acquaintance rape education (CARE). Same as SOCW 350. Approved for both letter and S/U grading. May be repeated to a maximum of 6 hours. Prerequisite: Junior standing or consent of instructor.", 
+    "href": "/2017/spring/CHLH/340.json", 
+    "id": "CHLH 340", 
+    "label": "Health Promotion Practicum", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "B2", 
+            "href": "/2017/spring/CHLH/340/31232.json", 
+            "id": "31232"
+        }
+    }
+}

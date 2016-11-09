@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "1 to 4 undergraduate hours. No graduate credit. May be repeated to a maximum of 4 hours. Prerequisite: Senior standing; consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Intended primarily for candidates for honors in German, but open to other seniors. 1 to 4 undergraduate hours. No graduate credit. May be repeated to a maximum of 4 hours. Prerequisite: Senior standing; consent of instructor.", 
+    "href": "/2017/spring/GER/491.json", 
+    "id": "GER 491", 
+    "label": "Honors Senior Thesis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "German", 
+            "href": "/2017/spring/GER.json", 
+            "id": "GER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/GER/491/10289.json", 
+            "id": "10289"
+        }
+    }
+}

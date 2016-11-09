@@ -1,0 +1,75 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section.", 
+    "courseSectionInformation": "Credit is not given for both PHIL 103 and PHIL 102.", 
+    "creditHours": "3 hours.", 
+    "description": "Introductory logic course that concentrates on investigating how the formal mathematical structure of statements, as well as the structure of the relationships among such statements, reveals the logical force of arguments that we use everyday. PHIL 102 takes a less formal, less mathematical approach to the same material. Credit is not given for both PHIL 103 and PHIL 102.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Quantitative Reasoning", 
+                "id": "QR", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1QR2", 
+                        "content": "UIUC: Quant Reasoning II"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/PHIL/103.json", 
+    "id": "PHIL 103", 
+    "label": "Logic and Reasoning QR II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Philosophy", 
+            "href": "/2017/spring/PHIL.json", 
+            "id": "PHIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and Quant Reasoning II course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/PHIL/103/35439.json", 
+                "id": "35439"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/PHIL/103/35440.json", 
+                "id": "35440"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/PHIL/103/35441.json", 
+                "id": "35441"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/PHIL/103/35443.json", 
+                "id": "35443"
+            }
+        ]
+    }
+}

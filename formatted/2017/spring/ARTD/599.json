@@ -1,0 +1,33 @@
+{
+    "classScheduleInformation": "A student registered in one or more Art & Design course(s) exhibiting this message, may be assessed a $95 facility use fee once each term.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Approved for S/U grading only. May be repeated. Prerequisite: Graduate study in Industrial Design.", 
+    "creditHours": "0 TO 2 hours.", 
+    "description": "Faculty guidance in research and writing thesis for advanced degree in Industrial Design. Additional fees may apply. See Class Schedule. Approved for S/U grading only. May be repeated. Prerequisite: Graduate study in Industrial Design.", 
+    "href": "/2017/spring/ARTD/599.json", 
+    "id": "ARTD 599", 
+    "label": "Industrial Design Thesis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Design", 
+            "href": "/2017/spring/ARTD.json", 
+            "id": "ARTD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ARTD/599/10386.json", 
+            "id": "10386"
+        }
+    }
+}

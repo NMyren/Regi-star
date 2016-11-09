@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 8 hours.", 
+    "description": "Individual projects. Approved written application to department as specified by department or instructor is required. May be repeated. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/ECE/597.json", 
+    "id": "ECE 597", 
+    "label": "Individual Study in ECE", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ECE/597/10023.json", 
+            "id": "10023"
+        }
+    }
+}

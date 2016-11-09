@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as ENGL 583. See ENGL 583.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as ENGL 583. See ENGL 583.", 
+    "href": "/2017/spring/CI/566.json", 
+    "id": "CI 566", 
+    "label": "Topics Writ Pedagogy & Design", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "R", 
+            "href": "/2017/spring/CI/566/32286.json", 
+            "id": "32286"
+        }
+    }
+}

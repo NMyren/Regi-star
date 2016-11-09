@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. Prerequisite: STAT 410.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Explores linear regression, least squares estimates, F-tests, analysis of residuals, regression diagnostics, transformations, model building, factorial designs, randomized complete block designs, Latin squares, split plot designs. Computer work is an integral part of the course. 3 undergraduate hours. 4 graduate hours. Prerequisite: STAT 410.", 
+    "href": "/2017/spring/STAT/425.json", 
+    "id": "STAT 425", 
+    "label": "Applied Regression and Design", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Statistics", 
+            "href": "/2017/spring/STAT.json", 
+            "id": "STAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "1GR", 
+                "href": "/2017/spring/STAT/425/48340.json", 
+                "id": "48340"
+            }, 
+            {
+                "content": "1UG", 
+                "href": "/2017/spring/STAT/425/50354.json", 
+                "id": "50354"
+            }, 
+            {
+                "content": "2GR", 
+                "href": "/2017/spring/STAT/425/61876.json", 
+                "id": "61876"
+            }, 
+            {
+                "content": "2UG", 
+                "href": "/2017/spring/STAT/425/61877.json", 
+                "id": "61877"
+            }
+        ]
+    }
+}

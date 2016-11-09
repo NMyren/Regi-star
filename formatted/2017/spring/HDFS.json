@@ -1,0 +1,246 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "222 Bevier Hall, 905 South Goodwin Avenue, Urbana", 
+    "collegeCode": "KL", 
+    "collegeDepartmentDescription": "Head of Department: Susan Koerner\nDepartment Office, 222 Bevier Hall, 905 South Goodwin Avenue, Urbana, 217-333-3790\nSubjects associated with this department include: Human and Community Development (HCD), Human Development and Family Studies (HDFS), and Rural Sociology (RSOC).\nwww.hcd.illinois.edu", 
+    "contactName": "Susan Koerner", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Intro to Human Development", 
+                "href": "/2017/spring/HDFS/105.json", 
+                "id": "105"
+            }, 
+            {
+                "content": "Intro to Family Studies", 
+                "href": "/2017/spring/HDFS/120.json", 
+                "id": "120"
+            }, 
+            {
+                "content": "Intro Gender & Women's Studies", 
+                "href": "/2017/spring/HDFS/140.json", 
+                "id": "140"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/HDFS/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Early Childhood Curriculum Dev", 
+                "href": "/2017/spring/HDFS/206.json", 
+                "id": "206"
+            }, 
+            {
+                "content": "Families in Global Perspective", 
+                "href": "/2017/spring/HDFS/220.json", 
+                "id": "220"
+            }, 
+            {
+                "content": "Asian Families in America", 
+                "href": "/2017/spring/HDFS/221.json", 
+                "id": "221"
+            }, 
+            {
+                "content": "Close Relationships", 
+                "href": "/2017/spring/HDFS/225.json", 
+                "id": "225"
+            }, 
+            {
+                "content": "Motor Development and Control", 
+                "href": "/2017/spring/HDFS/259.json", 
+                "id": "259"
+            }, 
+            {
+                "content": "Motor Develop, Growth & Form", 
+                "href": "/2017/spring/HDFS/262.json", 
+                "id": "262"
+            }, 
+            {
+                "content": "Diversity in Recreation, Sport, and Tourism", 
+                "href": "/2017/spring/HDFS/263.json", 
+                "id": "263"
+            }, 
+            {
+                "content": "Intro to Research Methods", 
+                "href": "/2017/spring/HDFS/290.json", 
+                "id": "290"
+            }, 
+            {
+                "content": "Grad/Prof School Plan & Prep", 
+                "href": "/2017/spring/HDFS/291.json", 
+                "id": "291"
+            }, 
+            {
+                "content": "Research Internship", 
+                "href": "/2017/spring/HDFS/294.json", 
+                "id": "294"
+            }, 
+            {
+                "content": "Independent Study or Research", 
+                "href": "/2017/spring/HDFS/295.json", 
+                "id": "295"
+            }, 
+            {
+                "content": "Infancy & Early Childhood", 
+                "href": "/2017/spring/HDFS/301.json", 
+                "id": "301"
+            }, 
+            {
+                "content": "Middle Childhood", 
+                "href": "/2017/spring/HDFS/305.json", 
+                "id": "305"
+            }, 
+            {
+                "content": "Adult Development", 
+                "href": "/2017/spring/HDFS/310.json", 
+                "id": "310"
+            }, 
+            {
+                "content": "US Latina and Latino Families", 
+                "href": "/2017/spring/HDFS/322.json", 
+                "id": "322"
+            }, 
+            {
+                "content": "Asian American Youth", 
+                "href": "/2017/spring/HDFS/341.json", 
+                "id": "341"
+            }, 
+            {
+                "content": "HDFS Study Abroad Experience", 
+                "href": "/2017/spring/HDFS/379.json", 
+                "id": "379"
+            }, 
+            {
+                "content": "Honors Research or Thesis", 
+                "href": "/2017/spring/HDFS/396.json", 
+                "id": "396"
+            }, 
+            {
+                "content": "Adolescent Development", 
+                "href": "/2017/spring/HDFS/405.json", 
+                "id": "405"
+            }, 
+            {
+                "content": "Child Dev Class Supervision", 
+                "href": "/2017/spring/HDFS/406.json", 
+                "id": "406"
+            }, 
+            {
+                "content": "Hospitalized Children", 
+                "href": "/2017/spring/HDFS/408.json", 
+                "id": "408"
+            }, 
+            {
+                "content": "Family Diversity in the U.S.", 
+                "href": "/2017/spring/HDFS/420.json", 
+                "id": "420"
+            }, 
+            {
+                "content": "Racial and Ethnic Families", 
+                "href": "/2017/spring/HDFS/424.json", 
+                "id": "424"
+            }, 
+            {
+                "content": "Family Conflict Management", 
+                "href": "/2017/spring/HDFS/426.json", 
+                "id": "426"
+            }, 
+            {
+                "content": "LGBT Indiv, Fam & Community", 
+                "href": "/2017/spring/HDFS/444.json", 
+                "id": "444"
+            }, 
+            {
+                "content": "Physical Activity & Aging", 
+                "href": "/2017/spring/HDFS/459.json", 
+                "id": "459"
+            }, 
+            {
+                "content": "Applied Research Methods", 
+                "href": "/2017/spring/HDFS/494.json", 
+                "id": "494"
+            }, 
+            {
+                "content": "Seminar", 
+                "href": "/2017/spring/HDFS/499.json", 
+                "id": "499"
+            }, 
+            {
+                "content": "Advanced Adolescence", 
+                "href": "/2017/spring/HDFS/505.json", 
+                "id": "505"
+            }, 
+            {
+                "content": "Family Theories", 
+                "href": "/2017/spring/HDFS/521.json", 
+                "id": "521"
+            }, 
+            {
+                "content": "Youth, Culture and Society", 
+                "href": "/2017/spring/HDFS/539.json", 
+                "id": "539"
+            }, 
+            {
+                "content": "Social Ent in Diverse Society", 
+                "href": "/2017/spring/HDFS/541.json", 
+                "id": "541"
+            }, 
+            {
+                "content": "Advanced Practicum in HDFS", 
+                "href": "/2017/spring/HDFS/550.json", 
+                "id": "550"
+            }, 
+            {
+                "content": "Child & Family Program Eval", 
+                "href": "/2017/spring/HDFS/562.json", 
+                "id": "562"
+            }, 
+            {
+                "content": "Qualitative Methods", 
+                "href": "/2017/spring/HDFS/591.json", 
+                "id": "591"
+            }, 
+            {
+                "content": "Intermed Statistical Analysis", 
+                "href": "/2017/spring/HDFS/594.json", 
+                "id": "594"
+            }, 
+            {
+                "content": "Seminar", 
+                "href": "/2017/spring/HDFS/595.json", 
+                "id": "595"
+            }, 
+            {
+                "content": "Advanced Studies in HDFS", 
+                "href": "/2017/spring/HDFS/596.json", 
+                "id": "596"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/HDFS/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1793", 
+    "id": "HDFS", 
+    "label": "Human Development and Family Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-3790", 
+    "subjectComment": "Subjects associated with this department include: Human and Community Development (HCD), Human Development and Family Studies (HDFS), and Rural Sociology (RSOC).", 
+    "unitName": "Human Development and Family Studies", 
+    "webSiteURL": "www.hcd.illinois.edu"
+}

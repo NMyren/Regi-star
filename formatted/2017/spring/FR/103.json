@@ -1,0 +1,45 @@
+{
+    "classScheduleInformation": "All students in this course will be required to do language laboratory work outside of class.", 
+    "courseSectionInformation": "Prerequisite: FR 102 or equivalent, or a placement score showing high school achievement equivalent to FR 102.", 
+    "creditHours": "4 hours.", 
+    "description": "Continuation of FR 102. Introduces students to a full range of structures to complete their initial study of the grammatical system; emphasizes the development of all four skills and cultural understanding through readings and audiovisual enrichment materials. Online language laboratory and internet assignments required. Students planning to major or minor in French should take FR 133 in lieu of FR 103. Prerequisite: FR 102 or equivalent, or a placement score showing high school achievement equivalent to FR 102.", 
+    "href": "/2017/spring/FR/103.json", 
+    "id": "FR 103", 
+    "label": "Intermediate French I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "French", 
+            "href": "/2017/spring/FR.json", 
+            "id": "FR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "C", 
+                "href": "/2017/spring/FR/103/32715.json", 
+                "id": "32715"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/FR/103/32716.json", 
+                "id": "32716"
+            }, 
+            {
+                "content": "D2", 
+                "href": "/2017/spring/FR/103/32719.json", 
+                "id": "32719"
+            }
+        ]
+    }
+}

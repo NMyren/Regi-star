@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: ECON 530, or equivalent; calculus.", 
+    "creditHours": "4 hours.", 
+    "description": "Focusses on information and incentives in economic problems.  Topics include non-cooperative games, dynamic games, mechanism design, auctions, matching and networks. Prerequisite: ECON 530, or equivalent; calculus.", 
+    "href": "/2017/spring/ECON/533.json", 
+    "id": "ECON 533", 
+    "label": "Microeconomic Theory II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A1", 
+            "href": "/2017/spring/ECON/533/61893.json", 
+            "id": "61893"
+        }
+    }
+}

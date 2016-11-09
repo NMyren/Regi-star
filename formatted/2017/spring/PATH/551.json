@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 8 hours.", 
+    "creditHours": "1 hours.", 
+    "description": "Discusses selected cytologic material. Emphasizes recognition, interpretation, oral presentation, and written description of cytology case materials. May be repeated to a maximum of 8 hours.", 
+    "href": "/2017/spring/PATH/551.json", 
+    "id": "PATH 551", 
+    "label": "Interpretive Cytopathology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Pathobiology", 
+            "href": "/2017/spring/PATH.json", 
+            "id": "PATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/PATH/551/44086.json", 
+                "id": "44086"
+            }, 
+            {
+                "content": "AY1", 
+                "href": "/2017/spring/PATH/551/44085.json", 
+                "id": "44085"
+            }
+        ]
+    }
+}

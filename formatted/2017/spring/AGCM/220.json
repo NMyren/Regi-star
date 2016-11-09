@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Same as ENVS 220 and NRES 220. Prerequisite: Completion of a Composition I course.", 
+    "creditHours": "3 hours.", 
+    "description": "Skills necessary to communicate complex information about the broad agriculture domain to different audiences. Application of communication theories. Emphasis on essential communication skills, including writing, conducting interviews, planning, and critical evaluation of information sources. Same as ENVS 220 and NRES 220. Prerequisite: Completion of a Composition I course.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/AGCM/220.json", 
+    "id": "AGCM 220", 
+    "label": "Communicating Agriculture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural Communications", 
+            "href": "/2017/spring/AGCM.json", 
+            "id": "AGCM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/AGCM/220/52697.json", 
+            "id": "52697"
+        }
+    }
+}

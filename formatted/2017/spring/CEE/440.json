@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: CEE 330.", 
+    "creditHours": "4 hours.", 
+    "description": "Investigation of the regulatory and technical issues affecting solid and hazardous waste management, with an emphasis on the principles governing the transport, fate, and remediation of solid and hazardous waste in the subsurface, including advection, dispersion, sorption, interphase mass transfer, and transformation reactions. 4 undergraduate hours. 4 graduate hours. Prerequisite: CEE 330.", 
+    "href": "/2017/spring/CEE/440.json", 
+    "id": "CEE 440", 
+    "label": "Fate Cleanup Environ Pollutant", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "NP", 
+            "href": "/2017/spring/CEE/440/31718.json", 
+            "id": "31718"
+        }
+    }
+}

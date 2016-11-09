@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as CSE 440. 3 undergraduate hours. 4 graduate hours. Prerequisite: STAT 400 or STAT 409.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "The critical elements of data storage, data cleaning, and data extractions that ultimately lead to data analysis are presented. Includes basic theory and methods of databases, auditing and querying databases, as well as data management and data preparation using standard large-scale statistical software. Students will gain competency in the skills required in storing, cleaning, and managing data, all of which are required prior to data analysis. Same as CSE 440. 3 undergraduate hours. 4 graduate hours. Prerequisite: STAT 400 or STAT 409.", 
+    "href": "/2017/spring/STAT/440.json", 
+    "id": "STAT 440", 
+    "label": "Statistical Data Management", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Statistics", 
+            "href": "/2017/spring/STAT.json", 
+            "id": "STAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "1GR", 
+                "href": "/2017/spring/STAT/440/56931.json", 
+                "id": "56931"
+            }, 
+            {
+                "content": "1UG", 
+                "href": "/2017/spring/STAT/440/56929.json", 
+                "id": "56929"
+            }
+        ]
+    }
+}

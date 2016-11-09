@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as MCB 446 and BIOC 446. See BIOC 446.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as MCB 446 and BIOC 446. See BIOC 446.", 
+    "href": "/2017/spring/CHEM/472.json", 
+    "id": "CHEM 472", 
+    "label": "Physical Biochemistry", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "AL1", 
+            "href": "/2017/spring/CHEM/472/31669.json", 
+            "id": "31669"
+        }
+    }
+}

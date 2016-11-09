@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ANTH 220.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Lecture and laboratory on the principles and techniques of stone and bone artifact manufacture, identification, classification, metrical analysis, interpretation, and integration with other classes of archaeological evidence. Emphasis on the use of lithics to test human behavioral models. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ANTH 220.", 
+    "href": "/2017/spring/ANTH/452.json", 
+    "id": "ANTH 452", 
+    "label": "Stone Tool Technology Analysis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Anthropology", 
+            "href": "/2017/spring/ANTH.json", 
+            "id": "ANTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "1G", 
+                "href": "/2017/spring/ANTH/452/46174.json", 
+                "id": "46174"
+            }, 
+            {
+                "content": "1U", 
+                "href": "/2017/spring/ANTH/452/30141.json", 
+                "id": "30141"
+            }
+        ]
+    }
+}

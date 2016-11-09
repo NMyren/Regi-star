@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Same as NRES 452. 3 undergraduate hours. 3 graduate hours. Prerequisite: IB 203 or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "The direct and indirect interactions among species that determine the structure and composition of plant and animal communities. Emphasis will be on the maintenance of species diversity and its consequences at both local and regional scales. Offered in alternate years. Same as NRES 452. 3 undergraduate hours. 3 graduate hours. Prerequisite: IB 203 or consent of instructor.", 
+    "href": "/2017/spring/IB/453.json", 
+    "id": "IB 453", 
+    "label": "Community Ecology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Integrative Biology", 
+            "href": "/2017/spring/IB.json", 
+            "id": "IB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ADA", 
+                "href": "/2017/spring/IB/453/65560.json", 
+                "id": "65560"
+            }, 
+            {
+                "content": "ADB", 
+                "href": "/2017/spring/IB/453/65561.json", 
+                "id": "65561"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/IB/453/65057.json", 
+                "id": "65057"
+            }
+        ]
+    }
+}

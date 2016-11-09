@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated to a maximum of 8 hours; no more than 8 hours may be earned toward an advanced degree. Prerequisite: Consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Supervised direct experience in the administration of higher education. With the aid of the faculty, students select the internship relevant to their career goals. Approved for S/U grading only. May be repeated to a maximum of 8 hours; no more than 8 hours may be earned toward an advanced degree. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/EOL/589.json", 
+    "id": "EOL 589", 
+    "label": "Internship in Higher Ed", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Organization and Leadership", 
+            "href": "/2017/spring/EOL.json", 
+            "id": "EOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/EOL/589/65415.json", 
+            "id": "65415"
+        }
+    }
+}

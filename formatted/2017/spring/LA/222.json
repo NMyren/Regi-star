@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as ARCH 222.", 
+    "creditHours": "3 hours.", 
+    "description": "Study of the formation, history, and meaning of the landscape and architecture of the Islamic world. Same as ARCH 222.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/LA/222.json", 
+    "id": "LA 222", 
+    "label": "Islamic Gardens & Architecture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Landscape Architecture", 
+            "href": "/2017/spring/LA.json", 
+            "id": "LA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and Non-Western Cultures course.", 
+    "sections": {
+        "section": {
+            "content": "DFR", 
+            "href": "/2017/spring/LA/222/64180.json", 
+            "id": "64180"
+        }
+    }
+}

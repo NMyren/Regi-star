@@ -1,0 +1,59 @@
+{
+    "courseSectionInformation": "Prerequisite: Restricted to first-year freshmen and transfer students.", 
+    "creditHours": "3 hours.", 
+    "description": "Exploration of how economic and social inequality affects the lives of children and minors in the U.S.--especially in minority communities--through the study of documentary film, photography and other kinds of socially conscious art. Students will watch and critique documentaries made by artists and filmmakers in the areas of Education, Housing, and Law Enforcement; go behind the scenes at the Krannert Art Museum to investigate the museum's documentary holdings; and make their own documentary projects. Final projects will be exhibited in the Krannert Art Museum at the end of the semester. Part of the Grand Challenge Learning Inequality & Cultural Understanding pathway. Prerequisite: Restricted to first-year freshmen and transfer students.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1LA", 
+                        "content": "UIUC: Literature and the Arts"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1US", 
+                        "content": "UIUC: US Minority Culture(s)"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/GCL/137.json", 
+    "id": "GCL 137", 
+    "label": "Documenting Inequality", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Grand Challenge Learning", 
+            "href": "/2017/spring/GCL.json", 
+            "id": "GCL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to First Time Freshman or Transfer student - first time students.", 
+    "sectionDegreeAttributes": "Grand Challenge-Inequality, Literature and the Arts, and US Minority Culture(s) course.", 
+    "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GCL/137/63924.json", 
+            "id": "63924"
+        }
+    }
+}

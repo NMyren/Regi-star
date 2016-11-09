@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: MUS 242; instrumental music education majors, or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Develops skills in rehearsal techniques and aural skills. Application of teaching strategies and learning theory. Refinement of fundamental concepts of gesture; development of advanced conducting skills and score reading skills; development of score analysis techniques. Prerequisite: MUS 242; instrumental music education majors, or consent of instructor.", 
+    "href": "/2017/spring/MUS/332.json", 
+    "id": "MUS 332", 
+    "label": "Advanced Wind Band Conducting and Rehearsal Strategies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Music Education major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/332/36172.json", 
+            "id": "36172"
+        }
+    }
+}

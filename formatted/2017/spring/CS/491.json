@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "0 to 4 undergraduate hours. 0 to 4 graduate hours. Approved for S/U grading only. May be repeated in the same or separate terms if topics vary to a maximum of 4 hours. Prerequisite: As specified for each topic offering, see Class Schedule or departmental course description.", 
+    "creditHours": "0 TO 4 hours.", 
+    "description": "Seminar on topics of current interest as announced in the Class Schedule. 0 to 4 undergraduate hours. 0 to 4 graduate hours. Approved for S/U grading only. May be repeated in the same or separate terms if topics vary to a maximum of 4 hours. Prerequisite: As specified for each topic offering, see Class Schedule or departmental course description.", 
+    "href": "/2017/spring/CS/491.json", 
+    "id": "CS 491", 
+    "label": "Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "CB", 
+                "href": "/2017/spring/CS/491/54144.json", 
+                "id": "54144"
+            }, 
+            {
+                "content": "DS", 
+                "href": "/2017/spring/CS/491/65677.json", 
+                "id": "65677"
+            }, 
+            {
+                "content": "TC", 
+                "href": "/2017/spring/CS/491/65722.json", 
+                "id": "65722"
+            }, 
+            {
+                "content": "WF", 
+                "href": "/2017/spring/CS/491/64481.json", 
+                "id": "64481"
+            }
+        ]
+    }
+}

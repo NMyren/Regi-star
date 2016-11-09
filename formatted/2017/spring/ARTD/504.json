@@ -1,0 +1,33 @@
+{
+    "classScheduleInformation": "A student registered in one or more Art & Design course(s) exhibiting this message, will be assessed a $95 facility use fee once each term.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Prerequisite: ARTD 503.", 
+    "creditHours": "6 hours.", 
+    "description": "Completion of the second level of a six-term study in a three-year program leading to a terminal degree of MFA in Industrial Design. For two-year program, emphasis is solely directed to a research and design project that is the final stage of a comprehensive written thesis. Additional fees may apply. See Class Schedule. Prerequisite: ARTD 503.", 
+    "href": "/2017/spring/ARTD/504.json", 
+    "id": "ARTD 504", 
+    "label": "Industrial Design IV", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Design", 
+            "href": "/2017/spring/ARTD.json", 
+            "id": "ARTD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "M4", 
+            "href": "/2017/spring/ARTD/504/50494.json", 
+            "id": "50494"
+        }
+    }
+}

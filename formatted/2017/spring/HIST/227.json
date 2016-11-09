@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as EALC 227.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the history of the Japanese people, their social and cultural systems, politics, and economy, from the mid-sixteenth century to the mid-twentieth century. Same as EALC 227.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/HIST/227.json", 
+    "id": "HIST 227", 
+    "label": "Modern Japanese History", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and Non-Western Cultures course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/HIST/227/52350.json", 
+            "id": "52350"
+        }
+    }
+}

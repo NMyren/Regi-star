@@ -1,0 +1,66 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule.", 
+    "creditHours": "1 hours.", 
+    "description": "Skills and knowledge essential for leisure-time activities which are classified as skating activities. Prerequisites for each skating activity are provided in the Class Schedule. Additional Ice Skating Rink Facility charges are required and provided in the Class Schedule. More than one activity (Sections A through Z) may be taken in the same term. Additional fees may apply. See Class Schedule.", 
+    "href": "/2017/spring/KIN/104.json", 
+    "id": "KIN 104", 
+    "label": "Skating Activities", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sectionFeeAmount": "Kinesio/Camp Rec Facility Fee $50.00 Flat Fee.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A1", 
+                "href": "/2017/spring/KIN/104/35008.json", 
+                "id": "35008"
+            }, 
+            {
+                "content": "A12", 
+                "href": "/2017/spring/KIN/104/60712.json", 
+                "id": "60712"
+            }, 
+            {
+                "content": "A18", 
+                "href": "/2017/spring/KIN/104/64439.json", 
+                "id": "64439"
+            }, 
+            {
+                "content": "A19", 
+                "href": "/2017/spring/KIN/104/64440.json", 
+                "id": "64440"
+            }, 
+            {
+                "content": "A2", 
+                "href": "/2017/spring/KIN/104/35011.json", 
+                "id": "35011"
+            }, 
+            {
+                "content": "A3", 
+                "href": "/2017/spring/KIN/104/35015.json", 
+                "id": "35015"
+            }, 
+            {
+                "content": "A4", 
+                "href": "/2017/spring/KIN/104/35017.json", 
+                "id": "35017"
+            }
+        ]
+    }
+}

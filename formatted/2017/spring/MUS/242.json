@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: Music majors or consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "Fundamental elements of conducting, score analysis and preparation, transcription and transposition for choral and instrumental ensembles. Focused on development of conducting skills appropriate for use in public school teaching. A special section is offered for music majors not majoring in music education. Prerequisite: Music majors or consent of instructor.", 
+    "href": "/2017/spring/MUS/242.json", 
+    "id": "MUS 242", 
+    "label": "Elements of Conducting", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/MUS/242/35545.json", 
+                "id": "35545"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/MUS/242/35546.json", 
+                "id": "35546"
+            }
+        ]
+    }
+}

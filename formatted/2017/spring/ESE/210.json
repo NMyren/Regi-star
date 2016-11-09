@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Same as GEOG 210. See GEOG 210.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as GEOG 210. See GEOG 210.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/ESE/210.json", 
+    "id": "ESE 210", 
+    "label": "Social & Environmental Issues", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Earth, Society, and Environment", 
+            "href": "/2017/spring/ESE.json", 
+            "id": "ESE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Grand Challenge-Inequality, and Social Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ESE/210/54796.json", 
+            "id": "54796"
+        }
+    }
+}

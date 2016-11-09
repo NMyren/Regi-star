@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: Enrollment is allowed only by second-year graduate students who are presenting their Ph.D. literature seminar during that semester. Undergraduate students are not eligible to enroll in this course.", 
+    "creditHours": "1 hours.", 
+    "description": "Required of all Chemistry graduate students whose area is organic chemistry. Prerequisite: Enrollment is allowed only by second-year graduate students who are presenting their Ph.D. literature seminar during that semester. Undergraduate students are not eligible to enroll in this course.", 
+    "href": "/2017/spring/CHEM/535.json", 
+    "id": "CHEM 535", 
+    "label": "Organic Chemistry Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Chemistry major(s). Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHEM/535/32752.json", 
+            "id": "32752"
+        }
+    }
+}

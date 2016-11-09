@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated.", 
+    "creditHours": "0 hours.", 
+    "description": "Full-time or part-time practice of engineering in an off-campus government, industrial or research laboratory environment. Written work report, on-line Experiential Learning report, and on-line ABET report required. Approved for S/U grading only. May be repeated.", 
+    "href": "/2017/spring/ENG/510.json", 
+    "id": "ENG 510", 
+    "label": "Engineering Practice", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Engineering.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ENG/510/34517.json", 
+            "id": "34517"
+        }
+    }
+}

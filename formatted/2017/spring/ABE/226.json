@@ -1,0 +1,46 @@
+{
+    "courseSectionInformation": "Prerequisite: One of MATH 220, MATH 221, MATH 234.", 
+    "creditHours": "2 hours.", 
+    "description": "Principles of bioprocess engineering applied to food and agricultural products: material balances; fluid flow; heat and mass transfers; drying; evaporation; fermentation; distillation; process simulation. Prerequisite: One of MATH 220, MATH 221, MATH 234.", 
+    "href": "/2017/spring/ABE/226.json", 
+    "id": "ABE 226", 
+    "label": "ABE Principles: Bioprocessing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural and Biological Engineering", 
+            "href": "/2017/spring/ABE.json", 
+            "id": "ABE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionRegistrationNotes": "Restricted to Agr Engineering & Agr Science or Agricultural & Biological Engr major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ABE/226/57087.json", 
+                "id": "57087"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/ABE/226/57088.json", 
+                "id": "57088"
+            }, 
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/ABE/226/57086.json", 
+                "id": "57086"
+            }
+        ]
+    }
+}

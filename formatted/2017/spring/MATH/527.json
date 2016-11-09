@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: MATH 526. MATH 501 is recommended but not required.", 
+    "creditHours": "4 hours.", 
+    "description": "Homotopy groups, fibrations and cofibrations, Hurewicz theorem, obstruction theory, Whitehead theorem and additional topics perhaps drawn from Postnikov towers, Freudenthal suspension theorem, Blakers-Massey theorem, spectra. Prerequisite: MATH 526. MATH 501 is recommended but not required.", 
+    "href": "/2017/spring/MATH/527.json", 
+    "id": "MATH 527", 
+    "label": "Homotopy Theory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Undergrad - Urbana-Champaign. Not intended for MS:Economics:Policy Econ -UIUC or MS: Financial Engineering.", 
+    "sections": {
+        "section": {
+            "content": "G1", 
+            "href": "/2017/spring/MATH/527/40562.json", 
+            "id": "40562"
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 6 hours in a semester, to a maximum of 12 hours in subsequent semesters. Prerequisite: PSYC 100 or consent of instructor; particular sections may have additional 200-level prerequisites.", 
+    "creditHours": "0 TO 3 hours.", 
+    "description": "Intermediate treatment of current topics in the field of psychology. May be repeated to a maximum of 6 hours in a semester, to a maximum of 12 hours in subsequent semesters. Prerequisite: PSYC 100 or consent of instructor; particular sections may have additional 200-level prerequisites.", 
+    "href": "/2017/spring/PSYC/396.json", 
+    "id": "PSYC 396", 
+    "label": "Intermediate Current Topics in Psychology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Psychology department.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB", 
+                "href": "/2017/spring/PSYC/396/64903.json", 
+                "id": "64903"
+            }, 
+            {
+                "content": "AM", 
+                "href": "/2017/spring/PSYC/396/64949.json", 
+                "id": "64949"
+            }, 
+            {
+                "content": "FD", 
+                "href": "/2017/spring/PSYC/396/48453.json", 
+                "id": "48453"
+            }, 
+            {
+                "content": "IN2", 
+                "href": "/2017/spring/PSYC/396/64390.json", 
+                "id": "64390"
+            }, 
+            {
+                "content": "INT", 
+                "href": "/2017/spring/PSYC/396/51874.json", 
+                "id": "51874"
+            }, 
+            {
+                "content": "NT", 
+                "href": "/2017/spring/PSYC/396/50862.json", 
+                "id": "50862"
+            }, 
+            {
+                "content": "SL", 
+                "href": "/2017/spring/PSYC/396/65447.json", 
+                "id": "65447"
+            }, 
+            {
+                "content": "SLB", 
+                "href": "/2017/spring/PSYC/396/64891.json", 
+                "id": "64891"
+            }
+        ]
+    }
+}

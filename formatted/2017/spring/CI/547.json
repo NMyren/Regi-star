@@ -1,0 +1,31 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "This course is for anyone interested in equity-related issues in mathematics and science education. It provides an overview of sociopolitical perspectives on mathematics and science education, including how issues of identity, power, and equity play out in teachings, learning, and research. Students will develop an understanding of how racism, classism, and the politics of language operate within mathematics and science classroom and in the practice of mathematics and science in society at large. An emphasis of the course is on solutions that address social justice.", 
+    "href": "/2017/spring/CI/547.json", 
+    "id": "CI 547", 
+    "label": "Sociopol Persp Math Science", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CI/547/64980.json", 
+            "id": "64980"
+        }
+    }
+}

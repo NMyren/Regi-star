@@ -1,0 +1,79 @@
+{
+    "courseSectionInformation": "Prerequisite: None or assignment by placement exam. Students who have the equivalent of four or more years credit in Spanish at the secondary level will not receive credit for SPAN 122.", 
+    "creditHours": "4 hours.", 
+    "description": "Intensive beginning Spanish, equivalent to the first two semesters, for students with little or no experience in Spanish or whose skills need refreshing. This is considered a second level course for purposes of fulfilling the University General Education Language requirement. Prerequisite: None or assignment by placement exam. Students who have the equivalent of four or more years credit in Spanish at the secondary level will not receive credit for SPAN 122.", 
+    "href": "/2017/spring/SPAN/122.json", 
+    "id": "SPAN 122", 
+    "label": "Intensive Elementary Spanish", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "C1", 
+                "href": "/2017/spring/SPAN/122/35030.json", 
+                "id": "35030"
+            }, 
+            {
+                "content": "C2", 
+                "href": "/2017/spring/SPAN/122/35033.json", 
+                "id": "35033"
+            }, 
+            {
+                "content": "D1", 
+                "href": "/2017/spring/SPAN/122/35037.json", 
+                "id": "35037"
+            }, 
+            {
+                "content": "D2", 
+                "href": "/2017/spring/SPAN/122/35040.json", 
+                "id": "35040"
+            }, 
+            {
+                "content": "E1", 
+                "href": "/2017/spring/SPAN/122/35051.json", 
+                "id": "35051"
+            }, 
+            {
+                "content": "E2", 
+                "href": "/2017/spring/SPAN/122/35054.json", 
+                "id": "35054"
+            }, 
+            {
+                "content": "F1", 
+                "href": "/2017/spring/SPAN/122/35057.json", 
+                "id": "35057"
+            }, 
+            {
+                "content": "F2", 
+                "href": "/2017/spring/SPAN/122/35061.json", 
+                "id": "35061"
+            }, 
+            {
+                "content": "X1", 
+                "href": "/2017/spring/SPAN/122/35045.json", 
+                "id": "35045"
+            }, 
+            {
+                "content": "X2", 
+                "href": "/2017/spring/SPAN/122/35047.json", 
+                "id": "35047"
+            }
+        ]
+    }
+}

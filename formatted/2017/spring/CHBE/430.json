@@ -1,0 +1,68 @@
+{
+    "classScheduleInformation": "CHBE 430 and CHBE 431 are approved for General Education credit only as a sequence. Both courses must be completed to receive Advanced Composition credit.", 
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: CHBE 422; credit or concurrent registration in CHBE 424; senior standing in Chemical and Biomolecular Engineering.", 
+    "creditHours": "4 hours.", 
+    "description": "Experiments and computation in fluid mechanics, heat transfer, mass transfer, and chemical reaction engineering. Exercises in effective Chemical and Biomolecular Engineering communications. 4 undergraduate hours. 4 graduate hours. Prerequisite: CHBE 422; credit or concurrent registration in CHBE 424; senior standing in Chemical and Biomolecular Engineering.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CHBE/430.json", 
+    "id": "CHBE 430", 
+    "label": "Unit Operations Laboratory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/CHBE/430/32034.json", 
+                "id": "32034"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/CHBE/430/32036.json", 
+                "id": "32036"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/CHBE/430/32038.json", 
+                "id": "32038"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/CHBE/430/55846.json", 
+                "id": "55846"
+            }, 
+            {
+                "content": "AQ1", 
+                "href": "/2017/spring/CHBE/430/32037.json", 
+                "id": "32037"
+            }
+        ]
+    }
+}

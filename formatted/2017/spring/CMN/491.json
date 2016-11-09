@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. No graduate credit. May be repeated to a maximum of 4 undergraduate hours. Prerequisite: Twelve hours of communication; a grade-point average of 3.50; and consent of head of department.", 
+    "creditHours": "2 hours.", 
+    "description": "Individual investigation of special problems. 2 undergraduate hours. No graduate credit. May be repeated to a maximum of 4 undergraduate hours. Prerequisite: Twelve hours of communication; a grade-point average of 3.50; and consent of head of department.", 
+    "href": "/2017/spring/CMN/491.json", 
+    "id": "CMN 491", 
+    "label": "Honors Individual Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CMN/491/50689.json", 
+            "id": "50689"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as AFRO 215, AIS 295, GWS 215, and LLS 215. Prerequisite: One of: AAS 100, AAS 120, AFRO 100 AIS 101, GWS 250, LLS 100.", 
+    "creditHours": "3 hours.", 
+    "description": "Examines the racial, gendered, and sexualized aspects of US citizenship historically and comparatively. Interdisciplinary course taught from a humanities perspective. Readings draw from critical legal studies, history, literature, literary criticism, and ethnography. Same as AFRO 215, AIS 295, GWS 215, and LLS 215. Prerequisite: One of: AAS 100, AAS 120, AFRO 100 AIS 101, GWS 250, LLS 100.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1US", 
+                        "content": "UIUC: US Minority Culture(s)"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/AAS/215.json", 
+    "id": "AAS 215", 
+    "label": "US Citizenship Comparatively", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Asian American Studies", 
+            "href": "/2017/spring/AAS.json", 
+            "id": "AAS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and US Minority Culture(s) course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/AAS/215/52317.json", 
+            "id": "52317"
+        }
+    }
+}

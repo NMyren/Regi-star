@@ -1,0 +1,60 @@
+{
+    "classScheduleInformation": "Students must register for one Lecture and one Discussion section.", 
+    "courseSectionInformation": "Prerequisite: 1.5 units of high school algebra; 1 unit of high school geometry.", 
+    "creditHours": "3 hours.", 
+    "description": "Rapid review of basic techniques of factoring, rational expressions, equations and inequalities; functions and graphs; exponential and logarithm functions; systems of equations; matrices and determinants; polynomials; and the binomial theorem. Prerequisite: 1.5 units of high school algebra; 1 unit of high school geometry.", 
+    "href": "/2017/spring/MATH/112.json", 
+    "id": "MATH 112", 
+    "label": "Algebra", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ADA", 
+                "href": "/2017/spring/MATH/112/65533.json", 
+                "id": "65533"
+            }, 
+            {
+                "content": "ADB", 
+                "href": "/2017/spring/MATH/112/65534.json", 
+                "id": "65534"
+            }, 
+            {
+                "content": "ADC", 
+                "href": "/2017/spring/MATH/112/65535.json", 
+                "id": "65535"
+            }, 
+            {
+                "content": "ADD", 
+                "href": "/2017/spring/MATH/112/65536.json", 
+                "id": "65536"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/MATH/112/65532.json", 
+                "id": "65532"
+            }, 
+            {
+                "content": "B1", 
+                "href": "/2017/spring/MATH/112/62418.json", 
+                "id": "62418"
+            }
+        ]
+    }
+}

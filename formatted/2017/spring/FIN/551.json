@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: FIN 520; or MBA 505 - Section G ( Finance II); or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Explores the characteristics of the international financial market and examines various aspects of corporate financial management. Topics may include international parity conditions, exchange rate risk management, country risk, cross-border investment analysis, multi national firm budgeting, hedging in foreign currency markets, accessing international financial markets for financing, and competitive strategy in a global marketplace. Prerequisite: FIN 520; or MBA 505 - Section G ( Finance II); or consent of instructor.", 
+    "href": "/2017/spring/FIN/551.json", 
+    "id": "FIN 551", 
+    "label": "International Finance", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Finance", 
+            "href": "/2017/spring/FIN.json", 
+            "id": "FIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "C", 
+            "href": "/2017/spring/FIN/551/40802.json", 
+            "id": "40802"
+        }
+    }
+}

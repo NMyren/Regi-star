@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Prerequisite: Junior or Senior standing.", 
+    "creditHours": "3 hours.", 
+    "description": "Studies the relationships that exist between tourists, hosts, their respective culture(s), and the cultural environments in which they interact. Studies tourism and its impacts across cultural boundaries, as well as concepts of cultural authenticity, modernity, image creation, social justice, diversity, and representation of social, racial and ethnic groups. Field trip required. Additional fees may apply. See Class Schedule. Prerequisite: Junior or Senior standing.", 
+    "href": "/2017/spring/RST/351.json", 
+    "id": "RST 351", 
+    "label": "Cultural Aspects of Tourism", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to students with Junior or Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/RST/351/43117.json", 
+            "id": "43117"
+        }
+    }
+}

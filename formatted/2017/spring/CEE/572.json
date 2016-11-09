@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: CEE 472.", 
+    "creditHours": "4 hours.", 
+    "description": "Source mechanisms, stress waves, and site response of earthquake shaking; effect on the built environment; nature of earthquake actions on structures; fundamental structural response characteristics of stiffness, strength, and ductility; representation of the earthquake input in static and dynamic structural analysis; modeling of steel and concrete structures under earthquake effects; outputs for safety assessment; comprehensive source-to-design actions project. Prerequisite: CEE 472.", 
+    "href": "/2017/spring/CEE/572.json", 
+    "id": "CEE 572", 
+    "label": "Earthquake Engineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "NP", 
+                "href": "/2017/spring/CEE/572/46693.json", 
+                "id": "46693"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CEE/572/57670.json", 
+                "id": "57670"
+            }
+        ]
+    }
+}

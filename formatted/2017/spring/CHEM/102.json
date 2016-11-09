@@ -1,0 +1,323 @@
+{
+    "classScheduleInformation": "Students must register for a combination of one lecture and one quiz section beginning with the same letter.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Credit is not given for both CHEM 102 and CHEM 202. CHEM 102 and CHEM 103 are approved for General Education credit only as a sequence. Both courses must be completed to receive Natural Science and Technology credit. Prerequisite: Credit in or exemption from MATH 012; one year of high school chemistry or equivalent. All students enrolled in CHEM 102 should also enroll in CHEM 103.", 
+    "creditHours": "3 hours.", 
+    "description": "For students who have some prior knowledge of chemistry. Principles governing atomic structure, bonding, states of matter, stoichiometry, and chemical equilibrium. Additional fees may apply. See Class Schedule. Credit is not given for both CHEM 102 and CHEM 202. CHEM 102 and CHEM 103 are approved for General Education credit only as a sequence. Both courses must be completed to receive Natural Science and Technology credit. Prerequisite: Credit in or exemption from MATH 012; one year of high school chemistry or equivalent. All students enrolled in CHEM 102 should also enroll in CHEM 103.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Natural Sciences & Technology", 
+            "id": "NAT", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1PS", 
+                    "content": "UIUC: Physical Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CHEM/102.json", 
+    "id": "CHEM 102", 
+    "label": "General Chemistry I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Physical Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CHEM/102/32172.json", 
+                "id": "32172"
+            }, 
+            {
+                "content": "AL2", 
+                "href": "/2017/spring/CHEM/102/55000.json", 
+                "id": "55000"
+            }, 
+            {
+                "content": "AQA", 
+                "href": "/2017/spring/CHEM/102/32134.json", 
+                "id": "32134"
+            }, 
+            {
+                "content": "AQB", 
+                "href": "/2017/spring/CHEM/102/32143.json", 
+                "id": "32143"
+            }, 
+            {
+                "content": "AQC", 
+                "href": "/2017/spring/CHEM/102/32146.json", 
+                "id": "32146"
+            }, 
+            {
+                "content": "AQD", 
+                "href": "/2017/spring/CHEM/102/32149.json", 
+                "id": "32149"
+            }, 
+            {
+                "content": "AQE", 
+                "href": "/2017/spring/CHEM/102/32151.json", 
+                "id": "32151"
+            }, 
+            {
+                "content": "AQF", 
+                "href": "/2017/spring/CHEM/102/32153.json", 
+                "id": "32153"
+            }, 
+            {
+                "content": "AQG", 
+                "href": "/2017/spring/CHEM/102/32155.json", 
+                "id": "32155"
+            }, 
+            {
+                "content": "AQH", 
+                "href": "/2017/spring/CHEM/102/32157.json", 
+                "id": "32157"
+            }, 
+            {
+                "content": "AQI", 
+                "href": "/2017/spring/CHEM/102/32159.json", 
+                "id": "32159"
+            }, 
+            {
+                "content": "AQJ", 
+                "href": "/2017/spring/CHEM/102/32162.json", 
+                "id": "32162"
+            }, 
+            {
+                "content": "AQK", 
+                "href": "/2017/spring/CHEM/102/32165.json", 
+                "id": "32165"
+            }, 
+            {
+                "content": "AQL", 
+                "href": "/2017/spring/CHEM/102/32167.json", 
+                "id": "32167"
+            }, 
+            {
+                "content": "AQM", 
+                "href": "/2017/spring/CHEM/102/32169.json", 
+                "id": "32169"
+            }, 
+            {
+                "content": "AQN", 
+                "href": "/2017/spring/CHEM/102/32176.json", 
+                "id": "32176"
+            }, 
+            {
+                "content": "BL1", 
+                "href": "/2017/spring/CHEM/102/46568.json", 
+                "id": "46568"
+            }, 
+            {
+                "content": "BL2", 
+                "href": "/2017/spring/CHEM/102/55001.json", 
+                "id": "55001"
+            }, 
+            {
+                "content": "BL3", 
+                "href": "/2017/spring/CHEM/102/32179.json", 
+                "id": "32179"
+            }, 
+            {
+                "content": "BQ1", 
+                "href": "/2017/spring/CHEM/102/46570.json", 
+                "id": "46570"
+            }, 
+            {
+                "content": "BQ2", 
+                "href": "/2017/spring/CHEM/102/46571.json", 
+                "id": "46571"
+            }, 
+            {
+                "content": "BQ3", 
+                "href": "/2017/spring/CHEM/102/46572.json", 
+                "id": "46572"
+            }, 
+            {
+                "content": "BQ4", 
+                "href": "/2017/spring/CHEM/102/46573.json", 
+                "id": "46573"
+            }, 
+            {
+                "content": "BQ5", 
+                "href": "/2017/spring/CHEM/102/46574.json", 
+                "id": "46574"
+            }, 
+            {
+                "content": "BQ6", 
+                "href": "/2017/spring/CHEM/102/46575.json", 
+                "id": "46575"
+            }, 
+            {
+                "content": "BQ7", 
+                "href": "/2017/spring/CHEM/102/46576.json", 
+                "id": "46576"
+            }, 
+            {
+                "content": "BQ8", 
+                "href": "/2017/spring/CHEM/102/46577.json", 
+                "id": "46577"
+            }, 
+            {
+                "content": "BQ9", 
+                "href": "/2017/spring/CHEM/102/46578.json", 
+                "id": "46578"
+            }, 
+            {
+                "content": "BQA", 
+                "href": "/2017/spring/CHEM/102/46579.json", 
+                "id": "46579"
+            }, 
+            {
+                "content": "BQB", 
+                "href": "/2017/spring/CHEM/102/46580.json", 
+                "id": "46580"
+            }, 
+            {
+                "content": "BQC", 
+                "href": "/2017/spring/CHEM/102/46581.json", 
+                "id": "46581"
+            }, 
+            {
+                "content": "BQD", 
+                "href": "/2017/spring/CHEM/102/32182.json", 
+                "id": "32182"
+            }, 
+            {
+                "content": "BQE", 
+                "href": "/2017/spring/CHEM/102/32183.json", 
+                "id": "32183"
+            }, 
+            {
+                "content": "BQF", 
+                "href": "/2017/spring/CHEM/102/32186.json", 
+                "id": "32186"
+            }, 
+            {
+                "content": "BQG", 
+                "href": "/2017/spring/CHEM/102/32188.json", 
+                "id": "32188"
+            }, 
+            {
+                "content": "BQH", 
+                "href": "/2017/spring/CHEM/102/32198.json", 
+                "id": "32198"
+            }, 
+            {
+                "content": "BQI", 
+                "href": "/2017/spring/CHEM/102/32201.json", 
+                "id": "32201"
+            }, 
+            {
+                "content": "BQJ", 
+                "href": "/2017/spring/CHEM/102/32203.json", 
+                "id": "32203"
+            }, 
+            {
+                "content": "BQM", 
+                "href": "/2017/spring/CHEM/102/49037.json", 
+                "id": "49037"
+            }, 
+            {
+                "content": "BQN", 
+                "href": "/2017/spring/CHEM/102/64044.json", 
+                "id": "64044"
+            }, 
+            {
+                "content": "CL1", 
+                "href": "/2017/spring/CHEM/102/47915.json", 
+                "id": "47915"
+            }, 
+            {
+                "content": "CL2", 
+                "href": "/2017/spring/CHEM/102/55002.json", 
+                "id": "55002"
+            }, 
+            {
+                "content": "CQ1", 
+                "href": "/2017/spring/CHEM/102/47916.json", 
+                "id": "47916"
+            }, 
+            {
+                "content": "CQ2", 
+                "href": "/2017/spring/CHEM/102/47917.json", 
+                "id": "47917"
+            }, 
+            {
+                "content": "CQ3", 
+                "href": "/2017/spring/CHEM/102/47918.json", 
+                "id": "47918"
+            }, 
+            {
+                "content": "CQ4", 
+                "href": "/2017/spring/CHEM/102/47919.json", 
+                "id": "47919"
+            }, 
+            {
+                "content": "CQ5", 
+                "href": "/2017/spring/CHEM/102/47920.json", 
+                "id": "47920"
+            }, 
+            {
+                "content": "CQ6", 
+                "href": "/2017/spring/CHEM/102/47921.json", 
+                "id": "47921"
+            }, 
+            {
+                "content": "CQ7", 
+                "href": "/2017/spring/CHEM/102/47922.json", 
+                "id": "47922"
+            }, 
+            {
+                "content": "CQ8", 
+                "href": "/2017/spring/CHEM/102/47923.json", 
+                "id": "47923"
+            }, 
+            {
+                "content": "CQ9", 
+                "href": "/2017/spring/CHEM/102/47924.json", 
+                "id": "47924"
+            }, 
+            {
+                "content": "CQA", 
+                "href": "/2017/spring/CHEM/102/47925.json", 
+                "id": "47925"
+            }, 
+            {
+                "content": "CQB", 
+                "href": "/2017/spring/CHEM/102/47926.json", 
+                "id": "47926"
+            }, 
+            {
+                "content": "CQC", 
+                "href": "/2017/spring/CHEM/102/47927.json", 
+                "id": "47927"
+            }, 
+            {
+                "content": "CQD", 
+                "href": "/2017/spring/CHEM/102/55601.json", 
+                "id": "55601"
+            }, 
+            {
+                "content": "CQE", 
+                "href": "/2017/spring/CHEM/102/49212.json", 
+                "id": "49212"
+            }
+        ]
+    }
+}

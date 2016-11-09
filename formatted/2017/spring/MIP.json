@@ -1,0 +1,45 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "524 Burrill Hall, 407 South Goodwin, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Head of Department: Milan Bagchi\nDepartment Office, 524 Burrill Hall, 407 South Goodwin, Urbana, 217-333-1735\nhttp://mcb.illinois.edu/", 
+    "contactName": "Milan Bagchi", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Individual Topics", 
+                "href": "/2017/spring/MIP/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Seminars in Physiology", 
+                "href": "/2017/spring/MIP/595.json", 
+                "id": "595"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/MIP/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1604", 
+    "id": "MIP", 
+    "label": "Molecular and Integrative Physiology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-1735", 
+    "unitName": "Molecular and Integrative Physiology", 
+    "webSiteURL": "http://mcb.illinois.edu/"
+}

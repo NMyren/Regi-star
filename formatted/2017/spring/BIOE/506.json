@@ -1,0 +1,35 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional credit. Prerequisite: MCB 250.", 
+    "creditHours": "4 hours.", 
+    "description": "Introduction to modern biotechnologies for studies on the Central Dogma of Biology (DNA, RNA, and Protein) as well as cellular organelles and cell imaging. In-depth review of traditional established methods and emerging ones, emphasizing high precision, high spatial/temporal resolution, high-throughput, molecular accuracy, sensitivity and real-time imaging. Techniques include single molecule sequencing, super resolution cell imaging, and gene therapeutic methods. Example applications of technology are included through relevant journal articles. 4 graduate hours. No professional credit. Prerequisite: MCB 250.", 
+    "href": "/2017/spring/BIOE/506.json", 
+    "id": "BIOE 506", 
+    "label": "Molecular Biotechniques", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Bioengineering", 
+            "href": "/2017/spring/BIOE.json", 
+            "id": "BIOE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sectionDeptRestriction": "Not intended for students in the Bioengineering department.", 
+    "sectionRegistrationNotes": "Restricted to Bioengineering major(s). Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/BIOE/506/51654.json", 
+            "id": "51654"
+        }
+    }
+}

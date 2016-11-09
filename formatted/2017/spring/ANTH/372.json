@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated in separate terms. Prerequisite: ANTH 104, ANTH 270, or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Advanced topics in language and culture. May be repeated in separate terms. Prerequisite: ANTH 104, ANTH 270, or consent of instructor.", 
+    "href": "/2017/spring/ANTH/372.json", 
+    "id": "ANTH 372", 
+    "label": "Topics in Lang & Culture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Anthropology", 
+            "href": "/2017/spring/ANTH.json", 
+            "id": "ANTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "3", 
+            "href": "/2017/spring/ANTH/372/65188.json", 
+            "id": "65188"
+        }
+    }
+}

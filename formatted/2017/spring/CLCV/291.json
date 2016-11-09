@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated one time. Prerequisite: Consent of departmental honors advisor.", 
+    "creditHours": "1 TO 3 hours.", 
+    "description": "Study of selected topics on an individually arranged basis. Open only to honors majors or to Cohn Scholars and Associates. May be repeated one time. Prerequisite: Consent of departmental honors advisor.", 
+    "href": "/2017/spring/CLCV/291.json", 
+    "id": "CLCV 291", 
+    "label": "Freshman Honors Tutorial", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Classical Civilization", 
+            "href": "/2017/spring/CLCV.json", 
+            "id": "CLCV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CLCV/291/10530.json", 
+            "id": "10530"
+        }
+    }
+}

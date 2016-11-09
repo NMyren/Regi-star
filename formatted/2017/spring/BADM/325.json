@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Prerequisite: BADM 320.", 
+    "creditHours": "3 hours.", 
+    "description": "Studies the factors affecting customer behavior in household and organizational markets and their relevance for marketing management planning and analysis; provides an overview of explanations of consumption differences anchored in socioeconomic, demographic, cultural, and psychological processes; and surveys buyer decision-making processes and their implications for marketing strategy. Prerequisite: BADM 320.", 
+    "href": "/2017/spring/BADM/325.json", 
+    "id": "BADM 325", 
+    "label": "Consumer Behavior", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Marketing or Information Sys & Info Tech or Supply Chain Management or Business Process Management or Management major(s) or minor(s). Restricted to students with Junior or Senior class standing.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/BADM/325/31059.json", 
+                "id": "31059"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/BADM/325/31060.json", 
+                "id": "31060"
+            }
+        ]
+    }
+}

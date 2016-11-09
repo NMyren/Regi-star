@@ -1,0 +1,120 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section.", 
+    "courseSectionInformation": "Same as GEOG 100.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduces the student to the basic concepts and principles of meteorology via the interpretation of weather maps and charts; uses current weather information to illustrate key concepts, emphasizes the physical atmospheric processes responsible for weather. By the end of the class students will be able to interpret and make basic weather forecasts as well as be able to explain basic atmospheric phenomena. Same as GEOG 100.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Natural Sciences & Technology", 
+                "id": "NAT", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1PS", 
+                        "content": "UIUC: Physical Sciences"
+                    }
+                }
+            }, 
+            {
+                "description": "Quantitative Reasoning", 
+                "id": "QR", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1QR2", 
+                        "content": "UIUC: Quant Reasoning II"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/ATMS/100.json", 
+    "id": "ATMS 100", 
+    "label": "Introduction to Meteorology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Atmospheric Sciences", 
+            "href": "/2017/spring/ATMS.json", 
+            "id": "ATMS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Physical Sciences, and Quant Reasoning II course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "ADB", 
+                "href": "/2017/spring/ATMS/100/48350.json", 
+                "id": "48350"
+            }, 
+            {
+                "content": "ADC", 
+                "href": "/2017/spring/ATMS/100/48351.json", 
+                "id": "48351"
+            }, 
+            {
+                "content": "ADD", 
+                "href": "/2017/spring/ATMS/100/30874.json", 
+                "id": "30874"
+            }, 
+            {
+                "content": "ADE", 
+                "href": "/2017/spring/ATMS/100/30876.json", 
+                "id": "30876"
+            }, 
+            {
+                "content": "ADF", 
+                "href": "/2017/spring/ATMS/100/48342.json", 
+                "id": "48342"
+            }, 
+            {
+                "content": "ADG", 
+                "href": "/2017/spring/ATMS/100/48343.json", 
+                "id": "48343"
+            }, 
+            {
+                "content": "ADH", 
+                "href": "/2017/spring/ATMS/100/48346.json", 
+                "id": "48346"
+            }, 
+            {
+                "content": "ADK", 
+                "href": "/2017/spring/ATMS/100/30880.json", 
+                "id": "30880"
+            }, 
+            {
+                "content": "ADL", 
+                "href": "/2017/spring/ATMS/100/30881.json", 
+                "id": "30881"
+            }, 
+            {
+                "content": "ADM", 
+                "href": "/2017/spring/ATMS/100/30883.json", 
+                "id": "30883"
+            }, 
+            {
+                "content": "ADN", 
+                "href": "/2017/spring/ATMS/100/30885.json", 
+                "id": "30885"
+            }, 
+            {
+                "content": "ADO", 
+                "href": "/2017/spring/ATMS/100/50878.json", 
+                "id": "50878"
+            }, 
+            {
+                "content": "AL2", 
+                "href": "/2017/spring/ATMS/100/39350.json", 
+                "id": "39350"
+            }
+        ]
+    }
+}

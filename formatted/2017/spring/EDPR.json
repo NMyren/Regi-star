@@ -1,0 +1,65 @@
+{
+    "addressLine2": "CTE Office, 505 E. Green, Ste. 203, Champaign; Offices for Student Teaching:  Agricultural Education, 133 Bevier Hall; Visual Arts Education, 118 Art & Design Building; Early Childhood and Elementary Education, 398 Education Building; Foreign Language, 2070B FLB; Kinesiology, 129 Freer Hall; Library Science, 501 E. Daniel, Rm 320; Music Education, 3022 Music Building; Secondary Education (English, Mathematics, Sciences, and Social Science), 398 Education Building; Special Education, 288 Education Building.", 
+    "collegeCode": "KN", 
+    "collegeDepartmentDescription": "Executive Director: Chris Roegge\n, CTE Office, 505 E. Green, Ste. 203, Champaign; Offices for Student Teaching:  Agricultural Education, 133 Bevier Hall; Visual Arts Education, 118 Art & Design Building; Early Childhood and Elementary Education, 398 Education Building; Foreign Language, 2070B FLB; Kinesiology, 129 Freer Hall; Library Science, 501 E. Daniel, Rm 320; Music Education, 3022 Music Building; Secondary Education (English, Mathematics, Sciences, and Social Science), 398 Education Building; Special Education, 288 Education Building., See web site for phone numbers.\nSubjects associated with this department include: Educational Practice (EDPR). Enrollment in these courses, with the exception of EDPR 199, is restricted to candidates in teacher preparation programs.\nwww.ed.uiuc.edu/cte", 
+    "contactName": "Chris Roegge", 
+    "contactTitle": "Executive Director", 
+    "courses": {
+        "course": [
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/EDPR/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "School & Community Experiences", 
+                "href": "/2017/spring/EDPR/250.json", 
+                "id": "250"
+            }, 
+            {
+                "content": "Ed Prac Students with Sp Needs", 
+                "href": "/2017/spring/EDPR/420.json", 
+                "id": "420"
+            }, 
+            {
+                "content": "Ed Prac in EC & ELED", 
+                "href": "/2017/spring/EDPR/432.json", 
+                "id": "432"
+            }, 
+            {
+                "content": "Educational Practice in Special Fields", 
+                "href": "/2017/spring/EDPR/438.json", 
+                "id": "438"
+            }, 
+            {
+                "content": "Educational Practice in Secondary Education", 
+                "href": "/2017/spring/EDPR/442.json", 
+                "id": "442"
+            }, 
+            {
+                "content": "School and Community Experience", 
+                "href": "/2017/spring/EDPR/550.json", 
+                "id": "550"
+            }
+        ]
+    }, 
+    "departmentCode": "1541", 
+    "id": "EDPR", 
+    "label": "Educational Practice", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "See web site for phone numbers.", 
+    "subjectComment": "Subjects associated with this department include: Educational Practice (EDPR). Enrollment in these courses, with the exception of EDPR 199, is restricted to candidates in teacher preparation programs.", 
+    "unitName": "Teacher Education, Council on", 
+    "webSiteURL": "www.ed.uiuc.edu/cte"
+}

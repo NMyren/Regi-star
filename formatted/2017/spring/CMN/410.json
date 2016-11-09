@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Focuses on how communication technologies are designed, implemented, adopted, and used within and across organizations. Reviews a broad array of theories used to conceptualize technology in the workplace. Emphasis on how theory may be used to understand applications such as knowledge management, telecommuting, distributed work, and virtual organizations. Further focus on analyzing real-world cases to develop skills necessary for working in contemporary organizations. 3 undergraduate hours. 4 graduate hours.", 
+    "href": "/2017/spring/CMN/410.json", 
+    "id": "CMN 410", 
+    "label": "Workplace Comm Technology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "GR", 
+                "href": "/2017/spring/CMN/410/52643.json", 
+                "id": "52643"
+            }, 
+            {
+                "content": "UGR", 
+                "href": "/2017/spring/CMN/410/52644.json", 
+                "id": "52644"
+            }
+        ]
+    }
+}

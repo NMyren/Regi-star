@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. Prerequisite: Consent of instructor.", 
+    "creditHours": "0 TO 4 hours.", 
+    "description": "Lecture course in topics of current interest; subjects such as tropical meteorology, aerosol physics, and geophysical fluid dynamics will be covered in term offerings on a regular basis. Approved for both letter and S/U grading. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/ATMS/597.json", 
+    "id": "ATMS 597", 
+    "label": "Special Topics in Atmos Sci", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Atmospheric Sciences", 
+            "href": "/2017/spring/ATMS.json", 
+            "id": "ATMS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "JT", 
+            "href": "/2017/spring/ATMS/597/61791.json", 
+            "id": "61791"
+        }
+    }
+}

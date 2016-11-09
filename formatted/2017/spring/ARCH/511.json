@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: ARCH 410, or equivalent as determined by the instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Seminar on topics in ancient architecture. Prerequisite: ARCH 410, or equivalent as determined by the instructor.", 
+    "href": "/2017/spring/ARCH/511.json", 
+    "id": "ARCH 511", 
+    "label": "Seminar in Ancient Arch", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "ANC", 
+            "href": "/2017/spring/ARCH/511/30307.json", 
+            "id": "30307"
+        }
+    }
+}

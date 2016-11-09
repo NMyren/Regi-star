@@ -1,0 +1,43 @@
+{
+    "creditHours": "2 OR 4 hours.", 
+    "description": "Examines and analyzes the organization as a social system and the impact of its various components on work attitudes and behavior; topics include the development of organizational structures, organizational effectiveness, decision making and policy formulation, leadership, and change.", 
+    "href": "/2017/spring/BADM/509.json", 
+    "id": "BADM 509", 
+    "label": "Managing Organizations", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "IMB", 
+                "href": "/2017/spring/BADM/509/64312.json", 
+                "id": "64312"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/BADM/509/64165.json", 
+                "id": "64165"
+            }, 
+            {
+                "content": "X", 
+                "href": "/2017/spring/BADM/509/31285.json", 
+                "id": "31285"
+            }
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading. May be repeated.", 
+    "creditHours": "0 TO 5 hours.", 
+    "description": "Approved for letter and S/U grading. May be repeated.", 
+    "href": "/2017/spring/CHEM/199.json", 
+    "id": "CHEM 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/CHEM/199/10505.json", 
+                "id": "10505"
+            }, 
+            {
+                "content": "DGS", 
+                "href": "/2017/spring/CHEM/199/64045.json", 
+                "id": "64045"
+            }, 
+            {
+                "content": "GD1", 
+                "href": "/2017/spring/CHEM/199/65895.json", 
+                "id": "65895"
+            }, 
+            {
+                "content": "GD2", 
+                "href": "/2017/spring/CHEM/199/65901.json", 
+                "id": "65901"
+            }, 
+            {
+                "content": "GL1", 
+                "href": "/2017/spring/CHEM/199/65896.json", 
+                "id": "65896"
+            }, 
+            {
+                "content": "GL2", 
+                "href": "/2017/spring/CHEM/199/65900.json", 
+                "id": "65900"
+            }, 
+            {
+                "content": "K", 
+                "href": "/2017/spring/CHEM/199/41974.json", 
+                "id": "41974"
+            }, 
+            {
+                "content": "L", 
+                "href": "/2017/spring/CHEM/199/58779.json", 
+                "id": "58779"
+            }, 
+            {
+                "content": "L2", 
+                "href": "/2017/spring/CHEM/199/32558.json", 
+                "id": "32558"
+            }, 
+            {
+                "content": "M", 
+                "href": "/2017/spring/CHEM/199/32559.json", 
+                "id": "32559"
+            }, 
+            {
+                "content": "S", 
+                "href": "/2017/spring/CHEM/199/32560.json", 
+                "id": "32560"
+            }
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "courseSectionInformation": "Credit is not given for both PSYC 301 and any of STAT 100, ECON 202, EPSY 480, PSYC 235, SOC 485.", 
+    "creditHours": "5 hours.", 
+    "description": "Development of skill and understanding of statistical methods for problems in psychological research; topics include descriptive statistics, probability theory and distributions, point and interval estimation, and hypothesis testing. The class also involves a computer laboratory. Strongly recommended to students who plan to pursue graduate studies in Psychology. Credit is not given for both PSYC 301 and any of STAT 100, ECON 202, EPSY 480, PSYC 235, SOC 485.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Quantitative Reasoning", 
+            "id": "QR", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1QR1", 
+                    "content": "UIUC: Quant Reasoning I"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/PSYC/301.json", 
+    "id": "PSYC 301", 
+    "label": "Psychological Statistics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Quant Reasoning I course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/PSYC/301/39643.json", 
+                "id": "39643"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/PSYC/301/39583.json", 
+                "id": "39583"
+            }
+        ]
+    }
+}

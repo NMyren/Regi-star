@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: TURK 405 or equivalent.", 
+    "creditHours": "3 hours.", 
+    "description": "Continuation of TURK 405 with increased emphasis on conversational fluency and comprehension of advanced level grammar in the reading of a variety of prose texts on current cultural issues. 3 undergraduate hours. 3 graduate hours. Prerequisite: TURK 405 or equivalent.", 
+    "href": "/2017/spring/TURK/406.json", 
+    "id": "TURK 406", 
+    "label": "Advanced Turkish II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Turkish", 
+            "href": "/2017/spring/TURK.json", 
+            "id": "TURK"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A1", 
+            "href": "/2017/spring/TURK/406/48761.json", 
+            "id": "48761"
+        }
+    }
+}

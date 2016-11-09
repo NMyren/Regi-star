@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as BIOE 480. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: Recommended: ECE 310.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Fundamental physical, mathematical, and computational principles governing the data acquisition and image reconstruction of magnetic resonance imaging. Same as BIOE 480. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: Recommended: ECE 310.", 
+    "href": "/2017/spring/ECE/480.json", 
+    "id": "ECE 480", 
+    "label": "Magnetic Resonance Imaging", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G", 
+                "href": "/2017/spring/ECE/480/33971.json", 
+                "id": "33971"
+            }, 
+            {
+                "content": "U3", 
+                "href": "/2017/spring/ECE/480/57562.json", 
+                "id": "57562"
+            }
+        ]
+    }
+}

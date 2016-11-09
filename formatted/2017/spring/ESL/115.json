@@ -1,0 +1,93 @@
+{
+    "classScheduleInformation": "Proof of eligibility must be brought to the first meeting of the class. No student will be permitted to remain in the class who does not take the Diagnostic Test administered during the first three class meetings.", 
+    "courseSectionInformation": "Credit is not given for both ESL 115 and any other Comp I courses: RHET 101, RHET 102, RHET 103, RHET 104, RHET 105,  CMN 111, CMN 112, ESL 111, ESL 112. Prerequisite: 115 placement result on the English Placement Test.", 
+    "creditHours": "4 hours.", 
+    "description": "Introduction to the research paper, including the writing process: pre-research, academic style and organization, and a variety of writing and skill-building tasks; development of peer and self-editing skills. ESL 115 fulfills the campus Composition I requirement for non-native speakers of English. Credit is not given for both ESL 115 and any other Comp I courses: RHET 101, RHET 102, RHET 103, RHET 104, RHET 105,  CMN 111, CMN 112, ESL 111, ESL 112. Prerequisite: 115 placement result on the English Placement Test.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Composition I", 
+            "id": "COMP1", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1FC1", 
+                    "content": "UIUC: Freshman Composition I"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/ESL/115.json", 
+    "id": "ESL 115", 
+    "label": "Principles of Academic Writing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English as a Second Language", 
+            "href": "/2017/spring/ESL.json", 
+            "id": "ESL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Freshman Composition I course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A1", 
+                "href": "/2017/spring/ESL/115/59118.json", 
+                "id": "59118"
+            }, 
+            {
+                "content": "B1", 
+                "href": "/2017/spring/ESL/115/59119.json", 
+                "id": "59119"
+            }, 
+            {
+                "content": "C1", 
+                "href": "/2017/spring/ESL/115/59120.json", 
+                "id": "59120"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/ESL/115/50998.json", 
+                "id": "50998"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/ESL/115/50999.json", 
+                "id": "50999"
+            }, 
+            {
+                "content": "J", 
+                "href": "/2017/spring/ESL/115/51002.json", 
+                "id": "51002"
+            }, 
+            {
+                "content": "K", 
+                "href": "/2017/spring/ESL/115/55439.json", 
+                "id": "55439"
+            }, 
+            {
+                "content": "Q", 
+                "href": "/2017/spring/ESL/115/59108.json", 
+                "id": "59108"
+            }, 
+            {
+                "content": "T", 
+                "href": "/2017/spring/ESL/115/59111.json", 
+                "id": "59111"
+            }, 
+            {
+                "content": "W", 
+                "href": "/2017/spring/ESL/115/59114.json", 
+                "id": "59114"
+            }
+        ]
+    }
+}

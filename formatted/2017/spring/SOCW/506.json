@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: SOCW 400.", 
+    "creditHours": "4 hours.", 
+    "description": "Examination and critical evaluation of selected methods/approaches of intervention; research on their effectiveness and application to specific problems of children and adolescents that come to the attention of social workers and other helping professionals; attention given to remediation and prevention. The course provides opportunities for students to develop skills through participation in a service learning project. Prerequisite: SOCW 400.", 
+    "href": "/2017/spring/SOCW/506.json", 
+    "id": "SOCW 506", 
+    "label": "SW Practice with Child/Adol", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SOCW/506/32842.json", 
+            "id": "32842"
+        }
+    }
+}

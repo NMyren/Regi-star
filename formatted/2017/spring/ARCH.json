@@ -1,0 +1,260 @@
+{
+    "addressLine1": "School Office", 
+    "addressLine2": "117 Temple Buell Hall, 611 Taft Drive, Champaign", 
+    "collegeCode": "KR", 
+    "collegeDepartmentDescription": "Director: Peter Mortensen\nSchool Office, 117 Temple Buell Hall, 611 Taft Drive, Champaign, 217-333-1330, (G)217-244-4384 (U)217-333-7720\nwww.arch.illinois.edu", 
+    "contactName": "Peter Mortensen", 
+    "contactTitle": "Director", 
+    "courses": {
+        "course": [
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/ARCH/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Intro to the Hist of Arch", 
+                "href": "/2017/spring/ARCH/210.json", 
+                "id": "210"
+            }, 
+            {
+                "content": "Islamic Gardens & Architecture", 
+                "href": "/2017/spring/ARCH/222.json", 
+                "id": "222"
+            }, 
+            {
+                "content": "Construction of Buildings", 
+                "href": "/2017/spring/ARCH/233.json", 
+                "id": "233"
+            }, 
+            {
+                "content": "Strategies of Arch Design", 
+                "href": "/2017/spring/ARCH/272.json", 
+                "id": "272"
+            }, 
+            {
+                "content": "History of World Landscapes", 
+                "href": "/2017/spring/ARCH/314.json", 
+                "id": "314"
+            }, 
+            {
+                "content": "Environment Tech HVAC", 
+                "href": "/2017/spring/ARCH/341.json", 
+                "id": "341"
+            }, 
+            {
+                "content": "Environment Tech Ltg & Acoust", 
+                "href": "/2017/spring/ARCH/342.json", 
+                "id": "342"
+            }, 
+            {
+                "content": "Mech of Mat & Design Appl", 
+                "href": "/2017/spring/ARCH/352.json", 
+                "id": "352"
+            }, 
+            {
+                "content": "Arch Design and the City", 
+                "href": "/2017/spring/ARCH/374.json", 
+                "id": "374"
+            }, 
+            {
+                "content": "Senior Honors in Architecture", 
+                "href": "/2017/spring/ARCH/400.json", 
+                "id": "400"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/ARCH/401.json", 
+                "id": "401"
+            }, 
+            {
+                "content": "Special Topics in Spanish Arch", 
+                "href": "/2017/spring/ARCH/409.json", 
+                "id": "409"
+            }, 
+            {
+                "content": "Ancient Egyptian & Greek Arch", 
+                "href": "/2017/spring/ARCH/410.json", 
+                "id": "410"
+            }, 
+            {
+                "content": "Neoclass & Nineteen Cent Arch", 
+                "href": "/2017/spring/ARCH/415.json", 
+                "id": "415"
+            }, 
+            {
+                "content": "Modern American Architecture", 
+                "href": "/2017/spring/ARCH/416.json", 
+                "id": "416"
+            }, 
+            {
+                "content": "Historic Building Preservation", 
+                "href": "/2017/spring/ARCH/419.json", 
+                "id": "419"
+            }, 
+            {
+                "content": "Theory of Reinforced Concrete", 
+                "href": "/2017/spring/ARCH/452.json", 
+                "id": "452"
+            }, 
+            {
+                "content": "Overseas Architectural Studies", 
+                "href": "/2017/spring/ARCH/468.json", 
+                "id": "468"
+            }, 
+            {
+                "content": "Arch Des in Landscape & Cities", 
+                "href": "/2017/spring/ARCH/472.json", 
+                "id": "472"
+            }, 
+            {
+                "content": "Arch Design & Development", 
+                "href": "/2017/spring/ARCH/475.json", 
+                "id": "475"
+            }, 
+            {
+                "content": "Arch Design & Exploration", 
+                "href": "/2017/spring/ARCH/476.json", 
+                "id": "476"
+            }, 
+            {
+                "content": "Arch Professional Internship", 
+                "href": "/2017/spring/ARCH/491.json", 
+                "id": "491"
+            }, 
+            {
+                "content": "Off-Campus Study", 
+                "href": "/2017/spring/ARCH/499.json", 
+                "id": "499"
+            }, 
+            {
+                "content": "Architectural Practice", 
+                "href": "/2017/spring/ARCH/501.json", 
+                "id": "501"
+            }, 
+            {
+                "content": "History of World Landscapes", 
+                "href": "/2017/spring/ARCH/510.json", 
+                "id": "510"
+            }, 
+            {
+                "content": "Seminar in Ancient Arch", 
+                "href": "/2017/spring/ARCH/511.json", 
+                "id": "511"
+            }, 
+            {
+                "content": "Bldg Sys & Design Integration", 
+                "href": "/2017/spring/ARCH/544.json", 
+                "id": "544"
+            }, 
+            {
+                "content": "Reinforced Concrete Design", 
+                "href": "/2017/spring/ARCH/550.json", 
+                "id": "550"
+            }, 
+            {
+                "content": "Soil Mech and Foundations", 
+                "href": "/2017/spring/ARCH/552.json", 
+                "id": "552"
+            }, 
+            {
+                "content": "Adv Reinforced Concrete Design", 
+                "href": "/2017/spring/ARCH/553.json", 
+                "id": "553"
+            }, 
+            {
+                "content": "Advanced Structural Planning", 
+                "href": "/2017/spring/ARCH/556.json", 
+                "id": "556"
+            }, 
+            {
+                "content": "Structural Wood Design", 
+                "href": "/2017/spring/ARCH/558.json", 
+                "id": "558"
+            }, 
+            {
+                "content": "Soc/Beh Research Designed Env", 
+                "href": "/2017/spring/ARCH/563.json", 
+                "id": "563"
+            }, 
+            {
+                "content": "Design:Detail & Architectonics", 
+                "href": "/2017/spring/ARCH/571.json", 
+                "id": "571"
+            }, 
+            {
+                "content": "Design: Behavior & Environment", 
+                "href": "/2017/spring/ARCH/572.json", 
+                "id": "572"
+            }, 
+            {
+                "content": "Design:Technology &Performance", 
+                "href": "/2017/spring/ARCH/573.json", 
+                "id": "573"
+            }, 
+            {
+                "content": "Design:Arch/Urban&Preservation", 
+                "href": "/2017/spring/ARCH/574.json", 
+                "id": "574"
+            }, 
+            {
+                "content": "Architectural Design Seminar", 
+                "href": "/2017/spring/ARCH/576.json", 
+                "id": "576"
+            }, 
+            {
+                "content": "Directed Research", 
+                "href": "/2017/spring/ARCH/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Spec Prob Arch Hist & Pres", 
+                "href": "/2017/spring/ARCH/591.json", 
+                "id": "591"
+            }, 
+            {
+                "content": "Spec Prob Arch Practice & Mgt", 
+                "href": "/2017/spring/ARCH/593.json", 
+                "id": "593"
+            }, 
+            {
+                "content": "Spec Prob Building Sci & Tech", 
+                "href": "/2017/spring/ARCH/594.json", 
+                "id": "594"
+            }, 
+            {
+                "content": "Spec Prob Struct Theory & Des", 
+                "href": "/2017/spring/ARCH/595.json", 
+                "id": "595"
+            }, 
+            {
+                "content": "Spec Prob Arch Design", 
+                "href": "/2017/spring/ARCH/597.json", 
+                "id": "597"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/ARCH/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1767", 
+    "id": "ARCH", 
+    "label": "Architecture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-1330, (G)217-244-4384 (U)217-333-7720", 
+    "unitName": "Architecture, School of", 
+    "webSiteURL": "www.arch.illinois.edu"
+}

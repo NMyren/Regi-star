@@ -1,0 +1,31 @@
+{
+    "creditHours": "2 OR 4 hours.", 
+    "description": "A survey of genre fiction, readers' advisory services, the promotion of fiction, narrative nonfiction & media collections in libraries, the social effects of reading, and publishing as a business. Course objectives include: understanding why adults read for pleasure; gaining familiarity with popular fiction genres and their authors; understanding principles and tools of readers' advisory services; examining the issues of popular fiction publishing including the impact of technology in creating new formats; and the process of acquisition, maintenance, and marketing of popular fiction in libraries.", 
+    "href": "/2017/spring/LIS/528.json", 
+    "id": "LIS 528", 
+    "label": "Adult Popular Literature", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/LIS/528/58785.json", 
+            "id": "58785"
+        }
+    }
+}

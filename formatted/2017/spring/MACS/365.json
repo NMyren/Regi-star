@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as AAS 365. See AAS 365.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as AAS 365. See AAS 365.", 
+    "href": "/2017/spring/MACS/365.json", 
+    "id": "MACS 365", 
+    "label": "Asian American Media and Film", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Media and Cinema Studies", 
+            "href": "/2017/spring/MACS.json", 
+            "id": "MACS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MACS/365/57272.json", 
+            "id": "57272"
+        }
+    }
+}

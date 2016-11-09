@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: ECON 500 or equivalent.", 
+    "creditHours": "4 hours.", 
+    "description": "Research literature on commodity futures and options markets, both theoretical and empirical; topics include: supply of storage, basis models, theory of the firm and hedging under uncertainty, optimal hedging, speculative returns, market performance, pricing efficiency and option pricing. Prerequisite: ECON 500 or equivalent.", 
+    "href": "/2017/spring/ACE/528.json", 
+    "id": "ACE 528", 
+    "label": "Research in Futures Markets", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural and Consumer Economics", 
+            "href": "/2017/spring/ACE.json", 
+            "id": "ACE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "E", 
+            "href": "/2017/spring/ACE/528/43583.json", 
+            "id": "43583"
+        }
+    }
+}

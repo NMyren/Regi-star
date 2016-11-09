@@ -1,0 +1,62 @@
+{
+    "courseSectionInformation": "Same as GEOG 103. See GEOG 103.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as GEOG 103. See GEOG 103.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Natural Sciences & Technology", 
+            "id": "NAT", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1PS", 
+                    "content": "UIUC: Physical Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/ESE/103.json", 
+    "id": "ESE 103", 
+    "label": "Earth's Physical Systems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Earth, Society, and Environment", 
+            "href": "/2017/spring/ESE.json", 
+            "id": "ESE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Physical Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ESE/103/54793.json", 
+                "id": "54793"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/ESE/103/54794.json", 
+                "id": "54794"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/ESE/103/54795.json", 
+                "id": "54795"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ESE/103/54792.json", 
+                "id": "54792"
+            }
+        ]
+    }
+}

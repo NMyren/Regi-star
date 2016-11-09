@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as CLCV 217.", 
+    "creditHours": "3 hours.", 
+    "description": "Survey of architecture, sculpture, and painting of the Greek world from the geometric period to the beginning of the Christian era. Same as CLCV 217.", 
+    "href": "/2017/spring/ARTH/215.json", 
+    "id": "ARTH 215", 
+    "label": "Greek Art", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--History", 
+            "href": "/2017/spring/ARTH.json", 
+            "id": "ARTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ARTH/215/30623.json", 
+            "id": "30623"
+        }
+    }
+}

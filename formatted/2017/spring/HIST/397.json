@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as GWS 397.", 
+    "creditHours": "3 hours.", 
+    "description": "What is sexuality? How is it practiced, policed, represented, liberated and controlled? How do religion, the state, the law and the media influence sexual identities and practices? Focusing on modern Europe, we will examine the history of sexuality from the late eighteenth century to the present in order to explore how historians have answered these questions. We will investigate topics from pornography, prostitution, sex and totalitarianism, queer sexualities, sex and colonialism, and masturbation, to sex education, sexual revolutions, hermaphroditism, sex surveys and AIDS. Same as GWS 397.", 
+    "href": "/2017/spring/HIST/397.json", 
+    "id": "HIST 397", 
+    "label": "Sexuality in Modern Europe", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/HIST/397/65228.json", 
+            "id": "65228"
+        }
+    }
+}

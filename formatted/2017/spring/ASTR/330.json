@@ -1,0 +1,31 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Scientific discussion of the search for extraterrestrial life. Topics include: cosmic evolution (protons to heavy elements to molecules); terrestrial evolution (chemical, biological, and cultural); high technology searches for extraterrestrial life in the solar system (Mars, Venus, outer planets); and beyond the solar system (Drake equation and current SETI projects).", 
+    "href": "/2017/spring/ASTR/330.json", 
+    "id": "ASTR 330", 
+    "label": "Extraterrestrial Life", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Astronomy", 
+            "href": "/2017/spring/ASTR.json", 
+            "id": "ASTR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "AL1", 
+            "href": "/2017/spring/ASTR/330/49894.json", 
+            "id": "49894"
+        }
+    }
+}

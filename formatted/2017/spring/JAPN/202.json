@@ -1,0 +1,45 @@
+{
+    "classScheduleInformation": "Prior knowledge of language requires a placement exam to be given. Call 244-1432 for date of exam and to register for the test.", 
+    "courseSectionInformation": "Prerequisite: JAPN 201.", 
+    "creditHours": "5 hours.", 
+    "description": "Continuation of JAPN 201. Prerequisite: JAPN 201.", 
+    "href": "/2017/spring/JAPN/202.json", 
+    "id": "JAPN 202", 
+    "label": "Elementary Japanese II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Japanese", 
+            "href": "/2017/spring/JAPN.json", 
+            "id": "JAPN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "B", 
+                "href": "/2017/spring/JAPN/202/34732.json", 
+                "id": "34732"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/JAPN/202/34735.json", 
+                "id": "34735"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/JAPN/202/34736.json", 
+                "id": "34736"
+            }
+        ]
+    }
+}

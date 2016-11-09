@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Same as ESE 466. 3 undergraduate hours. 4 graduate hours. Prerequisite: One course in Geography or Political Science or consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Examination of the geographical and political aspects of human-environmental relations; focusing on how environmental problems are defined, negotiated, and addressed through policy formulation. Specific approaches to environmental policy will be considered at different geographical scales. Same as ESE 466. 3 undergraduate hours. 4 graduate hours. Prerequisite: One course in Geography or Political Science or consent of instructor.", 
+    "href": "/2017/spring/GEOG/466.json", 
+    "id": "GEOG 466", 
+    "label": "Environmental Policy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geography", 
+            "href": "/2017/spring/GEOG.json", 
+            "id": "GEOG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sections": {
+        "section": [
+            {
+                "content": "G", 
+                "href": "/2017/spring/GEOG/466/63732.json", 
+                "id": "63732"
+            }, 
+            {
+                "content": "UG", 
+                "href": "/2017/spring/GEOG/466/63731.json", 
+                "id": "63731"
+            }
+        ]
+    }
+}

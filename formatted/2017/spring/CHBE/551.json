@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as CHEM 582. Prerequisite: An undergraduate course in chemical kinetics.", 
+    "creditHours": "4 hours.", 
+    "description": "Rates and mechanisms of chemical reactions, treatment of data, steady state and unsteady behavior predictions of mechanisms, prediction of rate constants and activation barriers. Introduction to catalysis. Catalysis by solvents, metals, organometallics, acids, enzymes, semiconductors. Same as CHEM 582. Prerequisite: An undergraduate course in chemical kinetics.", 
+    "href": "/2017/spring/CHBE/551.json", 
+    "id": "CHBE 551", 
+    "label": "Chemical Kinetics & Catalysis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHBE/551/39060.json", 
+            "id": "39060"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ME 330 and ME 371; Recommended: ME 430.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Relationship of materials and mechanics concepts to the design of structures and components: elasticity, plasticity, thermal loading, creep, fatigue, fracture, and residual-life assessments as they relate to materials selection and design. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ME 330 and ME 371; Recommended: ME 430.", 
+    "href": "/2017/spring/ME/431.json", 
+    "id": "ME 431", 
+    "label": "Mechanical Component Failure", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "D3", 
+                "href": "/2017/spring/ME/431/38947.json", 
+                "id": "38947"
+            }, 
+            {
+                "content": "D4", 
+                "href": "/2017/spring/ME/431/38948.json", 
+                "id": "38948"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/ME/431/40677.json", 
+                "id": "40677"
+            }
+        ]
+    }
+}

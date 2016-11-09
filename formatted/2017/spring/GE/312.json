@@ -1,0 +1,75 @@
+{
+    "classScheduleInformation": "Students must register for a Lecture, Laboratory and Laboratory-Discussion section.", 
+    "courseSectionInformation": "Prerequisite: GE 310; concurrent registration in GE 311.", 
+    "creditHours": "1 hours.", 
+    "description": "Preparation for experimental projects; mechanical and electrical instruments; mechanical testing of materials; experimental stress analysis and photoelastic methods. Prerequisite: GE 310; concurrent registration in GE 311.", 
+    "href": "/2017/spring/GE/312.json", 
+    "id": "GE 312", 
+    "label": "Instrumentation and Test Lab", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "General Engineering", 
+            "href": "/2017/spring/GE.json", 
+            "id": "GE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/GE/312/33116.json", 
+                "id": "33116"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/GE/312/33123.json", 
+                "id": "33123"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/GE/312/33128.json", 
+                "id": "33128"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/GE/312/33135.json", 
+                "id": "33135"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/GE/312/33140.json", 
+                "id": "33140"
+            }, 
+            {
+                "content": "AY1", 
+                "href": "/2017/spring/GE/312/33120.json", 
+                "id": "33120"
+            }, 
+            {
+                "content": "AY2", 
+                "href": "/2017/spring/GE/312/33126.json", 
+                "id": "33126"
+            }, 
+            {
+                "content": "AY3", 
+                "href": "/2017/spring/GE/312/33132.json", 
+                "id": "33132"
+            }, 
+            {
+                "content": "AY4", 
+                "href": "/2017/spring/GE/312/33137.json", 
+                "id": "33137"
+            }
+        ]
+    }
+}

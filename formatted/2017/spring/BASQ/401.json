@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: Four semesters or equivalent of Spanish, French or another Romance language.", 
+    "creditHours": "3 hours.", 
+    "description": "Basic communication skills in Basque (listening, speaking, reading and writing). Introduction to basic information on Basque culture and history. 3 undergraduate hours. 3 graduate hours. Prerequisite: Four semesters or equivalent of Spanish, French or another Romance language.", 
+    "href": "/2017/spring/BASQ/401.json", 
+    "id": "BASQ 401", 
+    "label": "Beginners' Basque", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Basque", 
+            "href": "/2017/spring/BASQ.json", 
+            "id": "BASQ"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "B", 
+            "href": "/2017/spring/BASQ/401/57220.json", 
+            "id": "57220"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. May be repeated as topics vary. Prerequisite: Consent of instructor.", 
+    "creditHours": "0 TO 4 hours.", 
+    "description": "Seminar on topics of current interest in mathematics. Students present seminars and discussions on various topics. See Class Schedule for current topics. Recommended for all Mathematics students. Approved for both letter and S/U grading. May be repeated as topics vary. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/MATH/598.json", 
+    "id": "MATH 598", 
+    "label": "Literature Seminar in Math", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mathematics", 
+            "href": "/2017/spring/MATH.json", 
+            "id": "MATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Undergrad - Urbana-Champaign. Not intended for MS:Economics:Policy Econ -UIUC or MS: Financial Engineering.", 
+    "sections": {
+        "section": [
+            {
+                "content": "ACA", 
+                "href": "/2017/spring/MATH/598/65929.json", 
+                "id": "65929"
+            }, 
+            {
+                "content": "JT", 
+                "href": "/2017/spring/MATH/598/52024.json", 
+                "id": "52024"
+            }, 
+            {
+                "content": "OA", 
+                "href": "/2017/spring/MATH/598/61174.json", 
+                "id": "61174"
+            }, 
+            {
+                "content": "REN", 
+                "href": "/2017/spring/MATH/598/45371.json", 
+                "id": "45371"
+            }
+        ]
+    }
+}

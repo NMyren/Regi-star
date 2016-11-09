@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: MUS 103, ECE 290, and ECE 310.", 
+    "creditHours": "3 hours.", 
+    "description": "Historical survey of electronic and computer music technology; parameters of musical expression and their codification; analysis and synthesis of fixed sound spectra; time-variant spectrum analysis/synthesis of musical sounds; algorithms for dynamic sound synthesis. 3 undergraduate hours. 3 graduate hours. Prerequisite: MUS 103, ECE 290, and ECE 310.", 
+    "href": "/2017/spring/ECE/402.json", 
+    "id": "ECE 402", 
+    "label": "Electronic Music Synthesis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB", 
+                "href": "/2017/spring/ECE/402/65853.json", 
+                "id": "65853"
+            }, 
+            {
+                "content": "AL", 
+                "href": "/2017/spring/ECE/402/62076.json", 
+                "id": "62076"
+            }
+        ]
+    }
+}

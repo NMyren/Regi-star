@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. Prerequisite: Open to all graduate students.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "The course seeks to build foundational knowledge in areas associated with online teaching and learning and distance education in both higher education and workplace learning settings. Major areas of interest include the overview of online teaching and learning strategies, digital learning system design, digital media for learning, and evaluation online teaching and learning. 3 undergraduate hours. 4 graduate hours. Prerequisite: Open to all graduate students.", 
+    "href": "/2017/spring/HRD/480.json", 
+    "id": "HRD 480", 
+    "label": "Foundation Online Teach Lrn", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Human Resource Development", 
+            "href": "/2017/spring/HRD.json", 
+            "id": "HRD"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/HRD/480/64984.json", 
+                "id": "64984"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/HRD/480/64985.json", 
+                "id": "64985"
+            }
+        ]
+    }
+}

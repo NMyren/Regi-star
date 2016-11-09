@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 6 hours. Prerequisite: Graduate Veterinarian or consent of instructor.", 
+    "creditHours": "1 hours.", 
+    "description": "This course will use current primary literature in the fields of equine medicine and surgery as a gateway to discussion. Current literature will be reviewed, critiqued, and discussed in the context of current equine clinical practice. Students are expected to be graduate veterinarians with a thorough understanding of equine medical and surgical concepts before enrolling in the course. May be repeated to a maximum of 6 hours. Prerequisite: Graduate Veterinarian or consent of instructor.", 
+    "href": "/2017/spring/VCM/503.json", 
+    "id": "VCM 503", 
+    "label": "Current Lit in Equine Med Surg", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Veterinary Clinical Medicine", 
+            "href": "/2017/spring/VCM.json", 
+            "id": "VCM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/VCM/503/48513.json", 
+            "id": "48513"
+        }
+    }
+}

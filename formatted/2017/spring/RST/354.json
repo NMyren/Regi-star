@@ -1,0 +1,32 @@
+{
+    "creditHours": "3 OR 4 hours.", 
+    "description": "A study of legal principles and their impact on the sport industry; the course examines the application of different areas of law including tort, contract, constitutional, anti-trust, and intellectual property law to professional, amateur and recreational sport.", 
+    "href": "/2017/spring/RST/354.json", 
+    "id": "RST 354", 
+    "label": "Legal Aspects of Sport", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to students with Junior or Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/RST/354/43118.json", 
+            "id": "43118"
+        }
+    }
+}

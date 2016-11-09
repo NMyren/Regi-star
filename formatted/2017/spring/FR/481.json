@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as GER 489, ITAL 489, LING 489, PORT 489, and SPAN 489. See LING 489.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as GER 489, ITAL 489, LING 489, PORT 489, and SPAN 489. See LING 489.", 
+    "href": "/2017/spring/FR/481.json", 
+    "id": "FR 481", 
+    "label": "Theoretical Foundations of SLA", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "French", 
+            "href": "/2017/spring/FR.json", 
+            "id": "FR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G4", 
+                "href": "/2017/spring/FR/481/38717.json", 
+                "id": "38717"
+            }, 
+            {
+                "content": "U3", 
+                "href": "/2017/spring/FR/481/38714.json", 
+                "id": "38714"
+            }
+        ]
+    }
+}

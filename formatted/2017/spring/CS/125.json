@@ -1,0 +1,163 @@
+{
+    "classScheduleInformation": "Students must register for one lab-discussion and one lecture section. Engineering students must obtain a dean's approval to drop this course after the second week of instruction.", 
+    "courseSectionInformation": "Prerequisite: Three years of high school mathematics or MATH 112.", 
+    "creditHours": "4 hours.", 
+    "description": "Basic concepts in computing and fundamental techniques for solving computational problems. Intended as a first course for computer science majors and others with a deep interest in computing. Prerequisite: Three years of high school mathematics or MATH 112.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Quantitative Reasoning", 
+            "id": "QR", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1QR1", 
+                    "content": "UIUC: Quant Reasoning I"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CS/125.json", 
+    "id": "CS 125", 
+    "label": "Intro to Computer Science", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Quant Reasoning I course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CS/125/31152.json", 
+                "id": "31152"
+            }, 
+            {
+                "content": "AL2", 
+                "href": "/2017/spring/CS/125/31155.json", 
+                "id": "31155"
+            }, 
+            {
+                "content": "AL3", 
+                "href": "/2017/spring/CS/125/50104.json", 
+                "id": "50104"
+            }, 
+            {
+                "content": "AYA", 
+                "href": "/2017/spring/CS/125/31157.json", 
+                "id": "31157"
+            }, 
+            {
+                "content": "AYB", 
+                "href": "/2017/spring/CS/125/31159.json", 
+                "id": "31159"
+            }, 
+            {
+                "content": "AYC", 
+                "href": "/2017/spring/CS/125/31160.json", 
+                "id": "31160"
+            }, 
+            {
+                "content": "AYD", 
+                "href": "/2017/spring/CS/125/31163.json", 
+                "id": "31163"
+            }, 
+            {
+                "content": "AYE", 
+                "href": "/2017/spring/CS/125/31176.json", 
+                "id": "31176"
+            }, 
+            {
+                "content": "AYF", 
+                "href": "/2017/spring/CS/125/31177.json", 
+                "id": "31177"
+            }, 
+            {
+                "content": "AYG", 
+                "href": "/2017/spring/CS/125/31166.json", 
+                "id": "31166"
+            }, 
+            {
+                "content": "AYH", 
+                "href": "/2017/spring/CS/125/31168.json", 
+                "id": "31168"
+            }, 
+            {
+                "content": "AYI", 
+                "href": "/2017/spring/CS/125/31170.json", 
+                "id": "31170"
+            }, 
+            {
+                "content": "AYJ", 
+                "href": "/2017/spring/CS/125/31172.json", 
+                "id": "31172"
+            }, 
+            {
+                "content": "AYK", 
+                "href": "/2017/spring/CS/125/31174.json", 
+                "id": "31174"
+            }, 
+            {
+                "content": "AYL", 
+                "href": "/2017/spring/CS/125/31180.json", 
+                "id": "31180"
+            }, 
+            {
+                "content": "AYM", 
+                "href": "/2017/spring/CS/125/62256.json", 
+                "id": "62256"
+            }, 
+            {
+                "content": "AYN", 
+                "href": "/2017/spring/CS/125/62257.json", 
+                "id": "62257"
+            }, 
+            {
+                "content": "AYO", 
+                "href": "/2017/spring/CS/125/62258.json", 
+                "id": "62258"
+            }, 
+            {
+                "content": "AYP", 
+                "href": "/2017/spring/CS/125/62259.json", 
+                "id": "62259"
+            }, 
+            {
+                "content": "AYQ", 
+                "href": "/2017/spring/CS/125/62260.json", 
+                "id": "62260"
+            }, 
+            {
+                "content": "AYR", 
+                "href": "/2017/spring/CS/125/62261.json", 
+                "id": "62261"
+            }, 
+            {
+                "content": "AYS", 
+                "href": "/2017/spring/CS/125/62262.json", 
+                "id": "62262"
+            }, 
+            {
+                "content": "AYT", 
+                "href": "/2017/spring/CS/125/62264.json", 
+                "id": "62264"
+            }, 
+            {
+                "content": "AYU", 
+                "href": "/2017/spring/CS/125/62265.json", 
+                "id": "62265"
+            }
+        ]
+    }
+}

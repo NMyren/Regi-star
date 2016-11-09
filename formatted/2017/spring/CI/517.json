@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Same as LLS 517. Prerequisite: CI 433 or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Explores the role of assessment in education of culturally and linguistically diverse students in K - 12 classrooms. Current trends in assessment in the United States will be analyzed as well as how assessments are used for the identification and placement of bilingual and ESL students.  The use and scoring of language proficiency assessments will be examined along with various forms of classroom-based assessment. Meets ISBE assessment requirements for a bilingual and ESL teaching approval or endorsement. Same as LLS 517. Prerequisite: CI 433 or consent of instructor.", 
+    "href": "/2017/spring/CI/517.json", 
+    "id": "CI 517", 
+    "label": "Bilingual and ESL Assessment", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/CI/517/50046.json", 
+                "id": "50046"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/CI/517/60668.json", 
+                "id": "60668"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CI/517/63963.json", 
+                "id": "63963"
+            }
+        ]
+    }
+}

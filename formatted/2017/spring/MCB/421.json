@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: MCB 300 or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Prokaryotic microbial genetic systems; emphasis on typical data analyses, together with the basic classes of genetic phenomena. 3 undergraduate hours. 3 graduate hours. Prerequisite: MCB 300 or consent of instructor.", 
+    "href": "/2017/spring/MCB/421.json", 
+    "id": "MCB 421", 
+    "label": "Microbial Genetics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MCB/421/58621.json", 
+            "id": "58621"
+        }
+    }
+}

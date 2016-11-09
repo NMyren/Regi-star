@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: ATMS 201.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduces students to Earth's climates and the processes that determine them. Examines factors that control natural climate change over long and short time scales, processes by which humans impact climate and climate change, methods to predict climate change, and climate change response by policymakers. Prerequisite: ATMS 201.", 
+    "href": "/2017/spring/ATMS/307.json", 
+    "id": "ATMS 307", 
+    "label": "Climate Processes", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Atmospheric Sciences", 
+            "href": "/2017/spring/ATMS.json", 
+            "id": "ATMS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ATMS/307/57309.json", 
+            "id": "57309"
+        }
+    }
+}

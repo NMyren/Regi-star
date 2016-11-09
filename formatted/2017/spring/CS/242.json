@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Prerequisite: CS 241.", 
+    "creditHours": "3 hours.", 
+    "description": "Intensive programming lab intended to strengthen skills in programming. Prerequisite: CS 241.", 
+    "href": "/2017/spring/CS/242.json", 
+    "id": "CS 242", 
+    "label": "Programming Studio", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Computer Science or Statistics & Computer Science or Math & Computer Science or Computer Sci & Anthropology or Computer Sci & Astronomy or Computer Sci & Chemistry or Computer Sci & Linguistics major(s). Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/CS/242/43558.json", 
+                "id": "43558"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CS/242/43557.json", 
+                "id": "43557"
+            }
+        ]
+    }
+}

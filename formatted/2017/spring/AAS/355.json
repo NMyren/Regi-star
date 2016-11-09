@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as LLS 355 and SOC 355. See LLS 355.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as LLS 355 and SOC 355. See LLS 355.", 
+    "href": "/2017/spring/AAS/355.json", 
+    "id": "AAS 355", 
+    "label": "Race and Mixed Race", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Asian American Studies", 
+            "href": "/2017/spring/AAS.json", 
+            "id": "AAS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/AAS/355/57160.json", 
+            "id": "57160"
+        }
+    }
+}

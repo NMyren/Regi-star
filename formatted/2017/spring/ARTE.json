@@ -1,0 +1,81 @@
+{
+    "addressLine1": "School Office", 
+    "addressLine2": "143 Art and Design Building, 408 East Peabody, Champaign", 
+    "collegeCode": "KR", 
+    "collegeDepartmentDescription": "Director: Alan Mette\nSchool Office, 143 Art and Design Building, 408 East Peabody, Champaign, 333-0855\nSubjects associated with this department include: Art-General (ART), Art-Design (ARTD), Art-Education (ARTE), Art-Foundation (ARTF), Art-History (ARTH), and Art-Studio (ARTS).\nwww.art.illinois.edu", 
+    "contactName": "Alan Mette", 
+    "contactTitle": "Director", 
+    "courses": {
+        "course": [
+            {
+                "content": "Foundations of Art Education", 
+                "href": "/2017/spring/ARTE/201.json", 
+                "id": "201"
+            }, 
+            {
+                "content": "Museums in Action", 
+                "href": "/2017/spring/ARTE/260.json", 
+                "id": "260"
+            }, 
+            {
+                "content": "Early Field Art Teaching", 
+                "href": "/2017/spring/ARTE/301.json", 
+                "id": "301"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/ARTE/391.json", 
+                "id": "391"
+            }, 
+            {
+                "content": "Teaching Seminar", 
+                "href": "/2017/spring/ARTE/401.json", 
+                "id": "401"
+            }, 
+            {
+                "content": "Popular Visual Culture", 
+                "href": "/2017/spring/ARTE/480.json", 
+                "id": "480"
+            }, 
+            {
+                "content": "Senior Honors", 
+                "href": "/2017/spring/ARTE/490.json", 
+                "id": "490"
+            }, 
+            {
+                "content": "Issues in Art Education", 
+                "href": "/2017/spring/ARTE/501.json", 
+                "id": "501"
+            }, 
+            {
+                "content": "Independent Graduate Studies", 
+                "href": "/2017/spring/ARTE/591.json", 
+                "id": "591"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/ARTE/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1526", 
+    "id": "ARTE", 
+    "label": "Art--Education", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-0855", 
+    "subjectComment": "Subjects associated with this department include: Art-General (ART), Art-Design (ARTD), Art-Education (ARTE), Art-Foundation (ARTF), Art-History (ARTH), and Art-Studio (ARTS).", 
+    "unitName": "Art and Design, School of", 
+    "webSiteURL": "www.art.illinois.edu"
+}

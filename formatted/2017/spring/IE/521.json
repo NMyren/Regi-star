@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: ECE 490 or IE 411; MATH 415; MATH 444.", 
+    "creditHours": "4 hours.", 
+    "description": "Finite dimensional convex optimization problems; characterization of optimal solutions; iterative algorithms for differentiable and nondifferentiable problems; distributed optimization algorithms; robust problems and solutions; applications of convex optimization models. Prerequisite: ECE 490 or IE 411; MATH 415; MATH 444.", 
+    "href": "/2017/spring/IE/521.json", 
+    "id": "IE 521", 
+    "label": "Convex Optimization", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Industrial Engineering", 
+            "href": "/2017/spring/IE.json", 
+            "id": "IE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "N", 
+            "href": "/2017/spring/IE/521/60406.json", 
+            "id": "60406"
+        }
+    }
+}

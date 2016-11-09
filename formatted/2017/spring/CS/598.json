@@ -1,0 +1,94 @@
+{
+    "courseSectionInformation": "May be repeated in the same or separate terms if topics vary.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Subject offerings of new and developing areas of knowledge in computer science intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. May be repeated in the same or separate terms if topics vary.", 
+    "href": "/2017/spring/CS/598.json", 
+    "id": "CS 598", 
+    "label": "Special Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ACK", 
+                "href": "/2017/spring/CS/598/56940.json", 
+                "id": "56940"
+            }, 
+            {
+                "content": "AGB", 
+                "href": "/2017/spring/CS/598/62182.json", 
+                "id": "62182"
+            }, 
+            {
+                "content": "CPS", 
+                "href": "/2017/spring/CS/598/61163.json", 
+                "id": "61163"
+            }, 
+            {
+                "content": "DSO", 
+                "href": "/2017/spring/CS/598/65866.json", 
+                "id": "65866"
+            }, 
+            {
+                "content": "GA", 
+                "href": "/2017/spring/CS/598/65627.json", 
+                "id": "65627"
+            }, 
+            {
+                "content": "GR", 
+                "href": "/2017/spring/CS/598/65119.json", 
+                "id": "65119"
+            }, 
+            {
+                "content": "HS", 
+                "href": "/2017/spring/CS/598/65175.json", 
+                "id": "65175"
+            }, 
+            {
+                "content": "KN", 
+                "href": "/2017/spring/CS/598/39663.json", 
+                "id": "39663"
+            }, 
+            {
+                "content": "LAZ", 
+                "href": "/2017/spring/CS/598/65116.json", 
+                "id": "65116"
+            }, 
+            {
+                "content": "RK", 
+                "href": "/2017/spring/CS/598/65117.json", 
+                "id": "65117"
+            }, 
+            {
+                "content": "RM", 
+                "href": "/2017/spring/CS/598/63499.json", 
+                "id": "63499"
+            }, 
+            {
+                "content": "TAR", 
+                "href": "/2017/spring/CS/598/48248.json", 
+                "id": "48248"
+            }, 
+            {
+                "content": "TC", 
+                "href": "/2017/spring/CS/598/65784.json", 
+                "id": "65784"
+            }
+        ]
+    }
+}

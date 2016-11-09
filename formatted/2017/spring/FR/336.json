@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Credit is not given for FR 336 and FR 436. Prerequisite: FR 211 and FR 212.", 
+    "creditHours": "3 hours.", 
+    "description": "Survey of French cultural history from the French Revolution to 1968. Taught in French. Credit is not given for FR 336 and FR 436. Prerequisite: FR 211 and FR 212.", 
+    "href": "/2017/spring/FR/336.json", 
+    "id": "FR 336", 
+    "label": "French Cultural History 1789-1968", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "French", 
+            "href": "/2017/spring/FR.json", 
+            "id": "FR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "F", 
+            "href": "/2017/spring/FR/336/65140.json", 
+            "id": "65140"
+        }
+    }
+}

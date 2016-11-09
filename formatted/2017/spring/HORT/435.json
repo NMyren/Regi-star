@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: HORT 100 or CPSC 112 or equivalent introductory course in plant science.", 
+    "creditHours": "3 hours.", 
+    "description": "Explore opportunities and challenges for maximizing the productivity and sustainability of urban food production systems, considering agricultural, environmental, energy, social, and economic issues. Students will examine the science and practice of urban agriculture through scientific and popular literature, case studies, online discussion, and service-learning opportunities. Production systems covered will include both outdoor (e.g., vacant lot urban farms) and controlled environment (e.g., hydroponics and aquaponics) agriculture. 3 undergraduate hours. 3 graduate hours. Prerequisite: HORT 100 or CPSC 112 or equivalent introductory course in plant science.", 
+    "href": "/2017/spring/HORT/435.json", 
+    "id": "HORT 435", 
+    "label": "Urban Food Production", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Horticulture", 
+            "href": "/2017/spring/HORT.json", 
+            "id": "HORT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "AL1", 
+            "href": "/2017/spring/HORT/435/65208.json", 
+            "id": "65208"
+        }
+    }
+}

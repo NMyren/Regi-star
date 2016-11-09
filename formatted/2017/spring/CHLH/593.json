@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 8 hours. Prerequisite: EPSY 480, KIN 501, and CHLH 540 or equivalent.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Independent research on special projects. May be repeated to a maximum of 8 hours. Prerequisite: EPSY 480, KIN 501, and CHLH 540 or equivalent.", 
+    "href": "/2017/spring/CHLH/593.json", 
+    "id": "CHLH 593", 
+    "label": "Special Projects", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CHLH/593/10523.json", 
+            "id": "10523"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 or 4 graduate hours.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Friction, wear, and lubrication; engineering surfaces; surface properties and surface topography; Hertzian contacts and contact of rough surfaces; friction of surfaces in contact; wear and surface failures; boundary lubrication; fluid properties; hydrodynamic lubrication; elastohydrodynamic lubrication; bearing selection; introductory micro- and nanotribology. 3 undergraduate hours. 3 or 4 graduate hours.", 
+    "href": "/2017/spring/ME/472.json", 
+    "id": "ME 472", 
+    "label": "Introduction to Tribology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "GR", 
+                "href": "/2017/spring/ME/472/37449.json", 
+                "id": "37449"
+            }, 
+            {
+                "content": "UG", 
+                "href": "/2017/spring/ME/472/63829.json", 
+                "id": "63829"
+            }
+        ]
+    }
+}

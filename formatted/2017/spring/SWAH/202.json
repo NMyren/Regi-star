@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as AFST 232. Participation in language laboratory required. Prerequisite: SWAH 201.", 
+    "creditHours": "5 hours.", 
+    "description": "Continuation of elementary Swahili, with introduction of more advanced grammar; emphasizes more fluency in speaking, reading, and writing simple sentences in standard Swahili. Same as AFST 232. Participation in language laboratory required. Prerequisite: SWAH 201.", 
+    "href": "/2017/spring/SWAH/202.json", 
+    "id": "SWAH 202", 
+    "label": "Elementary Swahili II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Swahili", 
+            "href": "/2017/spring/SWAH.json", 
+            "id": "SWAH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/SWAH/202/63320.json", 
+                "id": "63320"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/SWAH/202/63322.json", 
+                "id": "63322"
+            }
+        ]
+    }
+}

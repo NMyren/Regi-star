@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only.", 
+    "creditHours": "1 hours.", 
+    "description": "The philosophy and components of graduate education with development of the principles useful in teaching, research, and extension in horticulture, natural resources and environmental sciences. Students will be required to develop and submit a proposal describing planned research for their M.S. or Ph.D. thesis. Approved for S/U grading only.", 
+    "href": "/2017/spring/NRES/594.json", 
+    "id": "NRES 594", 
+    "label": "NRES Professional Orientation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Natural Resources and Environmental Sciences", 
+            "href": "/2017/spring/NRES.json", 
+            "id": "NRES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": {
+            "content": "IND", 
+            "href": "/2017/spring/NRES/594/64761.json", 
+            "id": "64761"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Consent of instructor. MSPE Graduate Student Standing.", 
+    "creditHours": "4 hours.", 
+    "description": "Theories of money; money in dynamic models; money in open economy macroeconomic models; stabilization policy; and international aspects of monetary theory. Prerequisite: Consent of instructor. MSPE Graduate Student Standing.", 
+    "href": "/2017/spring/ECON/517.json", 
+    "id": "ECON 517", 
+    "label": "Monetary Policy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "M1", 
+            "href": "/2017/spring/ECON/517/65452.json", 
+            "id": "65452"
+        }
+    }
+}

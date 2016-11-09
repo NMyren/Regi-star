@@ -1,0 +1,63 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. May be repeated to a maximum of 6 hours. Prerequisite: HIST 200 and admission to the History Honors Program.", 
+    "creditHours": "3 hours.", 
+    "description": "A topic-specific course required of all students in the History Honors Program, and meeting with HIST 498. Each student's work will be evaluated and graded by the instructor of the HIST 498. In addition, students will complete a self-assessment exercise supervised by the Director of Undergraduate Studies. 3 undergraduate hours. No graduate credit. May be repeated to a maximum of 6 hours. Prerequisite: HIST 200 and admission to the History Honors Program.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/HIST/495.json", 
+    "id": "HIST 495", 
+    "label": "Honors Research & Writing Sem", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Advisor Approval Required", 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/HIST/495/43322.json", 
+                "id": "43322"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/HIST/495/54477.json", 
+                "id": "54477"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/HIST/495/54478.json", 
+                "id": "54478"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/HIST/495/65220.json", 
+                "id": "65220"
+            }
+        ]
+    }
+}

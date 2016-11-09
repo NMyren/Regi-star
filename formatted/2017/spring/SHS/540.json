@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: SHS 240 or equivalent.", 
+    "creditHours": "4 hours.", 
+    "description": "Advanced study of physical nature of sound and its measurement; theory and practice of psychophysics, including the various aspects of psychoacoustics (sensitivity, masking, loudness, pitch, binaural hearing, speech perception) and the nonlinear nature of the auditory system. Prerequisite: SHS 240 or equivalent.", 
+    "href": "/2017/spring/SHS/540.json", 
+    "id": "SHS 540", 
+    "label": "Psychoacoustics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "I", 
+            "href": "/2017/spring/SHS/540/48081.json", 
+            "id": "48081"
+        }
+    }
+}

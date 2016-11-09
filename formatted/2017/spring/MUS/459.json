@@ -1,0 +1,33 @@
+{
+    "classScheduleInformation": "Junior, Senior, or Graduate standing required; approval of faculty advisor and Associate Director of the School of Music.", 
+    "courseSectionInformation": "0 to 12 undergraduate hours. 0 to 12 graduate hours. Approved for S/U grading only. May be repeated in separate terms to a maximum of 4 hours if topics vary.", 
+    "creditHours": "0 TO 12 hours.", 
+    "description": "Professional work with an approved musical organization that is external to the School of Music, in an area related to the student's academic program; exposure to and participation in professional music-related activities. Full documentation and approval of internship activities required. The default credit will always be 0 credits unless a student, with the faculty advisor's support, petitions the appropriate academic committee (UG or Grad) with a detailed proposal outlining the academic nature, content, and scope of the internship. 0 to 12 undergraduate hours. 0 to 12 graduate hours. Approved for S/U grading only. May be repeated in separate terms to a maximum of 4 hours if topics vary.", 
+    "href": "/2017/spring/MUS/459.json", 
+    "id": "MUS 459", 
+    "label": "Professional Internship", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/MUS/459/60884.json", 
+            "id": "60884"
+        }
+    }
+}

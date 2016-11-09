@@ -1,0 +1,31 @@
+{
+    "creditHours": "2 hours.", 
+    "description": "Overview of institutions and agencies which provide health information, education, services, and care. Includes historical foundations, constituencies, organizational goals and structure, funding and expenditures, modes of service delivery, political and ethical issues.", 
+    "href": "/2017/spring/CHLH/210.json", 
+    "id": "CHLH 210", 
+    "label": "Community Health Organizations", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHLH/210/48218.json", 
+            "id": "48218"
+        }
+    }
+}

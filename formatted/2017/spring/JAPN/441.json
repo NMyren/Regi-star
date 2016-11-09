@@ -1,0 +1,40 @@
+{
+    "classScheduleInformation": "Prior knowledge of language requires a placement exam to be given. Call 244-1432 for date of exam and to register for the test.", 
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. Prerequisite: JAPN 440 or equivalent.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Continuation of JAPN 440. 3 undergraduate hours. 4 graduate hours. Prerequisite: JAPN 440 or equivalent.", 
+    "href": "/2017/spring/JAPN/441.json", 
+    "id": "JAPN 441", 
+    "label": "Fourth Year Japanese II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Japanese", 
+            "href": "/2017/spring/JAPN.json", 
+            "id": "JAPN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "C", 
+                "href": "/2017/spring/JAPN/441/38946.json", 
+                "id": "38946"
+            }, 
+            {
+                "content": "CG", 
+                "href": "/2017/spring/JAPN/441/41671.json", 
+                "id": "41671"
+            }
+        ]
+    }
+}

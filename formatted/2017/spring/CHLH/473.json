@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as LLS 473, SOC 473, and SOCW 473. See LLS 473.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as LLS 473, SOC 473, and SOCW 473. See LLS 473.", 
+    "href": "/2017/spring/CHLH/473.json", 
+    "id": "CHLH 473", 
+    "label": "Immigration, Health & Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G", 
+                "href": "/2017/spring/CHLH/473/54804.json", 
+                "id": "54804"
+            }, 
+            {
+                "content": "U", 
+                "href": "/2017/spring/CHLH/473/54805.json", 
+                "id": "54805"
+            }
+        ]
+    }
+}

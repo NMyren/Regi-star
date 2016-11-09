@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Same as CS 463. See CS 463.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as CS 463. See CS 463.", 
+    "href": "/2017/spring/ECE/424.json", 
+    "id": "ECE 424", 
+    "label": "Computer Security II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/ECE/424/49719.json", 
+                "id": "49719"
+            }, 
+            {
+                "content": "P3", 
+                "href": "/2017/spring/ECE/424/48207.json", 
+                "id": "48207"
+            }, 
+            {
+                "content": "P4", 
+                "href": "/2017/spring/ECE/424/48208.json", 
+                "id": "48208"
+            }
+        ]
+    }
+}

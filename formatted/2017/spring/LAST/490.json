@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "1 to 5 undergraduate hours. 1 to 5 graduate hours. May be repeated as topics vary to a maximum of 6 hours. Prerequisite: LAST 170; a declared major in Latin American and Caribbean Studies; consent of instructor.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "Major tutorial normally taken in the senior year. Students read the works from list devised in consultation with a faculty tutor and write a term paper. 1 to 5 undergraduate hours. 1 to 5 graduate hours. May be repeated as topics vary to a maximum of 6 hours. Prerequisite: LAST 170; a declared major in Latin American and Caribbean Studies; consent of instructor.", 
+    "href": "/2017/spring/LAST/490.json", 
+    "id": "LAST 490", 
+    "label": "Individual Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latin American and Caribbean Studies", 
+            "href": "/2017/spring/LAST.json", 
+            "id": "LAST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Advisor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/LAST/490/10499.json", 
+            "id": "10499"
+        }
+    }
+}

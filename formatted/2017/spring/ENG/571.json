@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "3 or 4 graduate hours. No professional credit. Prerequisite: Credit or concurrent registration in ENG 471.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Mathematical, scientific, engineering, and economic bases needed to analyze sustainable energy systems and civil infrastructure. Evaluation of current practice and future development of (i) energy extraction and conversion processes from geological, biological, and non-biological resources; (ii) energy usage for transportation, in residential and commercial buildings, and by industry. 3 or 4 graduate hours. No professional credit. Prerequisite: Credit or concurrent registration in ENG 471.", 
+    "href": "/2017/spring/ENG/571.json", 
+    "id": "ENG 571", 
+    "label": "Theory Energy & Sustain Engrg", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Engineering", 
+            "href": "/2017/spring/ENG.json", 
+            "id": "ENG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/ENG/571/55716.json", 
+                "id": "55716"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/ENG/571/62376.json", 
+                "id": "62376"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/ENG/571/65418.json", 
+                "id": "65418"
+            }
+        ]
+    }
+}

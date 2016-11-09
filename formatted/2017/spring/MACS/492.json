@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as SCAN 492. See SCAN 492.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as SCAN 492. See SCAN 492.", 
+    "href": "/2017/spring/MACS/492.json", 
+    "id": "MACS 492", 
+    "label": "Scandinavian Cinema", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Media and Cinema Studies", 
+            "href": "/2017/spring/MACS.json", 
+            "id": "MACS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "E", 
+            "href": "/2017/spring/MACS/492/58494.json", 
+            "id": "58494"
+        }
+    }
+}

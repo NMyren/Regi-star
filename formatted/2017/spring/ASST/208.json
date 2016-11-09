@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as CWL 208, RLST 208 and SAME 208. See RLST 208.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as CWL 208, RLST 208 and SAME 208. See RLST 208.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1LA", 
+                        "content": "UIUC: Literature and the Arts"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/ASST/208.json", 
+    "id": "ASST 208", 
+    "label": "Cultures & Lits of South Asia", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Asian Studies", 
+            "href": "/2017/spring/ASST.json", 
+            "id": "ASST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Literature and the Arts, and Non-Western Cultures course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ASST/208/56949.json", 
+            "id": "56949"
+        }
+    }
+}

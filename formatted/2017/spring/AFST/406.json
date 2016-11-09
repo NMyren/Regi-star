@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as SWAH 408. See SWAH 408.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as SWAH 408. See SWAH 408.", 
+    "href": "/2017/spring/AFST/406.json", 
+    "id": "AFST 406", 
+    "label": "Topics Swahili Lang & Lit II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "African Studies", 
+            "href": "/2017/spring/AFST.json", 
+            "id": "AFST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A1", 
+            "href": "/2017/spring/AFST/406/45638.json", 
+            "id": "45638"
+        }
+    }
+}

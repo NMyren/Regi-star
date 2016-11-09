@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: AGED 420.", 
+    "creditHours": "4 hours.", 
+    "description": "Students complete this course during their twelve-week practice teaching or internship experience. Written assignments will focus on development of teaching plans, program initiation and improvement plans, and actual evaluation studies of agricultural education programs. Instruction will be provided during on-site faculty visits and by cooperating personnel. 4 undergraduate hours. 4 graduate hours. Prerequisite: AGED 420.", 
+    "href": "/2017/spring/AGED/450.json", 
+    "id": "AGED 450", 
+    "label": "Program Delivery and Eval", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural Education", 
+            "href": "/2017/spring/AGED.json", 
+            "id": "AGED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Agricultural Science Education concentration(s). Restricted to students with Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/AGED/450/29888.json", 
+            "id": "29888"
+        }
+    }
+}

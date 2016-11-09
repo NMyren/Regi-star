@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Advanced problems related to General Engineering. May be repeated. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/GE/597.json", 
+    "id": "GE 597", 
+    "label": "Independent Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "General Engineering", 
+            "href": "/2017/spring/GE.json", 
+            "id": "GE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/GE/597/10217.json", 
+            "id": "10217"
+        }
+    }
+}

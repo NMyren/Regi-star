@@ -1,0 +1,414 @@
+{
+    "courseSectionInformation": "1 undergraduate hour. 1 graduate hour. May be repeated. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 hours.", 
+    "description": "Selected projects in the study and performance of ensemble literature, including the areas of operatic, instrumental, vocal-choral, and accompanying. 1 undergraduate hour. 1 graduate hour. May be repeated. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/MUS/450.json", 
+    "id": "MUS 450", 
+    "label": "Advanced Ensemble Music", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A1", 
+                "href": "/2017/spring/MUS/450/36536.json", 
+                "id": "36536"
+            }, 
+            {
+                "content": "A10", 
+                "href": "/2017/spring/MUS/450/36554.json", 
+                "id": "36554"
+            }, 
+            {
+                "content": "A2", 
+                "href": "/2017/spring/MUS/450/36537.json", 
+                "id": "36537"
+            }, 
+            {
+                "content": "A3", 
+                "href": "/2017/spring/MUS/450/36539.json", 
+                "id": "36539"
+            }, 
+            {
+                "content": "A4", 
+                "href": "/2017/spring/MUS/450/36542.json", 
+                "id": "36542"
+            }, 
+            {
+                "content": "A5", 
+                "href": "/2017/spring/MUS/450/36543.json", 
+                "id": "36543"
+            }, 
+            {
+                "content": "A6", 
+                "href": "/2017/spring/MUS/450/36546.json", 
+                "id": "36546"
+            }, 
+            {
+                "content": "A8", 
+                "href": "/2017/spring/MUS/450/36551.json", 
+                "id": "36551"
+            }, 
+            {
+                "content": "A9", 
+                "href": "/2017/spring/MUS/450/36552.json", 
+                "id": "36552"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/MUS/450/36555.json", 
+                "id": "36555"
+            }, 
+            {
+                "content": "B1", 
+                "href": "/2017/spring/MUS/450/36557.json", 
+                "id": "36557"
+            }, 
+            {
+                "content": "B10", 
+                "href": "/2017/spring/MUS/450/64628.json", 
+                "id": "64628"
+            }, 
+            {
+                "content": "CDH", 
+                "href": "/2017/spring/MUS/450/36559.json", 
+                "id": "36559"
+            }, 
+            {
+                "content": "CJG", 
+                "href": "/2017/spring/MUS/450/43936.json", 
+                "id": "43936"
+            }, 
+            {
+                "content": "CMT", 
+                "href": "/2017/spring/MUS/450/56250.json", 
+                "id": "56250"
+            }, 
+            {
+                "content": "CNG", 
+                "href": "/2017/spring/MUS/450/54238.json", 
+                "id": "54238"
+            }, 
+            {
+                "content": "CSJ", 
+                "href": "/2017/spring/MUS/450/54275.json", 
+                "id": "54275"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/MUS/450/36560.json", 
+                "id": "36560"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/MUS/450/36563.json", 
+                "id": "36563"
+            }, 
+            {
+                "content": "F1", 
+                "href": "/2017/spring/MUS/450/36564.json", 
+                "id": "36564"
+            }, 
+            {
+                "content": "F3", 
+                "href": "/2017/spring/MUS/450/36644.json", 
+                "id": "36644"
+            }, 
+            {
+                "content": "F4", 
+                "href": "/2017/spring/MUS/450/36568.json", 
+                "id": "36568"
+            }, 
+            {
+                "content": "F5", 
+                "href": "/2017/spring/MUS/450/51108.json", 
+                "id": "51108"
+            }, 
+            {
+                "content": "F6", 
+                "href": "/2017/spring/MUS/450/51111.json", 
+                "id": "51111"
+            }, 
+            {
+                "content": "G1", 
+                "href": "/2017/spring/MUS/450/36566.json", 
+                "id": "36566"
+            }, 
+            {
+                "content": "G2", 
+                "href": "/2017/spring/MUS/450/36569.json", 
+                "id": "36569"
+            }, 
+            {
+                "content": "G3", 
+                "href": "/2017/spring/MUS/450/36570.json", 
+                "id": "36570"
+            }, 
+            {
+                "content": "G4", 
+                "href": "/2017/spring/MUS/450/36571.json", 
+                "id": "36571"
+            }, 
+            {
+                "content": "G6", 
+                "href": "/2017/spring/MUS/450/36641.json", 
+                "id": "36641"
+            }, 
+            {
+                "content": "H1", 
+                "href": "/2017/spring/MUS/450/36572.json", 
+                "id": "36572"
+            }, 
+            {
+                "content": "H10", 
+                "href": "/2017/spring/MUS/450/36585.json", 
+                "id": "36585"
+            }, 
+            {
+                "content": "H11", 
+                "href": "/2017/spring/MUS/450/46689.json", 
+                "id": "46689"
+            }, 
+            {
+                "content": "H12", 
+                "href": "/2017/spring/MUS/450/43935.json", 
+                "id": "43935"
+            }, 
+            {
+                "content": "H13", 
+                "href": "/2017/spring/MUS/450/43952.json", 
+                "id": "43952"
+            }, 
+            {
+                "content": "H15", 
+                "href": "/2017/spring/MUS/450/61965.json", 
+                "id": "61965"
+            }, 
+            {
+                "content": "H2", 
+                "href": "/2017/spring/MUS/450/36573.json", 
+                "id": "36573"
+            }, 
+            {
+                "content": "H3", 
+                "href": "/2017/spring/MUS/450/36575.json", 
+                "id": "36575"
+            }, 
+            {
+                "content": "H4", 
+                "href": "/2017/spring/MUS/450/36576.json", 
+                "id": "36576"
+            }, 
+            {
+                "content": "H5", 
+                "href": "/2017/spring/MUS/450/36578.json", 
+                "id": "36578"
+            }, 
+            {
+                "content": "H6", 
+                "href": "/2017/spring/MUS/450/36562.json", 
+                "id": "36562"
+            }, 
+            {
+                "content": "H7", 
+                "href": "/2017/spring/MUS/450/36580.json", 
+                "id": "36580"
+            }, 
+            {
+                "content": "H8", 
+                "href": "/2017/spring/MUS/450/36582.json", 
+                "id": "36582"
+            }, 
+            {
+                "content": "H9", 
+                "href": "/2017/spring/MUS/450/36583.json", 
+                "id": "36583"
+            }, 
+            {
+                "content": "HC", 
+                "href": "/2017/spring/MUS/450/51109.json", 
+                "id": "51109"
+            }, 
+            {
+                "content": "J1", 
+                "href": "/2017/spring/MUS/450/36594.json", 
+                "id": "36594"
+            }, 
+            {
+                "content": "J2", 
+                "href": "/2017/spring/MUS/450/36596.json", 
+                "id": "36596"
+            }, 
+            {
+                "content": "J3", 
+                "href": "/2017/spring/MUS/450/36598.json", 
+                "id": "36598"
+            }, 
+            {
+                "content": "J4", 
+                "href": "/2017/spring/MUS/450/36601.json", 
+                "id": "36601"
+            }, 
+            {
+                "content": "J5", 
+                "href": "/2017/spring/MUS/450/36645.json", 
+                "id": "36645"
+            }, 
+            {
+                "content": "JC1", 
+                "href": "/2017/spring/MUS/450/36586.json", 
+                "id": "36586"
+            }, 
+            {
+                "content": "JC2", 
+                "href": "/2017/spring/MUS/450/36588.json", 
+                "id": "36588"
+            }, 
+            {
+                "content": "JC3", 
+                "href": "/2017/spring/MUS/450/36589.json", 
+                "id": "36589"
+            }, 
+            {
+                "content": "JC4", 
+                "href": "/2017/spring/MUS/450/36591.json", 
+                "id": "36591"
+            }, 
+            {
+                "content": "JC5", 
+                "href": "/2017/spring/MUS/450/36592.json", 
+                "id": "36592"
+            }, 
+            {
+                "content": "JC6", 
+                "href": "/2017/spring/MUS/450/41826.json", 
+                "id": "41826"
+            }, 
+            {
+                "content": "JC7", 
+                "href": "/2017/spring/MUS/450/47134.json", 
+                "id": "47134"
+            }, 
+            {
+                "content": "JGE", 
+                "href": "/2017/spring/MUS/450/46729.json", 
+                "id": "46729"
+            }, 
+            {
+                "content": "JSE", 
+                "href": "/2017/spring/MUS/450/47767.json", 
+                "id": "47767"
+            }, 
+            {
+                "content": "JT1", 
+                "href": "/2017/spring/MUS/450/45355.json", 
+                "id": "45355"
+            }, 
+            {
+                "content": "JT2", 
+                "href": "/2017/spring/MUS/450/36639.json", 
+                "id": "36639"
+            }, 
+            {
+                "content": "JT3", 
+                "href": "/2017/spring/MUS/450/63811.json", 
+                "id": "63811"
+            }, 
+            {
+                "content": "JVE", 
+                "href": "/2017/spring/MUS/450/51797.json", 
+                "id": "51797"
+            }, 
+            {
+                "content": "K", 
+                "href": "/2017/spring/MUS/450/36602.json", 
+                "id": "36602"
+            }, 
+            {
+                "content": "K1", 
+                "href": "/2017/spring/MUS/450/36605.json", 
+                "id": "36605"
+            }, 
+            {
+                "content": "K2", 
+                "href": "/2017/spring/MUS/450/36607.json", 
+                "id": "36607"
+            }, 
+            {
+                "content": "L", 
+                "href": "/2017/spring/MUS/450/36610.json", 
+                "id": "36610"
+            }, 
+            {
+                "content": "L1", 
+                "href": "/2017/spring/MUS/450/36613.json", 
+                "id": "36613"
+            }, 
+            {
+                "content": "M", 
+                "href": "/2017/spring/MUS/450/36616.json", 
+                "id": "36616"
+            }, 
+            {
+                "content": "M1", 
+                "href": "/2017/spring/MUS/450/36619.json", 
+                "id": "36619"
+            }, 
+            {
+                "content": "M3", 
+                "href": "/2017/spring/MUS/450/36629.json", 
+                "id": "36629"
+            }, 
+            {
+                "content": "N", 
+                "href": "/2017/spring/MUS/450/45527.json", 
+                "id": "45527"
+            }, 
+            {
+                "content": "N1", 
+                "href": "/2017/spring/MUS/450/46496.json", 
+                "id": "46496"
+            }, 
+            {
+                "content": "P", 
+                "href": "/2017/spring/MUS/450/36631.json", 
+                "id": "36631"
+            }, 
+            {
+                "content": "P1", 
+                "href": "/2017/spring/MUS/450/41539.json", 
+                "id": "41539"
+            }, 
+            {
+                "content": "S5", 
+                "href": "/2017/spring/MUS/450/42520.json", 
+                "id": "42520"
+            }, 
+            {
+                "content": "VC1", 
+                "href": "/2017/spring/MUS/450/52140.json", 
+                "id": "52140"
+            }, 
+            {
+                "content": "VC2", 
+                "href": "/2017/spring/MUS/450/45478.json", 
+                "id": "45478"
+            }
+        ]
+    }
+}

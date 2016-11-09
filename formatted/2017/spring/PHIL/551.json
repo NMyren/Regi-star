@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as LING 551. See LING 551.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as LING 551. See LING 551.", 
+    "href": "/2017/spring/PHIL/551.json", 
+    "id": "PHIL 551", 
+    "label": "Pragmatics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Philosophy", 
+            "href": "/2017/spring/PHIL.json", 
+            "id": "PHIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A1", 
+            "href": "/2017/spring/PHIL/551/58850.json", 
+            "id": "58850"
+        }
+    }
+}

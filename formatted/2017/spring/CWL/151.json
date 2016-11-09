@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 6 hours if topics vary. Students may register in more than one section per term.", 
+    "creditHours": "3 hours.", 
+    "description": "Explores a combination of western and non-western literature through the focus on a shared theme, exploring differences in treatment both within and among different cultures. Two such thematic focuses are offered in rotation; one on concepts of love and one on ways of writing about death. Both themes introduce students to a wide array of famous texts from different cultures and also offer some varied perspectives for their own inevitable thoughts on these major topics. May be repeated to a maximum of 6 hours if topics vary. Students may register in more than one section per term.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Humanities & the Arts", 
+            "id": "HUM", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1LA", 
+                    "content": "UIUC: Literature and the Arts"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CWL/151.json", 
+    "id": "CWL 151", 
+    "label": "Cross-Cultural Thematics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Comparative and World Literature", 
+            "href": "/2017/spring/CWL.json", 
+            "id": "CWL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Literature and the Arts course.", 
+    "sections": {
+        "section": {
+            "content": "RS", 
+            "href": "/2017/spring/CWL/151/65055.json", 
+            "id": "65055"
+        }
+    }
+}

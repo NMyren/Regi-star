@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: ECON 101; or ECON 102 (or ACE 100) and ECON 103. Credit in ECON 220 is not applicable toward graduation in the Economics Major.", 
+    "creditHours": "3 hours.", 
+    "description": "Principles-level course in international economics for non-majors. The first half of course, international trade, covers such topics as comparative advantage, protectionism (tariff and nontariff), impact on income distribution, and industrial policies. The second half, international finance, covers topics such as balance of payments, exchange-rate determination, currency crises, dollarization, and macroeconomic policy in an open economy. Issues relating to globalization will be covered in both halves. Prerequisite: ECON 101; or ECON 102 (or ACE 100) and ECON 103. Credit in ECON 220 is not applicable toward graduation in the Economics Major.", 
+    "href": "/2017/spring/ECON/220.json", 
+    "id": "ECON 220", 
+    "label": "Intl Economic Principles", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Economics", 
+            "href": "/2017/spring/ECON.json", 
+            "id": "ECON"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Not intended for students in the Economics department.", 
+    "sections": {
+        "section": {
+            "content": "1", 
+            "href": "/2017/spring/ECON/220/49158.json", 
+            "id": "49158"
+        }
+    }
+}

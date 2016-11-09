@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "Prerequisite: Only available to students who have less than 60 credit hours.", 
+    "creditHours": "2 hours.", 
+    "description": "Fundamentals of rifle marksmanship. Systematic study of the maintenance, operation, and employment of the U.S. Army's primary individual weapon system, the M16 rifle. Also includes instruction on weapons safety, military marksmanship techniques and tactics, an introduction to risk assessment and management, and an integration of a live-fire M16 range. Includes field trips. Prerequisite: Only available to students who have less than 60 credit hours.", 
+    "href": "/2017/spring/MILS/202.json", 
+    "id": "MILS 202", 
+    "label": "Leadership and Teamwork", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Military Science", 
+            "href": "/2017/spring/MILS.json", 
+            "id": "MILS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/MILS/202/34434.json", 
+                "id": "34434"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/MILS/202/34436.json", 
+                "id": "34436"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/MILS/202/34439.json", 
+                "id": "34439"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/MILS/202/34446.json", 
+                "id": "34446"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 10 hours in separate terms. Prerequisite: Permission of the instructor.", 
+    "creditHours": "1 TO 10 hours.", 
+    "description": "Supervised scholarly laboratory work and/or reading in fields selected in consultation with an appropriate faculty member. May be repeated to a maximum of 10 hours in separate terms. Prerequisite: Permission of the instructor.", 
+    "href": "/2017/spring/CB/290.json", 
+    "id": "CB 290", 
+    "label": "Independent Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Comparative Biosciences", 
+            "href": "/2017/spring/CB.json", 
+            "id": "CB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CB/290/63722.json", 
+            "id": "63722"
+        }
+    }
+}

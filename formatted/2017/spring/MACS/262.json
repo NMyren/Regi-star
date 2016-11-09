@@ -1,0 +1,44 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Survey of the development of equipment, techniques, and themes of the cinema from the coming of sound to the present; lectures, discussions, and showings of selected films.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Humanities & the Arts", 
+            "id": "HUM", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1LA", 
+                    "content": "UIUC: Literature and the Arts"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/MACS/262.json", 
+    "id": "MACS 262", 
+    "label": "Survey of World Cinema II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Media and Cinema Studies", 
+            "href": "/2017/spring/MACS.json", 
+            "id": "MACS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Literature and the Arts course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MACS/262/61760.json", 
+            "id": "61760"
+        }
+    }
+}

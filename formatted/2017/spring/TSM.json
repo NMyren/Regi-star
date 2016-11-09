@@ -1,0 +1,136 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "338 Agricultural Engineering Sciences Building, 1304 West Pennsylvania Avenue, Urbana", 
+    "collegeCode": "KL", 
+    "collegeDepartmentDescription": "Head of Department: K.C. Ting\nDepartment Office, 338 Agricultural Engineering Sciences Building, 1304 West Pennsylvania Avenue, Urbana, 333-3570\nSubjects associated with this department include: Agricultural and Biological Engineering (ABE) and Technical Systems Management (TSM).\nwww.age.uiuc.edu", 
+    "contactName": "K.C. Ting", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Technical Systems in Agr", 
+                "href": "/2017/spring/TSM/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "Basics of CAD", 
+                "href": "/2017/spring/TSM/130.json", 
+                "id": "130"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/TSM/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Wiring, Motors and Control Sys", 
+                "href": "/2017/spring/TSM/234.json", 
+                "id": "234"
+            }, 
+            {
+                "content": "Off-Road Equipment Management", 
+                "href": "/2017/spring/TSM/262.json", 
+                "id": "262"
+            }, 
+            {
+                "content": "Off-Campus Internship", 
+                "href": "/2017/spring/TSM/293.json", 
+                "id": "293"
+            }, 
+            {
+                "content": "Undergrad Research or Thesis", 
+                "href": "/2017/spring/TSM/295.json", 
+                "id": "295"
+            }, 
+            {
+                "content": "Humanity in the Food Web", 
+                "href": "/2017/spring/TSM/311.json", 
+                "id": "311"
+            }, 
+            {
+                "content": "Land and Water Mgt Systems", 
+                "href": "/2017/spring/TSM/352.json", 
+                "id": "352"
+            }, 
+            {
+                "content": "Fluid Power Systems", 
+                "href": "/2017/spring/TSM/363.json", 
+                "id": "363"
+            }, 
+            {
+                "content": "Residential Housing Design", 
+                "href": "/2017/spring/TSM/371.json", 
+                "id": "371"
+            }, 
+            {
+                "content": "UG Honors Research or Thesis", 
+                "href": "/2017/spring/TSM/396.json", 
+                "id": "396"
+            }, 
+            {
+                "content": "Ag Safety-Injury Prevention", 
+                "href": "/2017/spring/TSM/421.json", 
+                "id": "421"
+            }, 
+            {
+                "content": "Managing Ag Safety Risk", 
+                "href": "/2017/spring/TSM/425.json", 
+                "id": "425"
+            }, 
+            {
+                "content": "Engine and Tractor Power", 
+                "href": "/2017/spring/TSM/464.json", 
+                "id": "464"
+            }, 
+            {
+                "content": "Chemical Applications Systems", 
+                "href": "/2017/spring/TSM/465.json", 
+                "id": "465"
+            }, 
+            {
+                "content": "Grain Bioprocessing Coproducts", 
+                "href": "/2017/spring/TSM/486.json", 
+                "id": "486"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/TSM/496.json", 
+                "id": "496"
+            }, 
+            {
+                "content": "Graduate Seminar", 
+                "href": "/2017/spring/TSM/594.json", 
+                "id": "594"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/TSM/598.json", 
+                "id": "598"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/TSM/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1741", 
+    "id": "TSM", 
+    "label": "Technical Systems Management", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-3570", 
+    "subjectComment": "Subjects associated with this department include: Agricultural and Biological Engineering (ABE) and Technical Systems Management (TSM).", 
+    "unitName": "Agricultural and Biological Engineering", 
+    "webSiteURL": "www.age.uiuc.edu"
+}

@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. 2 graduate hours. May be repeated to a maximum of 12 undergraduate hours or 8 graduate hours. (Summer session, 1 hour of credit). Prerequisite: Consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "Acquaints the student with a variety of opera, operetta, and musical theatre literature in contrasting styles and historical periods, culminating in a public performance of numerous opera scenes each semester. Develops skills as both a solo and ensemble performer. Introduces skills related to the field of operatic performance, including but not limited to stage movement, mind-body awareness, diction, acting, and improvisational techniques. Forms and integrates a performing operatic ensemble to serve as an outreach group that may perform in selected K-12 schools. Intended for vocal performance, vocal music education and vocal accompanying/coaching majors; others by consent of instructor. Audition required for admission. 2 undergraduate hours. 2 graduate hours. May be repeated to a maximum of 12 undergraduate hours or 8 graduate hours. (Summer session, 1 hour of credit). Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/MUS/468.json", 
+    "id": "MUS 468", 
+    "label": "Opera Studio", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Music department.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/MUS/468/48905.json", 
+                "id": "48905"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/MUS/468/62795.json", 
+                "id": "62795"
+            }
+        ]
+    }
+}

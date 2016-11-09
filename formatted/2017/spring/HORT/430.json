@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as LA 430. 2 undergraduate hours. 2 graduate hours.", 
+    "creditHours": "2 hours.", 
+    "description": "Study of research theory and evidence suggesting the importance of children's contact with natural environments including, designed urban greenspaces, managed sustainable landscapes, and wilderness, for healthy child development, ecological literacy, and pro-environmental behavior as adults. Discussion of research implications and applications for redesigning our communities' outdoor spaces, societal values, public policies and education systems to foster children's access to, and bonding with, nature. Same as LA 430. 2 undergraduate hours. 2 graduate hours.", 
+    "href": "/2017/spring/HORT/430.json", 
+    "id": "HORT 430", 
+    "label": "Children and Nature", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Horticulture", 
+            "href": "/2017/spring/HORT.json", 
+            "id": "HORT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": {
+            "content": "AFT", 
+            "href": "/2017/spring/HORT/430/59877.json", 
+            "id": "59877"
+        }
+    }
+}

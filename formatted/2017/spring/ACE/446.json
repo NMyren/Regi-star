@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. 2 graduate hours. Prerequisite: One of ACE 240, ACE 345, FIN 221; or consent of instructor and advanced knowledge of spreadsheet software equivalent to the coverage of ACE 360.", 
+    "creditHours": "2 hours.", 
+    "description": "Improves ability to make effective financial plans and decisions. Involves development of decision tools that are applied to \"real world\" financial data sets and planning/decision-making circumstances. Topics include applied data management techniques (designing queries/storable forms), financial statement analysis, numeric optimization tools, leverage assessment, incorporating risk in decisions, capital budgeting and time value of money, term structure of interest rates, and currency exchange. 2 undergraduate hours. 2 graduate hours. Prerequisite: One of ACE 240, ACE 345, FIN 221; or consent of instructor and advanced knowledge of spreadsheet software equivalent to the coverage of ACE 360.", 
+    "href": "/2017/spring/ACE/446.json", 
+    "id": "ACE 446", 
+    "label": "Modeling App's Finan Plan", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural and Consumer Economics", 
+            "href": "/2017/spring/ACE.json", 
+            "id": "ACE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": [
+            {
+                "content": "GR", 
+                "href": "/2017/spring/ACE/446/49906.json", 
+                "id": "49906"
+            }, 
+            {
+                "content": "UG", 
+                "href": "/2017/spring/ACE/446/49907.json", 
+                "id": "49907"
+            }
+        ]
+    }
+}

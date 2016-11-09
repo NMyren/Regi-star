@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated. Required of all graduate students each term.", 
+    "creditHours": "0 hours.", 
+    "description": "Presentations by graduate students, staff, and guest lecturers of current topics in research and development in General Engineering. Approved for S/U grading only. May be repeated. Required of all graduate students each term.", 
+    "href": "/2017/spring/GE/590.json", 
+    "id": "GE 590", 
+    "label": "Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "General Engineering", 
+            "href": "/2017/spring/GE.json", 
+            "id": "GE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "Z", 
+            "href": "/2017/spring/GE/590/33239.json", 
+            "id": "33239"
+        }
+    }
+}

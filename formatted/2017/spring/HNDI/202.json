@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: HNDI 201.", 
+    "creditHours": "5 hours.", 
+    "description": "Second term of spoken Hindi/Urdu; includes conversation with a native Hindi/Urdu-speaking tutor under the direction of a linguist instructor, formal grammar based on conversational materials, and work on written Hindi; concentration on written Urdu by arrangement. Participation in the language laboratory is required. Prerequisite: HNDI 201.", 
+    "href": "/2017/spring/HNDI/202.json", 
+    "id": "HNDI 202", 
+    "label": "Elementary Hindi-Urdu II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Hindi", 
+            "href": "/2017/spring/HNDI.json", 
+            "id": "HNDI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "AE1", 
+            "href": "/2017/spring/HNDI/202/33836.json", 
+            "id": "33836"
+        }
+    }
+}

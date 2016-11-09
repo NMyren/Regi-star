@@ -1,0 +1,90 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "Veterinary Medicine Basic Sciences Building, Room 3516, 2001 South Lincoln Avenue,Urbana, IL 61802", 
+    "collegeCode": "LC", 
+    "collegeDepartmentDescription": "Head of Department: Duncan C. Ferguson\nDepartment Office, Veterinary Medicine Basic Sciences Building, Room 3516, 2001 South Lincoln Avenue,Urbana, IL 61802, 333-2506\nwww.vetmed.illinois.edu/cb/", 
+    "contactName": "Duncan C. Ferguson", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Independent Research", 
+                "href": "/2017/spring/CB/290.json", 
+                "id": "290"
+            }, 
+            {
+                "content": "Pesticide Toxicology", 
+                "href": "/2017/spring/CB/434.json", 
+                "id": "434"
+            }, 
+            {
+                "content": "Fund Phar Discovery & Dev", 
+                "href": "/2017/spring/CB/467.json", 
+                "id": "467"
+            }, 
+            {
+                "content": "Neurotoxicology", 
+                "href": "/2017/spring/CB/514.json", 
+                "id": "514"
+            }, 
+            {
+                "content": "Wildlife Ecosystem Health", 
+                "href": "/2017/spring/CB/540.json", 
+                "id": "540"
+            }, 
+            {
+                "content": "Systems Toxicology", 
+                "href": "/2017/spring/CB/554.json", 
+                "id": "554"
+            }, 
+            {
+                "content": "Seminar", 
+                "href": "/2017/spring/CB/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Biosciences Seminar Series", 
+                "href": "/2017/spring/CB/591.json", 
+                "id": "591"
+            }, 
+            {
+                "content": "Special Problems", 
+                "href": "/2017/spring/CB/592.json", 
+                "id": "592"
+            }, 
+            {
+                "content": "Interdisciplinary Tox Sem", 
+                "href": "/2017/spring/CB/596.json", 
+                "id": "596"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/CB/599.json", 
+                "id": "599"
+            }, 
+            {
+                "content": "Special Problems", 
+                "href": "/2017/spring/CB/692.json", 
+                "id": "692"
+            }
+        ]
+    }, 
+    "departmentCode": "1873", 
+    "id": "CB", 
+    "label": "Comparative Biosciences", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-2506", 
+    "unitName": "Comparative Biosciences", 
+    "webSiteURL": "www.vetmed.illinois.edu/cb/"
+}

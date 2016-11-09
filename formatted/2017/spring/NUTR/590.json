@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated to a maximum of 2 hours for Masters students and 4 hours for Ph.D. students.", 
+    "creditHours": "1 hours.", 
+    "description": "Discussions of current research and literature pertaining to disciplinary specializations within the Division of Nutritional Sciences. Approved for S/U grading only. May be repeated to a maximum of 2 hours for Masters students and 4 hours for Ph.D. students.", 
+    "href": "/2017/spring/NUTR/590.json", 
+    "id": "NUTR 590", 
+    "label": "Disciplinary Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Nutritional Sciences", 
+            "href": "/2017/spring/NUTR.json", 
+            "id": "NUTR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/NUTR/590/49633.json", 
+            "id": "49633"
+        }
+    }
+}

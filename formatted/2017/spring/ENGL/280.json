@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as GWS 280. May be repeated with permission of English advising office to a maximum of 6 hours if topics vary. Prerequisite: Completion of the Composition I requirement.", 
+    "creditHours": "3 hours.", 
+    "description": "Study of British and American women authors. Same as GWS 280. May be repeated with permission of English advising office to a maximum of 6 hours if topics vary. Prerequisite: Completion of the Composition I requirement.", 
+    "href": "/2017/spring/ENGL/280.json", 
+    "id": "ENGL 280", 
+    "label": "Women Writers", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "S", 
+            "href": "/2017/spring/ENGL/280/49539.json", 
+            "id": "49539"
+        }
+    }
+}

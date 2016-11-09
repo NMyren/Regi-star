@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "5 undergraduate hours. 4 graduate hours. Prerequisite: Credit or concurrent registration in PHYS 486.", 
+    "creditHours": "4 OR 5 hours.", 
+    "description": "Techniques and experiments in the physics of atoms, atomic nuclei, molecules, the solid state, and other areas of modern physical research. 5 undergraduate hours. 4 graduate hours. Prerequisite: Credit or concurrent registration in PHYS 486.", 
+    "href": "/2017/spring/PHYS/403.json", 
+    "id": "PHYS 403", 
+    "label": "Modern Experimental Physics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PHYS/403/46820.json", 
+            "id": "46820"
+        }
+    }
+}

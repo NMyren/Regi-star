@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "May be repeated if topics vary.", 
+    "creditHours": "4 hours.", 
+    "description": "Intensive study of selected topics based on contemporary works of major importance in the development of sociological theory. May be repeated if topics vary.", 
+    "href": "/2017/spring/SOC/596.json", 
+    "id": "SOC 596", 
+    "label": "Recent Developments in Soc", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Sociology", 
+            "href": "/2017/spring/SOC.json", 
+            "id": "SOC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "EM", 
+                "href": "/2017/spring/SOC/596/32820.json", 
+                "id": "32820"
+            }, 
+            {
+                "content": "JD", 
+                "href": "/2017/spring/SOC/596/32824.json", 
+                "id": "32824"
+            }
+        ]
+    }
+}

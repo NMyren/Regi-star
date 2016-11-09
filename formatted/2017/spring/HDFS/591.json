@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional credit. May be repeated to a maximum of 8 hours.", 
+    "creditHours": "4 hours.", 
+    "description": "Qualitative methods in the social sciences: epistemological context; data collection and relationships with participants; data management, analysis and evaluation; writing strategies. Specific content emphasis alternates annually between field research and grounded theory. 4 graduate hours. No professional credit. May be repeated to a maximum of 8 hours.", 
+    "href": "/2017/spring/HDFS/591.json", 
+    "id": "HDFS 591", 
+    "label": "Qualitative Methods", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Human Development and Family Studies", 
+            "href": "/2017/spring/HDFS.json", 
+            "id": "HDFS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "G", 
+            "href": "/2017/spring/HDFS/591/65080.json", 
+            "id": "65080"
+        }
+    }
+}

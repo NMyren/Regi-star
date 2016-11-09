@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 graduate hours. No professional credit. Prerequisite: Second year or post-professional MLA students; graduate students in other majors may enroll with permission of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "This graduate-level course provides instruction and application of research and scholarly methods for landscape architecture and related fields. Students are introduced to the basic steps of inquiry and development of a thesis/research proposal. Course content includes: problem identification; choosing and articulating a research topic; synthesis of topical/theoretical background from literature; choice of research strategy; design of a plan for investigation; selection of data sources, methods and analysis; proof of concept; feasibility planning; and other necessary components of a successful research proposal. 3 graduate hours. No professional credit. Prerequisite: Second year or post-professional MLA students; graduate students in other majors may enroll with permission of instructor.", 
+    "href": "/2017/spring/LA/597.json", 
+    "id": "LA 597", 
+    "label": "Research Design & Methods", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Landscape Architecture", 
+            "href": "/2017/spring/LA.json", 
+            "id": "LA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "ED", 
+            "href": "/2017/spring/LA/597/64182.json", 
+            "id": "64182"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: ANSC 100 or consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "Evaluation of physical traits of dairy cattle in relation to economic value and genetic improvement; sire selection, mating systems, and genetic merit for dairy cattle. Field trip required. Prerequisite: ANSC 100 or consent of instructor.", 
+    "href": "/2017/spring/ANSC/204.json", 
+    "id": "ANSC 204", 
+    "label": "Intro Dairy Cattle Evaluation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ANSC/204/29924.json", 
+            "id": "29924"
+        }
+    }
+}

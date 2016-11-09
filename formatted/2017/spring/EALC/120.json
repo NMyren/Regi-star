@@ -1,0 +1,89 @@
+{
+    "courseSectionInformation": "Same as HIST 120. See HIST 120.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as HIST 120. See HIST 120.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/EALC/120.json", 
+    "id": "EALC 120", 
+    "label": "East Asian Civilizations", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "East Asian Language and Culture", 
+            "href": "/2017/spring/EALC.json", 
+            "id": "EALC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and Non-Western Cultures course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/EALC/120/34089.json", 
+                "id": "34089"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/EALC/120/34094.json", 
+                "id": "34094"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/EALC/120/34096.json", 
+                "id": "34096"
+            }, 
+            {
+                "content": "AD8", 
+                "href": "/2017/spring/EALC/120/45930.json", 
+                "id": "45930"
+            }, 
+            {
+                "content": "ADA", 
+                "href": "/2017/spring/EALC/120/45934.json", 
+                "id": "45934"
+            }, 
+            {
+                "content": "ADC", 
+                "href": "/2017/spring/EALC/120/45939.json", 
+                "id": "45939"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/EALC/120/34098.json", 
+                "id": "34098"
+            }
+        ]
+    }
+}

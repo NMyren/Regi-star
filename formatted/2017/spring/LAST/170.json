@@ -1,0 +1,104 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section.", 
+    "creditHours": "3 hours.", 
+    "description": "Interdisciplinary introduction to the ways of life of Latin American peoples, their origins and current expressions; discusses social, economic issues, and domestic and international policies related to them in the context of other societies in developing countries.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Social & Behavioral Sciences", 
+                "id": "SBS", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1SS", 
+                        "content": "UIUC Social Sciences"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/LAST/170.json", 
+    "id": "LAST 170", 
+    "label": "Introduction to Latin America", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latin American and Caribbean Studies", 
+            "href": "/2017/spring/LAST.json", 
+            "id": "LAST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Non-Western Cultures, and Social Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/LAST/170/35399.json", 
+                "id": "35399"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/LAST/170/35433.json", 
+                "id": "35433"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/LAST/170/35851.json", 
+                "id": "35851"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/LAST/170/35852.json", 
+                "id": "35852"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/LAST/170/35853.json", 
+                "id": "35853"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/LAST/170/35854.json", 
+                "id": "35854"
+            }, 
+            {
+                "content": "AD7", 
+                "href": "/2017/spring/LAST/170/44748.json", 
+                "id": "44748"
+            }, 
+            {
+                "content": "AD8", 
+                "href": "/2017/spring/LAST/170/44750.json", 
+                "id": "44750"
+            }, 
+            {
+                "content": "AD9", 
+                "href": "/2017/spring/LAST/170/44751.json", 
+                "id": "44751"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/LAST/170/35855.json", 
+                "id": "35855"
+            }
+        ]
+    }
+}

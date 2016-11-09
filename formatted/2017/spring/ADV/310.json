@@ -1,0 +1,32 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Introduces the student to the practice and profession of public relations. Course material covers topics such as the history of public relations, the role of law and ethics in public relations, and theories that guide public relations research and practice. The course will also introduce roles played by public relations practitioners within organizations, such as media relations, consumer relations, employee relations, community relations, and investor relations.", 
+    "href": "/2017/spring/ADV/310.json", 
+    "id": "ADV 310", 
+    "label": "Intro to Public Relations", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Advertising", 
+            "href": "/2017/spring/ADV.json", 
+            "id": "ADV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to College of Media. Restricted to students with Sophomore, Junior, or Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ADV/310/54936.json", 
+            "id": "54936"
+        }
+    }
+}

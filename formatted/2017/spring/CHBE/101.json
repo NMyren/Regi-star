@@ -1,0 +1,44 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Tells the stories of everyday objects: bathtubs, pop cans and screws. These simple objects shape our lives, yet are engineering masterpieces. To unveil this hidden world the course uses a humanistic approach. Designed to appeal to all majors, it uses human stories - filled with failures and triumphs - to reveal the methods of engineers. The course enchants with tales of ancient steel making, today's pop cans, huge stone monuments, and salt. The course will change how a student looks at his or her world. Several sessions focus on women engineers and the environment.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Natural Sciences & Technology", 
+            "id": "NAT", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1PS", 
+                    "content": "UIUC: Physical Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CHBE/101.json", 
+    "id": "CHBE 101", 
+    "label": "Hidden World of Engineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Physical Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "WSH", 
+            "href": "/2017/spring/CHBE/101/49101.json", 
+            "id": "49101"
+        }
+    }
+}

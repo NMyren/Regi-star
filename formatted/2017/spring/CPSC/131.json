@@ -1,0 +1,45 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Compare and contrast the role agriculture and plant sciences played in the development of ancient cultures. Study agricultural references in ancient global mythology. Develop an appreciation of how agricultural diversity of various ancient cultures influenced mythology in the cultures in different regions.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+            "id": "CNW", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1NW", 
+                    "content": "UIUC: Non-Western Cultures"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/CPSC/131.json", 
+    "id": "CPSC 131", 
+    "label": "Agriculture in Mythology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionDegreeAttributes": "Non-Western Cultures course.", 
+    "sections": {
+        "section": {
+            "content": "ALR", 
+            "href": "/2017/spring/CPSC/131/60004.json", 
+            "id": "60004"
+        }
+    }
+}

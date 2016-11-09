@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading. May be repeated to a maximum of 6 hours in the same or subsequent terms as topics vary.", 
+    "creditHours": "1 TO 6 hours.", 
+    "description": "Topics will vary each semester. Please see section topic. Approved for letter and S/U grading. May be repeated to a maximum of 6 hours in the same or subsequent terms as topics vary.", 
+    "href": "/2017/spring/AHS/199.json", 
+    "id": "AHS 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Applied Health Sciences Courses", 
+            "href": "/2017/spring/AHS.json", 
+            "id": "AHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "HOF", 
+                "href": "/2017/spring/AHS/199/64153.json", 
+                "id": "64153"
+            }, 
+            {
+                "content": "JSM", 
+                "href": "/2017/spring/AHS/199/53777.json", 
+                "id": "53777"
+            }, 
+            {
+                "content": "RST", 
+                "href": "/2017/spring/AHS/199/53028.json", 
+                "id": "53028"
+            }, 
+            {
+                "content": "SAI", 
+                "href": "/2017/spring/AHS/199/63179.json", 
+                "id": "63179"
+            }
+        ]
+    }
+}

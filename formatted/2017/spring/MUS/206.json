@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 6 hours. Prerequisite: MUS 106 and consent of composition-theory faculty.", 
+    "creditHours": "2 hours.", 
+    "description": "Class instruction in contemporary compositional practice at the secondary stages. May be repeated to a maximum of 6 hours. Prerequisite: MUS 106 and consent of composition-theory faculty.", 
+    "href": "/2017/spring/MUS/206.json", 
+    "id": "MUS 206", 
+    "label": "Intermediate Composition", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to BMUS:Music Composition -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/206/36156.json", 
+            "id": "36156"
+        }
+    }
+}

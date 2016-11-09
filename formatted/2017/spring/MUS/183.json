@@ -1,0 +1,90 @@
+{
+    "classScheduleInformation": "Open only to students that have passed a qualifying audition. Non-music majors will be assessed a fee.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. May be repeated to a maximum of 16 hours. Prerequisite: Passing of a performance audition is required prior to the initial registration in any applied music course.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Instruction in violin at the undergraduate level. Music majors must register concurrently in MUS 250. Additional fees may apply. See Class Schedule. May be repeated to a maximum of 16 hours. Prerequisite: Passing of a performance audition is required prior to the initial registration in any applied music course.", 
+    "href": "/2017/spring/MUS/183.json", 
+    "id": "MUS 183", 
+    "label": "Violin", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/MUS/183/36014.json", 
+                "id": "36014"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/MUS/183/36016.json", 
+                "id": "36016"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/MUS/183/36019.json", 
+                "id": "36019"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/MUS/183/36020.json", 
+                "id": "36020"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/MUS/183/36023.json", 
+                "id": "36023"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/MUS/183/36025.json", 
+                "id": "36025"
+            }, 
+            {
+                "content": "NM1", 
+                "href": "/2017/spring/MUS/183/39692.json", 
+                "id": "39692"
+            }, 
+            {
+                "content": "NMB", 
+                "href": "/2017/spring/MUS/183/61425.json", 
+                "id": "61425"
+            }, 
+            {
+                "content": "NMC", 
+                "href": "/2017/spring/MUS/183/60375.json", 
+                "id": "60375"
+            }, 
+            {
+                "content": "NMD", 
+                "href": "/2017/spring/MUS/183/47786.json", 
+                "id": "47786"
+            }, 
+            {
+                "content": "NME", 
+                "href": "/2017/spring/MUS/183/43915.json", 
+                "id": "43915"
+            }, 
+            {
+                "content": "NMF", 
+                "href": "/2017/spring/MUS/183/54943.json", 
+                "id": "54943"
+            }
+        ]
+    }
+}

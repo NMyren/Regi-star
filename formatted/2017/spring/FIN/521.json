@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: FIN 520, plus either ECON 506 or BADM 572 or concurrent registration in either course; or MBA 505 - Section G (Finance II); or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Addresses both the theoretical and applied aspects of firms' financing decisions; topics include capital structure and cost of capital theories; mergers, acquisitions and leveraged buyouts; options, warrants, and convertibles; venture capital and initial public offerings; and pensions. Prerequisite: FIN 520, plus either ECON 506 or BADM 572 or concurrent registration in either course; or MBA 505 - Section G (Finance II); or consent of instructor.", 
+    "href": "/2017/spring/FIN/521.json", 
+    "id": "FIN 521", 
+    "label": "Advanced Corporate Finance", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Finance", 
+            "href": "/2017/spring/FIN.json", 
+            "id": "FIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "F", 
+                "href": "/2017/spring/FIN/521/49206.json", 
+                "id": "49206"
+            }, 
+            {
+                "content": "MAS", 
+                "href": "/2017/spring/FIN/521/65426.json", 
+                "id": "65426"
+            }
+        ]
+    }
+}

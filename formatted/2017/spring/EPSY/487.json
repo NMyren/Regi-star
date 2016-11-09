@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as EIL 460, FR 460, GER 460, ITAL 460, PORT 460, SLS 460, and SPAN 460. See EIL 460.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as EIL 460, FR 460, GER 460, ITAL 460, PORT 460, SLS 460, and SPAN 460. See EIL 460.", 
+    "href": "/2017/spring/EPSY/487.json", 
+    "id": "EPSY 487", 
+    "label": "Principles of Language Testing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G4", 
+                "href": "/2017/spring/EPSY/487/31918.json", 
+                "id": "31918"
+            }, 
+            {
+                "content": "U3", 
+                "href": "/2017/spring/EPSY/487/31917.json", 
+                "id": "31917"
+            }
+        ]
+    }
+}

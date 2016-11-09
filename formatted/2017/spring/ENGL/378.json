@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as GWS 378. See GWS 378.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as GWS 378. See GWS 378.", 
+    "href": "/2017/spring/ENGL/378.json", 
+    "id": "ENGL 378", 
+    "label": "Fairy Tales & Gender Formation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Gender and Women's Studies or Interdis - Gender & Women's St or LGBT/Q Studies major(s) or minor(s).", 
+    "sections": {
+        "section": {
+            "content": "VO", 
+            "href": "/2017/spring/ENGL/378/56853.json", 
+            "id": "56853"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "1 to 6 graduate hours. 1 to 6 professional hours. Approved for both letter and S/U grading. May be repeated to a maximum of 6 hours. Prerequisite: Enrollment in veterinary medicine curriculum with grade-point average of 3.0 or above, or consent of instructor.", 
+    "creditHours": "1 TO 6 hours.", 
+    "description": "Individual research on a special problem chosen in consultation with the instructor and department head. 1 to 6 graduate hours. 1 to 6 professional hours. Approved for both letter and S/U grading. May be repeated to a maximum of 6 hours. Prerequisite: Enrollment in veterinary medicine curriculum with grade-point average of 3.0 or above, or consent of instructor.", 
+    "href": "/2017/spring/CB/692.json", 
+    "id": "CB 692", 
+    "label": "Special Problems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Comparative Biosciences", 
+            "href": "/2017/spring/CB.json", 
+            "id": "CB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CB/692/55190.json", 
+            "id": "55190"
+        }
+    }
+}

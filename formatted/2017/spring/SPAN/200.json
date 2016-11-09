@@ -1,0 +1,59 @@
+{
+    "courseSectionInformation": "Credit may be received by Advanced Placement \"Language\" or \"Literature\" examination. Prerequisite: SPAN 141, SPAN 142, or equivalent.", 
+    "creditHours": "3 hours.", 
+    "description": "Readings and discussion in Spanish of a variety of texts by leading Hispanic and Hispanic-American writers covering genres and themes; designed to emphasize reading, discussion, and enjoyment rather than literary criticism. Open to non-Spanish majors. Credit may be received by Advanced Placement \"Language\" or \"Literature\" examination. Prerequisite: SPAN 141, SPAN 142, or equivalent.", 
+    "href": "/2017/spring/SPAN/200.json", 
+    "id": "SPAN 200", 
+    "label": "Readings in Hispanic Texts", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "C", 
+                "href": "/2017/spring/SPAN/200/52353.json", 
+                "id": "52353"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/SPAN/200/39579.json", 
+                "id": "39579"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/SPAN/200/47642.json", 
+                "id": "47642"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/SPAN/200/35227.json", 
+                "id": "35227"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/SPAN/200/49882.json", 
+                "id": "49882"
+            }, 
+            {
+                "content": "X", 
+                "href": "/2017/spring/SPAN/200/35229.json", 
+                "id": "35229"
+            }
+        ]
+    }
+}

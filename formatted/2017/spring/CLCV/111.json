@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Credit is not given for both CLCV 111 and CLCV 115.", 
+    "creditHours": "2 hours.", 
+    "description": "Study of the major myths of Greece and Rome and their impact upon later art, music, and literature. Credit is not given for both CLCV 111 and CLCV 115.", 
+    "href": "/2017/spring/CLCV/111.json", 
+    "id": "CLCV 111", 
+    "label": "Mythology of Greece and Rome", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Classical Civilization", 
+            "href": "/2017/spring/CLCV.json", 
+            "id": "CLCV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CLCV/111/31318.json", 
+            "id": "31318"
+        }
+    }
+}

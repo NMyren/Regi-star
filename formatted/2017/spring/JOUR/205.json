@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Credit is not given for JOUR 205 if credit for JOUR 405 has been earned.", 
+    "creditHours": "3 hours.", 
+    "description": "Surveys the history of the field of journalism since pre-colonial times. Includes the evolution of the media in the United States and the evolution of cultural concepts concerning the media, including rights granted under the First Amendment. Credit is not given for JOUR 205 if credit for JOUR 405 has been earned.", 
+    "href": "/2017/spring/JOUR/205.json", 
+    "id": "JOUR 205", 
+    "label": "History of American Journalism", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Journalism", 
+            "href": "/2017/spring/JOUR.json", 
+            "id": "JOUR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "2", 
+            "href": "/2017/spring/JOUR/205/61558.json", 
+            "id": "61558"
+        }
+    }
+}

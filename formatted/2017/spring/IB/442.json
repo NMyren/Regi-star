@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as MCB 435. See MCB 435.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as MCB 435. See MCB 435.", 
+    "href": "/2017/spring/IB/442.json", 
+    "id": "IB 442", 
+    "label": "Evolution of Infectious Disease", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Integrative Biology", 
+            "href": "/2017/spring/IB.json", 
+            "id": "IB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/IB/442/63777.json", 
+            "id": "63777"
+        }
+    }
+}

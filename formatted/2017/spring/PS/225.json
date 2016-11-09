@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Same as RST 225.", 
+    "creditHours": "3 hours.", 
+    "description": "Examinations of the political, economic, ecological, and cultural trade-offs between the use and the preservation of the environment, with particular emphasis on the preservation of land and water resources in national parks, forests, and other reserved lands. Same as RST 225.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/PS/225.json", 
+    "id": "PS 225", 
+    "label": "Environmental Politics & Policy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "AL1", 
+            "href": "/2017/spring/PS/225/65227.json", 
+            "id": "65227"
+        }
+    }
+}

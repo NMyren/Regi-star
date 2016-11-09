@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as CPSC 453. See CPSC 453.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as CPSC 453. See CPSC 453.", 
+    "href": "/2017/spring/HORT/453.json", 
+    "id": "HORT 453", 
+    "label": "Principles of Plant Breeding", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Horticulture", 
+            "href": "/2017/spring/HORT.json", 
+            "id": "HORT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/HORT/453/31554.json", 
+                "id": "31554"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/HORT/453/31556.json", 
+                "id": "31556"
+            }
+        ]
+    }
+}

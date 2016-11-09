@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for Letter and S/U grading. May be repeated in separate terms to a maximum of 6 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "0 TO 3 hours.", 
+    "description": "Individual study in a subject related to informatics not covered in normal course offerings. Approved for Letter and S/U grading. May be repeated in separate terms to a maximum of 6 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/INFO/399.json", 
+    "id": "INFO 399", 
+    "label": "Individual Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Informatics", 
+            "href": "/2017/spring/INFO.json", 
+            "id": "INFO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/INFO/399/51391.json", 
+            "id": "51391"
+        }
+    }
+}

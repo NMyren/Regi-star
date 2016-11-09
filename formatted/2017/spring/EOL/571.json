@@ -1,0 +1,32 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "Examination of the development of American higher education, including the evolution of its forms, purposes, practices, leadership, and constituents.", 
+    "href": "/2017/spring/EOL/571.json", 
+    "id": "EOL 571", 
+    "label": "Foundation of Higher Edu", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Organization and Leadership", 
+            "href": "/2017/spring/EOL.json", 
+            "id": "EOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Ed Organization and Leadership or Educational Policy Studies or Higher Education or Human Resource Education or Educ Policy, Orgzn & Leadrshp major(s). Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/EOL/571/39407.json", 
+            "id": "39407"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 8 hours. Prerequisite: RUSS 202 or equivalent proficiency.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Individual topics or projects chosen in consultation with a Slavic Department representative. May be repeated to a maximum of 8 hours. Prerequisite: RUSS 202 or equivalent proficiency.", 
+    "href": "/2017/spring/RUSS/290.json", 
+    "id": "RUSS 290", 
+    "label": "Readings in Russian", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Russian", 
+            "href": "/2017/spring/RUSS.json", 
+            "id": "RUSS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/RUSS/290/10348.json", 
+                "id": "10348"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/RUSS/290/64716.json", 
+                "id": "64716"
+            }
+        ]
+    }
+}

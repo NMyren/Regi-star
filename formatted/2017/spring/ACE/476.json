@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 2 to 4 graduate hours. Prerequisite: ECON 302 or consent of instructor; a course in statistics; senior standing.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Economic welfare of American families, application of economic theory to the behavior of families and individuals with respect to time allocation between the home and the market; family forms; human capital accumulation; gender differences in income; income inequality; and poverty. Role of public policy is considered. 3 undergraduate hours. 2 to 4 graduate hours. Prerequisite: ECON 302 or consent of instructor; a course in statistics; senior standing.", 
+    "href": "/2017/spring/ACE/476.json", 
+    "id": "ACE 476", 
+    "label": "Family Economics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural and Consumer Economics", 
+            "href": "/2017/spring/ACE.json", 
+            "id": "ACE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "GR", 
+                "href": "/2017/spring/ACE/476/62224.json", 
+                "id": "62224"
+            }, 
+            {
+                "content": "UG", 
+                "href": "/2017/spring/ACE/476/62223.json", 
+                "id": "62223"
+            }
+        ]
+    }
+}

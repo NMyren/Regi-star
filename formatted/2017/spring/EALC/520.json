@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as HIST 520. See HIST 520.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as HIST 520. See HIST 520.", 
+    "href": "/2017/spring/EALC/520.json", 
+    "id": "EALC 520", 
+    "label": "Problems in Chinese History", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "East Asian Language and Culture", 
+            "href": "/2017/spring/EALC.json", 
+            "id": "EALC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/EALC/520/32416.json", 
+            "id": "32416"
+        }
+    }
+}

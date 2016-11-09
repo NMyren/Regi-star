@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 12 hours if topics vary. Prerequisite: Corresponding introductory course at the 400-level, or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Topical studies of Hispanic literature or linguistics beyond the scope of regular offerings at the 400- or 500-level. May be repeated to a maximum of 12 hours if topics vary. Prerequisite: Corresponding introductory course at the 400-level, or consent of instructor.", 
+    "href": "/2017/spring/SPAN/590.json", 
+    "id": "SPAN 590", 
+    "label": "Topics in Hispanic Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Spanish", 
+            "href": "/2017/spring/SPAN.json", 
+            "id": "SPAN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "F", 
+            "href": "/2017/spring/SPAN/590/44410.json", 
+            "id": "44410"
+        }
+    }
+}

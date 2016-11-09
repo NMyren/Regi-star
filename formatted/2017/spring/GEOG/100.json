@@ -1,0 +1,119 @@
+{
+    "courseSectionInformation": "Same as ATMS 100. See ATMS 100.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as ATMS 100. See ATMS 100.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Natural Sciences & Technology", 
+                "id": "NAT", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1PS", 
+                        "content": "UIUC: Physical Sciences"
+                    }
+                }
+            }, 
+            {
+                "description": "Quantitative Reasoning", 
+                "id": "QR", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1QR2", 
+                        "content": "UIUC: Quant Reasoning II"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/GEOG/100.json", 
+    "id": "GEOG 100", 
+    "label": "Introduction to Meteorology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geography", 
+            "href": "/2017/spring/GEOG.json", 
+            "id": "GEOG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Physical Sciences, and Quant Reasoning II course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "ADB", 
+                "href": "/2017/spring/GEOG/100/53956.json", 
+                "id": "53956"
+            }, 
+            {
+                "content": "ADC", 
+                "href": "/2017/spring/GEOG/100/53958.json", 
+                "id": "53958"
+            }, 
+            {
+                "content": "ADD", 
+                "href": "/2017/spring/GEOG/100/53959.json", 
+                "id": "53959"
+            }, 
+            {
+                "content": "ADE", 
+                "href": "/2017/spring/GEOG/100/53960.json", 
+                "id": "53960"
+            }, 
+            {
+                "content": "ADF", 
+                "href": "/2017/spring/GEOG/100/53961.json", 
+                "id": "53961"
+            }, 
+            {
+                "content": "ADG", 
+                "href": "/2017/spring/GEOG/100/53962.json", 
+                "id": "53962"
+            }, 
+            {
+                "content": "ADH", 
+                "href": "/2017/spring/GEOG/100/53963.json", 
+                "id": "53963"
+            }, 
+            {
+                "content": "ADK", 
+                "href": "/2017/spring/GEOG/100/53966.json", 
+                "id": "53966"
+            }, 
+            {
+                "content": "ADL", 
+                "href": "/2017/spring/GEOG/100/53967.json", 
+                "id": "53967"
+            }, 
+            {
+                "content": "ADM", 
+                "href": "/2017/spring/GEOG/100/53969.json", 
+                "id": "53969"
+            }, 
+            {
+                "content": "ADN", 
+                "href": "/2017/spring/GEOG/100/53970.json", 
+                "id": "53970"
+            }, 
+            {
+                "content": "ADO", 
+                "href": "/2017/spring/GEOG/100/53971.json", 
+                "id": "53971"
+            }, 
+            {
+                "content": "AL2", 
+                "href": "/2017/spring/GEOG/100/53973.json", 
+                "id": "53973"
+            }
+        ]
+    }
+}

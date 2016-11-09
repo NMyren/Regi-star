@@ -1,0 +1,86 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Examines the organization and development of national, state, and local governments in the U.S.; the federal system; the U.S. Constitutions; civil and political rights; the party system; and the nature, structure, powers, and procedures of national political institutions. This course may require limited participating as a subject in research.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/PS/101.json", 
+    "id": "PS 101", 
+    "label": "Intro to US Gov & Pol", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/PS/101/37975.json", 
+                "id": "37975"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/PS/101/37978.json", 
+                "id": "37978"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/PS/101/37981.json", 
+                "id": "37981"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/PS/101/37985.json", 
+                "id": "37985"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/PS/101/37989.json", 
+                "id": "37989"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/PS/101/37990.json", 
+                "id": "37990"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/PS/101/38041.json", 
+                "id": "38041"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/PS/101/45114.json", 
+                "id": "45114"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/PS/101/56103.json", 
+                "id": "56103"
+            }
+        ]
+    }
+}

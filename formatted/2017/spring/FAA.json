@@ -1,0 +1,60 @@
+{
+    "addressLine1": "College of Fine and Applied Arts", 
+    "addressLine2": "110 Architecture Building, 608 East Lorado Taft Drive, Champaign", 
+    "collegeCode": "KR", 
+    "collegeDepartmentDescription": "Dean and Program Administrator: Alan Mette\nCollege of Fine and Applied Arts, 110 Architecture Building, 608 East Lorado Taft Drive, Champaign, 333-6061\nwww.faa.uiuc.edu", 
+    "contactName": "Alan Mette", 
+    "contactTitle": "Dean and Program Administrator", 
+    "courses": {
+        "course": [
+            {
+                "content": "Exploring Arts and Creativity", 
+                "href": "/2017/spring/FAA/110.json", 
+                "id": "110"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/FAA/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Artsful Teaching through Integ", 
+                "href": "/2017/spring/FAA/202.json", 
+                "id": "202"
+            }, 
+            {
+                "content": "FAA Study Abroad", 
+                "href": "/2017/spring/FAA/299.json", 
+                "id": "299"
+            }, 
+            {
+                "content": "Action Research Seminar", 
+                "href": "/2017/spring/FAA/391.json", 
+                "id": "391"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/FAA/499.json", 
+                "id": "499"
+            }
+        ]
+    }, 
+    "departmentCode": "1644", 
+    "id": "FAA", 
+    "label": "Fine and Applied Arts", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-6061", 
+    "unitName": "Fine and Applied Arts", 
+    "webSiteURL": "www.faa.uiuc.edu"
+}

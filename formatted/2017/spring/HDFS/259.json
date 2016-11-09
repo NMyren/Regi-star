@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as KIN 259. See KIN 259.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as KIN 259. See KIN 259.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1BSC", 
+                    "content": "UIUC: Behavioral Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/HDFS/259.json", 
+    "id": "HDFS 259", 
+    "label": "Motor Development and Control", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Human Development and Family Studies", 
+            "href": "/2017/spring/HDFS.json", 
+            "id": "HDFS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Behavioral Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/HDFS/259/64875.json", 
+                "id": "64875"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/HDFS/259/64975.json", 
+                "id": "64975"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/HDFS/259/64876.json", 
+                "id": "64876"
+            }
+        ]
+    }
+}

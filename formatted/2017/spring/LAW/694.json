@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "2 professional hours. 3 graduate hours. May be repeated to a total of 4 hours. Approved for both letter and S/U grading. Prerequisite: Completed or enrolled concurrently with LAW 682.", 
+    "creditHours": "1 TO 3 hours.", 
+    "description": "Examination of the problems of advocacy and tactics at the trial level. Students engage in all aspects of actual trial work, including witness preparation, opening and closing statements, direct and cross examination, and jury instructions; culminates in student conduct of a full jury trial in late spring; demonstrations are conducted by staff and visiting judges and practitioners. 2 professional hours. 3 graduate hours. May be repeated to a total of 4 hours. Approved for both letter and S/U grading. Prerequisite: Completed or enrolled concurrently with LAW 682.", 
+    "href": "/2017/spring/LAW/694.json", 
+    "id": "LAW 694", 
+    "label": "Trial Advocacy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Law", 
+            "href": "/2017/spring/LAW.json", 
+            "id": "LAW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Law department.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/LAW/694/35970.json", 
+                "id": "35970"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/LAW/694/35972.json", 
+                "id": "35972"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/LAW/694/35973.json", 
+                "id": "35973"
+            }
+        ]
+    }
+}

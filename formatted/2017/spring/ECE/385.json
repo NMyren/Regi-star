@@ -1,0 +1,91 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "Prerequisite: ECE 110 and ECE 220.", 
+    "creditHours": "3 hours.", 
+    "description": "Design, build, and test digital systems using transistor-transistor logic (TTL), SystemVerilog, and field-programmable gate arrays (FPGAs). Topics include combinational and sequential logic, storage elements, input/output and display, timing analysis, design tradeoffs, synchronous and asynchronous design methods, datapath and controller, microprocessor design, software/hardware co-design, and system-on-a-chip. Prerequisite: ECE 110 and ECE 220.", 
+    "href": "/2017/spring/ECE/385.json", 
+    "id": "ECE 385", 
+    "label": "Digital Systems Laboratory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "ABB", 
+                "href": "/2017/spring/ECE/385/32768.json", 
+                "id": "32768"
+            }, 
+            {
+                "content": "ABC", 
+                "href": "/2017/spring/ECE/385/32769.json", 
+                "id": "32769"
+            }, 
+            {
+                "content": "ABD", 
+                "href": "/2017/spring/ECE/385/32770.json", 
+                "id": "32770"
+            }, 
+            {
+                "content": "ABE", 
+                "href": "/2017/spring/ECE/385/32771.json", 
+                "id": "32771"
+            }, 
+            {
+                "content": "ABF", 
+                "href": "/2017/spring/ECE/385/32772.json", 
+                "id": "32772"
+            }, 
+            {
+                "content": "ABG", 
+                "href": "/2017/spring/ECE/385/32773.json", 
+                "id": "32773"
+            }, 
+            {
+                "content": "ABH", 
+                "href": "/2017/spring/ECE/385/32774.json", 
+                "id": "32774"
+            }, 
+            {
+                "content": "ABI", 
+                "href": "/2017/spring/ECE/385/32775.json", 
+                "id": "32775"
+            }, 
+            {
+                "content": "ABL", 
+                "href": "/2017/spring/ECE/385/32778.json", 
+                "id": "32778"
+            }, 
+            {
+                "content": "ABM", 
+                "href": "/2017/spring/ECE/385/32779.json", 
+                "id": "32779"
+            }, 
+            {
+                "content": "ABO", 
+                "href": "/2017/spring/ECE/385/32781.json", 
+                "id": "32781"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ECE/385/32782.json", 
+                "id": "32782"
+            }
+        ]
+    }
+}

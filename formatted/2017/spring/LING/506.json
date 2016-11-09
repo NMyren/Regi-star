@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for letter or S/U grading. May be repeated in more than one section per term to a maximum of 8 hours, if topics vary; may be repeated in subsequent terms to a maximum of 12 hours, if topics vary. Prerequisite: LING 406, and an introductory level Computer Science programming course, or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Provides an introduction to practical problems in computational linguistics in a laboratory setting. At the beginning of the semester, a substantial project will be assigned to the class, and the class will work as a team towards implementing a solution, and evaluating the final product against a test corpus, which will also be developed during the class. Topical readings will also be assigned and will be discussed. Approved for letter or S/U grading. May be repeated in more than one section per term to a maximum of 8 hours, if topics vary; may be repeated in subsequent terms to a maximum of 12 hours, if topics vary. Prerequisite: LING 406, and an introductory level Computer Science programming course, or consent of instructor.", 
+    "href": "/2017/spring/LING/506.json", 
+    "id": "LING 506", 
+    "label": "Topics in Computational Ling", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Linguistics", 
+            "href": "/2017/spring/LING.json", 
+            "id": "LING"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "E", 
+            "href": "/2017/spring/LING/506/36523.json", 
+            "id": "36523"
+        }
+    }
+}

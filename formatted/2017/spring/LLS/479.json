@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as AAS 479 and ANTH 479. 3 undergraduate hours. 4 graduate hours. Prerequisite: LLS 100 or consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "The idea of race has historically been central to how Western cultures conceptualize and think about human difference. This course examines the historical significance of race through one domain of knowledge: medicine. Specifically, it will be concerned with \"race\" as a central category in the medical construction and management of individuals and populations. Case studies might focus on colonial medicine, race and public health, sexuality and reproduction, global health disparities, and genetics and genomics. Same as AAS 479 and ANTH 479. 3 undergraduate hours. 4 graduate hours. Prerequisite: LLS 100 or consent of instructor.", 
+    "href": "/2017/spring/LLS/479.json", 
+    "id": "LLS 479", 
+    "label": "Race, Medicine, and Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latina/Latino Studies", 
+            "href": "/2017/spring/LLS.json", 
+            "id": "LLS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G", 
+                "href": "/2017/spring/LLS/479/51459.json", 
+                "id": "51459"
+            }, 
+            {
+                "content": "U", 
+                "href": "/2017/spring/LLS/479/51110.json", 
+                "id": "51110"
+            }
+        ]
+    }
+}

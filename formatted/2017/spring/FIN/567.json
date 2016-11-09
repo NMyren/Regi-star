@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional credit. Prerequisite: FIN 500 or 511; IE 522 or FIN 502; FIN 512 (concurrent enrollment allowed); or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "This course covers selected topics in financial risk management. The focus is on statistical techniques used in financial risk management rather than risk management practice, cases, or valuation issues. The course will cover the value-at-risk (VaR) measure and expected shortfall, statistical techniques useful to model financial market returns, and techniques used to model the joint distribution of defaults on fixed income instruments. The course will also cover additional topics such as retail credit risk, risk budgeting, and economic capital modelling. 4 graduate hours. No professional credit. Prerequisite: FIN 500 or 511; IE 522 or FIN 502; FIN 512 (concurrent enrollment allowed); or consent of instructor.", 
+    "href": "/2017/spring/FIN/567.json", 
+    "id": "FIN 567", 
+    "label": "Financial Risk Management", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Finance", 
+            "href": "/2017/spring/FIN.json", 
+            "id": "FIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "C", 
+                "href": "/2017/spring/FIN/567/65639.json", 
+                "id": "65639"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/FIN/567/65640.json", 
+                "id": "65640"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as EPOL 550, EPSY 573, and SPED 550. 4 graduate hours. No professional credit.", 
+    "creditHours": "4 hours.", 
+    "description": "Offers a graduate-level introduction to research in education, including quantitative, qualitative and mixed methods designs and approaches. Key concepts include: identifying a research problem, reviewing the literature, design and analysis, communicating evidence, and the ethics of research. Students should gain the ability to effectively evaluate and critique design/methods sections of research publications; plan and design research studies; and organize a presentation of research to an audience of peers. Same as EPOL 550, EPSY 573, and SPED 550. 4 graduate hours. No professional credit.", 
+    "href": "/2017/spring/CI/550.json", 
+    "id": "CI 550", 
+    "label": "Methods of Educational Inquiry", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CI/550/32001.json", 
+            "id": "32001"
+        }
+    }
+}

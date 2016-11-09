@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "1 undergraduate hour. 1 graduate hour. Prerequisite: Junior standing; RST 100 and RST 110.", 
+    "creditHours": "1 hours.", 
+    "description": "Prepares and places students in the Leisure Studies Practicum. Students must document completion of 300 hours of field work. Topics include placement requirements and policies, resumes, interviewing, letters of application, and the role and issues of professional practice. 1 undergraduate hour. 1 graduate hour. Prerequisite: Junior standing; RST 100 and RST 110.", 
+    "href": "/2017/spring/RST/480.json", 
+    "id": "RST 480", 
+    "label": "Orientation to Practicum", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Recreation, Sport, and Tourism", 
+            "href": "/2017/spring/RST.json", 
+            "id": "RST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Recreation, Sport, and Tourism major(s). Restricted to students with Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/RST/480/43124.json", 
+            "id": "43124"
+        }
+    }
+}

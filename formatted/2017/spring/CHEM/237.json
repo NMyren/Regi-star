@@ -1,0 +1,50 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Credit is not given for both CHEM 237 and CHEM 233. Prerequisite: Credit or concurrent registration in CHEM 236.", 
+    "creditHours": "2 hours.", 
+    "description": "Laboratory course introduces synthesis and the basic techniques for the separation, isolation and purification of organic and inorganic compounds. Additional fees may apply. See Class Schedule. Credit is not given for both CHEM 237 and CHEM 233. Prerequisite: Credit or concurrent registration in CHEM 236.", 
+    "href": "/2017/spring/CHEM/237.json", 
+    "id": "CHEM 237", 
+    "label": "Structure and Synthesis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/CHEM/237/32618.json", 
+                "id": "32618"
+            }, 
+            {
+                "content": "AB5", 
+                "href": "/2017/spring/CHEM/237/32622.json", 
+                "id": "32622"
+            }, 
+            {
+                "content": "ABA", 
+                "href": "/2017/spring/CHEM/237/32616.json", 
+                "id": "32616"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CHEM/237/32612.json", 
+                "id": "32612"
+            }
+        ]
+    }
+}

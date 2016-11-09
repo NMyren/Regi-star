@@ -1,0 +1,80 @@
+{
+    "courseSectionInformation": "1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Lecture course on topics of current interest; specific topics announced in the Class Schedule. 1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated.", 
+    "href": "/2017/spring/KIN/494.json", 
+    "id": "KIN 494", 
+    "label": "Special Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Kinesiology major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "HG", 
+                "href": "/2017/spring/KIN/494/65286.json", 
+                "id": "65286"
+            }, 
+            {
+                "content": "HU", 
+                "href": "/2017/spring/KIN/494/65285.json", 
+                "id": "65285"
+            }, 
+            {
+                "content": "KWG", 
+                "href": "/2017/spring/KIN/494/64866.json", 
+                "id": "64866"
+            }, 
+            {
+                "content": "KWU", 
+                "href": "/2017/spring/KIN/494/64867.json", 
+                "id": "64867"
+            }, 
+            {
+                "content": "MHG", 
+                "href": "/2017/spring/KIN/494/62540.json", 
+                "id": "62540"
+            }, 
+            {
+                "content": "MHU", 
+                "href": "/2017/spring/KIN/494/62544.json", 
+                "id": "62544"
+            }, 
+            {
+                "content": "NK1", 
+                "href": "/2017/spring/KIN/494/64877.json", 
+                "id": "64877"
+            }, 
+            {
+                "content": "NK2", 
+                "href": "/2017/spring/KIN/494/64878.json", 
+                "id": "64878"
+            }, 
+            {
+                "content": "NKG", 
+                "href": "/2017/spring/KIN/494/63712.json", 
+                "id": "63712"
+            }, 
+            {
+                "content": "NKU", 
+                "href": "/2017/spring/KIN/494/63713.json", 
+                "id": "63713"
+            }
+        ]
+    }
+}

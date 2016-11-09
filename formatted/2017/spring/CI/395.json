@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. Prerequisite: Junior or senior standing; minimum GPA of 3.5; completion of Advanced Composition requirement, and consent of adviser and staff member supervising the work.", 
+    "creditHours": "2 OR 3 hours.", 
+    "description": "Permits study of problems not considered in other courses; for students who excel in self-direction and intellectual curiosity. Approved for both letter and S/U grading. Prerequisite: Junior or senior standing; minimum GPA of 3.5; completion of Advanced Composition requirement, and consent of adviser and staff member supervising the work.", 
+    "href": "/2017/spring/CI/395.json", 
+    "id": "CI 395", 
+    "label": "Independent Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CI/395/10440.json", 
+            "id": "10440"
+        }
+    }
+}

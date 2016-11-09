@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: Admission to MSW program or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Examines the impact of illness and disability on individuals, their families, and the larger community. The physical, psychological, sociological, educational, vocational. And financial aspects of the most common health conditions are discussed. Emphasis is placed on conceptualizing an effective model of  social work practice  in medical and rehabilitative settings. Prerequisite: Admission to MSW program or consent of instructor.", 
+    "href": "/2017/spring/SOCW/553.json", 
+    "id": "SOCW 553", 
+    "label": "SW Practice in Healthcare Settings", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/SOCW/553/43836.json", 
+                "id": "43836"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/SOCW/553/62567.json", 
+                "id": "62567"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 6 hours. Prerequisite: Enroll in undergraduate advising office.", 
+    "creditHours": "3 hours.", 
+    "description": "Study of selected topics. Restricted to English and English education majors with a 3.33 average who are working towards the degree with distinction in English or in English education. May be repeated to a maximum of 6 hours. Prerequisite: Enroll in undergraduate advising office.", 
+    "href": "/2017/spring/ENGL/391.json", 
+    "id": "ENGL 391", 
+    "label": "Honors Individual Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English", 
+            "href": "/2017/spring/ENGL.json", 
+            "id": "ENGL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ENGL/391/10069.json", 
+            "id": "10069"
+        }
+    }
+}

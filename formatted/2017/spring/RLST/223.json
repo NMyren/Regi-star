@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as CWL 223, SAME 223. Prerequisite: RLST 213 or RLST 214.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the Qur'an (Koran), the holy scripture of Islam, examining its major doctrines, thematic development, literary style, and its relationship to pre-Qur'anic, especially Biblical, traditions. Special attention is given to various methods Muslims have used to interpret the Qur'an. Same as CWL 223, SAME 223. Prerequisite: RLST 213 or RLST 214.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1LA", 
+                        "content": "UIUC: Literature and the Arts"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/RLST/223.json", 
+    "id": "RLST 223", 
+    "label": "The Qur'an (Koran)", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Religious Studies", 
+            "href": "/2017/spring/RLST.json", 
+            "id": "RLST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Literature and the Arts, and Non-Western Cultures course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/RLST/223/38006.json", 
+            "id": "38006"
+        }
+    }
+}

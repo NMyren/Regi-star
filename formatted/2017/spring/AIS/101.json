@@ -1,0 +1,63 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Interdisciplinary introduction surveys the stories, histories, and lands of tribal peoples who became known as \"American Indians\".", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1US", 
+                        "content": "UIUC: US Minority Culture(s)"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/AIS/101.json", 
+    "id": "AIS 101", 
+    "label": "Intro to Amer Indian Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "American Indian Studies", 
+            "href": "/2017/spring/AIS.json", 
+            "id": "AIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and US Minority Culture(s) course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "BT", 
+                "href": "/2017/spring/AIS/101/65444.json", 
+                "id": "65444"
+            }, 
+            {
+                "content": "J", 
+                "href": "/2017/spring/AIS/101/65445.json", 
+                "id": "65445"
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Same as CS 425. See CS 425.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as CS 425. See CS 425.", 
+    "href": "/2017/spring/ECE/428.json", 
+    "id": "ECE 428", 
+    "label": "Distributed Systems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Computer Engineering or Electrical Engineering or Electrical & Computer Engr major(s). Restricted to students with Senior or Graduate class standing.", 
+    "sections": {
+        "section": [
+            {
+                "content": "T3", 
+                "href": "/2017/spring/ECE/428/31388.json", 
+                "id": "31388"
+            }, 
+            {
+                "content": "T4", 
+                "href": "/2017/spring/ECE/428/56317.json", 
+                "id": "56317"
+            }
+        ]
+    }
+}

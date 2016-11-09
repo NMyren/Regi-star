@@ -1,0 +1,83 @@
+{
+    "classScheduleInformation": "Required Course Materials: A set of inventories to increase self-understanding and awareness. Current cost for this inventory will be charged directly to the student account.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. On request, students will be required to participate in a total of 6 hours of experiments outside of class.", 
+    "creditHours": "3 hours.", 
+    "description": "Various behavioral science theories will be covered (e.g., person-environment interaction, decision-making, group dynamics, stereotype threat, personality traits). Discussions of research findings to applied career practices will also be included. Students will develop a working-knowledge of these theories through interactive lectures, guided class discussions, case-based readings, and group activities that require them to think critically and flexibly about theory in order to generate solutions for real-world problems. Additional fees may apply. See Class Schedule. On request, students will be required to participate in a total of 6 hours of experiments outside of class.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1BSC", 
+                    "content": "UIUC: Behavioral Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/EPSY/220.json", 
+    "id": "EPSY 220", 
+    "label": "Career Theory and Practice", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Behavioral Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/EPSY/220/33945.json", 
+                "id": "33945"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/EPSY/220/33946.json", 
+                "id": "33946"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/EPSY/220/33948.json", 
+                "id": "33948"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/EPSY/220/33951.json", 
+                "id": "33951"
+            }, 
+            {
+                "content": "H", 
+                "href": "/2017/spring/EPSY/220/33952.json", 
+                "id": "33952"
+            }, 
+            {
+                "content": "I", 
+                "href": "/2017/spring/EPSY/220/59701.json", 
+                "id": "59701"
+            }, 
+            {
+                "content": "T", 
+                "href": "/2017/spring/EPSY/220/33953.json", 
+                "id": "33953"
+            }, 
+            {
+                "content": "WE1", 
+                "href": "/2017/spring/EPSY/220/33954.json", 
+                "id": "33954"
+            }
+        ]
+    }
+}

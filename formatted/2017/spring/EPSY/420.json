@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as PSYC 420. 4 undergraduate hours. 4 graduate hours. Prerequisite: PSYC 238 or equivalent.", 
+    "creditHours": "4 hours.", 
+    "description": "Study of counseling and psychotherapeutic processes and theories. Coverage of major models and theories as well as current trends and a review of counseling skills will be included. Same as PSYC 420. 4 undergraduate hours. 4 graduate hours. Prerequisite: PSYC 238 or equivalent.", 
+    "href": "/2017/spring/EPSY/420.json", 
+    "id": "EPSY 420", 
+    "label": "Theories of Psychotherapy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Psychology", 
+            "href": "/2017/spring/EPSY.json", 
+            "id": "EPSY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/EPSY/420/39932.json", 
+            "id": "39932"
+        }
+    }
+}

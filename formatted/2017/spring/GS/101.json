@@ -1,0 +1,35 @@
+{
+    "courseSectionInformation": "May not be repeated.", 
+    "creditHours": "1 OR 2 hours.", 
+    "description": "An introduction to the opportunities and resources available to the \"undeclared\" students enrolled in the Division of General Studies at Illinois. Introduces students to the breadth of diverse fields of study available, prepares DGS students for myriad potential careers, and helps foster a sense of collaboration and engagement through campus orientation, study, and project-based assignments. May not be repeated.", 
+    "href": "/2017/spring/GS/101.json", 
+    "id": "GS 101", 
+    "label": "Exploring General Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "General Studies", 
+            "href": "/2017/spring/GS.json", 
+            "id": "GS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 07-Apr-17.", 
+    "sectionDeptRestriction": "Restricted to students in the Undeclared department.", 
+    "sectionRegistrationNotes": "Restricted to Division of General Studies.", 
+    "sections": {
+        "section": {
+            "content": "TR", 
+            "href": "/2017/spring/GS/101/62727.json", 
+            "id": "62727"
+        }
+    }
+}

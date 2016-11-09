@@ -1,0 +1,34 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading. Prerequisite: CHBE 422.", 
+    "creditHours": "1 hours.", 
+    "description": "Required of all graduate students whose major is Chemical and Biomolecular Engineering. Approved for letter and S/U grading. Prerequisite: CHBE 422.", 
+    "href": "/2017/spring/CHBE/565.json", 
+    "id": "CHBE 565", 
+    "label": "CHBE Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Chemical & Biomolecular Engr department.", 
+    "sectionRegistrationNotes": "Restricted to students with Graduate class standing. Not intended for Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHBE/565/32047.json", 
+            "id": "32047"
+        }
+    }
+}

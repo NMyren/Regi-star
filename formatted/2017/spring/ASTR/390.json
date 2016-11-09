@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated in separate terms to a maximum of 8 hours. Prerequisite: Consent of advisor and of faculty member who supervises the work.", 
+    "creditHours": "0 TO 4 hours.", 
+    "description": "Individual study at an advanced undergraduate level. May be repeated in separate terms to a maximum of 8 hours. Prerequisite: Consent of advisor and of faculty member who supervises the work.", 
+    "href": "/2017/spring/ASTR/390.json", 
+    "id": "ASTR 390", 
+    "label": "Individual Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Astronomy", 
+            "href": "/2017/spring/ASTR.json", 
+            "id": "ASTR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ASTR/390/10396.json", 
+            "id": "10396"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated in separate terms to a maximum of 12 hours. Prerequisite: PS 580.", 
+    "creditHours": "4 hours.", 
+    "description": "Advanced seminar in international relations, providing graduate students with original research experience. Students design and execute a research program, resulting in a major paper suitable for conference presentation and/or publication. The seminar will rotate among specific research topics in the area of international conflict, international law and organization, and international political economy respectively. May be repeated in separate terms to a maximum of 12 hours. Prerequisite: PS 580.", 
+    "href": "/2017/spring/PS/587.json", 
+    "id": "PS 587", 
+    "label": "Research Seminar in IR", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PS/587/53003.json", 
+            "id": "53003"
+        }
+    }
+}

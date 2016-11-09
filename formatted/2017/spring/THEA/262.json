@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Prerequisite: Completion of campus Composition I general education requirement and THEA 208; or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to the principal modes of dramatic expression from around 1870 to the present day. Prerequisite: Completion of campus Composition I general education requirement and THEA 208; or consent of instructor.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1LA", 
+                        "content": "UIUC: Literature and the Arts"
+                    }
+                }
+            }, 
+            {
+                "description": "Advanced Composition", 
+                "id": "ACP", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1CLL", 
+                        "content": "UIUC: Advanced Composition"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/THEA/262.json", 
+    "id": "THEA 262", 
+    "label": "Literature of Modern Theatre", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theatre", 
+            "href": "/2017/spring/THEA.json", 
+            "id": "THEA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition, and Literature and the Arts course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/THEA/262/47191.json", 
+            "id": "47191"
+        }
+    }
+}

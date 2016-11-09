@@ -1,0 +1,63 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. Prerequisite: Admission to doctoral study.", 
+    "creditHours": "0 TO 8 hours.", 
+    "description": "Approved for both letter and S/U grading. Prerequisite: Admission to doctoral study.", 
+    "href": "/2017/spring/CI/590.json", 
+    "id": "CI 590", 
+    "label": "Sem for Adv Stu of Education", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/CI/590/10448.json", 
+                "id": "10448"
+            }, 
+            {
+                "content": "DEL", 
+                "href": "/2017/spring/CI/590/59228.json", 
+                "id": "59228"
+            }, 
+            {
+                "content": "PRO", 
+                "href": "/2017/spring/CI/590/39523.json", 
+                "id": "39523"
+            }, 
+            {
+                "content": "QR", 
+                "href": "/2017/spring/CI/590/52340.json", 
+                "id": "52340"
+            }, 
+            {
+                "content": "SL2", 
+                "href": "/2017/spring/CI/590/54374.json", 
+                "id": "54374"
+            }, 
+            {
+                "content": "SL3", 
+                "href": "/2017/spring/CI/590/52337.json", 
+                "id": "52337"
+            }, 
+            {
+                "content": "SL4", 
+                "href": "/2017/spring/CI/590/65499.json", 
+                "id": "65499"
+            }
+        ]
+    }
+}

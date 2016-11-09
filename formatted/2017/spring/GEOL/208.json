@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as ESE 208. Additional fees may apply. See Class Schedule. Prerequisite: One of GEOL 100, GEOL 101, GEOL 103, GEOL 104 or GEOL 107; or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Presents systematic analysis of formation and evolution of the Earth and its dynamic systems (lithosphere, hydrosphere, atmosphere, and biosphere). Also introduces methods of reconstructing Earth's history through use of geochronology, paleontology, and the stratigraphic records. Introduces the geological history of life evolution, mountain belts and continents, geochemical systems, climate, sea level, and the Earth's interior. Field trip required. Same as ESE 208. Additional fees may apply. See Class Schedule. Prerequisite: One of GEOL 100, GEOL 101, GEOL 103, GEOL 104 or GEOL 107; or consent of instructor.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Natural Sciences & Technology", 
+            "id": "NAT", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1PS", 
+                    "content": "UIUC: Physical Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/GEOL/208.json", 
+    "id": "GEOL 208", 
+    "label": "History of the Earth System", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Physical Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/GEOL/208/49201.json", 
+                "id": "49201"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/GEOL/208/49202.json", 
+                "id": "49202"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/GEOL/208/49203.json", 
+                "id": "49203"
+            }
+        ]
+    }
+}

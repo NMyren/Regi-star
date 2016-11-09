@@ -1,0 +1,50 @@
+{
+    "courseSectionInformation": "5 undergraduate hours. 5 graduate hours. Prerequisite: HDFS 206, HDFS 220, and junior standing.", 
+    "creditHours": "5 hours.", 
+    "description": "Examines the relationships between child development theories and developmentally appropriate and individualized instruction techniques, discipline and guidance strategies, and the role of the family in child development programs. Emphasizes program supervision. Includes direct experience with children and families in a laboratory setting. 5 undergraduate hours. 5 graduate hours. Prerequisite: HDFS 206, HDFS 220, and junior standing.", 
+    "href": "/2017/spring/HDFS/406.json", 
+    "id": "HDFS 406", 
+    "label": "Child Dev Class Supervision", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Human Development and Family Studies", 
+            "href": "/2017/spring/HDFS.json", 
+            "id": "HDFS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Human Development & Family St major(s). Not intended for students with Freshman or Sophomore class standing.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/HDFS/406/33817.json", 
+                "id": "33817"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/HDFS/406/33818.json", 
+                "id": "33818"
+            }, 
+            {
+                "content": "AB5", 
+                "href": "/2017/spring/HDFS/406/33821.json", 
+                "id": "33821"
+            }, 
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/HDFS/406/33822.json", 
+                "id": "33822"
+            }
+        ]
+    }
+}

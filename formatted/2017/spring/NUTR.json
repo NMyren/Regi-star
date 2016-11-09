@@ -1,0 +1,75 @@
+{
+    "addressLine1": "Program Office", 
+    "addressLine2": "449 Bevier Hall, 905 South Goodwin, Urbana", 
+    "collegeCode": "KL", 
+    "collegeDepartmentDescription": "Director: Rodney W. Johnson\nProgram Office, 449 Bevier Hall, 905 South Goodwin, Urbana, 333-4177\nwww.nutrsci.illinois.edu", 
+    "contactName": "Rodney W. Johnson", 
+    "contactTitle": "Director", 
+    "courses": {
+        "course": [
+            {
+                "content": "Biochemical Nutrition I", 
+                "href": "/2017/spring/NUTR/426.json", 
+                "id": "426"
+            }, 
+            {
+                "content": "Biochemical Nutrition II", 
+                "href": "/2017/spring/NUTR/427.json", 
+                "id": "427"
+            }, 
+            {
+                "content": "Nutritional Sciences Seminar", 
+                "href": "/2017/spring/NUTR/500.json", 
+                "id": "500"
+            }, 
+            {
+                "content": "Topics in Nutrition Research", 
+                "href": "/2017/spring/NUTR/510.json", 
+                "id": "510"
+            }, 
+            {
+                "content": "Regulation of Metabolism", 
+                "href": "/2017/spring/NUTR/511.json", 
+                "id": "511"
+            }, 
+            {
+                "content": "Advanced Clinical Nutrition", 
+                "href": "/2017/spring/NUTR/561.json", 
+                "id": "561"
+            }, 
+            {
+                "content": "Disciplinary Seminar", 
+                "href": "/2017/spring/NUTR/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Individual Topics in Nutrition", 
+                "href": "/2017/spring/NUTR/593.json", 
+                "id": "593"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/NUTR/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1971", 
+    "id": "NUTR", 
+    "label": "Nutritional Sciences", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-4177", 
+    "unitName": "Nutritional Sciences", 
+    "webSiteURL": "www.nutrsci.illinois.edu"
+}

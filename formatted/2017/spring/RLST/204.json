@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as GRK 202. See GRK 202.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as GRK 202. See GRK 202.", 
+    "href": "/2017/spring/RLST/204.json", 
+    "id": "RLST 204", 
+    "label": "Classical & Koine Greek II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Religious Studies", 
+            "href": "/2017/spring/RLST.json", 
+            "id": "RLST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "CIC", 
+            "href": "/2017/spring/RLST/204/33619.json", 
+            "id": "33619"
+        }
+    }
+}

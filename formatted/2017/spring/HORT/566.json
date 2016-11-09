@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as CPSC 566. See CPSC 566.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as CPSC 566. See CPSC 566.", 
+    "href": "/2017/spring/HORT/566.json", 
+    "id": "HORT 566", 
+    "label": "Plant Gene Regulation", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Horticulture", 
+            "href": "/2017/spring/HORT.json", 
+            "id": "HORT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/HORT/566/46198.json", 
+            "id": "46198"
+        }
+    }
+}

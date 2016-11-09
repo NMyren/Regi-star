@@ -1,0 +1,32 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Survey of the evolution of warfare emphasizing the philosophies and trends which have been significant in land warfare.", 
+    "href": "/2017/spring/NS/321.json", 
+    "id": "NS 321", 
+    "label": "Evolution of Warfare", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Naval Science", 
+            "href": "/2017/spring/NS.json", 
+            "id": "NS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "content": "CEB", 
+            "href": "/2017/spring/NS/321/59410.json", 
+            "id": "59410"
+        }
+    }
+}

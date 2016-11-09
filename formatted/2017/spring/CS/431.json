@@ -1,0 +1,55 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 241 or ECE 391.", 
+    "creditHours": "3 or 4 hours.", 
+    "description": "A survey of sampled data systems and embedded architecture; key concepts in common embedded system applications; signal processing and control; embedded microprocessor and device interface; time-critical I/O handling; data communications; real-time operating systems and techniques for the development and analysis of embedded real-time software; hands-on laboratory projects. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 241 or ECE 391.", 
+    "href": "/2017/spring/CS/431.json", 
+    "id": "CS 431", 
+    "label": "Embedded Systems", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/CS/431/31398.json", 
+                "id": "31398"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/CS/431/31401.json", 
+                "id": "31401"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/CS/431/31399.json", 
+                "id": "31399"
+            }, 
+            {
+                "content": "AL3", 
+                "href": "/2017/spring/CS/431/31393.json", 
+                "id": "31393"
+            }, 
+            {
+                "content": "AL4", 
+                "href": "/2017/spring/CS/431/31396.json", 
+                "id": "31396"
+            }
+        ]
+    }
+}

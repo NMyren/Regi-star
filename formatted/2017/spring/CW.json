@@ -1,0 +1,126 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "208 English Building, 608 South Wright, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Head of Department: Michael Rothberg\nDepartment Office, 208 English Building, 608 South Wright, Urbana, 333-2391\nSubjects associated with this department include: Business and Technical Writing (BTW), Creative Writing (CW), English (ENGL), and Rhetoric and Composition (RHET).\n//creativewriting.english.illinois.edu/", 
+    "contactName": "Michael Rothberg", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Intro to Creative Writing", 
+                "href": "/2017/spring/CW/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "Introductory Narrative Writing", 
+                "href": "/2017/spring/CW/104.json", 
+                "id": "104"
+            }, 
+            {
+                "content": "Introductory Poetry Writing", 
+                "href": "/2017/spring/CW/106.json", 
+                "id": "106"
+            }, 
+            {
+                "content": "Reading for Writers", 
+                "href": "/2017/spring/CW/200.json", 
+                "id": "200"
+            }, 
+            {
+                "content": "Topics in Creative Writing", 
+                "href": "/2017/spring/CW/202.json", 
+                "id": "202"
+            }, 
+            {
+                "content": "Intermediate Narrative Writing", 
+                "href": "/2017/spring/CW/204.json", 
+                "id": "204"
+            }, 
+            {
+                "content": "Intermediate Poetry Writing", 
+                "href": "/2017/spring/CW/206.json", 
+                "id": "206"
+            }, 
+            {
+                "content": "Creative Nonfiction Writing", 
+                "href": "/2017/spring/CW/208.json", 
+                "id": "208"
+            }, 
+            {
+                "content": "Inter Expository Writing", 
+                "href": "/2017/spring/CW/243.json", 
+                "id": "243"
+            }, 
+            {
+                "content": "Advanced Narrative Writing", 
+                "href": "/2017/spring/CW/404.json", 
+                "id": "404"
+            }, 
+            {
+                "content": "Advanced Poetry Writing", 
+                "href": "/2017/spring/CW/406.json", 
+                "id": "406"
+            }, 
+            {
+                "content": "Creative Writing Tutorial", 
+                "href": "/2017/spring/CW/455.json", 
+                "id": "455"
+            }, 
+            {
+                "content": "Intro to Literary Editing", 
+                "href": "/2017/spring/CW/460.json", 
+                "id": "460"
+            }, 
+            {
+                "content": "Adv Topics in Creative Writing", 
+                "href": "/2017/spring/CW/463.json", 
+                "id": "463"
+            }, 
+            {
+                "content": "Writing Workshop in Fiction", 
+                "href": "/2017/spring/CW/504.json", 
+                "id": "504"
+            }, 
+            {
+                "content": "Writing Workshop in Poetry", 
+                "href": "/2017/spring/CW/506.json", 
+                "id": "506"
+            }, 
+            {
+                "content": "Literary Publishing &Promotion", 
+                "href": "/2017/spring/CW/560.json", 
+                "id": "560"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/CW/591.json", 
+                "id": "591"
+            }, 
+            {
+                "content": "Final Project", 
+                "href": "/2017/spring/CW/595.json", 
+                "id": "595"
+            }
+        ]
+    }, 
+    "departmentCode": "1499", 
+    "id": "CW", 
+    "label": "Creative Writing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-2391", 
+    "subjectComment": "Subjects associated with this department include: Business and Technical Writing (BTW), Creative Writing (CW), English (ENGL), and Rhetoric and Composition (RHET).", 
+    "unitName": "English", 
+    "webSiteURL": "//creativewriting.english.illinois.edu/"
+}

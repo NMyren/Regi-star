@@ -1,0 +1,44 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Comparative examination of important historical and contemporary conceptions of human nature.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Humanities & the Arts", 
+            "id": "HUM", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1HP", 
+                    "content": "UIUC: Hist&Philosoph Perspect"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/PHIL/250.json", 
+    "id": "PHIL 250", 
+    "label": "Conceptions of Human Nature", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Philosophy", 
+            "href": "/2017/spring/PHIL.json", 
+            "id": "PHIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PHIL/250/43033.json", 
+            "id": "43033"
+        }
+    }
+}

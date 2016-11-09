@@ -1,0 +1,129 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. May be repeated.", 
+    "creditHours": "0 TO 5 hours.", 
+    "description": "Approved for both letter and S/U grading. May be repeated.", 
+    "href": "/2017/spring/BUS/199.json", 
+    "id": "BUS 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business", 
+            "href": "/2017/spring/BUS.json", 
+            "id": "BUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ARG", 
+                "href": "/2017/spring/BUS/199/58108.json", 
+                "id": "58108"
+            }, 
+            {
+                "content": "BD", 
+                "href": "/2017/spring/BUS/199/49753.json", 
+                "id": "49753"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/BUS/199/54568.json", 
+                "id": "54568"
+            }, 
+            {
+                "content": "CHI", 
+                "href": "/2017/spring/BUS/199/64343.json", 
+                "id": "64343"
+            }, 
+            {
+                "content": "EUR", 
+                "href": "/2017/spring/BUS/199/55696.json", 
+                "id": "55696"
+            }, 
+            {
+                "content": "HK", 
+                "href": "/2017/spring/BUS/199/51175.json", 
+                "id": "51175"
+            }, 
+            {
+                "content": "HON", 
+                "href": "/2017/spring/BUS/199/64347.json", 
+                "id": "64347"
+            }, 
+            {
+                "content": "IND", 
+                "href": "/2017/spring/BUS/199/64345.json", 
+                "id": "64345"
+            }, 
+            {
+                "content": "PAN", 
+                "href": "/2017/spring/BUS/199/64346.json", 
+                "id": "64346"
+            }, 
+            {
+                "content": "PAR", 
+                "href": "/2017/spring/BUS/199/54565.json", 
+                "id": "54565"
+            }, 
+            {
+                "content": "ROM", 
+                "href": "/2017/spring/BUS/199/52900.json", 
+                "id": "52900"
+            }, 
+            {
+                "content": "SA", 
+                "href": "/2017/spring/BUS/199/54322.json", 
+                "id": "54322"
+            }, 
+            {
+                "content": "SIN", 
+                "href": "/2017/spring/BUS/199/51518.json", 
+                "id": "51518"
+            }, 
+            {
+                "content": "SPN", 
+                "href": "/2017/spring/BUS/199/59166.json", 
+                "id": "59166"
+            }, 
+            {
+                "content": "TD", 
+                "href": "/2017/spring/BUS/199/54987.json", 
+                "id": "54987"
+            }, 
+            {
+                "content": "TT", 
+                "href": "/2017/spring/BUS/199/64344.json", 
+                "id": "64344"
+            }, 
+            {
+                "content": "UAE", 
+                "href": "/2017/spring/BUS/199/59174.json", 
+                "id": "59174"
+            }, 
+            {
+                "content": "VI", 
+                "href": "/2017/spring/BUS/199/54057.json", 
+                "id": "54057"
+            }, 
+            {
+                "content": "VM", 
+                "href": "/2017/spring/BUS/199/48433.json", 
+                "id": "48433"
+            }, 
+            {
+                "content": "VTN", 
+                "href": "/2017/spring/BUS/199/49358.json", 
+                "id": "49358"
+            }
+        ]
+    }
+}

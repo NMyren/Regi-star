@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as CWL 470 and SCAN 470. See SCAN 470.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as CWL 470 and SCAN 470. See SCAN 470.", 
+    "href": "/2017/spring/EURO/470.json", 
+    "id": "EURO 470", 
+    "label": "Imagining the Welfare State", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "European Union Studies", 
+            "href": "/2017/spring/EURO.json", 
+            "id": "EURO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G", 
+                "href": "/2017/spring/EURO/470/64966.json", 
+                "id": "64966"
+            }, 
+            {
+                "content": "UG", 
+                "href": "/2017/spring/EURO/470/64967.json", 
+                "id": "64967"
+            }
+        ]
+    }
+}

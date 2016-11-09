@@ -1,0 +1,50 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "Same as IE 340. See IE 340.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as IE 340. See IE 340.", 
+    "href": "/2017/spring/PSYC/358.json", 
+    "id": "PSYC 358", 
+    "label": "Human Factors", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/PSYC/358/37225.json", 
+                "id": "37225"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/PSYC/358/37226.json", 
+                "id": "37226"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/PSYC/358/37227.json", 
+                "id": "37227"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/PSYC/358/37228.json", 
+                "id": "37228"
+            }
+        ]
+    }
+}

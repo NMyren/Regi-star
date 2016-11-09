@@ -1,0 +1,43 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Approved for both letter and S/U grading. May be repeated to a maximum of 9 hours. Not open to students on probation. Prerequisite: Written consent of ACES Study Abroad Office.", 
+    "creditHours": "1 TO 9 hours.", 
+    "description": "International experience in agricultural, consumer and environmental sciences related areas involving foreign travel and study without enrollment in another institution. Experience must be planned and approved in advance through consultation with a College of Agricultural, Consumer and Environmental Sciences faculty member. Additional fees may apply. See Class Schedule. Approved for both letter and S/U grading. May be repeated to a maximum of 9 hours. Not open to students on probation. Prerequisite: Written consent of ACES Study Abroad Office.", 
+    "href": "/2017/spring/ACES/298.json", 
+    "id": "ACES 298", 
+    "label": "International Experience", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural, Consumer and Environmental Sciences", 
+            "href": "/2017/spring/ACES.json", 
+            "id": "ACES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/ACES/298/10104.json", 
+                "id": "10104"
+            }, 
+            {
+                "content": "AWN", 
+                "href": "/2017/spring/ACES/298/64742.json", 
+                "id": "64742"
+            }, 
+            {
+                "content": "DMR", 
+                "href": "/2017/spring/ACES/298/61405.json", 
+                "id": "61405"
+            }
+        ]
+    }
+}

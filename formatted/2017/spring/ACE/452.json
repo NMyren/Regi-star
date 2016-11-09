@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Same as ECON 452. See ECON 452.", 
+    "creditHours": "2 TO 4 hours.", 
+    "description": "Same as ECON 452. See ECON 452.", 
+    "href": "/2017/spring/ACE/452.json", 
+    "id": "ACE 452", 
+    "label": "The Latin American Economies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural and Consumer Economics", 
+            "href": "/2017/spring/ACE.json", 
+            "id": "ACE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A1", 
+                "href": "/2017/spring/ACE/452/33624.json", 
+                "id": "33624"
+            }, 
+            {
+                "content": "A2", 
+                "href": "/2017/spring/ACE/452/33627.json", 
+                "id": "33627"
+            }, 
+            {
+                "content": "A3", 
+                "href": "/2017/spring/ACE/452/33625.json", 
+                "id": "33625"
+            }
+        ]
+    }
+}

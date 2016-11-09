@@ -1,0 +1,89 @@
+{
+    "classScheduleInformation": "Students must register for the lecture and one discussion section.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduces geographical perspectives on environment and development studies with case studies drawn from Africa, Asia, and Latin America. Investigates the origins of the global South in relation to the global North, especially the historical and contemporary processes driving environmental, economic, and cultural change.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Social & Behavioral Sciences", 
+                "id": "SBS", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1SS", 
+                        "content": "UIUC Social Sciences"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/GEOG/101.json", 
+    "id": "GEOG 101", 
+    "label": "Global Development&Environment", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geography", 
+            "href": "/2017/spring/GEOG.json", 
+            "id": "GEOG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Non-Western Cultures, and Social Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/GEOG/101/33261.json", 
+                "id": "33261"
+            }, 
+            {
+                "content": "AYA", 
+                "href": "/2017/spring/GEOG/101/33247.json", 
+                "id": "33247"
+            }, 
+            {
+                "content": "AYB", 
+                "href": "/2017/spring/GEOG/101/33248.json", 
+                "id": "33248"
+            }, 
+            {
+                "content": "AYC", 
+                "href": "/2017/spring/GEOG/101/33249.json", 
+                "id": "33249"
+            }, 
+            {
+                "content": "AYD", 
+                "href": "/2017/spring/GEOG/101/33250.json", 
+                "id": "33250"
+            }, 
+            {
+                "content": "AYE", 
+                "href": "/2017/spring/GEOG/101/33251.json", 
+                "id": "33251"
+            }, 
+            {
+                "content": "AYF", 
+                "href": "/2017/spring/GEOG/101/33252.json", 
+                "id": "33252"
+            }
+        ]
+    }
+}

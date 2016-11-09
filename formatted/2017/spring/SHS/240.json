@@ -1,0 +1,32 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Acoustics, anatomy, and physiology of the auditory system; psychophysical methods; and a consideration of auditory theories and mechanics.", 
+    "href": "/2017/spring/SHS/240.json", 
+    "id": "SHS 240", 
+    "label": "Intro Sound & Hearing Science", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Speech & Hearing Science major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SHS/240/40267.json", 
+            "id": "40267"
+        }
+    }
+}

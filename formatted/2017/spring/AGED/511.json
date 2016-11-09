@@ -1,0 +1,33 @@
+{
+    "creditHours": "1 hours.", 
+    "description": "Analysis of teaching and learning processes, program improvement strategies, professional development, FFA chapter development, awareness of school law, program management, and discussion of trends and issues in agricultural education.", 
+    "href": "/2017/spring/AGED/511.json", 
+    "id": "AGED 511", 
+    "label": "Grad Professional Dev in Ag Ed", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural Education", 
+            "href": "/2017/spring/AGED.json", 
+            "id": "AGED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/AGED/511/54406.json", 
+            "id": "54406"
+        }
+    }
+}

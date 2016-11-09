@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: TAM 251; credit or concurrent registration in CEE 202.", 
+    "creditHours": "3 hours.", 
+    "description": "Design, planning, operation, management, and maintenance of transportation systems; integrated multi-modal transportation systems (highways, air, rail, etc.); layout of highways, airports, and railroads with traffic flow models, capacity analysis, and safety. Design of facilities and systems with life cycle costing procedures and criteria for optimization. Prerequisite: TAM 251; credit or concurrent registration in CEE 202.", 
+    "href": "/2017/spring/CEE/310.json", 
+    "id": "CEE 310", 
+    "label": "Transportation Engineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Civil Engineering major(s).", 
+    "sections": {
+        "section": {
+            "content": "D", 
+            "href": "/2017/spring/CEE/310/31699.json", 
+            "id": "31699"
+        }
+    }
+}

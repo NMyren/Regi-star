@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. No graduate credit. To fulfill the Advanced Composition Requirement, credit must be earned for both ECE 496 and ECE 499. Prerequisite: ECE 496 and consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "Completion of the research project begun under ECE 496. Preparation and oral presentation of a written thesis that reports the results of the project. 2 undergraduate hours. No graduate credit. To fulfill the Advanced Composition Requirement, credit must be earned for both ECE 496 and ECE 499. Prerequisite: ECE 496 and consent of instructor.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/ECE/499.json", 
+    "id": "ECE 499", 
+    "label": "Senior Thesis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ECE/499/10018.json", 
+            "id": "10018"
+        }
+    }
+}

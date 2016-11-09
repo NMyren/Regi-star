@@ -1,0 +1,35 @@
+{
+    "classScheduleInformation": "A student registered in one or more Art & Design course(s) exhibiting this message, will be assessed a $95 facility use fee once each term.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. 4 undergraduate hours. No graduate credit. Prerequisite: ARTS 450.  For Art majors only.", 
+    "creditHours": "4 hours.", 
+    "description": "Continuation of ARTS 450. Second of two capstone courses in studio arts practice, providing individualized study for painting, sculpture, and new media majors. Explores and develops conceptual and aesthetic interests, topics, and projects; expands and refines material knowledge and expertise; develops research strategies and methodologies. Includes individual and group critiques, dynamic interaction with faculty and peers. Additional fees may apply. See Class Schedule. 4 undergraduate hours. No graduate credit. Prerequisite: ARTS 450.  For Art majors only.", 
+    "href": "/2017/spring/ARTS/451.json", 
+    "id": "ARTS 451", 
+    "label": "Advanced Studio II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Studio", 
+            "href": "/2017/spring/ARTS.json", 
+            "id": "ARTS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionFeeAmount": "Art  Design Paint $30.00 Flat Fee.", 
+    "sectionRegistrationNotes": "Restricted to Painting or Sculpture major(s).", 
+    "sections": {
+        "section": {
+            "content": "M9A", 
+            "href": "/2017/spring/ARTS/451/46823.json", 
+            "id": "46823"
+        }
+    }
+}

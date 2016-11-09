@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 6 hours. Prerequisite: Post DVM and enrolled in the Zoological and Aquatic Animal Residency Program.", 
+    "creditHours": "2 hours.", 
+    "description": "Discussion of selected topics and literature pertaining to zoological, wildlife and aquatic animal medicine and presentation of a formal seminar. May be repeated to a maximum of 6 hours. Prerequisite: Post DVM and enrolled in the Zoological and Aquatic Animal Residency Program.", 
+    "href": "/2017/spring/VCM/501.json", 
+    "id": "VCM 501", 
+    "label": "Zoological Medicine Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Veterinary Clinical Medicine", 
+            "href": "/2017/spring/VCM.json", 
+            "id": "VCM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/VCM/501/49726.json", 
+            "id": "49726"
+        }
+    }
+}

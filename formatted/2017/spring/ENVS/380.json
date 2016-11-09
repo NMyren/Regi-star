@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Same as GEOL 380. See GEOL 380.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as GEOL 380. See GEOL 380.", 
+    "href": "/2017/spring/ENVS/380.json", 
+    "id": "ENVS 380", 
+    "label": "Environmental Geology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Environmental Studies", 
+            "href": "/2017/spring/ENVS.json", 
+            "id": "ENVS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ENVS/380/33539.json", 
+                "id": "33539"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ENVS/380/33540.json", 
+                "id": "33540"
+            }
+        ]
+    }
+}

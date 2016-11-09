@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as NEUR 510. 3 or 4 graduate hours. No professional credit. Consent of instructor is required for more than 3 hours of credit. Prerequisite: PSYC 210 or consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Deals with the relevance of behavioral neuroscience to the subdisciplines of psychology; topics include behavioral genetics, hormones and sexuality, eating and drinking, human memory models and the brain, biorhythms in normal and abnormal behavior, physiology of sensing and perceiving, selective attention, and others. Same as NEUR 510. 3 or 4 graduate hours. No professional credit. Consent of instructor is required for more than 3 hours of credit. Prerequisite: PSYC 210 or consent of instructor.", 
+    "href": "/2017/spring/PSYC/510.json", 
+    "id": "PSYC 510", 
+    "label": "Advances in Behavioral Neuroscience", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PSYC/510/39612.json", 
+            "id": "39612"
+        }
+    }
+}

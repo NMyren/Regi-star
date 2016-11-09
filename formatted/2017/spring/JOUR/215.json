@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Credit is not given for JOUR 215 if credit for JOUR 410 has been earned. Prerequisite: JOUR 210 or consent of Journalism Department.", 
+    "creditHours": "4 hours.", 
+    "description": "Designed to acquaint students with the fundamentals of digital photography, video, audio and multimedia as it applies to journalism. Instruction will include conceptual frameworks and techniques to create multimedia journalism content; the conception, planning and creation of multimedia projects; coverage of events with audio, video and photographs; the technical and creative aspects of digital photography, video, and multimedia; delivery platforms for multimedia content including the Web and evolving communication technologies. Credit is not given for JOUR 215 if credit for JOUR 410 has been earned. Prerequisite: JOUR 210 or consent of Journalism Department.", 
+    "href": "/2017/spring/JOUR/215.json", 
+    "id": "JOUR 215", 
+    "label": "Multimedia Reporting", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Journalism", 
+            "href": "/2017/spring/JOUR.json", 
+            "id": "JOUR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Agr & Environmental Cmc & Educ or Journalism or News-Editorial or Broadcast Journalism or Agricultural Communications major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "1", 
+                "href": "/2017/spring/JOUR/215/61604.json", 
+                "id": "61604"
+            }, 
+            {
+                "content": "2", 
+                "href": "/2017/spring/JOUR/215/61602.json", 
+                "id": "61602"
+            }, 
+            {
+                "content": "3", 
+                "href": "/2017/spring/JOUR/215/61605.json", 
+                "id": "61605"
+            }
+        ]
+    }
+}

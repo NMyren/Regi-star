@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: ANSC 223 or equivalent.", 
+    "creditHours": "3 hours.", 
+    "description": "Study of management, nutrition, reproduction, genetics, marketing, economics, housing, health and production record programs as they apply to sheep production. History of the U. S. sheep industry will be explored along with a study of wool production, marketing and processing. 3 undergraduate hours. 3 graduate hours. Prerequisite: ANSC 223 or equivalent.", 
+    "href": "/2017/spring/ANSC/402.json", 
+    "id": "ANSC 402", 
+    "label": "Sheep Production", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "1", 
+            "href": "/2017/spring/ANSC/402/29963.json", 
+            "id": "29963"
+        }
+    }
+}

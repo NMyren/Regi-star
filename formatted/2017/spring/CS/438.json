@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "Same as ECE 438. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 241 or ECE 391; one of ECE 313, MATH 461, MATH 463.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Layered architectures and the OSI Reference Model; design issues and protocols in the transport, network, and data link layers; architectures and control algorithms of local-area, point-to-point, and satellite networks; standards in networks access protocols; models of network interconnection; overview of networking and communication software. Same as ECE 438. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 241 or ECE 391; one of ECE 313, MATH 461, MATH 463.", 
+    "href": "/2017/spring/CS/438.json", 
+    "id": "CS 438", 
+    "label": "Communication Networks", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/CS/438/51445.json", 
+                "id": "51445"
+            }, 
+            {
+                "content": "R3", 
+                "href": "/2017/spring/CS/438/31410.json", 
+                "id": "31410"
+            }, 
+            {
+                "content": "R4", 
+                "href": "/2017/spring/CS/438/56310.json", 
+                "id": "56310"
+            }
+        ]
+    }
+}

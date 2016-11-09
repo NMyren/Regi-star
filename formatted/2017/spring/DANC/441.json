@@ -1,0 +1,46 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. May be repeated to a maximum of 6 undergraduate hours and 9 graduate hours. Prerequisite: DANC 240 or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Survey of critical approaches in dance studies including feminist theory, poststructural, and postcolonial theory, historiography, and ethnographic research methods. Course topics will cover a variety of theatrical, popular, and social dance practices. 3 undergraduate hours. 3 graduate hours. May be repeated to a maximum of 6 undergraduate hours and 9 graduate hours. Prerequisite: DANC 240 or consent of instructor.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/DANC/441.json", 
+    "id": "DANC 441", 
+    "label": "Dance History Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sectionRegistrationNotes": "Restricted to Dance or Dance major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/DANC/441/31877.json", 
+            "id": "31877"
+        }
+    }
+}

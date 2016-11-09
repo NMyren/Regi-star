@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 290, ECE 310, and ECE 473.", 
+    "creditHours": "3 hours.", 
+    "description": "Resonance and wave phenomena; acoustics of rooms and auditoriums; artificial reverberation and sound localization-spatialization; loudspeakers, enclosures, and microphones; topics in digital audio. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 290, ECE 310, and ECE 473.", 
+    "href": "/2017/spring/ECE/403.json", 
+    "id": "ECE 403", 
+    "label": "Audio Engineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "E", 
+            "href": "/2017/spring/ECE/403/32796.json", 
+            "id": "32796"
+        }
+    }
+}

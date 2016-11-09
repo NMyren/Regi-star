@@ -1,0 +1,38 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Approved for both letter and S/U grading. May be repeated.", 
+    "creditHours": "1 TO 8 hours.", 
+    "description": "Work may be taken in the following fields: (a) general geology; Field trip fee may be required for this section. (b) engineering geology; (c) geomorphology and glacial geology; (d) clay mineralogy; (e) ground-water geology; (f) geomicrobiology; (g) geological fluid dynamics; (h) mineralogy and crystallography; (i) paleontology; (j) geochemistry: (k) geophysics; (l) petrography and petrology; (m) sedimentology; (n) stratigraphy; (o) oceanography; (p) submarine geology; (q) structural geology and geotectonics; (r) mathematical geology; (s) sedimentary petrography; (t) petroleum geology; (u) coal geology; (v) isotope geology and geochronology; (w) electron beam analysis; (x) vulcanology; (y) environmental geology; and (z) planetology. Additional fees may apply. See Class Schedule. Approved for both letter and S/U grading. May be repeated.", 
+    "href": "/2017/spring/GEOL/593.json", 
+    "id": "GEOL 593", 
+    "label": "Advanced Studies in Geology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/GEOL/593/10267.json", 
+                "id": "10267"
+            }, 
+            {
+                "content": "X1", 
+                "href": "/2017/spring/GEOL/593/63310.json", 
+                "id": "63310"
+            }
+        ]
+    }
+}

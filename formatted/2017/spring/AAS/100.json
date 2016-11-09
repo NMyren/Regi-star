@@ -1,0 +1,88 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Interdisciplinary introduction to the basic concepts and approaches in Asian American Studies. Surveys the various dimensions of Asian American experiences including history, social organization, literature, arts, and politics.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Social & Behavioral Sciences", 
+                "id": "SBS", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1SS", 
+                        "content": "UIUC Social Sciences"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1US", 
+                        "content": "UIUC: US Minority Culture(s)"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/AAS/100.json", 
+    "id": "AAS 100", 
+    "label": "Intro Asian American Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Asian American Studies", 
+            "href": "/2017/spring/AAS.json", 
+            "id": "AAS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences, and US Minority Culture(s) course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/AAS/100/30107.json", 
+                "id": "30107"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/AAS/100/41729.json", 
+                "id": "41729"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/AAS/100/43832.json", 
+                "id": "43832"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/AAS/100/48232.json", 
+                "id": "48232"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/AAS/100/48234.json", 
+                "id": "48234"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/AAS/100/50105.json", 
+                "id": "50105"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/AAS/100/30106.json", 
+                "id": "30106"
+            }
+        ]
+    }
+}

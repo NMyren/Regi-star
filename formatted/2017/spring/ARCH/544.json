@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Term paper is required for 4 hours credit. Prerequisite: Graduate standing in Architecture or consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Advanced course on building design for greater performance, including the study of: the anatomical and functional variations of building subsystems and their design implications; inter-system relationships and synergistic integration of building subsystems into the overall building; and the strategies for designing buildings of high functional performance and greater overall value. Term paper is required for 4 hours credit. Prerequisite: Graduate standing in Architecture or consent of instructor.", 
+    "href": "/2017/spring/ARCH/544.json", 
+    "id": "ARCH 544", 
+    "label": "Bldg Sys & Design Integration", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "D", 
+            "href": "/2017/spring/ARCH/544/48820.json", 
+            "id": "48820"
+        }
+    }
+}

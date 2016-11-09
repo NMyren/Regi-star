@@ -1,0 +1,115 @@
+{
+    "classScheduleInformation": "Students must register for a lecture and discussion section.", 
+    "courseSectionInformation": "Credit is not given for both CS 173 and MATH 213. Prerequisite: One of CS 125, ECE 220; one of MATH 220, MATH 221.", 
+    "creditHours": "3 hours.", 
+    "description": "Discrete mathematical structures frequently encountered in the study of Computer Science. Sets, propositions, Boolean algebra, induction, recursion, relations, functions, and graphs. Credit is not given for both CS 173 and MATH 213. Prerequisite: One of CS 125, ECE 220; one of MATH 220, MATH 221.", 
+    "href": "/2017/spring/CS/173.json", 
+    "id": "CS 173", 
+    "label": "Discrete Structures", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ADA", 
+                "href": "/2017/spring/CS/173/31187.json", 
+                "id": "31187"
+            }, 
+            {
+                "content": "ADB", 
+                "href": "/2017/spring/CS/173/48263.json", 
+                "id": "48263"
+            }, 
+            {
+                "content": "ADC", 
+                "href": "/2017/spring/CS/173/48264.json", 
+                "id": "48264"
+            }, 
+            {
+                "content": "ADD", 
+                "href": "/2017/spring/CS/173/57329.json", 
+                "id": "57329"
+            }, 
+            {
+                "content": "ADE", 
+                "href": "/2017/spring/CS/173/57330.json", 
+                "id": "57330"
+            }, 
+            {
+                "content": "ADF", 
+                "href": "/2017/spring/CS/173/57446.json", 
+                "id": "57446"
+            }, 
+            {
+                "content": "ADG", 
+                "href": "/2017/spring/CS/173/48265.json", 
+                "id": "48265"
+            }, 
+            {
+                "content": "ADH", 
+                "href": "/2017/spring/CS/173/61915.json", 
+                "id": "61915"
+            }, 
+            {
+                "content": "ADI", 
+                "href": "/2017/spring/CS/173/61916.json", 
+                "id": "61916"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CS/173/39311.json", 
+                "id": "39311"
+            }, 
+            {
+                "content": "BDA", 
+                "href": "/2017/spring/CS/173/48266.json", 
+                "id": "48266"
+            }, 
+            {
+                "content": "BDB", 
+                "href": "/2017/spring/CS/173/48267.json", 
+                "id": "48267"
+            }, 
+            {
+                "content": "BDC", 
+                "href": "/2017/spring/CS/173/50441.json", 
+                "id": "50441"
+            }, 
+            {
+                "content": "BDD", 
+                "href": "/2017/spring/CS/173/50442.json", 
+                "id": "50442"
+            }, 
+            {
+                "content": "BDE", 
+                "href": "/2017/spring/CS/173/51087.json", 
+                "id": "51087"
+            }, 
+            {
+                "content": "BDF", 
+                "href": "/2017/spring/CS/173/51089.json", 
+                "id": "51089"
+            }, 
+            {
+                "content": "BL2", 
+                "href": "/2017/spring/CS/173/50094.json", 
+                "id": "50094"
+            }
+        ]
+    }
+}

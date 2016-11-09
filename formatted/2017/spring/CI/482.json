@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Learning in multimodal environments from a social and cultural perspective. Topics include the formation and expression of individual and group identity across multiple contexts, including social networking, online gaming, reality television programs, streamed video, and in online courses. Assignments include both analytic and project-based tasks, with an emphasis on implications for formal learning environments. 3 undergraduate hours. 4 graduate hours.", 
+    "href": "/2017/spring/CI/482.json", 
+    "id": "CI 482", 
+    "label": "Social Learning and Multimedia", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Curriculum and Instruction", 
+            "href": "/2017/spring/CI.json", 
+            "id": "CI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CI/482/63210.json", 
+            "id": "63210"
+        }
+    }
+}

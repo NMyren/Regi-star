@@ -1,0 +1,41 @@
+{
+    "courseSectionInformation": "No graduate credit. 9 professional hours. Prerequisite: VM 607 and good standing in the veterinary professional curriculum, or consent of instructor.", 
+    "creditHours": "9 hours.", 
+    "description": "Pathology, clinical pathology, and imaging of organ systems; epidemiology and food safety; and includes an integrative laboratory covering commonly encountered problems in infectious diseases. No graduate credit. 9 professional hours. Prerequisite: VM 607 and good standing in the veterinary professional curriculum, or consent of instructor.", 
+    "href": "/2017/spring/VM/608.json", 
+    "id": "VM 608", 
+    "label": "Pathobiology III", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Veterinary Medicine Courses", 
+            "href": "/2017/spring/VM.json", 
+            "id": "VM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sectionRegistrationNotes": "Restricted to VetMed - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/VM/608/55159.json", 
+                "id": "55159"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/VM/608/55158.json", 
+                "id": "55158"
+            }
+        ]
+    }
+}

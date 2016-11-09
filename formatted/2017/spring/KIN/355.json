@@ -1,0 +1,55 @@
+{
+    "classScheduleInformation": "Students must register for one lab-discussion and one lecture section.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. Prerequisite: MCB 334, MATH 012 or above, or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Studies the biological and mechanical principles of human motor performance; analyzes selected movement skills in depth. Additional fees may apply. See Class Schedule. Prerequisite: MCB 334, MATH 012 or above, or consent of instructor.", 
+    "href": "/2017/spring/KIN/355.json", 
+    "id": "KIN 355", 
+    "label": "Biomechanics of Human Movement", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/KIN/355/35163.json", 
+                "id": "35163"
+            }, 
+            {
+                "content": "AY1", 
+                "href": "/2017/spring/KIN/355/35160.json", 
+                "id": "35160"
+            }, 
+            {
+                "content": "AY2", 
+                "href": "/2017/spring/KIN/355/35161.json", 
+                "id": "35161"
+            }, 
+            {
+                "content": "AY3", 
+                "href": "/2017/spring/KIN/355/35162.json", 
+                "id": "35162"
+            }, 
+            {
+                "content": "AY4", 
+                "href": "/2017/spring/KIN/355/56995.json", 
+                "id": "56995"
+            }
+        ]
+    }
+}

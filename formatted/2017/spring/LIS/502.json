@@ -1,0 +1,65 @@
+{
+    "courseSectionInformation": "2 or 4 graduate hours. Required M.S. degree core course.", 
+    "creditHours": "2 OR 4 hours.", 
+    "description": "Explores major issues in the library and information science professions as they involve their communities of users and sponsors. Analyzes specific situations that reflect the professional agenda of these fields, including intellectual freedom, community service, professional ethics, social responsibilities, intellectual property, literacy, historical and international models, the socio-cultural role of libraries and information agencies and professionalism in general, focusing in particular on the interrelationships among these issues. 2 or 4 graduate hours. Required M.S. degree core course.", 
+    "href": "/2017/spring/LIS/502.json", 
+    "id": "LIS 502", 
+    "label": "Libraries Info and Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to MS:Library & Infor Sci -UIUC or MS:Lib & Inf Sci Online-UIUC.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/LIS/502/48834.json", 
+                "id": "48834"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/LIS/502/48835.json", 
+                "id": "48835"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/LIS/502/48836.json", 
+                "id": "48836"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/LIS/502/49483.json", 
+                "id": "49483"
+            }, 
+            {
+                "content": "LEA", 
+                "href": "/2017/spring/LIS/502/65542.json", 
+                "id": "65542"
+            }, 
+            {
+                "content": "LEB", 
+                "href": "/2017/spring/LIS/502/65541.json", 
+                "id": "65541"
+            }, 
+            {
+                "content": "LEC", 
+                "href": "/2017/spring/LIS/502/65540.json", 
+                "id": "65540"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "May be repeated. Prerequisite: Concurrent registration in another 100-level computer science course (see Schedule).", 
+    "creditHours": "1 hours.", 
+    "description": "Offered for honors credit in conjunction with other 100-level computer science courses taken concurrently. A special examination may be required for admission to this course. May be repeated. Prerequisite: Concurrent registration in another 100-level computer science course (see Schedule).", 
+    "href": "/2017/spring/CS/196.json", 
+    "id": "CS 196", 
+    "label": "Freshman Honors", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "25", 
+                "href": "/2017/spring/CS/196/31193.json", 
+                "id": "31193"
+            }, 
+            {
+                "content": "73", 
+                "href": "/2017/spring/CS/196/31195.json", 
+                "id": "31195"
+            }
+        ]
+    }
+}

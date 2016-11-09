@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Credit is not given for both PSYC 407 and SOC 587. Prerequisite: PSYC 406.", 
+    "creditHours": "4 hours.", 
+    "description": "Continuation of PSYC 406. Experimental design, including Latin Squares, factorials, and nested designs; expected mean squares; analysis of covariance; emphasizes the general linear model. 4 undergraduate hours. 4 graduate hours. Credit is not given for both PSYC 407 and SOC 587. Prerequisite: PSYC 406.", 
+    "href": "/2017/spring/PSYC/407.json", 
+    "id": "PSYC 407", 
+    "label": "Statistical Methods II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB", 
+                "href": "/2017/spring/PSYC/407/50699.json", 
+                "id": "50699"
+            }, 
+            {
+                "content": "AL", 
+                "href": "/2017/spring/PSYC/407/50700.json", 
+                "id": "50700"
+            }, 
+            {
+                "content": "BB", 
+                "href": "/2017/spring/PSYC/407/37241.json", 
+                "id": "37241"
+            }, 
+            {
+                "content": "BL", 
+                "href": "/2017/spring/PSYC/407/37242.json", 
+                "id": "37242"
+            }
+        ]
+    }
+}

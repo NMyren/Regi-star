@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. Prerequisite: Consent of instructor.", 
+    "creditHours": "0 hours.", 
+    "description": "Summer, part-time, or other professional-level employment in the field of planning, usually in an area of concentration; exposure to the social, political, and institutional setting in which planning operates; and full documentation of internship activities required. Approved for S/U grading only. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/UP/590.json", 
+    "id": "UP 590", 
+    "label": "Professional Internship", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Urban and Regional Planning", 
+            "href": "/2017/spring/UP.json", 
+            "id": "UP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Urban & Regional Planning department.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/UP/590/63886.json", 
+            "id": "63886"
+        }
+    }
+}

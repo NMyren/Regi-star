@@ -1,0 +1,31 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "On-site practical experience in a secondary school, involving at least 100 hours of classroom observations, consultations, teaching, tutoring, and assisting, to acquaint students with the many facets of ESL/bilingual education in a public school setting. Hours to be arranged with the cooperating teacher. Satisfies one requirement for those who wish to obtain an Illinois ESL endorsement on an Illinois teaching certificate.", 
+    "href": "/2017/spring/EIL/215.json", 
+    "id": "EIL 215", 
+    "label": "TESL in the Secondary School", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English as an International Language", 
+            "href": "/2017/spring/EIL.json", 
+            "id": "EIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/EIL/215/41444.json", 
+            "id": "41444"
+        }
+    }
+}

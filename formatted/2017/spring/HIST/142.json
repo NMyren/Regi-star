@@ -1,0 +1,80 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section.", 
+    "courseSectionInformation": "Credit is not given for both HIST 142 and HIST 143.", 
+    "creditHours": "3 hours.", 
+    "description": "Fundamental developments - social, economic, cultural, intellectual, and political - in the history of mankind and Western society since 1660; includes the rise of modern science, the French and Industrial revolutions, the Romantic movement, the growth of nationalism and socialism, imperialism, urbanization, the Russian Revolution, Nazi Germany, the world wars, and the West and the developing world. Credit is not given for both HIST 142 and HIST 143.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/HIST/142.json", 
+    "id": "HIST 142", 
+    "label": "Western Civ Since 1660", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and Western Compartv Cult course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "ADA", 
+                "href": "/2017/spring/HIST/142/33868.json", 
+                "id": "33868"
+            }, 
+            {
+                "content": "ADB", 
+                "href": "/2017/spring/HIST/142/33869.json", 
+                "id": "33869"
+            }, 
+            {
+                "content": "ADE", 
+                "href": "/2017/spring/HIST/142/33874.json", 
+                "id": "33874"
+            }, 
+            {
+                "content": "ADG", 
+                "href": "/2017/spring/HIST/142/33877.json", 
+                "id": "33877"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/HIST/142/34034.json", 
+                "id": "34034"
+            }
+        ]
+    }
+}

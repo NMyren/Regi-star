@@ -1,0 +1,64 @@
+{
+    "courseSectionInformation": "Prerequisite: ARCH 373.", 
+    "creditHours": "5 hours.", 
+    "description": "Building design in the community setting; creation of place; introductory urban design and site planning issues, including universal design and accessibility; human-built environment relationship issues; architectural design and presentation methods; required field trips. Prerequisite: ARCH 373.", 
+    "href": "/2017/spring/ARCH/374.json", 
+    "id": "ARCH 374", 
+    "label": "Arch Design and the City", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "E0", 
+                "href": "/2017/spring/ARCH/374/52993.json", 
+                "id": "52993"
+            }, 
+            {
+                "content": "E1", 
+                "href": "/2017/spring/ARCH/374/30241.json", 
+                "id": "30241"
+            }, 
+            {
+                "content": "E2", 
+                "href": "/2017/spring/ARCH/374/30242.json", 
+                "id": "30242"
+            }, 
+            {
+                "content": "E3", 
+                "href": "/2017/spring/ARCH/374/30244.json", 
+                "id": "30244"
+            }, 
+            {
+                "content": "E4", 
+                "href": "/2017/spring/ARCH/374/30245.json", 
+                "id": "30245"
+            }, 
+            {
+                "content": "E5", 
+                "href": "/2017/spring/ARCH/374/30248.json", 
+                "id": "30248"
+            }, 
+            {
+                "content": "E6", 
+                "href": "/2017/spring/ARCH/374/41572.json", 
+                "id": "41572"
+            }
+        ]
+    }
+}

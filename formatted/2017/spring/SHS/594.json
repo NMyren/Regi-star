@@ -1,0 +1,54 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated in separate terms to a maximum of 8 hours.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "This mentored research experience provides individualized opportunities for PhD students to conduct research projects under the direction of their faculty mentors/advisors. Approved for S/U grading only. May be repeated in separate terms to a maximum of 8 hours.", 
+    "href": "/2017/spring/SHS/594.json", 
+    "id": "SHS 594", 
+    "label": "PhD Early Research Project", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Speech and Hearing Science", 
+            "href": "/2017/spring/SHS.json", 
+            "id": "SHS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "FH", 
+                "href": "/2017/spring/SHS/594/64209.json", 
+                "id": "64209"
+            }, 
+            {
+                "content": "JA", 
+                "href": "/2017/spring/SHS/594/64207.json", 
+                "id": "64207"
+            }, 
+            {
+                "content": "JH", 
+                "href": "/2017/spring/SHS/594/61007.json", 
+                "id": "61007"
+            }, 
+            {
+                "content": "LD", 
+                "href": "/2017/spring/SHS/594/59755.json", 
+                "id": "59755"
+            }, 
+            {
+                "content": "TML", 
+                "href": "/2017/spring/SHS/594/63128.json", 
+                "id": "63128"
+            }
+        ]
+    }
+}

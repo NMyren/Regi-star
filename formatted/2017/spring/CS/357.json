@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Same as MATH 357. Credit is not given for CS 357 if credit for CS 450 has been earned. (Counts for advanced hours in LAS). Prerequisite: A 100-level computer science course; MATH 225 or MATH 415; MATH 241.", 
+    "creditHours": "3 hours.", 
+    "description": "Fundamentals of numerical methods for students in science and engineering; floating-point computation, systems of linear equations, approximation of functions and integrals, the single nonlinear equation, and the numerical solution of ordinary differential equations; various applications in science and engineering; programming exercises and use of high quality mathematical library routines. Same as MATH 357. Credit is not given for CS 357 if credit for CS 450 has been earned. (Counts for advanced hours in LAS). Prerequisite: A 100-level computer science course; MATH 225 or MATH 415; MATH 241.", 
+    "href": "/2017/spring/CS/357.json", 
+    "id": "CS 357", 
+    "label": "Numerical Methods I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to students with Senior class standing. Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "M", 
+                "href": "/2017/spring/CS/357/61476.json", 
+                "id": "61476"
+            }, 
+            {
+                "content": "N", 
+                "href": "/2017/spring/CS/357/50106.json", 
+                "id": "50106"
+            }
+        ]
+    }
+}

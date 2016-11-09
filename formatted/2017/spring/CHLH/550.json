@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: Admission to graduate program in community health or the MBA Administration Program; CHLH 429; or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Comprehensive analysis of the policy process in health care in the United States; systematic and critical review of health policy development, implementation, and evaluation; impact of government at all levels and the role of providers, industry, labor, and consumer in health policy. Prerequisite: Admission to graduate program in community health or the MBA Administration Program; CHLH 429; or consent of instructor.", 
+    "href": "/2017/spring/CHLH/550.json", 
+    "id": "CHLH 550", 
+    "label": "Health Policy: United States", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHLH/550/31303.json", 
+            "id": "31303"
+        }
+    }
+}

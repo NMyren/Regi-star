@@ -1,0 +1,31 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Exploration of the effect of traumatic events, shifting cultural narratives, and social transformations on the construction of collective identities in Bosnia, Croatia and Serbia in the 20th and 21st centuries. Students will read historical and sociological works as well as fiction and poetry.", 
+    "href": "/2017/spring/BCS/215.json", 
+    "id": "BCS 215", 
+    "label": "Yugoslavia and After", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Bosnian-Croatian-Serbian", 
+            "href": "/2017/spring/BCS.json", 
+            "id": "BCS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/BCS/215/65416.json", 
+            "id": "65416"
+        }
+    }
+}

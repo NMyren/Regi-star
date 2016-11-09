@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated up to 8 hours if topics vary. Prerequisite: 9 hours of CLCV classes. For majors and minors only.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Reading in selected fields in consultation with the instructor. 1 to 4 undergraduate hours. 1 to 4 graduate hours. May be repeated up to 8 hours if topics vary. Prerequisite: 9 hours of CLCV classes. For majors and minors only.", 
+    "href": "/2017/spring/CLCV/493.json", 
+    "id": "CLCV 493", 
+    "label": "Independent Reading", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Classical Civilization", 
+            "href": "/2017/spring/CLCV.json", 
+            "id": "CLCV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/CLCV/493/62904.json", 
+            "id": "62904"
+        }
+    }
+}

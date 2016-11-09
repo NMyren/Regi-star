@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 487 recommended.", 
+    "creditHours": "3 hours.", 
+    "description": "Active photonic devices and lightwave technology. Hands-on experience with several classes of lasers (HeNe laser, semiconductor edge emitting lasers, vertical cavity surface emitting lasers), photodetectors, and photonic systems. Familiarization with experimental optical characterization techniques and equipment. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 487 recommended.", 
+    "href": "/2017/spring/ECE/495.json", 
+    "id": "ECE 495", 
+    "label": "Photonic Device Laboratory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/ECE/495/45944.json", 
+                "id": "45944"
+            }, 
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/ECE/495/45943.json", 
+                "id": "45943"
+            }
+        ]
+    }
+}

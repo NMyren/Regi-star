@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. May be repeated.", 
+    "creditHours": "1 to 5 hours.", 
+    "description": "Approved for both letter and S/U grading. May be repeated.", 
+    "href": "/2017/spring/ECE/199.json", 
+    "id": "ECE 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "M", 
+            "href": "/2017/spring/ECE/199/64086.json", 
+            "id": "64086"
+        }
+    }
+}

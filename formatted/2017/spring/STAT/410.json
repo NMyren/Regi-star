@@ -1,0 +1,59 @@
+{
+    "courseSectionInformation": "Same as MATH 464. 3 undergraduate hours. 4 graduate hours. Credit is not given for both STAT 410 and STAT 409. Prerequisite: STAT 400; or STAT 100 and MATH 461.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Continuation of STAT 400. Includes moment-generating functions, transformations of random variables, normal sampling theory, sufficiency, best estimators, maximum likelihood estimators, confidence intervals, most powerful tests, unbiased tests, and chi-square tests. Same as MATH 464. 3 undergraduate hours. 4 graduate hours. Credit is not given for both STAT 410 and STAT 409. Prerequisite: STAT 400; or STAT 100 and MATH 461.", 
+    "href": "/2017/spring/STAT/410.json", 
+    "id": "STAT 410", 
+    "label": "Statistics and Probability II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Statistics", 
+            "href": "/2017/spring/STAT.json", 
+            "id": "STAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "1GR", 
+                "href": "/2017/spring/STAT/410/36150.json", 
+                "id": "36150"
+            }, 
+            {
+                "content": "1UG", 
+                "href": "/2017/spring/STAT/410/36149.json", 
+                "id": "36149"
+            }, 
+            {
+                "content": "2GR", 
+                "href": "/2017/spring/STAT/410/61860.json", 
+                "id": "61860"
+            }, 
+            {
+                "content": "2UG", 
+                "href": "/2017/spring/STAT/410/61861.json", 
+                "id": "61861"
+            }, 
+            {
+                "content": "3GR", 
+                "href": "/2017/spring/STAT/410/63555.json", 
+                "id": "63555"
+            }, 
+            {
+                "content": "3UG", 
+                "href": "/2017/spring/STAT/410/63557.json", 
+                "id": "63557"
+            }
+        ]
+    }
+}

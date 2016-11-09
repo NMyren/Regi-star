@@ -1,0 +1,34 @@
+{
+    "creditHours": "1 hours.", 
+    "description": "Important elements and metrics of business and contemporary engineering economics: wealth creation, cash flow diagrams, internal rate of return, net present value, breakeven analysis, companies, corporations, profits, prices, balance sheets, income statements, and the basics of business plan writing. Particular emphasis is given to preparation for the economic analysis component of engineering practice.", 
+    "href": "/2017/spring/GE/261.json", 
+    "id": "GE 261", 
+    "label": "Business Side of Engineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "General Engineering", 
+            "href": "/2017/spring/GE.json", 
+            "id": "GE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 14-Feb-17 - 03-May-17.", 
+    "sectionDeptRestriction": "Restricted to students in the Industrial&Enterprise Sys Eng department.", 
+    "sectionRegistrationNotes": "Not intended for students with Freshman class standing.", 
+    "sections": {
+        "section": {
+            "content": "H", 
+            "href": "/2017/spring/GE/261/60396.json", 
+            "id": "60396"
+        }
+    }
+}

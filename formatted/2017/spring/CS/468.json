@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as ADV 492. See ADV 492.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as ADV 492. See ADV 492.", 
+    "href": "/2017/spring/CS/468.json", 
+    "id": "CS 468", 
+    "label": "Tech and Advertising Campaigns", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computer Science", 
+            "href": "/2017/spring/CS.json", 
+            "id": "CS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Computer Engineering or Computer Science major(s). Restricted to students with Junior or Senior class standing.", 
+    "sections": {
+        "section": {
+            "content": "U", 
+            "href": "/2017/spring/CS/468/64124.json", 
+            "id": "64124"
+        }
+    }
+}

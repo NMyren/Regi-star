@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours.", 
+    "creditHours": "3 hours.", 
+    "description": "Bioprocessing of cereals and oilseeds by milling, fermentation and extraction processes in the production of a wide variety of coproducts used in animal foods. Includes the effects of the process variables and bioprocess on coproduct quality and the post-processing of coproducts. 3 undergraduate hours. 3 graduate hours.", 
+    "href": "/2017/spring/TSM/486.json", 
+    "id": "TSM 486", 
+    "label": "Grain Bioprocessing Coproducts", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Technical Systems Management", 
+            "href": "/2017/spring/TSM.json", 
+            "id": "TSM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "KDR", 
+            "href": "/2017/spring/TSM/486/50357.json", 
+            "id": "50357"
+        }
+    }
+}

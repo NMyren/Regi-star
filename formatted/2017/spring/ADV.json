@@ -1,0 +1,155 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "119 Gregory Hall, 810 South Wright, Urbana", 
+    "collegeCode": "KT", 
+    "collegeDepartmentDescription": "Head of Department: Jacqueline Hitchon\nDepartment Office, 119 Gregory Hall, 810 South Wright, Urbana, 217-333-1602\n//media.illinois.edu/degrees/advertising-bs-ms", 
+    "contactName": "Jacqueline Hitchon", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Introduction to Advertising", 
+                "href": "/2017/spring/ADV/150.json", 
+                "id": "150"
+            }, 
+            {
+                "content": "Undergraduate Seminar", 
+                "href": "/2017/spring/ADV/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Advertising Research Methods", 
+                "href": "/2017/spring/ADV/281.json", 
+                "id": "281"
+            }, 
+            {
+                "content": "Advertising and Brand Strategy", 
+                "href": "/2017/spring/ADV/283.json", 
+                "id": "283"
+            }, 
+            {
+                "content": "Consumer Insight", 
+                "href": "/2017/spring/ADV/284.json", 
+                "id": "284"
+            }, 
+            {
+                "content": "Intro to Public Relations", 
+                "href": "/2017/spring/ADV/310.json", 
+                "id": "310"
+            }, 
+            {
+                "content": "Classic Campaigns", 
+                "href": "/2017/spring/ADV/311.json", 
+                "id": "311"
+            }, 
+            {
+                "content": "Advertising History", 
+                "href": "/2017/spring/ADV/312.json", 
+                "id": "312"
+            }, 
+            {
+                "content": "Emerging Media", 
+                "href": "/2017/spring/ADV/315.json", 
+                "id": "315"
+            }, 
+            {
+                "content": "Writing for Public Relations", 
+                "href": "/2017/spring/ADV/350.json", 
+                "id": "350"
+            }, 
+            {
+                "content": "Content Creation", 
+                "href": "/2017/spring/ADV/390.json", 
+                "id": "390"
+            }, 
+            {
+                "content": "Advertising Study Abroad", 
+                "href": "/2017/spring/ADV/399.json", 
+                "id": "399"
+            }, 
+            {
+                "content": "Special Problems", 
+                "href": "/2017/spring/ADV/400.json", 
+                "id": "400"
+            }, 
+            {
+                "content": "Public Relations Strategies", 
+                "href": "/2017/spring/ADV/410.json", 
+                "id": "410"
+            }, 
+            {
+                "content": "Creative Concepts II", 
+                "href": "/2017/spring/ADV/454.json", 
+                "id": "454"
+            }, 
+            {
+                "content": "Innovation in Advertising", 
+                "href": "/2017/spring/ADV/460.json", 
+                "id": "460"
+            }, 
+            {
+                "content": "Audience Analysis", 
+                "href": "/2017/spring/ADV/483.json", 
+                "id": "483"
+            }, 
+            {
+                "content": "Advanced Special Topics in Advertising", 
+                "href": "/2017/spring/ADV/490.json", 
+                "id": "490"
+            }, 
+            {
+                "content": "Tech and Advertising Campaigns", 
+                "href": "/2017/spring/ADV/492.json", 
+                "id": "492"
+            }, 
+            {
+                "content": "Internship Seminar", 
+                "href": "/2017/spring/ADV/495.json", 
+                "id": "495"
+            }, 
+            {
+                "content": "The Sandage Project", 
+                "href": "/2017/spring/ADV/498.json", 
+                "id": "498"
+            }, 
+            {
+                "content": "Quanti Research Methods in Adv", 
+                "href": "/2017/spring/ADV/581.json", 
+                "id": "581"
+            }, 
+            {
+                "content": "Graduate Seminar II", 
+                "href": "/2017/spring/ADV/588.json", 
+                "id": "588"
+            }, 
+            {
+                "content": "Special Topics in Advertising", 
+                "href": "/2017/spring/ADV/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/ADV/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1408", 
+    "id": "ADV", 
+    "label": "Advertising", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-1602", 
+    "unitName": "Charles H. Sandage Department of Advertising", 
+    "webSiteURL": "//media.illinois.edu/degrees/advertising-bs-ms"
+}

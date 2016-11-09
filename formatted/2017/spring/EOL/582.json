@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: EOL 572 or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Provides students with an understanding of theories and research involving the cognitive, intrapersonal and interpersonal development of college students. Special attention is paid to the application of student development research in educational settings and the intentional creation of educational environments along developmental principles. Prerequisite: EOL 572 or consent of instructor.", 
+    "href": "/2017/spring/EOL/582.json", 
+    "id": "EOL 582", 
+    "label": "College Student Development", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Organization and Leadership", 
+            "href": "/2017/spring/EOL.json", 
+            "id": "EOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/EOL/582/48906.json", 
+            "id": "48906"
+        }
+    }
+}

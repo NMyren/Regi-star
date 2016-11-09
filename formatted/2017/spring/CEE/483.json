@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: CEE 380.", 
+    "creditHours": "4 hours.", 
+    "description": "Composition and structure of soil; water flow and hydraulic properties; stress in soil; compressibility behavior and properties of soils; consolidation and settlement analysis; shear strength of soils; compaction and unsaturated soils; experimental measurements. 4 undergraduate hours. 4 graduate hours. Prerequisite: CEE 380.", 
+    "href": "/2017/spring/CEE/483.json", 
+    "id": "CEE 483", 
+    "label": "Soil Mechanics and Behavior", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Civil and Environmental Engineering", 
+            "href": "/2017/spring/CEE.json", 
+            "id": "CEE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/CEE/483/31734.json", 
+                "id": "31734"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/CEE/483/31735.json", 
+                "id": "31735"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/CEE/483/31736.json", 
+                "id": "31736"
+            }
+        ]
+    }
+}

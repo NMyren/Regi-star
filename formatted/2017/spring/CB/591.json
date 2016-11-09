@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading. May be repeated to a maximum of 4 hours. Prerequisite: Enrollment in CB graduate program or consent of instructor.", 
+    "creditHours": "0 TO 1 hours.", 
+    "description": "Review and discussion of selected topics. Students are required to participate in weekly discussions and present one formal seminar per year, on a topic approved by the instructor. Approved for S/U grading. May be repeated to a maximum of 4 hours. Prerequisite: Enrollment in CB graduate program or consent of instructor.", 
+    "href": "/2017/spring/CB/591.json", 
+    "id": "CB 591", 
+    "label": "Biosciences Seminar Series", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Comparative Biosciences", 
+            "href": "/2017/spring/CB.json", 
+            "id": "CB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "1", 
+            "href": "/2017/spring/CB/591/55184.json", 
+            "id": "55184"
+        }
+    }
+}

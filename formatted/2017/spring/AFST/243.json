@@ -1,0 +1,58 @@
+{
+    "classScheduleInformation": "Registration is restricted for Political Science majors.", 
+    "courseSectionInformation": "Same as AFRO 243, PS 243, and SOC 267. See PS 243.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as AFRO 243, PS 243, and SOC 267. See PS 243.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Social & Behavioral Sciences", 
+                "id": "SBS", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1SS", 
+                        "content": "UIUC Social Sciences"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/AFST/243.json", 
+    "id": "AFST 243", 
+    "label": "Pan Africanism", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "African Studies", 
+            "href": "/2017/spring/AFST.json", 
+            "id": "AFST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Non-Western Cultures, and Social Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/AFST/243/48089.json", 
+            "id": "48089"
+        }
+    }
+}

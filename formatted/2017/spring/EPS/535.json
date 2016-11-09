@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "5 graduate hours. No professional credit.", 
+    "creditHours": "4 hours.", 
+    "description": "For several decades now, assessment has become an increasingly pressing education priority. Teacher and school accountability systems have come to be based on analysis of large-scale, standardized summative assessments. As a consequence, assessment now dominates most conversations about reform, particularly as a measure of teacher and school accountability for learner performance. Behind the often heated and at times ideologically gridlocked debates is a genuine challenge to address gaps in achievement between different demographically identifiable groups of students. There is an urgent need to lift whole communities and cohorts of students out of cycles of underachievement. For better or for worse, testing and public reporting of achievement is seen to be one of the few tools capable of clearly informing public policy makers and communities alike about how their resources are being used to expand the life opportunities for their children. This course is an overview of current debates about testing, and analyzes the strengths and weaknesses of a variety of approaches to assessment. 5 graduate hours. No professional credit.", 
+    "href": "/2017/spring/EPS/535.json", 
+    "id": "EPS 535", 
+    "label": "Assessment for Learning", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Policy Studies", 
+            "href": "/2017/spring/EPS.json", 
+            "id": "EPS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 13-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/EPS/535/64318.json", 
+                "id": "64318"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/EPS/535/65679.json", 
+                "id": "65679"
+            }
+        ]
+    }
+}

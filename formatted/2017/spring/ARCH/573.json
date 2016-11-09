@@ -1,0 +1,54 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 12 hours. Prerequisite: Graduate standing in Architecture.", 
+    "creditHours": "6 hours.", 
+    "description": "Design studio investigations of buildings and systems focusing on structure, enclosure, technology and performance. Integration of building materials, components and systems and their impact on the design, construction, and sustainability of buildings. Field trips may be required. May be repeated to a maximum of 12 hours. Prerequisite: Graduate standing in Architecture.", 
+    "href": "/2017/spring/ARCH/573.json", 
+    "id": "ARCH 573", 
+    "label": "Design:Technology &Performance", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "E1", 
+                "href": "/2017/spring/ARCH/573/45249.json", 
+                "id": "45249"
+            }, 
+            {
+                "content": "E2", 
+                "href": "/2017/spring/ARCH/573/54644.json", 
+                "id": "54644"
+            }, 
+            {
+                "content": "E3", 
+                "href": "/2017/spring/ARCH/573/54645.json", 
+                "id": "54645"
+            }, 
+            {
+                "content": "E4", 
+                "href": "/2017/spring/ARCH/573/54646.json", 
+                "id": "54646"
+            }, 
+            {
+                "content": "E5", 
+                "href": "/2017/spring/ARCH/573/64381.json", 
+                "id": "64381"
+            }
+        ]
+    }
+}

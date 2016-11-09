@@ -1,0 +1,38 @@
+{
+    "courseSectionInformation": "May be repeated.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "May be repeated.", 
+    "href": "/2017/spring/RUSS/199.json", 
+    "id": "RUSS 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Russian", 
+            "href": "/2017/spring/RUSS.json", 
+            "id": "RUSS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/RUSS/199/10344.json", 
+                "id": "10344"
+            }, 
+            {
+                "content": "ACC", 
+                "href": "/2017/spring/RUSS/199/60124.json", 
+                "id": "60124"
+            }
+        ]
+    }
+}

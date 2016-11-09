@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: SOCW 400.", 
+    "creditHours": "4 hours.", 
+    "description": "Examination of the design and delivery of school social work interventions with special emphasis given to students with physical/mental disabilities and vulnerable populations. Course content provides a foundation for the development of a comprehensive and in-depth understanding of an ecological systems approach to social work practice based upon a foundation of professional values and ethics. Prerequisite: SOCW 400.", 
+    "href": "/2017/spring/SOCW/507.json", 
+    "id": "SOCW 507", 
+    "label": "School Social Work Practice", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SOCW/507/32843.json", 
+            "id": "32843"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. 2 undergraduate hours. 2 graduate hours. Prerequisite: FSHN 461.", 
+    "creditHours": "2 hours.", 
+    "description": "Laboratory course for FSHN 461. Includes labs on blanching, pasteurization, sterilization, freezing, freeze drying, dehydration (tray drying, drum drying and spray drying), evaporation, and extrusion; discussion and labs. Additional fees may apply. See Class Schedule. 2 undergraduate hours. 2 graduate hours. Prerequisite: FSHN 461.", 
+    "href": "/2017/spring/FSHN/462.json", 
+    "id": "FSHN 462", 
+    "label": "Food Processing II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Food Science and Human Nutrition", 
+            "href": "/2017/spring/FSHN.json", 
+            "id": "FSHN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/FSHN/462/64174.json", 
+                "id": "64174"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/FSHN/462/40687.json", 
+                "id": "40687"
+            }, 
+            {
+                "content": "AB3", 
+                "href": "/2017/spring/FSHN/462/55654.json", 
+                "id": "55654"
+            }, 
+            {
+                "content": "AB4", 
+                "href": "/2017/spring/FSHN/462/55655.json", 
+                "id": "55655"
+            }
+        ]
+    }
+}

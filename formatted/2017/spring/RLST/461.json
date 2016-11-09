@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Interdisciplinary seminar on indigenous religious traditions. 3 undergraduate hours. 4 graduate hours.", 
+    "href": "/2017/spring/RLST/461.json", 
+    "id": "RLST 461", 
+    "label": "Indigenous Traditions", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Religious Studies", 
+            "href": "/2017/spring/RLST.json", 
+            "id": "RLST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "G4", 
+                "href": "/2017/spring/RLST/461/65547.json", 
+                "id": "65547"
+            }, 
+            {
+                "content": "U3", 
+                "href": "/2017/spring/RLST/461/64890.json", 
+                "id": "64890"
+            }
+        ]
+    }
+}

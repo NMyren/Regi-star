@@ -1,0 +1,87 @@
+{
+    "classScheduleInformation": "Students must register for one lecture and one discussion section.", 
+    "creditHours": "4 hours.", 
+    "description": "An introduction to the arts of Africa. Sculpture, textiles, architecture, body adornment, and performance will be examined on the basis of aesthetic, religious, political, and social contexts. The main emphasis will be on traditional art, although the course will address many changes and continuities within African art as evidenced in the late 20th century. The course will proceed geographically from western through central to eastern and southern Africa. Videos, music, and museum visits will complement the lectures.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+            "id": "CNW", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1NW", 
+                    "content": "UIUC: Non-Western Cultures"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/ARTH/113.json", 
+    "id": "ARTH 113", 
+    "label": "Introduction to African Art", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--History", 
+            "href": "/2017/spring/ARTH.json", 
+            "id": "ARTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Non-Western Cultures course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/ARTH/113/44290.json", 
+                "id": "44290"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/ARTH/113/44291.json", 
+                "id": "44291"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/ARTH/113/44292.json", 
+                "id": "44292"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/ARTH/113/44293.json", 
+                "id": "44293"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/ARTH/113/44294.json", 
+                "id": "44294"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/ARTH/113/44295.json", 
+                "id": "44295"
+            }, 
+            {
+                "content": "AD7", 
+                "href": "/2017/spring/ARTH/113/65133.json", 
+                "id": "65133"
+            }, 
+            {
+                "content": "AD8", 
+                "href": "/2017/spring/ARTH/113/65134.json", 
+                "id": "65134"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ARTH/113/43876.json", 
+                "id": "43876"
+            }
+        ]
+    }
+}

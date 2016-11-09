@@ -1,0 +1,55 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "229 Armory Building, 505 East Armory, Champaign", 
+    "collegeCode": "LD", 
+    "collegeDepartmentDescription": "Head of Department: Lt Col K. Philipp Bauer II\nDepartment Office, 229 Armory Building, 505 East Armory, Champaign, 217-333-1927\nafrotc.illinois.edu", 
+    "contactName": "Lt Col K. Philipp Bauer II", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Leadership Laboratory", 
+                "href": "/2017/spring/AFAS/102.json", 
+                "id": "102"
+            }, 
+            {
+                "content": "Found of the US Air Force II", 
+                "href": "/2017/spring/AFAS/112.json", 
+                "id": "112"
+            }, 
+            {
+                "content": "Evolution Air & Space Power II", 
+                "href": "/2017/spring/AFAS/222.json", 
+                "id": "222"
+            }, 
+            {
+                "content": "USAF Leadership Studies II", 
+                "href": "/2017/spring/AFAS/332.json", 
+                "id": "332"
+            }, 
+            {
+                "content": "Nat Sec Afrs/Prep Actv Duty II", 
+                "href": "/2017/spring/AFAS/342.json", 
+                "id": "342"
+            }
+        ]
+    }, 
+    "departmentCode": "1762", 
+    "id": "AFAS", 
+    "label": "Air Force Aerospace Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-1927", 
+    "unitName": "Air Force Aerospace Studies", 
+    "webSiteURL": "afrotc.illinois.edu"
+}

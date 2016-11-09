@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "No undergraduate credit. 1 graduate credit. May be repeated in separate terms up to 8 hours. Prerequisite: For majors only.", 
+    "creditHours": "1 hours.", 
+    "description": "Advanced Level Hip Hop Class. Hip-Hop dance technique will consist of the study and practice of Urban dance forms grounded in hip-hop culture. Students will explore the multiple dimensions of hip-hop dance as they train in the fundamentals of each form, learn its respective historical context, and access ways of incorporating individual ideas and lived experiences into their dancing. No undergraduate credit. 1 graduate credit. May be repeated in separate terms up to 8 hours. Prerequisite: For majors only.", 
+    "href": "/2017/spring/DANC/411.json", 
+    "id": "DANC 411", 
+    "label": "Adv Hip Hop Technique", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Dance or Dance major(s). Restricted to students with Senior or Graduate class standing.", 
+    "sections": {
+        "section": {
+            "content": "HH", 
+            "href": "/2017/spring/DANC/411/64107.json", 
+            "id": "64107"
+        }
+    }
+}

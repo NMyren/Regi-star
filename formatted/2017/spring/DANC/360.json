@@ -1,0 +1,41 @@
+{
+    "classScheduleInformation": "Non-dance majors admitted by audition on a space-available basis.", 
+    "courseSectionInformation": "May be repeated to a maximum of 18 hours. Prerequisite: Major standing in Dance or consent of instructor; departmental placement.", 
+    "creditHours": "1 TO 3 hours.", 
+    "description": "Progressive development of the concepts in DANC 260 and DANC 261, with emphasis on virtuosity and versatility. May be repeated to a maximum of 18 hours. Prerequisite: Major standing in Dance or consent of instructor; departmental placement.", 
+    "href": "/2017/spring/DANC/360.json", 
+    "id": "DANC 360", 
+    "label": "Int/Adv Contemp Mod Tech Core", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Dance", 
+            "href": "/2017/spring/DANC.json", 
+            "id": "DANC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Dance or Dance major(s).", 
+    "sections": {
+        "section": [
+            {
+                "content": "CO", 
+                "href": "/2017/spring/DANC/360/63392.json", 
+                "id": "63392"
+            }, 
+            {
+                "content": "Q", 
+                "href": "/2017/spring/DANC/360/31884.json", 
+                "id": "31884"
+            }
+        ]
+    }
+}

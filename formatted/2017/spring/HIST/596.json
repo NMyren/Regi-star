@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 12 hours if topics vary.", 
+    "creditHours": "4 hours.", 
+    "description": "Directed research in special fields; may be taken in lieu of seminars in fields in which seminars are seldom offered. Topics will be listed in the department's course guide at http://www.history.illinois.edu. May be repeated to a maximum of 12 hours if topics vary.", 
+    "href": "/2017/spring/HIST/596.json", 
+    "id": "HIST 596", 
+    "label": "Individual Research Project", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/HIST/596/10421.json", 
+            "id": "10421"
+        }
+    }
+}

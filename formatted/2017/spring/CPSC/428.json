@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. 2 graduate hours. Prerequisite: CPSC 226 or CPSC 426 or consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "Intensive course on field diagnostic skills in weed science.  Topics include weed and weed seed identification, sprayer calibration, herbicide application, herbicide injury symptomatology, and field diagnostics.  Students who complete the course will be encouraged to enter the North Central Weed Science Society weeds contest, which occurs during the summer. 2 undergraduate hours. 2 graduate hours. Prerequisite: CPSC 226 or CPSC 426 or consent of instructor.", 
+    "href": "/2017/spring/CPSC/428.json", 
+    "id": "CPSC 428", 
+    "label": "Weed Science Practicum", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CPSC/428/44813.json", 
+            "id": "44813"
+        }
+    }
+}

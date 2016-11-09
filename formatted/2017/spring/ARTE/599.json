@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated. Prerequisite: Graduate standing in art education.", 
+    "creditHours": "0 TO 16 hours.", 
+    "description": "Guidance in research and writing theses for advanced degrees. Approved for S/U grading only. May be repeated. Prerequisite: Graduate standing in art education.", 
+    "href": "/2017/spring/ARTE/599.json", 
+    "id": "ARTE 599", 
+    "label": "Thesis Research", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--Education", 
+            "href": "/2017/spring/ARTE.json", 
+            "id": "ARTE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ARTE/599/10372.json", 
+            "id": "10372"
+        }
+    }
+}

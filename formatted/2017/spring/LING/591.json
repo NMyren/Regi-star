@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "May be repeated with approval. Prerequisite: LING 501 and LING 502.", 
+    "creditHours": "2 OR 4 hours.", 
+    "description": "Discussion of advanced topics of current interest. May be repeated with approval. Prerequisite: LING 501 and LING 502.", 
+    "href": "/2017/spring/LING/591.json", 
+    "id": "LING 591", 
+    "label": "Seminar in Linguistic Analysis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Linguistics", 
+            "href": "/2017/spring/LING.json", 
+            "id": "LING"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "JR", 
+                "href": "/2017/spring/LING/591/61830.json", 
+                "id": "61830"
+            }, 
+            {
+                "content": "PL", 
+                "href": "/2017/spring/LING/591/61194.json", 
+                "id": "61194"
+            }
+        ]
+    }
+}

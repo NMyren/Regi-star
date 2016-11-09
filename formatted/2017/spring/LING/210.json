@@ -1,0 +1,53 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section.", 
+    "courseSectionInformation": "Prerequisite: Fulfillment of the foreign language requirement of the College of Liberal Arts and Sciences.", 
+    "creditHours": "3 hours.", 
+    "description": "Addresses the question \"Why does language change?\" Specific topics include: the history and origin of writing; why pronunciation changes; change in vocabulary and what it tells us about change in culture and society; the relation between \"language\" and \"dialect\"; multilingualism and its consequences, including Pidgins and Creoles; genetic relationship between languages, with focus on the \"Indo-European\" family (English, German, French, Russia, Latin, Greek, and Sanskrit, etc.) and the relationships between human languages. Prerequisite: Fulfillment of the foreign language requirement of the College of Liberal Arts and Sciences.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Humanities & the Arts", 
+            "id": "HUM", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1HP", 
+                    "content": "UIUC: Hist&Philosoph Perspect"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/LING/210.json", 
+    "id": "LING 210", 
+    "label": "Language History", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Linguistics", 
+            "href": "/2017/spring/LING.json", 
+            "id": "LING"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/LING/210/43631.json", 
+                "id": "43631"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/LING/210/43632.json", 
+                "id": "43632"
+            }
+        ]
+    }
+}

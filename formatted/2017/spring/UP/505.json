@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: Graduate standing in Urban Planning or consent of instructor.", 
+    "creditHours": "2 OR 4 hours.", 
+    "description": "Techniques, data sources, and skills for analyzing regions as economic, social, and spatial systems. The first half of the course focuses on understanding current conditions and trends, and the second half on forecasting most likely and alternative futures. Students may opt to enroll for only the first 8 weeks and receive 2 hours of credit. Prerequisite: Graduate standing in Urban Planning or consent of instructor.", 
+    "href": "/2017/spring/UP/505.json", 
+    "id": "UP 505", 
+    "label": "Urban and Regional Analysis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Urban and Regional Planning", 
+            "href": "/2017/spring/UP.json", 
+            "id": "UP"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "MD", 
+            "href": "/2017/spring/UP/505/57238.json", 
+            "id": "57238"
+        }
+    }
+}

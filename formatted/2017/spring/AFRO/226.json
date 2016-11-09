@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as GWS 226 and SOC 223.", 
+    "creditHours": "3 hours.", 
+    "description": "Sociological perspective of the experience of African American women in the contemporary United States. Specifically, an examination of relationships between the economy, state policy, culture, work and motherhood for this demographic group. Same as GWS 226 and SOC 223.", 
+    "href": "/2017/spring/AFRO/226.json", 
+    "id": "AFRO 226", 
+    "label": "Black Women Contemp US Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "African American Studies", 
+            "href": "/2017/spring/AFRO.json", 
+            "id": "AFRO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "MM", 
+            "href": "/2017/spring/AFRO/226/63815.json", 
+            "id": "63815"
+        }
+    }
+}

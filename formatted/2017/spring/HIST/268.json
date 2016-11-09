@@ -1,0 +1,31 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "The ideas of Charles Darwin initiated one of the most profound and provocative transformation in human thought, science, and culture. This course examines the intellectual origins, scientific content, and social, cultural, and religious impacts of Darwinian evolutionary theory in the 19th and 20th centuries, provides students with a historical case study in the development and diffusion of radical scientific ideas, and explores the origins of the most successful and comprehensive theory in the modern life sciences.", 
+    "href": "/2017/spring/HIST/268.json", 
+    "id": "HIST 268", 
+    "label": "The Darwinian Revolution", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "History", 
+            "href": "/2017/spring/HIST.json", 
+            "id": "HIST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/HIST/268/65277.json", 
+            "id": "65277"
+        }
+    }
+}

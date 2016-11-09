@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Prerequisite: FIN 520; or MBA 505 - Section G (Finance II); or consent of instructor.", 
+    "creditHours": "2 OR 4 hours.", 
+    "description": "Conceptual foundations and implementation of strategies for the selection, evaluation, and revision of portfolios of fixed-income financial assets (bonds); examination of related research. Prerequisite: FIN 520; or MBA 505 - Section G (Finance II); or consent of instructor.", 
+    "href": "/2017/spring/FIN/515.json", 
+    "id": "FIN 515", 
+    "label": "Fixed Income Portfolios", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Finance", 
+            "href": "/2017/spring/FIN.json", 
+            "id": "FIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "E", 
+                "href": "/2017/spring/FIN/515/43778.json", 
+                "id": "43778"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/FIN/515/43777.json", 
+                "id": "43777"
+            }
+        ]
+    }
+}

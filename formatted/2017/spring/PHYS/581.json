@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: PHYS 580.", 
+    "creditHours": "4 hours.", 
+    "description": "Spin and identical particles, simple many-particle systems and elements of second-quantization theory; time-dependent processes, radiative transitions, and quantization of the electromagnetic field; scattering of particles with spin; polarization; introduction to the Klein-Gordon and Dirac equations and properties of simple relativistic systems. Prerequisite: PHYS 580.", 
+    "href": "/2017/spring/PHYS/581.json", 
+    "id": "PHYS 581", 
+    "label": "Quantum Mechanics II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PHYS/581/36784.json", 
+            "id": "36784"
+        }
+    }
+}

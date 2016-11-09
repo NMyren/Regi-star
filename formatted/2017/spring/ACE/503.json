@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: ECON 500 and at least two semesters of college calculus.", 
+    "creditHours": "4 hours.", 
+    "description": "Provides a theoretical and applied treatment of economic equilibrium and the consequences of displacement of equilibrium for the welfare levels of economic agents. Displacement of equilibrium will be shown to be brought about by changes in government policy, technology, and consumer preferences. Welfare measures under partial equilibrium, general equilibrium, and multi-market models will be presented. Includes various applications of welfare economics in the analysis of policy and technological change. Prerequisite: ECON 500 and at least two semesters of college calculus.", 
+    "href": "/2017/spring/ACE/503.json", 
+    "id": "ACE 503", 
+    "label": "Equilibrium and Welfare Econ", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural and Consumer Economics", 
+            "href": "/2017/spring/ACE.json", 
+            "id": "ACE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "M", 
+            "href": "/2017/spring/ACE/503/30653.json", 
+            "id": "30653"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 12 hours in separate semesters, if topics vary.", 
+    "creditHours": "1 to 5 hours.", 
+    "description": "May be repeated to a maximum of 12 hours in separate semesters, if topics vary.", 
+    "href": "/2017/spring/ADV/199.json", 
+    "id": "ADV 199", 
+    "label": "Undergraduate Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Advertising", 
+            "href": "/2017/spring/ADV.json", 
+            "id": "ADV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to Weston Explorer Program students.", 
+    "sections": {
+        "section": {
+            "content": "P", 
+            "href": "/2017/spring/ADV/199/43676.json", 
+            "id": "43676"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: MCB 450 or equivalent and ANSC 222 or equivalent.", 
+    "creditHours": "3 hours.", 
+    "description": "Physiological aspects of protein and amino acids, fats and fatty acids, and carbohydrates as applied to higher animals; includes classification, digestion, absorption, utilization, metabolism, and dietary deficiencies and excesses. Prerequisite: MCB 450 or equivalent and ANSC 222 or equivalent.", 
+    "href": "/2017/spring/ANSC/520.json", 
+    "id": "ANSC 520", 
+    "label": "Protein and Energy Nutrition", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ANSC/520/29990.json", 
+            "id": "29990"
+        }
+    }
+}

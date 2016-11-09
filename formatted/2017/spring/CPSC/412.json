@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: CPSC 112 and NRES 201, or equivalent, or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Fundamentals in agronomic management of field crops with emphasis on crop production and protection. Knowledge gained in this course helps students prepare for a career within commercial agriculture or provide updates enhancing knowledge on topics studied previously. Information delivered should help interested students prepare for the Certified Crop Adviser examination or provide professionals already in the field with Continuing Education Units (CEUs). 3 undergraduate hours. 3 graduate hours. Prerequisite: CPSC 112 and NRES 201, or equivalent, or consent of instructor.", 
+    "href": "/2017/spring/CPSC/412.json", 
+    "id": "CPSC 412", 
+    "label": "Principles of Crop Advising", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Crop Sciences", 
+            "href": "/2017/spring/CPSC.json", 
+            "id": "CPSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "EDN", 
+            "href": "/2017/spring/CPSC/412/59036.json", 
+            "id": "59036"
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "courseSectionInformation": "May be repeated. Prerequisite: Music majors or consent of instructor.", 
+    "creditHours": "1 hours.", 
+    "description": "Students will be assigned to chamber groups that will be coached on a weekly basis by members of the faculty. One public performance per term may be required. May be repeated. Prerequisite: Music majors or consent of instructor.", 
+    "href": "/2017/spring/MUS/267.json", 
+    "id": "MUS 267", 
+    "label": "Chamber Music", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "P", 
+                "href": "/2017/spring/MUS/267/52630.json", 
+                "id": "52630"
+            }, 
+            {
+                "content": "P1", 
+                "href": "/2017/spring/MUS/267/52631.json", 
+                "id": "52631"
+            }, 
+            {
+                "content": "P2", 
+                "href": "/2017/spring/MUS/267/52632.json", 
+                "id": "52632"
+            }, 
+            {
+                "content": "P3", 
+                "href": "/2017/spring/MUS/267/52633.json", 
+                "id": "52633"
+            }, 
+            {
+                "content": "P4", 
+                "href": "/2017/spring/MUS/267/52634.json", 
+                "id": "52634"
+            }, 
+            {
+                "content": "S", 
+                "href": "/2017/spring/MUS/267/36371.json", 
+                "id": "36371"
+            }, 
+            {
+                "content": "S2", 
+                "href": "/2017/spring/MUS/267/36377.json", 
+                "id": "36377"
+            }, 
+            {
+                "content": "S3", 
+                "href": "/2017/spring/MUS/267/36379.json", 
+                "id": "36379"
+            }, 
+            {
+                "content": "S5", 
+                "href": "/2017/spring/MUS/267/36384.json", 
+                "id": "36384"
+            }, 
+            {
+                "content": "S6", 
+                "href": "/2017/spring/MUS/267/36385.json", 
+                "id": "36385"
+            }, 
+            {
+                "content": "S7", 
+                "href": "/2017/spring/MUS/267/36389.json", 
+                "id": "36389"
+            }, 
+            {
+                "content": "S8", 
+                "href": "/2017/spring/MUS/267/36390.json", 
+                "id": "36390"
+            }, 
+            {
+                "content": "S9", 
+                "href": "/2017/spring/MUS/267/36393.json", 
+                "id": "36393"
+            }, 
+            {
+                "content": "W1", 
+                "href": "/2017/spring/MUS/267/47976.json", 
+                "id": "47976"
+            }, 
+            {
+                "content": "W10", 
+                "href": "/2017/spring/MUS/267/65599.json", 
+                "id": "65599"
+            }, 
+            {
+                "content": "W11", 
+                "href": "/2017/spring/MUS/267/65600.json", 
+                "id": "65600"
+            }, 
+            {
+                "content": "W12", 
+                "href": "/2017/spring/MUS/267/65601.json", 
+                "id": "65601"
+            }, 
+            {
+                "content": "W2", 
+                "href": "/2017/spring/MUS/267/36375.json", 
+                "id": "36375"
+            }, 
+            {
+                "content": "W3", 
+                "href": "/2017/spring/MUS/267/61322.json", 
+                "id": "61322"
+            }, 
+            {
+                "content": "W4", 
+                "href": "/2017/spring/MUS/267/64659.json", 
+                "id": "64659"
+            }, 
+            {
+                "content": "W5", 
+                "href": "/2017/spring/MUS/267/52628.json", 
+                "id": "52628"
+            }, 
+            {
+                "content": "W6", 
+                "href": "/2017/spring/MUS/267/52625.json", 
+                "id": "52625"
+            }, 
+            {
+                "content": "W7", 
+                "href": "/2017/spring/MUS/267/52626.json", 
+                "id": "52626"
+            }, 
+            {
+                "content": "W8", 
+                "href": "/2017/spring/MUS/267/36395.json", 
+                "id": "36395"
+            }, 
+            {
+                "content": "W9", 
+                "href": "/2017/spring/MUS/267/65598.json", 
+                "id": "65598"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: FR 104 or FR 134 or equivalent.", 
+    "creditHours": "2 hours.", 
+    "description": "Developing oral facility and aural comprehension, focusing on everyday events. Prerequisite: FR 104 or FR 134 or equivalent.", 
+    "href": "/2017/spring/FR/205.json", 
+    "id": "FR 205", 
+    "label": "Oral French", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "French", 
+            "href": "/2017/spring/FR.json", 
+            "id": "FR"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "D2", 
+                "href": "/2017/spring/FR/205/32809.json", 
+                "id": "32809"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/FR/205/32808.json", 
+                "id": "32808"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: SOCW 400.", 
+    "creditHours": "4 hours.", 
+    "description": "Advanced seminar providing in-depth exposure to the principles, values, ethics, issues and practice of family therapy in social work. Focuses on family therapy process, the practitioner role, issues in assessment, intervention and evaluation; how discrimination and oppression impact intervention strategies; skills that advance social and economic justice; presentation of cases; use of supervision and consultation, and family therapy with diverse populations. Combines lecture/discussion with taped observations of noted family therapists and participation in a family therapy practicum. Prerequisite: SOCW 400.", 
+    "href": "/2017/spring/SOCW/508.json", 
+    "id": "SOCW 508", 
+    "label": "Family Therapy Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SOCW/508/32845.json", 
+            "id": "32845"
+        }
+    }
+}

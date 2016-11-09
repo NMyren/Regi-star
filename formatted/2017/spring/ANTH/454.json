@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Usually offered in the summer session only. Prerequisite: Consent of instructor.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Participation in archaeological excavations; techniques, methods, and procedures discussed and practiced under actual working conditions. Normally taken concurrently with ANTH 455. 3 undergraduate hours. 4 graduate hours. May be repeated if topics vary. Usually offered in the summer session only. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/ANTH/454.json", 
+    "id": "ANTH 454", 
+    "label": "Archaeological Field School", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Anthropology", 
+            "href": "/2017/spring/ANTH.json", 
+            "id": "ANTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ANTH/454/10298.json", 
+            "id": "10298"
+        }
+    }
+}

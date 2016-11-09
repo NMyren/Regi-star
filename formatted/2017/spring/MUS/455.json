@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. 2 graduate hours. Prerequisite: MUS 180 (12 hours completed) or MUS 175; MUS 202 and MUS 208 or equivalent; MUS 454 or equivalent; and consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "Continuation of the topics introduced in MUS 454. 2 undergraduate hours. 2 graduate hours. Prerequisite: MUS 180 (12 hours completed) or MUS 175; MUS 202 and MUS 208 or equivalent; MUS 454 or equivalent; and consent of instructor.", 
+    "href": "/2017/spring/MUS/455.json", 
+    "id": "MUS 455", 
+    "label": "Advanced Keyboard Skills II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Music department.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MUS/455/36698.json", 
+            "id": "36698"
+        }
+    }
+}

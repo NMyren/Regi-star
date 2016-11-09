@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only.", 
+    "creditHours": "1 hours.", 
+    "description": "Lectures and discussion on current topics in theoretical and applied mechanics. Approved for S/U grading only.", 
+    "href": "/2017/spring/TAM/500.json", 
+    "id": "TAM 500", 
+    "label": "Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theoretical and Applied Mechanics", 
+            "href": "/2017/spring/TAM.json", 
+            "id": "TAM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "T", 
+            "href": "/2017/spring/TAM/500/36380.json", 
+            "id": "36380"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: TAM 551.", 
+    "creditHours": "4 hours.", 
+    "description": "Continuation of TAM 551. Selected topics in linear elasticity (including St. Venant beam theory and plane problems of elastostatics), plasticity (including yield surfaces, von Mises and Tresca yield criteria, Drucker's stability postulate, J-flow theory, perfect plasticity, limit analysis, and slip-line theory), and fracture mechanics (including linear elastic analysis, fracture criteria for elastic brittle fracture, and elastic-plastic fracture). Prerequisite: TAM 551.", 
+    "href": "/2017/spring/TAM/552.json", 
+    "id": "TAM 552", 
+    "label": "Solid Mechanics II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Theoretical and Applied Mechanics", 
+            "href": "/2017/spring/TAM.json", 
+            "id": "TAM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "C", 
+                "href": "/2017/spring/TAM/552/36406.json", 
+                "id": "36406"
+            }, 
+            {
+                "content": "ONL", 
+                "href": "/2017/spring/TAM/552/65838.json", 
+                "id": "65838"
+            }
+        ]
+    }
+}

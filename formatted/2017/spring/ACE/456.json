@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ECON 302 or consent of instructor.", 
+    "creditHours": "3 TO 4 hours.", 
+    "description": "Analysis of agricultural and food policies and programs and their effects on producers and consumers of agricultural products. Formulation of agricultural and food policies are examined with an emphasis on historical and current economic problems affecting agriculture and rural America. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ECON 302 or consent of instructor.", 
+    "href": "/2017/spring/ACE/456.json", 
+    "id": "ACE 456", 
+    "label": "Agr and Food Policies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural and Consumer Economics", 
+            "href": "/2017/spring/ACE.json", 
+            "id": "ACE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "GR", 
+                "href": "/2017/spring/ACE/456/45927.json", 
+                "id": "45927"
+            }, 
+            {
+                "content": "UG", 
+                "href": "/2017/spring/ACE/456/45928.json", 
+                "id": "45928"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as PHIL 551. Prerequisite: LING 501 and LING 507, or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Examination of the major theoretical frameworks in Gricean and post-Gricean pragmatics with an emphasis on theories of implicature, speech acts and im/politeness. Same as PHIL 551. Prerequisite: LING 501 and LING 507, or consent of instructor.", 
+    "href": "/2017/spring/LING/551.json", 
+    "id": "LING 551", 
+    "label": "Pragmatics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Linguistics", 
+            "href": "/2017/spring/LING.json", 
+            "id": "LING"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A1", 
+            "href": "/2017/spring/LING/551/46618.json", 
+            "id": "46618"
+        }
+    }
+}

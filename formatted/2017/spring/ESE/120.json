@@ -1,0 +1,63 @@
+{
+    "courseSectionInformation": "Same as ATMS 120. See ATMS 120.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as ATMS 120. See ATMS 120.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Natural Sciences & Technology", 
+                "id": "NAT", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1PS", 
+                        "content": "UIUC: Physical Sciences"
+                    }
+                }
+            }, 
+            {
+                "description": "Quantitative Reasoning", 
+                "id": "QR", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1QR2", 
+                        "content": "UIUC: Quant Reasoning II"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/ESE/120.json", 
+    "id": "ESE 120", 
+    "label": "Severe and Hazardous Weather", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Earth, Society, and Environment", 
+            "href": "/2017/spring/ESE.json", 
+            "id": "ESE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/ESE/120/54843.json", 
+                "id": "54843"
+            }, 
+            {
+                "content": "HA", 
+                "href": "/2017/spring/ESE/120/54870.json", 
+                "id": "54870"
+            }
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: Admission to the Masters in Translation and Interpretation.", 
+    "creditHours": "4 hours.", 
+    "description": "Introduction to community interpreting and its main theoretical concepts, including what is interpreting, interpreting as process, and what is community interpreting. The major areas of community interpreting will be introduced including interpreting in the medical and legal contexts. The interpreter code of ethics and ethical dilemmas of the interpreter will be introduced and analyzed. Prerequisite: Admission to the Masters in Translation and Interpretation.", 
+    "href": "/2017/spring/TRST/541.json", 
+    "id": "TRST 541", 
+    "label": "Community Interpreting", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Translation Studies", 
+            "href": "/2017/spring/TRST.json", 
+            "id": "TRST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/TRST/541/60193.json", 
+            "id": "60193"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Sophomore standing or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Analyzes the literature of the New Testament in its social and religious setting, with special reference to the ministry and teaching of Jesus, the emergence of the church as a sect within ancient Judaism, and the development of Christian institutions in the Graeco-Roman world.  Prerequisite: Sophomore standing or consent of instructor.", 
+    "href": "/2017/spring/RLST/202.json", 
+    "id": "RLST 202", 
+    "label": "New Testament in English", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Religious Studies", 
+            "href": "/2017/spring/RLST.json", 
+            "id": "RLST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "E", 
+            "href": "/2017/spring/RLST/202/38005.json", 
+            "id": "38005"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 8 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Independent study under guidance of a member of the graduate faculty. May be repeated to a maximum of 8 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/EIL/591.json", 
+    "id": "EIL 591", 
+    "label": "Research in Special Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "English as an International Language", 
+            "href": "/2017/spring/EIL.json", 
+            "id": "EIL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/EIL/591/10588.json", 
+            "id": "10588"
+        }
+    }
+}

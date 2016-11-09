@@ -1,0 +1,33 @@
+{
+    "classScheduleInformation": "To register for this course, a contract must be completed and approved.", 
+    "courseSectionInformation": "2 to 5 undergraduate hours. No graduate credit. May be repeated to a maximum of 5 hours. Prerequisite: Senior standing in Fine and Applied Arts art history, a cumulative grade point average of 3.0, and consent of instructor, advisor, and associate director of the School.", 
+    "creditHours": "2 TO 5 hours.", 
+    "description": "Directed independent research and study for honors. 2 to 5 undergraduate hours. No graduate credit. May be repeated to a maximum of 5 hours. Prerequisite: Senior standing in Fine and Applied Arts art history, a cumulative grade point average of 3.0, and consent of instructor, advisor, and associate director of the School.", 
+    "href": "/2017/spring/ARTH/490.json", 
+    "id": "ARTH 490", 
+    "label": "Senior Art-History Honors-BFA", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Art--History", 
+            "href": "/2017/spring/ARTH.json", 
+            "id": "ARTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/ARTH/490/10381.json", 
+            "id": "10381"
+        }
+    }
+}

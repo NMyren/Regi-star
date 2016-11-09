@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: ARCH 552and ARCH 553; credit or concurrent registration in ARCH 554 and ARCH 555, or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Study of the loads, functional and spatial requirements, and construction problems in the selection and design of structural systems for buildings; cost estimates; and integration of mechanical and electrical equipment. Prerequisite: ARCH 552and ARCH 553; credit or concurrent registration in ARCH 554 and ARCH 555, or consent of instructor.", 
+    "href": "/2017/spring/ARCH/556.json", 
+    "id": "ARCH 556", 
+    "label": "Advanced Structural Planning", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "AL", 
+            "href": "/2017/spring/ARCH/556/30321.json", 
+            "id": "30321"
+        }
+    }
+}

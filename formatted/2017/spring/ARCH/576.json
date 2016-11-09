@@ -1,0 +1,94 @@
+{
+    "courseSectionInformation": "May be repeated to a maximum of 15 hours. Prerequisite: Consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Presentations and discussions relative to various areas of architectural and environmental design concerns. May be repeated to a maximum of 15 hours. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/ARCH/576.json", 
+    "id": "ARCH 576", 
+    "label": "Architectural Design Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Architecture", 
+            "href": "/2017/spring/ARCH.json", 
+            "id": "ARCH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ACB", 
+                "href": "/2017/spring/ARCH/576/57426.json", 
+                "id": "57426"
+            }, 
+            {
+                "content": "AVR", 
+                "href": "/2017/spring/ARCH/576/65928.json", 
+                "id": "65928"
+            }, 
+            {
+                "content": "CHA", 
+                "href": "/2017/spring/ARCH/576/65752.json", 
+                "id": "65752"
+            }, 
+            {
+                "content": "CLI", 
+                "href": "/2017/spring/ARCH/576/48888.json", 
+                "id": "48888"
+            }, 
+            {
+                "content": "EM", 
+                "href": "/2017/spring/ARCH/576/55681.json", 
+                "id": "55681"
+            }, 
+            {
+                "content": "EXP", 
+                "href": "/2017/spring/ARCH/576/65545.json", 
+                "id": "65545"
+            }, 
+            {
+                "content": "FWK", 
+                "href": "/2017/spring/ARCH/576/61047.json", 
+                "id": "61047"
+            }, 
+            {
+                "content": "ISH", 
+                "href": "/2017/spring/ARCH/576/65887.json", 
+                "id": "65887"
+            }, 
+            {
+                "content": "MP", 
+                "href": "/2017/spring/ARCH/576/63848.json", 
+                "id": "63848"
+            }, 
+            {
+                "content": "PIN", 
+                "href": "/2017/spring/ARCH/576/65544.json", 
+                "id": "65544"
+            }, 
+            {
+                "content": "UI", 
+                "href": "/2017/spring/ARCH/576/65749.json", 
+                "id": "65749"
+            }, 
+            {
+                "content": "URM", 
+                "href": "/2017/spring/ARCH/576/60914.json", 
+                "id": "60914"
+            }, 
+            {
+                "content": "WGF", 
+                "href": "/2017/spring/ARCH/576/65834.json", 
+                "id": "65834"
+            }
+        ]
+    }
+}

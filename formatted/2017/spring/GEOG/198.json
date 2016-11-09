@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: James Scholar standing or other designation as a superior student.", 
+    "creditHours": "3 hours.", 
+    "description": "Through discussions and research projects, the seminar is designed to provide an in-depth understanding of topics in the field of systematic or regional geography which are selected for group study. Appropriate geographic methodology is emphasized. Prerequisite: James Scholar standing or other designation as a superior student.", 
+    "href": "/2017/spring/GEOG/198.json", 
+    "id": "GEOG 198", 
+    "label": "Freshman Honors Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geography", 
+            "href": "/2017/spring/GEOG.json", 
+            "id": "GEOG"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/GEOG/198/10227.json", 
+            "id": "10227"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "courseSectionInformation": "May be repeated.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "May be repeated.", 
+    "href": "/2017/spring/ME/199.json", 
+    "id": "ME 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Mechanical Engineering", 
+            "href": "/2017/spring/ME.json", 
+            "id": "ME"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/ME/199/10540.json", 
+                "id": "10540"
+            }, 
+            {
+                "content": "ADV", 
+                "href": "/2017/spring/ME/199/55918.json", 
+                "id": "55918"
+            }, 
+            {
+                "content": "DES", 
+                "href": "/2017/spring/ME/199/55799.json", 
+                "id": "55799"
+            }, 
+            {
+                "content": "SAE", 
+                "href": "/2017/spring/ME/199/36920.json", 
+                "id": "36920"
+            }, 
+            {
+                "content": "SAX", 
+                "href": "/2017/spring/ME/199/64581.json", 
+                "id": "64581"
+            }
+        ]
+    }
+}

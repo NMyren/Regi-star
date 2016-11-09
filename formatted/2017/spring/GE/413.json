@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: MATH 241 and MATH 415.", 
+    "creditHours": "3 hours.", 
+    "description": "Application of optimization techniques to engineering design problems. Emphasis on problem formulation, including applications in structural, mechanical, and other design domains. Important theoretical results and numerical optimization methods. Matlab programming assignments to develop software for solving nonlinear mathematical programming problems. 3 undergraduate hours. 3 graduate hours. Prerequisite: MATH 241 and MATH 415.", 
+    "href": "/2017/spring/GE/413.json", 
+    "id": "GE 413", 
+    "label": "Engrg Design Optimization", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "General Engineering", 
+            "href": "/2017/spring/GE.json", 
+            "id": "GE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "R", 
+            "href": "/2017/spring/GE/413/33232.json", 
+            "id": "33232"
+        }
+    }
+}

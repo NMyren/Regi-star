@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: MCB 244 and credit or concurrent enrollment in CHEM 101, CHEM 102, or equivalent or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Organ system biology with an emphasis on normal human anatomy and physiology, physiological processes and associated disease processes of the following systems: digestion, cardiovascular, respiratory, renal, and reproductive. Prerequisite: MCB 244 and credit or concurrent enrollment in CHEM 101, CHEM 102, or equivalent or consent of instructor.", 
+    "href": "/2017/spring/MCB/246.json", 
+    "id": "MCB 246", 
+    "label": "Human Anatomy & Physiology II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Molecular and Cell Biology", 
+            "href": "/2017/spring/MCB.json", 
+            "id": "MCB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MCB/246/54927.json", 
+            "id": "54927"
+        }
+    }
+}

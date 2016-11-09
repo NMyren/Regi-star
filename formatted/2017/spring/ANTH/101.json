@@ -1,0 +1,67 @@
+{
+    "courseSectionInformation": "This course can be used to fulfill either Western or non-Western general education categories, but not both.", 
+    "creditHours": "3 hours.", 
+    "description": "Anthropology was first envisioned as a holistic discipline, combining insights from the study of human anatomy and evolution, research on material remains of human settlements, and the analysis of social interaction in language and other cultural practices. Following this tradition, this course explores the questions about where humans came from, how societies live and communicate, and why human cultural groups vary. This course can be used to fulfill either Western or non-Western general education categories, but not both.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Social & Behavioral Sciences", 
+                "id": "SBS", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1SS", 
+                        "content": "UIUC Social Sciences"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/ANTH/101.json", 
+    "id": "ANTH 101", 
+    "label": "Introduction to Anthropology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Anthropology", 
+            "href": "/2017/spring/ANTH.json", 
+            "id": "ANTH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Non-Western Cultures, Social Sciences, and Western Compartv Cult course.", 
+    "sections": {
+        "section": {
+            "content": "1", 
+            "href": "/2017/spring/ANTH/101/54598.json", 
+            "id": "54598"
+        }
+    }
+}

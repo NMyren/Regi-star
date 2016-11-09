@@ -1,0 +1,55 @@
+{
+    "classScheduleInformation": "There will be a fee assessed for use of Campus Recreation equipment.", 
+    "courseSectionInformation": "Additional fees may apply. See Class Schedule. May be repeated to a maximum of 2 hours.", 
+    "creditHours": "1 TO 2 hours.", 
+    "description": "Skills and knowledge essential for leisure-time activities which are classified as developmental activities. Prerequisites and descriptions for each developmental activity are provided in the Class Schedule. More than one activity (Sections A through Z) may be taken in the same term. Additional fees may apply. See Class Schedule. May be repeated to a maximum of 2 hours.", 
+    "href": "/2017/spring/KIN/100.json", 
+    "id": "KIN 100", 
+    "label": "Development Activities", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A1", 
+                "href": "/2017/spring/KIN/100/34963.json", 
+                "id": "34963"
+            }, 
+            {
+                "content": "A2", 
+                "href": "/2017/spring/KIN/100/34967.json", 
+                "id": "34967"
+            }, 
+            {
+                "content": "A3", 
+                "href": "/2017/spring/KIN/100/34970.json", 
+                "id": "34970"
+            }, 
+            {
+                "content": "C10", 
+                "href": "/2017/spring/KIN/100/34976.json", 
+                "id": "34976"
+            }, 
+            {
+                "content": "C11", 
+                "href": "/2017/spring/KIN/100/34981.json", 
+                "id": "34981"
+            }
+        ]
+    }
+}

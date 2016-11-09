@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. One Saturday field trip may be required. Prerequisite: ANSC 221 or IB 104, or equivalent.", 
+    "creditHours": "3 hours.", 
+    "description": "Topics related to the conservation, physiology and management of exotic animal species in a captive setting will be addressed. These include conservation biology, population genetics, nutrition, reproduction (natural and assisted), behavior, exhibitry, environmental enrichment and veterinary care. Also covers taxonomy, zoo research, the role of zoos in conservations, and the ethics of maintaining captive animals. 3 undergraduate hours. 3 graduate hours. One Saturday field trip may be required. Prerequisite: ANSC 221 or IB 104, or equivalent.", 
+    "href": "/2017/spring/ANSC/406.json", 
+    "id": "ANSC 406", 
+    "label": "Zoo Animal Conservation Sci", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ANSC/406/51162.json", 
+            "id": "51162"
+        }
+    }
+}

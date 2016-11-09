@@ -1,0 +1,63 @@
+{
+    "classScheduleInformation": "Students must register for one discussion and one lecture section.", 
+    "courseSectionInformation": "Same as SOC 249.", 
+    "creditHours": "3 hours.", 
+    "description": "The sociological analysis of sport in modern societies with regard to social class, politics, community, education, and collective behavior. Same as SOC 249.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Social & Behavioral Sciences", 
+            "id": "SBS", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1SS", 
+                    "content": "UIUC Social Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/KIN/249.json", 
+    "id": "KIN 249", 
+    "label": "Sport & Modern Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Social Sciences course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/KIN/249/35144.json", 
+                "id": "35144"
+            }, 
+            {
+                "content": "AD8", 
+                "href": "/2017/spring/KIN/249/35145.json", 
+                "id": "35145"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/KIN/249/35148.json", 
+                "id": "35148"
+            }, 
+            {
+                "content": "ON", 
+                "href": "/2017/spring/KIN/249/56186.json", 
+                "id": "56186"
+            }
+        ]
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "103 Astronomy Building, 1002 West Green, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Chair of Department: Brian Fields\nDepartment Office, 103 Astronomy Building, 1002 West Green, Urbana, 333-3090\nwww.astro.illinois.edu", 
+    "contactName": "Brian Fields", 
+    "contactTitle": "Chair of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Introduction to Astronomy", 
+                "href": "/2017/spring/ASTR/100.json", 
+                "id": "100"
+            }, 
+            {
+                "content": "The Solar System", 
+                "href": "/2017/spring/ASTR/121.json", 
+                "id": "121"
+            }, 
+            {
+                "content": "Stars and Galaxies", 
+                "href": "/2017/spring/ASTR/122.json", 
+                "id": "122"
+            }, 
+            {
+                "content": "Killer Skies: Astro-Disasters", 
+                "href": "/2017/spring/ASTR/150.json", 
+                "id": "150"
+            }, 
+            {
+                "content": "Introduction to Astrophysics", 
+                "href": "/2017/spring/ASTR/210.json", 
+                "id": "210"
+            }, 
+            {
+                "content": "Extraterrestrial Life", 
+                "href": "/2017/spring/ASTR/330.json", 
+                "id": "330"
+            }, 
+            {
+                "content": "Individual Study", 
+                "href": "/2017/spring/ASTR/390.json", 
+                "id": "390"
+            }, 
+            {
+                "content": "Scientific Writing for Astronomy", 
+                "href": "/2017/spring/ASTR/401.json", 
+                "id": "401"
+            }, 
+            {
+                "content": "Planetary Systems", 
+                "href": "/2017/spring/ASTR/405.json", 
+                "id": "405"
+            }, 
+            {
+                "content": "Astronomical Techniques", 
+                "href": "/2017/spring/ASTR/414.json", 
+                "id": "414"
+            }, 
+            {
+                "content": "Senior Thesis", 
+                "href": "/2017/spring/ASTR/490.json", 
+                "id": "490"
+            }, 
+            {
+                "content": "Seminar in Astronomy", 
+                "href": "/2017/spring/ASTR/496.json", 
+                "id": "496"
+            }, 
+            {
+                "content": "Radiative Processes", 
+                "href": "/2017/spring/ASTR/501.json", 
+                "id": "501"
+            }, 
+            {
+                "content": "Physics of Compact Objects", 
+                "href": "/2017/spring/ASTR/541.json", 
+                "id": "541"
+            }, 
+            {
+                "content": "Individual Study", 
+                "href": "/2017/spring/ASTR/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/ASTR/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1430", 
+    "id": "ASTR", 
+    "label": "Astronomy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-3090", 
+    "unitName": "Astronomy", 
+    "webSiteURL": "www.astro.illinois.edu"
+}

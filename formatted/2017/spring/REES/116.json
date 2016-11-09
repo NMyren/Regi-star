@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as RUSS 115. See RUSS 115.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as RUSS 115. See RUSS 115.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1LA", 
+                        "content": "UIUC: Literature and the Arts"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/REES/116.json", 
+    "id": "REES 116", 
+    "label": "Intro to Russian Culture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Russian, East European and Eurasian Studies", 
+            "href": "/2017/spring/REES.json", 
+            "id": "REES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Literature and the Arts, and Western Compartv Cult course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/REES/116/60322.json", 
+            "id": "60322"
+        }
+    }
+}

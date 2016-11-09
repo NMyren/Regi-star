@@ -1,0 +1,205 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "201 Materials Science and Engineering Building, 1304 West Green, Urbana", 
+    "collegeCode": "KP", 
+    "collegeDepartmentDescription": "Head of Department: David G. Cahill\nDepartment Office, 201 Materials Science and Engineering Building, 1304 West Green, Urbana, 217-333-1441\nwww.matse.illinois.edu", 
+    "contactName": "David G. Cahill", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Freshman Materials Laboratory", 
+                "href": "/2017/spring/MSE/183.json", 
+                "id": "183"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/MSE/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Phases and Phase Relations", 
+                "href": "/2017/spring/MSE/201.json", 
+                "id": "201"
+            }, 
+            {
+                "content": "Mechanics for MatSE", 
+                "href": "/2017/spring/MSE/206.json", 
+                "id": "206"
+            }, 
+            {
+                "content": "Engineering Materials", 
+                "href": "/2017/spring/MSE/280.json", 
+                "id": "280"
+            }, 
+            {
+                "content": "Electronic Properties of Matls", 
+                "href": "/2017/spring/MSE/304.json", 
+                "id": "304"
+            }, 
+            {
+                "content": "Materials Laboratory II", 
+                "href": "/2017/spring/MSE/308.json", 
+                "id": "308"
+            }, 
+            {
+                "content": "Materials Design", 
+                "href": "/2017/spring/MSE/395.json", 
+                "id": "395"
+            }, 
+            {
+                "content": "Introduction to Research", 
+                "href": "/2017/spring/MSE/396.json", 
+                "id": "396"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/MSE/397.json", 
+                "id": "397"
+            }, 
+            {
+                "content": "Kinetic Processes in Materials", 
+                "href": "/2017/spring/MSE/402.json", 
+                "id": "402"
+            }, 
+            {
+                "content": "Laboratory Studies in Materials Science and Engineering", 
+                "href": "/2017/spring/MSE/404.json", 
+                "id": "404"
+            }, 
+            {
+                "content": "Microstructure Determination", 
+                "href": "/2017/spring/MSE/405.json", 
+                "id": "405"
+            }, 
+            {
+                "content": "Ceramic Materials & Properties", 
+                "href": "/2017/spring/MSE/420.json", 
+                "id": "420"
+            }, 
+            {
+                "content": "Corrosion of Metals", 
+                "href": "/2017/spring/MSE/445.json", 
+                "id": "445"
+            }, 
+            {
+                "content": "Polymer Science & Engineering", 
+                "href": "/2017/spring/MSE/450.json", 
+                "id": "450"
+            }, 
+            {
+                "content": "Plastics Engineering", 
+                "href": "/2017/spring/MSE/453.json", 
+                "id": "453"
+            }, 
+            {
+                "content": "Macromolecular Solids", 
+                "href": "/2017/spring/MSE/455.json", 
+                "id": "455"
+            }, 
+            {
+                "content": "Polymer Physics", 
+                "href": "/2017/spring/MSE/458.json", 
+                "id": "458"
+            }, 
+            {
+                "content": "Materials in Electrochem Syst", 
+                "href": "/2017/spring/MSE/466.json", 
+                "id": "466"
+            }, 
+            {
+                "content": "Biomolecular Materials Science", 
+                "href": "/2017/spring/MSE/473.json", 
+                "id": "473"
+            }, 
+            {
+                "content": "Biomaterials and Nanomedicine", 
+                "href": "/2017/spring/MSE/474.json", 
+                "id": "474"
+            }, 
+            {
+                "content": "Electron Microscopy", 
+                "href": "/2017/spring/MSE/481.json", 
+                "id": "481"
+            }, 
+            {
+                "content": "Materials for Nanotechnology", 
+                "href": "/2017/spring/MSE/487.json", 
+                "id": "487"
+            }, 
+            {
+                "content": "Lab Safety Fundamentals", 
+                "href": "/2017/spring/MSE/492.json", 
+                "id": "492"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/MSE/497.json", 
+                "id": "497"
+            }, 
+            {
+                "content": "Senior Thesis", 
+                "href": "/2017/spring/MSE/499.json", 
+                "id": "499"
+            }, 
+            {
+                "content": "Hard Materials Seminar", 
+                "href": "/2017/spring/MSE/529.json", 
+                "id": "529"
+            }, 
+            {
+                "content": "Soft Materials Seminar", 
+                "href": "/2017/spring/MSE/559.json", 
+                "id": "559"
+            }, 
+            {
+                "content": "Advanced Electron Microscopy", 
+                "href": "/2017/spring/MSE/581.json", 
+                "id": "581"
+            }, 
+            {
+                "content": "Dynamics of Complex Fluids", 
+                "href": "/2017/spring/MSE/583.json", 
+                "id": "583"
+            }, 
+            {
+                "content": "Research Seminars", 
+                "href": "/2017/spring/MSE/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Materials Colloquium", 
+                "href": "/2017/spring/MSE/595.json", 
+                "id": "595"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/MSE/597.json", 
+                "id": "597"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/MSE/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1919", 
+    "id": "MSE", 
+    "label": "Materials Science and Engineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-1441", 
+    "unitName": "Materials Science and Engineering", 
+    "webSiteURL": "www.matse.illinois.edu"
+}

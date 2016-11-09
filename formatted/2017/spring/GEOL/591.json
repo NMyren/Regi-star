@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. May be repeated to a maximum of 12 hours. Prerequisite: Graduate standing in Department of Geology or consent of instructor.", 
+    "creditHours": "1 hours.", 
+    "description": "Brings students up-to-date with current research over a broad spectrum of geoscience; improves students' oral presentation skills by practice and example. Required for all graduate students in Geology. Approved for S/U grading only. May be repeated to a maximum of 12 hours. Prerequisite: Graduate standing in Department of Geology or consent of instructor.", 
+    "href": "/2017/spring/GEOL/591.json", 
+    "id": "GEOL 591", 
+    "label": "Current Research in Geoscience", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GEOL/591/33554.json", 
+            "id": "33554"
+        }
+    }
+}

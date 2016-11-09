@@ -1,0 +1,33 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "Exploration of current perspectives on the interplay between family communication processes and health-related issues. Using theoretical foundations such as systems theory, communication privacy management theory, narrative theory and family communication patterns theory, students will explore the ways that family members communicate about health, cope with health-related problems, and influence one another's health-related behaviors.", 
+    "href": "/2017/spring/CMN/504.json", 
+    "id": "CMN 504", 
+    "label": "Health & Family Communication", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Communication", 
+            "href": "/2017/spring/CMN.json", 
+            "id": "CMN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 14-Mar-17.", 
+    "sectionRegistrationNotes": "Restricted to MS: Health Cmc Online - UIUC or NDEG:Grad Nondegree-CE-UIUC.", 
+    "sections": {
+        "section": {
+            "content": "RR1", 
+            "href": "/2017/spring/CMN/504/65514.json", 
+            "id": "65514"
+        }
+    }
+}

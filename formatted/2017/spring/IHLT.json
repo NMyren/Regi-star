@@ -1,0 +1,55 @@
+{
+    "addressLine1": "Program Office", 
+    "addressLine2": "110 Huff Hall, 1206 South Fourth St, Champaign", 
+    "collegeCode": "KY", 
+    "collegeDepartmentDescription": "Director: Bill Stewart\nProgram Office, 110 Huff Hall, 1206 South Fourth St, Champaign, 333-2131\nhttp://ihealth.illinois.edu/", 
+    "contactName": "Bill Stewart", 
+    "contactTitle": "Director", 
+    "courses": {
+        "course": [
+            {
+                "content": "Survey of Interdisc Health", 
+                "href": "/2017/spring/IHLT/102.json", 
+                "id": "102"
+            }, 
+            {
+                "content": "Health Disparities in the U.S.", 
+                "href": "/2017/spring/IHLT/232.json", 
+                "id": "232"
+            }, 
+            {
+                "content": "Interdis Collab in Health Serv", 
+                "href": "/2017/spring/IHLT/375.json", 
+                "id": "375"
+            }, 
+            {
+                "content": "Pre-Field Experience in Health", 
+                "href": "/2017/spring/IHLT/474.json", 
+                "id": "474"
+            }, 
+            {
+                "content": "Field Experience in i-Health", 
+                "href": "/2017/spring/IHLT/475.json", 
+                "id": "475"
+            }
+        ]
+    }, 
+    "departmentCode": "XXXX", 
+    "id": "IHLT", 
+    "label": "i-Health Program", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-2131", 
+    "unitName": "Interdisciplinary Health", 
+    "webSiteURL": "http://ihealth.illinois.edu/"
+}

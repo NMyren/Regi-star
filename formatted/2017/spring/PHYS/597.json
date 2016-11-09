@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated. 2 to 16 hours for full term; 1 to 8 hours for half-term. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 16 hours.", 
+    "description": "Individual study in a subject not covered in course offerings may be arranged for credit by registration under this number. May be repeated. 2 to 16 hours for full term; 1 to 8 hours for half-term. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/PHYS/597.json", 
+    "id": "PHYS 597", 
+    "label": "Individual Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/PHYS/597/10150.json", 
+            "id": "10150"
+        }
+    }
+}

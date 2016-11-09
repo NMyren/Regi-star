@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 340.", 
+    "creditHours": "3 hours.", 
+    "description": "Advanced concepts including generation-recombination, hot electron effects, and breakdown mechanisms; essential features of small ac characteristics, switching and transient behavior of p-n junctions, and bipolar and MOS transistors; fundamental issues for device modeling; perspective and limitations of Si-devices. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 340.", 
+    "href": "/2017/spring/ECE/441.json", 
+    "id": "ECE 441", 
+    "label": "Physcs & Modeling Semicond Dev", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "D", 
+            "href": "/2017/spring/ECE/441/33888.json", 
+            "id": "33888"
+        }
+    }
+}

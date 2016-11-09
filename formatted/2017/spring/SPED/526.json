@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: SPED 426 or SPED 538 or equivalent.", 
+    "creditHours": "4 hours.", 
+    "description": "Course provides special educators and other professionals with skills and strategies to assume a leader/change agent role in their schools. Participants focus on effective leadership, collaborative practices, and innovative programs in special education that create unique learning environments, ultimately impacting all stakeholders (student with and without disabilities, teachers, families). Course readings, lectures, and activities address how leaders in the field affect change in special education through grant writing, professional development, and the implementation and evaluation of innovative programs and practices. Prerequisite: SPED 426 or SPED 538 or equivalent.", 
+    "href": "/2017/spring/SPED/526.json", 
+    "id": "SPED 526", 
+    "label": "Collaborative Leaders in SPED", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Special Education", 
+            "href": "/2017/spring/SPED.json", 
+            "id": "SPED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Special Education major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SPED/526/34565.json", 
+            "id": "34565"
+        }
+    }
+}

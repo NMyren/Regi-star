@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "2 undergraduate hours. 2 graduate hours. Prerequisite: CHEM 315, and credit or concurrent registration in CHEM 444; or consent of instructor.", 
+    "creditHours": "2 hours.", 
+    "description": "Laboratory course features experiments concerning the fundamental physical nature of chemical phenomena. Experiments include infrared spectroscopy, protein folding, x-ray diffraction and laser induced fluorescence. 2 undergraduate hours. 2 graduate hours. Prerequisite: CHEM 315, and credit or concurrent registration in CHEM 444; or consent of instructor.", 
+    "href": "/2017/spring/CHEM/445.json", 
+    "id": "CHEM 445", 
+    "label": "Physical Principles Lab I", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemistry", 
+            "href": "/2017/spring/CHEM.json", 
+            "id": "CHEM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/CHEM/445/32735.json", 
+                "id": "32735"
+            }, 
+            {
+                "content": "AB2", 
+                "href": "/2017/spring/CHEM/445/32733.json", 
+                "id": "32733"
+            }, 
+            {
+                "content": "AQ1", 
+                "href": "/2017/spring/CHEM/445/32734.json", 
+                "id": "32734"
+            }
+        ]
+    }
+}

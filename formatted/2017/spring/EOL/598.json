@@ -1,0 +1,43 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. Prerequisite: Consent of instructor.", 
+    "creditHours": "4 TO 8 hours.", 
+    "description": "Assists doctoral candidates in planning field studies and thesis problems; students are expected to present their studies at each of four stages: (1) the inception, delimitation, tentative design stage; (2) the proposed design stage; (3) the revised design stage; and (4) the final design stage. Students are expected to analyze all presentations critically. Approved for S/U grading only. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/EOL/598.json", 
+    "id": "EOL 598", 
+    "label": "Thesis Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Educational Organization and Leadership", 
+            "href": "/2017/spring/EOL.json", 
+            "id": "EOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "href": "/2017/spring/EOL/598/10105.json", 
+                "id": "10105"
+            }, 
+            {
+                "content": "OB", 
+                "href": "/2017/spring/EOL/598/49636.json", 
+                "id": "49636"
+            }, 
+            {
+                "content": "TP", 
+                "href": "/2017/spring/EOL/598/32512.json", 
+                "id": "32512"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated. A maximum of 8 hours of GEOL 390 plus GEOL 391 may be counted toward graduation. Prerequisite: GEOL 208 or equivalent; consent of supervising faculty member; advance approval by Department of Geology.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Research and individual study in geology. May be repeated. A maximum of 8 hours of GEOL 390 plus GEOL 391 may be counted toward graduation. Prerequisite: GEOL 208 or equivalent; consent of supervising faculty member; advance approval by Department of Geology.", 
+    "href": "/2017/spring/GEOL/390.json", 
+    "id": "GEOL 390", 
+    "label": "Individual Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Geology", 
+            "href": "/2017/spring/GEOL.json", 
+            "id": "GEOL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/GEOL/390/10245.json", 
+            "id": "10245"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as ASST 347. Prerequisite: PS 240 or PS 241, six hours of Political Science credit, or consent of instructor.", 
+    "creditHours": "3 hours.", 
+    "description": "Analyzes the transformation of Middle Eastern society from Morocco to Iran, as case studies in political modernization. The politics of the area are studied with special reference to causes and character of modernization, role of leadership, ideologies and institutions, methods and theories for analyzing political systems undergoing fundamental transformation, and implications for U. S. policy. Same as ASST 347. Prerequisite: PS 240 or PS 241, six hours of Political Science credit, or consent of instructor.", 
+    "href": "/2017/spring/PS/347.json", 
+    "id": "PS 347", 
+    "label": "Gov & Pol of Middle East", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Political Science", 
+            "href": "/2017/spring/PS.json", 
+            "id": "PS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Political Science major(s). Not intended for students with Freshman class standing.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PS/347/55130.json", 
+            "id": "55130"
+        }
+    }
+}

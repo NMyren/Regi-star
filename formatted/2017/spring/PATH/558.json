@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading. May be repeated to a maximum of 6 hours. Prerequisite: Concurrent enrollment in PATH 556 or PATH 557 or consent of instructor.", 
+    "creditHours": "0 TO 1 hours.", 
+    "description": "Discussion of selected pathologic and clinico-pathologic material pertaining to exotic and wild animals and presentation of a formal seminar. Approved for letter and S/U grading. May be repeated to a maximum of 6 hours. Prerequisite: Concurrent enrollment in PATH 556 or PATH 557 or consent of instructor.", 
+    "href": "/2017/spring/PATH/558.json", 
+    "id": "PATH 558", 
+    "label": "Exotic/Wild Animal Path Sem", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Pathobiology", 
+            "href": "/2017/spring/PATH.json", 
+            "id": "PATH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PATH/558/44089.json", 
+            "id": "44089"
+        }
+    }
+}

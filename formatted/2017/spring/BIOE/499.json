@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "1 to 5 undergraduate hours. No graduate credit. May be repeated, if topics vary. Prerequisite: Majors only, senior standing.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "Limited in general to seniors in the curriculum in bioengineering. Any others must have the consent of the head of the department. Each student taking the course must register in a minimum of 5 hours either in one term or divided over two terms. A maximum registration of 10 hours in two terms is permitted. 1 to 5 undergraduate hours. No graduate credit. May be repeated, if topics vary. Prerequisite: Majors only, senior standing.", 
+    "href": "/2017/spring/BIOE/499.json", 
+    "id": "BIOE 499", 
+    "label": "Senior Thesis", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Bioengineering", 
+            "href": "/2017/spring/BIOE.json", 
+            "id": "BIOE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/BIOE/499/64753.json", 
+            "id": "64753"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "May be repeated in separate terms to a maximum of 8 hours.", 
+    "creditHours": "4 hours.", 
+    "description": "Introduces students to the role of the EU in international affairs. May be repeated in separate terms to a maximum of 8 hours.", 
+    "href": "/2017/spring/EURO/502.json", 
+    "id": "EURO 502", 
+    "label": "The EU in a Global Context", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "European Union Studies", 
+            "href": "/2017/spring/EURO.json", 
+            "id": "EURO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "KK", 
+            "href": "/2017/spring/EURO/502/51676.json", 
+            "id": "51676"
+        }
+    }
+}

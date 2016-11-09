@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as AAS 355 and SOC 355. Prerequisite: Any lower division LLS or SOC or AAS course.", 
+    "creditHours": "3 hours.", 
+    "description": "Explores the history of racial classification in the U.S. with special attention to the census and the role of the state more generally in defining race. Emphasis on how race-mixing has been understood in American culture, and on the current literature on \"multiracials\" and the future of \"race\" in the U.S. Readings are drawn from interdisciplinary sources, but examined from a sociological perspective. Same as AAS 355 and SOC 355. Prerequisite: Any lower division LLS or SOC or AAS course.", 
+    "href": "/2017/spring/LLS/355.json", 
+    "id": "LLS 355", 
+    "label": "Race and Mixed Race", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latina/Latino Studies", 
+            "href": "/2017/spring/LLS.json", 
+            "id": "LLS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/LLS/355/57159.json", 
+            "id": "57159"
+        }
+    }
+}

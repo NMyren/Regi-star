@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as MACS 227.", 
+    "creditHours": "3 hours.", 
+    "description": "Explores topics in black television in order to a) analyze the economic and political factors that lead to successful series; b) historicize black television of the Diaspora, including the U.S., Caribbean, UK, Canada, and Nigeria; c) identify conventions and define a \"black aesthetic;\" d) determine how black series in one genre (such as sitcoms or dramas) aid in mapping other genres; and e) discuss how these series navigate stereotypes and cultural shifts. Same as MACS 227.", 
+    "href": "/2017/spring/AFRO/227.json", 
+    "id": "AFRO 227", 
+    "label": "Studies in Black Television", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "African American Studies", 
+            "href": "/2017/spring/AFRO.json", 
+            "id": "AFRO"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "1", 
+            "href": "/2017/spring/AFRO/227/65251.json", 
+            "id": "65251"
+        }
+    }
+}

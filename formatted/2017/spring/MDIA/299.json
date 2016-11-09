@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading. May be repeated in separate terms to a maximum of 44 hours. Prerequisite: One year of residence at UIUC, good academic standing, and prior approval of the College of Media.", 
+    "creditHours": "0 TO 18 hours.", 
+    "description": "Provides credit toward the undergraduate degree for study at accredited foreign institutions or approved overseas programs. Final determination of credit is made upon the student's completion of the work. Approved for letter and S/U grading. May be repeated in separate terms to a maximum of 44 hours. Prerequisite: One year of residence at UIUC, good academic standing, and prior approval of the College of Media.", 
+    "href": "/2017/spring/MDIA/299.json", 
+    "id": "MDIA 299", 
+    "label": "Media Study Abroad", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Media", 
+            "href": "/2017/spring/MDIA.json", 
+            "id": "MDIA"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/MDIA/299/53364.json", 
+            "id": "53364"
+        }
+    }
+}

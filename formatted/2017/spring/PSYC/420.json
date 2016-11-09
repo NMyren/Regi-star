@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as EPSY 420. See EPSY 420.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as EPSY 420. See EPSY 420.", 
+    "href": "/2017/spring/PSYC/420.json", 
+    "id": "PSYC 420", 
+    "label": "Theories of Psychotherapy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PSYC/420/40008.json", 
+            "id": "40008"
+        }
+    }
+}

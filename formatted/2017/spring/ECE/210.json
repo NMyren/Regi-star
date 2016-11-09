@@ -1,0 +1,116 @@
+{
+    "classScheduleInformation": "Students must register for one lab and one lecture section.", 
+    "courseSectionInformation": "Credit is not given for both ECE 210 and ECE 211. Prerequisite: ECE 110 and PHYS 212; credit or concurrent registration in MATH 285 or MATH 286.", 
+    "creditHours": "4 hours.", 
+    "description": "Analog signal processing, with an emphasis on underlying concepts from circuit and system analysis: linear systems; review of elementary circuit analysis; differential equation models of linear circuits and systems; Laplace transform; convolution; stability; phasors; frequency response; Fourier series; Fourier transform; active filters; AM radio. Credit is not given for both ECE 210 and ECE 211. Prerequisite: ECE 110 and PHYS 212; credit or concurrent registration in MATH 285 or MATH 286.", 
+    "href": "/2017/spring/ECE/210.json", 
+    "id": "ECE 210", 
+    "label": "Analog Signal Processing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "ABA", 
+                "href": "/2017/spring/ECE/210/32534.json", 
+                "id": "32534"
+            }, 
+            {
+                "content": "ABB", 
+                "href": "/2017/spring/ECE/210/32535.json", 
+                "id": "32535"
+            }, 
+            {
+                "content": "ABC", 
+                "href": "/2017/spring/ECE/210/32536.json", 
+                "id": "32536"
+            }, 
+            {
+                "content": "ABD", 
+                "href": "/2017/spring/ECE/210/32537.json", 
+                "id": "32537"
+            }, 
+            {
+                "content": "ABE", 
+                "href": "/2017/spring/ECE/210/32538.json", 
+                "id": "32538"
+            }, 
+            {
+                "content": "ABF", 
+                "href": "/2017/spring/ECE/210/32539.json", 
+                "id": "32539"
+            }, 
+            {
+                "content": "ABG", 
+                "href": "/2017/spring/ECE/210/32541.json", 
+                "id": "32541"
+            }, 
+            {
+                "content": "ABH", 
+                "href": "/2017/spring/ECE/210/32561.json", 
+                "id": "32561"
+            }, 
+            {
+                "content": "ABI", 
+                "href": "/2017/spring/ECE/210/32564.json", 
+                "id": "32564"
+            }, 
+            {
+                "content": "ABJ", 
+                "href": "/2017/spring/ECE/210/32566.json", 
+                "id": "32566"
+            }, 
+            {
+                "content": "ABK", 
+                "href": "/2017/spring/ECE/210/32571.json", 
+                "id": "32571"
+            }, 
+            {
+                "content": "ABL", 
+                "href": "/2017/spring/ECE/210/32575.json", 
+                "id": "32575"
+            }, 
+            {
+                "content": "ABM", 
+                "href": "/2017/spring/ECE/210/55640.json", 
+                "id": "55640"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/ECE/210/32505.json", 
+                "id": "32505"
+            }, 
+            {
+                "content": "AL2", 
+                "href": "/2017/spring/ECE/210/32532.json", 
+                "id": "32532"
+            }, 
+            {
+                "content": "AL3", 
+                "href": "/2017/spring/ECE/210/32533.json", 
+                "id": "32533"
+            }, 
+            {
+                "content": "AL4", 
+                "href": "/2017/spring/ECE/210/55638.json", 
+                "id": "55638"
+            }
+        ]
+    }
+}

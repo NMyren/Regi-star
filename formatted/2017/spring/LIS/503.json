@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: LIS 501.", 
+    "creditHours": "4 hours.", 
+    "description": "Explores information needs and uses at a general level, addressing formal and informal information channels, barriers to information, issues of value, and impacts of technology. Examines information seeking practices of particular communities and within various environments, introducing recent approaches to user-centered system design and digital library development. Provides an overview of methods that can be used to study information needs, information seeking behavior, and related phenomena. Prerequisite: LIS 501.", 
+    "href": "/2017/spring/LIS/503.json", 
+    "id": "LIS 503", 
+    "label": "Use and Users of Info", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Library & Information Science major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/LIS/503/36870.json", 
+            "id": "36870"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for letter and S/U grading. May be repeated to a maximum of 8 hours.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Independent study on special topics not treated in regularly scheduled courses. Approved for letter and S/U grading. May be repeated to a maximum of 8 hours.", 
+    "href": "/2017/spring/LLS/590.json", 
+    "id": "LLS 590", 
+    "label": "Independent Study", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latina/Latino Studies", 
+            "href": "/2017/spring/LLS.json", 
+            "id": "LLS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/LLS/590/46522.json", 
+            "id": "46522"
+        }
+    }
+}

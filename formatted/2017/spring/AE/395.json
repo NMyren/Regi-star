@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: Consent of instructor.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Special aerospace engineering project or reading course for James Scholars in engineering. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/AE/395.json", 
+    "id": "AE 395", 
+    "label": "Honors Project", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Aerospace Engineering", 
+            "href": "/2017/spring/AE.json", 
+            "id": "AE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Instructor Approval Required", 
+    "sections": {
+        "section": {
+            "href": "/2017/spring/AE/395/10012.json", 
+            "id": "10012"
+        }
+    }
+}

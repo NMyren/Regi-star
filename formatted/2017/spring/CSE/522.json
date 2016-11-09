@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Same as CS 533. See CS 533.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as CS 533. See CS 533.", 
+    "href": "/2017/spring/CSE/522.json", 
+    "id": "CSE 522", 
+    "label": "Parallel Computer Architecture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Computational Science and Engineering", 
+            "href": "/2017/spring/CSE.json", 
+            "id": "CSE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Computer Science major(s). Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "S", 
+            "href": "/2017/spring/CSE/522/57171.json", 
+            "id": "57171"
+        }
+    }
+}

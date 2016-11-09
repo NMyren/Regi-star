@@ -1,0 +1,53 @@
+{
+    "courseSectionInformation": "Credit is not given for both IB 271 and IB 202. Prerequisite: IB 270; good standing in the honors biology option.", 
+    "creditHours": "5 hours.", 
+    "description": "Integrated study of the diversity and structure and function of plants and animals in evolutionary and environmental contexts. Conceptual themes and techniques of molecular and cellular levels of biological organization will be integrated as well. Lecture and laboratory. The laboratory includes vertebrate dissection. Credit is not given for both IB 271 and IB 202. Prerequisite: IB 270; good standing in the honors biology option.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Advanced Composition", 
+            "id": "ACP", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1CLL", 
+                    "content": "UIUC: Advanced Composition"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/IB/271.json", 
+    "id": "IB 271", 
+    "label": "Organismal Biology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Integrative Biology", 
+            "href": "/2017/spring/IB.json", 
+            "id": "IB"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sectionDegreeAttributes": "Advanced Composition course.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/IB/271/45978.json", 
+                "id": "45978"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/IB/271/45977.json", 
+                "id": "45977"
+            }
+        ]
+    }
+}

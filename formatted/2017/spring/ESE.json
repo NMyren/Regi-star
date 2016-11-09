@@ -1,0 +1,140 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "152 Computing Applications Building, 605 East Springfield, Champaign, IL 61820", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Associate Director of Academic Affairs: Jonathan Tomkin\nDepartment Office, 152 Computing Applications Building, 605 East Springfield, Champaign, IL 61820, 244-4064\nwww.earth.illinois.edu", 
+    "contactName": "Jonathan Tomkin", 
+    "contactTitle": "Associate Director of Academic Affairs", 
+    "courses": {
+        "course": [
+            {
+                "content": "Earth's Physical Systems", 
+                "href": "/2017/spring/ESE/103.json", 
+                "id": "103"
+            }, 
+            {
+                "content": "Geology of the National Parks", 
+                "href": "/2017/spring/ESE/104.json", 
+                "id": "104"
+            }, 
+            {
+                "content": "Geographies of Globalization", 
+                "href": "/2017/spring/ESE/106.json", 
+                "id": "106"
+            }, 
+            {
+                "content": "Emergence of Life", 
+                "href": "/2017/spring/ESE/111.json", 
+                "id": "111"
+            }, 
+            {
+                "content": "Natural Disasters", 
+                "href": "/2017/spring/ESE/118.json", 
+                "id": "118"
+            }, 
+            {
+                "content": "Severe and Hazardous Weather", 
+                "href": "/2017/spring/ESE/120.json", 
+                "id": "120"
+            }, 
+            {
+                "content": "Climate and Global Change", 
+                "href": "/2017/spring/ESE/140.json", 
+                "id": "140"
+            }, 
+            {
+                "content": "History of the Earth System", 
+                "href": "/2017/spring/ESE/208.json", 
+                "id": "208"
+            }, 
+            {
+                "content": "Social & Environmental Issues", 
+                "href": "/2017/spring/ESE/210.json", 
+                "id": "210"
+            }, 
+            {
+                "content": "Big Rivers of the World", 
+                "href": "/2017/spring/ESE/222.json", 
+                "id": "222"
+            }, 
+            {
+                "content": "Environment and Society", 
+                "href": "/2017/spring/ESE/287.json", 
+                "id": "287"
+            }, 
+            {
+                "content": "Water Planet, Water Crisis", 
+                "href": "/2017/spring/ESE/320.json", 
+                "id": "320"
+            }, 
+            {
+                "content": "Earth Materials and the Env", 
+                "href": "/2017/spring/ESE/333.json", 
+                "id": "333"
+            }, 
+            {
+                "content": "Intro to GIS Systems", 
+                "href": "/2017/spring/ESE/379.json", 
+                "id": "379"
+            }, 
+            {
+                "content": "GIS II: Spatial Prob Solving", 
+                "href": "/2017/spring/ESE/380.json", 
+                "id": "380"
+            }, 
+            {
+                "content": "Environ &Sust Field Expedition", 
+                "href": "/2017/spring/ESE/389.json", 
+                "id": "389"
+            }, 
+            {
+                "content": "ESE Capstone", 
+                "href": "/2017/spring/ESE/401.json", 
+                "id": "401"
+            }, 
+            {
+                "content": "Transp and Sustainability", 
+                "href": "/2017/spring/ESE/465.json", 
+                "id": "465"
+            }, 
+            {
+                "content": "Environmental Policy", 
+                "href": "/2017/spring/ESE/466.json", 
+                "id": "466"
+            }, 
+            {
+                "content": "Introduction to Hydrogeology", 
+                "href": "/2017/spring/ESE/470.json", 
+                "id": "470"
+            }, 
+            {
+                "content": "Challenges of Sustainability", 
+                "href": "/2017/spring/ESE/482.json", 
+                "id": "482"
+            }, 
+            {
+                "content": "Special Topics in ESE", 
+                "href": "/2017/spring/ESE/497.json", 
+                "id": "497"
+            }
+        ]
+    }, 
+    "departmentCode": "1901", 
+    "id": "ESE", 
+    "label": "Earth, Society, and Environment", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "244-4064", 
+    "unitName": "School of Earth, Society, and Environment", 
+    "webSiteURL": "www.earth.illinois.edu"
+}

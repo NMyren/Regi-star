@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "May be repeated.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "May be repeated.", 
+    "href": "/2017/spring/HNDI/199.json", 
+    "id": "HNDI 199", 
+    "label": "Undergraduate Open Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Hindi", 
+            "href": "/2017/spring/HNDI.json", 
+            "id": "HNDI"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/HNDI/199/60764.json", 
+            "id": "60764"
+        }
+    }
+}

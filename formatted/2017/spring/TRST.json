@@ -1,0 +1,75 @@
+{
+    "addressLine1": "Office", 
+    "addressLine2": "4080 Foreign Languages Building, 707 South Mathews, Urbana", 
+    "collegeCode": "KV", 
+    "collegeDepartmentDescription": "Director: Joyce Tolliver\nOffice, 4080 Foreign Languages Building, 707 South Mathews, Urbana, 244-7455\nwww.translation.illinois.edu", 
+    "contactName": "Joyce Tolliver", 
+    "contactTitle": "Director", 
+    "courses": {
+        "course": [
+            {
+                "content": "Commercial & Technical Trans", 
+                "href": "/2017/spring/TRST/405.json", 
+                "id": "405"
+            }, 
+            {
+                "content": "Translation Theory & Practice", 
+                "href": "/2017/spring/TRST/410.json", 
+                "id": "410"
+            }, 
+            {
+                "content": "Machine Translation: History and Applications", 
+                "href": "/2017/spring/TRST/415.json", 
+                "id": "415"
+            }, 
+            {
+                "content": "Chinese Poetry and Translation", 
+                "href": "/2017/spring/TRST/430.json", 
+                "id": "430"
+            }, 
+            {
+                "content": "Translation Studies Capstone", 
+                "href": "/2017/spring/TRST/440.json", 
+                "id": "440"
+            }, 
+            {
+                "content": "Applied Literary Translation I", 
+                "href": "/2017/spring/TRST/501.json", 
+                "id": "501"
+            }, 
+            {
+                "content": "Translation Capstone", 
+                "href": "/2017/spring/TRST/540.json", 
+                "id": "540"
+            }, 
+            {
+                "content": "Community Interpreting", 
+                "href": "/2017/spring/TRST/541.json", 
+                "id": "541"
+            }, 
+            {
+                "content": "Special Topics in Translation", 
+                "href": "/2017/spring/TRST/580.json", 
+                "id": "580"
+            }
+        ]
+    }, 
+    "departmentCode": "1937", 
+    "id": "TRST", 
+    "label": "Translation Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "244-7455", 
+    "unitName": "Translation Studies", 
+    "webSiteURL": "www.translation.illinois.edu"
+}

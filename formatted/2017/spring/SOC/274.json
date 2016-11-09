@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: SOC 100.", 
+    "creditHours": "3 hours.", 
+    "description": "Sociology of health and illness behavior and the social structure of systems which deliver health care services; includes social constraints on illness, the illness role, medical organizations and professions, and the application of the illness model to deviant forms of behavior. Prerequisite: SOC 100.", 
+    "href": "/2017/spring/SOC/274.json", 
+    "id": "SOC 274", 
+    "label": "Intro to Medical Sociology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Sociology", 
+            "href": "/2017/spring/SOC.json", 
+            "id": "SOC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "JVH", 
+            "href": "/2017/spring/SOC/274/38967.json", 
+            "id": "38967"
+        }
+    }
+}

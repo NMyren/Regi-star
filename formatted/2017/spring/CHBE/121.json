@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Approved for S/U grading only. Prerequisite: CHEM 102 or CHEM 202.", 
+    "creditHours": "1 hours.", 
+    "description": "Lectures and problems on the history and scope of chemical engineering endeavors; decisions and criteria for process development and plant design. Approved for S/U grading only. Prerequisite: CHEM 102 or CHEM 202.", 
+    "href": "/2017/spring/CHBE/121.json", 
+    "id": "CHBE 121", 
+    "label": "CHBE Profession", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Chemical and Biomolecular Engineering", 
+            "href": "/2017/spring/CHBE.json", 
+            "id": "CHBE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Chemical Engineering major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHBE/121/31770.json", 
+            "id": "31770"
+        }
+    }
+}

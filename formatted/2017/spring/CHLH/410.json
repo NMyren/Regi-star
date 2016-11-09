@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Prerequisite: CHLH 210 or consent of instructor.", 
+    "creditHours": "4 hours.", 
+    "description": "Theory and practice of public health promotion as they relate to educational approaches in solving community health problems. 4 undergraduate hours. 4 graduate hours. Prerequisite: CHLH 210 or consent of instructor.", 
+    "href": "/2017/spring/CHLH/410.json", 
+    "id": "CHLH 410", 
+    "label": "Public Health Practice", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Community Health", 
+            "href": "/2017/spring/CHLH.json", 
+            "id": "CHLH"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Community Health major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CHLH/410/31278.json", 
+            "id": "31278"
+        }
+    }
+}

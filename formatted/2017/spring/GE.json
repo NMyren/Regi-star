@@ -1,0 +1,151 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "117 Transportation Building, 104 South Mathews, Urbana", 
+    "collegeCode": "KP", 
+    "collegeDepartmentDescription": "Head of Department: Rakesh Nagi\nDepartment Office, 117 Transportation Building, 104 South Mathews, Urbana, 217-333-2731\nSubjects associated with this department include: General Engineering (GE) and Industrial Engineering (IE).\nwww.ise.illinois.edu/", 
+    "contactName": "Rakesh Nagi", 
+    "contactTitle": "Head of Department", 
+    "courses": {
+        "course": [
+            {
+                "content": "Engineering Graphics & Design", 
+                "href": "/2017/spring/GE/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/GE/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "Business Side of Engineering", 
+                "href": "/2017/spring/GE/261.json", 
+                "id": "261"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/GE/297.json", 
+                "id": "297"
+            }, 
+            {
+                "content": "Special Topics", 
+                "href": "/2017/spring/GE/298.json", 
+                "id": "298"
+            }, 
+            {
+                "content": "Engineering Design Analysis", 
+                "href": "/2017/spring/GE/311.json", 
+                "id": "311"
+            }, 
+            {
+                "content": "Instrumentation and Test Lab", 
+                "href": "/2017/spring/GE/312.json", 
+                "id": "312"
+            }, 
+            {
+                "content": "General Engineering Seminar", 
+                "href": "/2017/spring/GE/390.json", 
+                "id": "390"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/GE/397.json", 
+                "id": "397"
+            }, 
+            {
+                "content": "Engineering Law", 
+                "href": "/2017/spring/GE/400.json", 
+                "id": "400"
+            }, 
+            {
+                "content": "Reliability Engineering", 
+                "href": "/2017/spring/GE/411.json", 
+                "id": "411"
+            }, 
+            {
+                "content": "Engrg Design Optimization", 
+                "href": "/2017/spring/GE/413.json", 
+                "id": "413"
+            }, 
+            {
+                "content": "Robot Dynamics and Control", 
+                "href": "/2017/spring/GE/422.json", 
+                "id": "422"
+            }, 
+            {
+                "content": "Mechatronics", 
+                "href": "/2017/spring/GE/423.json", 
+                "id": "423"
+            }, 
+            {
+                "content": "State Space Design for Control", 
+                "href": "/2017/spring/GE/424.json", 
+                "id": "424"
+            }, 
+            {
+                "content": "Senior Engineering Project I", 
+                "href": "/2017/spring/GE/494.json", 
+                "id": "494"
+            }, 
+            {
+                "content": "Senior Engineering Project II", 
+                "href": "/2017/spring/GE/495.json", 
+                "id": "495"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/GE/497.json", 
+                "id": "497"
+            }, 
+            {
+                "content": "Analysis of Nonlinear Systems", 
+                "href": "/2017/spring/GE/520.json", 
+                "id": "520"
+            }, 
+            {
+                "content": "Multivariable Control Design", 
+                "href": "/2017/spring/GE/521.json", 
+                "id": "521"
+            }, 
+            {
+                "content": "Seminar", 
+                "href": "/2017/spring/GE/590.json", 
+                "id": "590"
+            }, 
+            {
+                "content": "Project Design", 
+                "href": "/2017/spring/GE/594.json", 
+                "id": "594"
+            }, 
+            {
+                "content": "Independent Study", 
+                "href": "/2017/spring/GE/597.json", 
+                "id": "597"
+            }, 
+            {
+                "content": "Thesis Research", 
+                "href": "/2017/spring/GE/599.json", 
+                "id": "599"
+            }
+        ]
+    }, 
+    "departmentCode": "1422", 
+    "id": "GE", 
+    "label": "General Engineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "217-333-2731", 
+    "subjectComment": "Subjects associated with this department include: General Engineering (GE) and Industrial Engineering (IE).", 
+    "unitName": "Industrial and Enterprise Systems Engineering", 
+    "webSiteURL": "www.ise.illinois.edu/"
+}

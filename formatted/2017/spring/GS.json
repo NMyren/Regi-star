@@ -1,0 +1,50 @@
+{
+    "addressLine1": "Program Office", 
+    "addressLine2": "807 South Wright Street, 5th Floor, Champaign", 
+    "collegeCode": "KW", 
+    "collegeDepartmentDescription": "Director: Dr. Daniel J. Turner\nProgram Office, 807 South Wright Street, 5th Floor, Champaign, 333-4710\nwww.dgs.uiuc.edu", 
+    "contactName": "Dr. Daniel J. Turner", 
+    "contactTitle": "Director", 
+    "courses": {
+        "course": [
+            {
+                "content": "Exploring General Studies", 
+                "href": "/2017/spring/GS/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "DGS Honors Seminar", 
+                "href": "/2017/spring/GS/198.json", 
+                "id": "198"
+            }, 
+            {
+                "content": "Undergraduate Open Seminar", 
+                "href": "/2017/spring/GS/199.json", 
+                "id": "199"
+            }, 
+            {
+                "content": "DGS Study Abroad", 
+                "href": "/2017/spring/GS/299.json", 
+                "id": "299"
+            }
+        ]
+    }, 
+    "departmentCode": "1248", 
+    "id": "GS", 
+    "label": "General Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "333-4710", 
+    "unitName": "Division of General Studies", 
+    "webSiteURL": "www.dgs.uiuc.edu"
+}

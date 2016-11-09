@@ -1,0 +1,31 @@
+{
+    "creditHours": "1 hours.", 
+    "description": "Practice in writing Latin prose, with special attention to stylistic questions.", 
+    "href": "/2017/spring/LAT/511.json", 
+    "id": "LAT 511", 
+    "label": "Advanced Prose Composition", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Latin", 
+            "href": "/2017/spring/LAT.json", 
+            "id": "LAT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/LAT/511/38862.json", 
+            "id": "38862"
+        }
+    }
+}

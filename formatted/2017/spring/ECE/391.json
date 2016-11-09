@@ -1,0 +1,70 @@
+{
+    "courseSectionInformation": "Credit is not given for both ECE 391 and CS 241. Prerequisite: ECE 220 or CS 233.", 
+    "creditHours": "4 hours.", 
+    "description": "Concepts and abstractions central to the development of modern computing systems, with an emphasis on the systems software that controls interaction between devices and other hardware and application programs. Input-output semantics; synchronization; interrupts; multitasking; virtualization of abstractions. Term-based projects. Credit is not given for both ECE 391 and CS 241. Prerequisite: ECE 220 or CS 233.", 
+    "href": "/2017/spring/ECE/391.json", 
+    "id": "ECE 391", 
+    "label": "Computer Systems Engineering", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Electrical and Computer Engineering", 
+            "href": "/2017/spring/ECE.json", 
+            "id": "ECE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Not intended for Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AD1", 
+                "href": "/2017/spring/ECE/391/45300.json", 
+                "id": "45300"
+            }, 
+            {
+                "content": "AD2", 
+                "href": "/2017/spring/ECE/391/47023.json", 
+                "id": "47023"
+            }, 
+            {
+                "content": "AD3", 
+                "href": "/2017/spring/ECE/391/47024.json", 
+                "id": "47024"
+            }, 
+            {
+                "content": "AD4", 
+                "href": "/2017/spring/ECE/391/57948.json", 
+                "id": "57948"
+            }, 
+            {
+                "content": "AD5", 
+                "href": "/2017/spring/ECE/391/60950.json", 
+                "id": "60950"
+            }, 
+            {
+                "content": "AD6", 
+                "href": "/2017/spring/ECE/391/62679.json", 
+                "id": "62679"
+            }, 
+            {
+                "content": "AD7", 
+                "href": "/2017/spring/ECE/391/64298.json", 
+                "id": "64298"
+            }, 
+            {
+                "content": "AL", 
+                "href": "/2017/spring/ECE/391/45210.json", 
+                "id": "45210"
+            }
+        ]
+    }
+}

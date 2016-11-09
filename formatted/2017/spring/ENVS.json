@@ -1,0 +1,110 @@
+{
+    "addressLine1": "Department Office", 
+    "addressLine2": "156 Computing Applications Building, 605 E. Springfield Ave., Champaign", 
+    "collegeCode": "LK", 
+    "collegeDepartmentDescription": "Associate Director of Academic Affairs: Jonathan Tomkin\nDepartment Office, 156 Computing Applications Building, 605 E. Springfield Ave., Champaign, 244-4064\nwww.earth.illinois.edu", 
+    "contactName": "Jonathan Tomkin", 
+    "contactTitle": "Associate Director of Academic Affairs", 
+    "courses": {
+        "course": [
+            {
+                "content": "Introduction to Energy Sources", 
+                "href": "/2017/spring/ENVS/101.json", 
+                "id": "101"
+            }, 
+            {
+                "content": "Communicating Agriculture", 
+                "href": "/2017/spring/ENVS/220.json", 
+                "id": "220"
+            }, 
+            {
+                "content": "Ind Studies of Env. Topics", 
+                "href": "/2017/spring/ENVS/299.json", 
+                "id": "299"
+            }, 
+            {
+                "content": "Tools for Sustainability", 
+                "href": "/2017/spring/ENVS/301.json", 
+                "id": "301"
+            }, 
+            {
+                "content": "Natural Resource Economics", 
+                "href": "/2017/spring/ENVS/310.json", 
+                "id": "310"
+            }, 
+            {
+                "content": "Environmental Communications", 
+                "href": "/2017/spring/ENVS/330.json", 
+                "id": "330"
+            }, 
+            {
+                "content": "Tomorrow's Environment", 
+                "href": "/2017/spring/ENVS/336.json", 
+                "id": "336"
+            }, 
+            {
+                "content": "Environmental Geology", 
+                "href": "/2017/spring/ENVS/380.json", 
+                "id": "380"
+            }, 
+            {
+                "content": "Urban Ecology", 
+                "href": "/2017/spring/ENVS/406.json", 
+                "id": "406"
+            }, 
+            {
+                "content": "Conservation Biology", 
+                "href": "/2017/spring/ENVS/420.json", 
+                "id": "420"
+            }, 
+            {
+                "content": "Environ Toxicology & Health", 
+                "href": "/2017/spring/ENVS/431.json", 
+                "id": "431"
+            }, 
+            {
+                "content": "Pesticide Toxicology", 
+                "href": "/2017/spring/ENVS/433.json", 
+                "id": "433"
+            }, 
+            {
+                "content": "Environmental Health", 
+                "href": "/2017/spring/ENVS/469.json", 
+                "id": "469"
+            }, 
+            {
+                "content": "Sustainability Experience", 
+                "href": "/2017/spring/ENVS/491.json", 
+                "id": "491"
+            }, 
+            {
+                "content": "Neurotoxicology", 
+                "href": "/2017/spring/ENVS/514.json", 
+                "id": "514"
+            }, 
+            {
+                "content": "Interdisciplinary Tox Sem", 
+                "href": "/2017/spring/ENVS/596.json", 
+                "id": "596"
+            }
+        ]
+    }, 
+    "departmentCode": "1621", 
+    "id": "ENVS", 
+    "label": "Environmental Studies", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "phoneNumber": "244-4064", 
+    "unitName": "School of Earth, Society, and Environment", 
+    "webSiteURL": "www.earth.illinois.edu"
+}

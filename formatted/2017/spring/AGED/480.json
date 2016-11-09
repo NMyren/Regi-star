@@ -1,0 +1,54 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: AGED 260 or equivalent.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Leadership operates within the context of community. The course will teach the research, theory, and practice of building effective community collaborations to deal with complex societal issues. A collaborative framework will be delivered by which students apply their knowledge of person, organizational, and community leadership to real-world problems. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: AGED 260 or equivalent.", 
+    "href": "/2017/spring/AGED/480.json", 
+    "id": "AGED 480", 
+    "label": "Collaborative Leadership", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Agricultural Education", 
+            "href": "/2017/spring/AGED.json", 
+            "id": "AGED"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/AGED/480/54403.json", 
+                "id": "54403"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/AGED/480/58805.json", 
+                "id": "58805"
+            }, 
+            {
+                "content": "BG", 
+                "href": "/2017/spring/AGED/480/58806.json", 
+                "id": "58806"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/AGED/480/62305.json", 
+                "id": "62305"
+            }, 
+            {
+                "content": "CG", 
+                "href": "/2017/spring/AGED/480/64080.json", 
+                "id": "64080"
+            }
+        ]
+    }
+}

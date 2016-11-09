@@ -1,0 +1,32 @@
+{
+    "creditHours": "2 hours.", 
+    "description": "Introduction to human movement through development of skills and knowledge relative to structure and function of the human body in selected physical activities including: basic postural and locomotion patterns and fundamental throwing patterns; also studies developmental aspects of typical and atypical movement skills. Emphasizes performance and qualitative analysis of movement skills.", 
+    "href": "/2017/spring/KIN/130.json", 
+    "id": "KIN 130", 
+    "label": "Analysis of Basic Movement", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Kinesiology", 
+            "href": "/2017/spring/KIN.json", 
+            "id": "KIN"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Kinesiology major(s).", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/KIN/130/35082.json", 
+            "id": "35082"
+        }
+    }
+}

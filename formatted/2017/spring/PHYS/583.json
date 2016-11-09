@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: PHYS 582.", 
+    "creditHours": "4 hours.", 
+    "description": "Quantization and Feynman path integral; gauge theories and renormalization; renormalization group with applications to particle physics and critical phenomena; approximation methods and recent developments. Prerequisite: PHYS 582.", 
+    "href": "/2017/spring/PHYS/583.json", 
+    "id": "PHYS 583", 
+    "label": "Advanced Field Theory", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Physics", 
+            "href": "/2017/spring/PHYS.json", 
+            "id": "PHYS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to Graduate - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/PHYS/583/36786.json", 
+            "id": "36786"
+        }
+    }
+}

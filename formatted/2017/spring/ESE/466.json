@@ -1,0 +1,40 @@
+{
+    "courseSectionInformation": "Same as GEOG 466. See GEOG 466.", 
+    "creditHours": "3 OR 4 hours.", 
+    "description": "Same as GEOG 466. See GEOG 466.", 
+    "href": "/2017/spring/ESE/466.json", 
+    "id": "ESE 466", 
+    "label": "Environmental Policy", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Earth, Society, and Environment", 
+            "href": "/2017/spring/ESE.json", 
+            "id": "ESE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 17-Jan-17 - 10-Mar-17.", 
+    "sections": {
+        "section": [
+            {
+                "content": "G", 
+                "href": "/2017/spring/ESE/466/63734.json", 
+                "id": "63734"
+            }, 
+            {
+                "content": "UG", 
+                "href": "/2017/spring/ESE/466/63733.json", 
+                "id": "63733"
+            }
+        ]
+    }
+}

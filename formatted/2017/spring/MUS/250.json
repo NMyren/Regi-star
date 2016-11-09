@@ -1,0 +1,44 @@
+{
+    "courseSectionInformation": "May be repeated. Prerequisite: Consent of instructor.", 
+    "creditHours": "1 hours.", 
+    "description": "May be repeated. Prerequisite: Consent of instructor.", 
+    "href": "/2017/spring/MUS/250.json", 
+    "id": "MUS 250", 
+    "label": "University Orchestra", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Music", 
+            "href": "/2017/spring/MUS.json", 
+            "id": "MUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "K", 
+                "href": "/2017/spring/MUS/250/36191.json", 
+                "id": "36191"
+            }, 
+            {
+                "content": "K1", 
+                "href": "/2017/spring/MUS/250/36193.json", 
+                "id": "36193"
+            }, 
+            {
+                "content": "K2", 
+                "href": "/2017/spring/MUS/250/36192.json", 
+                "id": "36192"
+            }
+        ]
+    }
+}

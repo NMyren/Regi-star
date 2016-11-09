@@ -1,0 +1,59 @@
+{
+    "courseSectionInformation": "Prerequisite: Restricted to first-year freshmen and transfer students.", 
+    "creditHours": "3 hours.", 
+    "description": "Interdisciplinary, experiential Grand Challenge Learning course in Health & Wellness. Exploration of the ways methodological and moral principles interact to inform policy choices related to health and society; consideration of topics of ethical and public policy concern (e.g., abortion, animal experimentation, drug and trials, organ donation, vaccination, and provision of healthcare), with an emphasis on relevant formal, quantitative tools (e.g., probability, statistics, decision theory, modal logic, and graphical causal modeling). Prerequisite: Restricted to first-year freshmen and transfer students.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }, 
+            {
+                "description": "Quantitative Reasoning", 
+                "id": "QR", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1QR2", 
+                        "content": "UIUC: Quant Reasoning II"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/GCL/187.json", 
+    "id": "GCL 187", 
+    "label": "Morality, Methods, and Medicine: Formal and Philosophical Approaches to Health in Society", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Grand Challenge Learning", 
+            "href": "/2017/spring/GCL.json", 
+            "id": "GCL"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Restricted to First Time Freshman or Transfer student - first time students.", 
+    "sectionDegreeAttributes": "Grand Challenge-Health/Well, Hist&Philosoph Perspect, and Quant Reasoning II course.", 
+    "sectionRegistrationNotes": "Restricted to Undergrad - Urbana-Champaign.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/GCL/187/65054.json", 
+            "id": "65054"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. No graduate credit. Credit is not given for both ACCY 415 and ACCY 515. Prerequisite: ACCY 304 or consent of department.", 
+    "creditHours": "3 hours.", 
+    "description": "Framework for understanding and evaluating the professional auditing standards for assurance services. Model of financial reporting provides an overview of the types of information disseminated by companies to external users, and provides the basis for identifying professional standards areas for future standards' development. 3 undergraduate hours. No graduate credit. Credit is not given for both ACCY 415 and ACCY 515. Prerequisite: ACCY 304 or consent of department.", 
+    "href": "/2017/spring/ACCY/415.json", 
+    "id": "ACCY 415", 
+    "label": "Auditing Stds and Practice", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Accountancy", 
+            "href": "/2017/spring/ACCY.json", 
+            "id": "ACCY"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionCappArea": "Not intended for BS/MS Accy 3+2 Pgm students.", 
+    "sections": {
+        "section": [
+            {
+                "content": "AE1", 
+                "href": "/2017/spring/ACCY/415/63501.json", 
+                "id": "63501"
+            }, 
+            {
+                "content": "AE2", 
+                "href": "/2017/spring/ACCY/415/63502.json", 
+                "id": "63502"
+            }, 
+            {
+                "content": "AE3", 
+                "href": "/2017/spring/ACCY/415/63503.json", 
+                "id": "63503"
+            }, 
+            {
+                "content": "AE4", 
+                "href": "/2017/spring/ACCY/415/65157.json", 
+                "id": "65157"
+            }, 
+            {
+                "content": "AE5", 
+                "href": "/2017/spring/ACCY/415/65158.json", 
+                "id": "65158"
+            }, 
+            {
+                "content": "AE6", 
+                "href": "/2017/spring/ACCY/415/65159.json", 
+                "id": "65159"
+            }, 
+            {
+                "content": "AY1", 
+                "href": "/2017/spring/ACCY/415/64092.json", 
+                "id": "64092"
+            }
+        ]
+    }
+}

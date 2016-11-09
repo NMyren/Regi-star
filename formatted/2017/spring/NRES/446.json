@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Same as GEOG 446 and UP 446. See UP 446.", 
+    "creditHours": "4 hours.", 
+    "description": "Same as GEOG 446 and UP 446. See UP 446.", 
+    "href": "/2017/spring/NRES/446.json", 
+    "id": "NRES 446", 
+    "label": "Sustainable Planning Seminar", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Natural Resources and Environmental Sciences", 
+            "href": "/2017/spring/NRES.json", 
+            "id": "NRES"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "1", 
+            "href": "/2017/spring/NRES/446/49796.json", 
+            "id": "49796"
+        }
+    }
+}

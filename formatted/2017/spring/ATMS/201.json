@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "Prerequisite: MATH 220 or MATH 221; credit or concurrent registration in MATH 231 and PHYS 211.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduction to physical processes in the atmosphere, focusing on those relevant to weather and storms. Emphasizes quantitative problem solving. Topics include atmospheric structure, atmospheric thermodynamics, clouds, synoptic meteorology, weather forecasting, and storms. For students in atmospheric sciences, physics, mathematics, engineering, and other physical and natural sciences. Prerequisite: MATH 220 or MATH 221; credit or concurrent registration in MATH 231 and PHYS 211.", 
+    "href": "/2017/spring/ATMS/201.json", 
+    "id": "ATMS 201", 
+    "label": "General Physical Meteorology", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Atmospheric Sciences", 
+            "href": "/2017/spring/ATMS.json", 
+            "id": "ATMS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ATMS/201/48377.json", 
+            "id": "48377"
+        }
+    }
+}

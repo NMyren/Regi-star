@@ -1,0 +1,32 @@
+{
+    "courseSectionInformation": "3 undergraduate hours. 3 graduate hours. Prerequisite: ANSC 223 or equivalent.", 
+    "creditHours": "3 hours.", 
+    "description": "Digestive physiology and basic nutritional considerations of companion animals, with primary focus on dogs and cats. Topics discussed include nutritional idiosyncrasies of dogs and cats, the importance of nutrition in various physiological states, and nutrient needs during disease. Information on pet food regulations, common ingredients and formulation, manufacturing methods, and trends in the pet food industry will also be covered. 3 undergraduate hours. 3 graduate hours. Prerequisite: ANSC 223 or equivalent.", 
+    "href": "/2017/spring/ANSC/422.json", 
+    "id": "ANSC 422", 
+    "label": "Companion Animal Nutrition", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/ANSC/422/39489.json", 
+            "id": "39489"
+        }
+    }
+}

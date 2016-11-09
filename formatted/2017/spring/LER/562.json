@@ -1,0 +1,32 @@
+{
+    "creditHours": "4 hours.", 
+    "description": "Examines conceptual issues, policies, and practices relating to the attraction, selection, development, and planning for the most effective utilization of human resources.", 
+    "href": "/2017/spring/LER/562.json", 
+    "id": "LER 562", 
+    "label": "HR Planning and Staffing", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Labor and Employment Relations", 
+            "href": "/2017/spring/LER.json", 
+            "id": "LER"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDateRange": "Meets 06-Mar-17 - 03-May-17.", 
+    "sections": {
+        "section": {
+            "content": "O1", 
+            "href": "/2017/spring/LER/562/65573.json", 
+            "id": "65573"
+        }
+    }
+}

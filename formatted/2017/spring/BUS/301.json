@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "Prerequisite: BUS 101; by application and interview.", 
+    "creditHours": "3 hours.", 
+    "description": "Examines in depth a number of the multi-dimensional attributes required to advance understanding of professional responsibility in the context of an ever-changing business environment, focusing on principles for addressing dilemmas that regularly arise in professional life in the work of business. Explores connections between academic integrity while in school and professional responsibility in later work life. Builds on BUS 101 and provides a breadth and depth of that body of knowledge that will enable highly successful students in BUS 301 to be considered for the role of section leaders in BUS 101. Aspiring section leaders in BUS 101 must have excelled in BUS to be considered for the position. Prerequisite: BUS 101; by application and interview.", 
+    "href": "/2017/spring/BUS/301.json", 
+    "id": "BUS 301", 
+    "label": "Principles Prof Responsibility", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business", 
+            "href": "/2017/spring/BUS.json", 
+            "id": "BUS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionApprovalCode": "Departmental Approval Required", 
+    "sections": {
+        "section": {
+            "content": "CB", 
+            "href": "/2017/spring/BUS/301/56786.json", 
+            "id": "56786"
+        }
+    }
+}

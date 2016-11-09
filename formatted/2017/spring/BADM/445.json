@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 undergraduate hours. 4 graduate hours. Credit is not given for both BADM 445 and ENG 465.", 
+    "creditHours": "4 hours.", 
+    "description": "Through guided experience, students identify and offer advice to local small business firms; exposes students, serving as consultants, to the wide variety of problems facing the smaller firm as well as enables them to apply current business methods to real problems. Students work in teams. 4 undergraduate hours. 4 graduate hours. Credit is not given for both BADM 445 and ENG 465.", 
+    "href": "/2017/spring/BADM/445.json", 
+    "id": "BADM 445", 
+    "label": "Small Business Consulting", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Business Administration", 
+            "href": "/2017/spring/BADM.json", 
+            "id": "BADM"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to students with Junior, Senior, or Graduate class standing. Restricted to BS: Management -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/BADM/445/31065.json", 
+            "id": "31065"
+        }
+    }
+}

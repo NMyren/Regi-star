@@ -1,0 +1,49 @@
+{
+    "courseSectionInformation": "May be repeated in the same or separate terms if topics vary to a maximum of 12 hours.", 
+    "creditHours": "1 TO 4 hours.", 
+    "description": "Subject offerings of new and developing areas of knowledge in aerospace engineering intended to augment existing formal courses. Topics and prerequisites vary for each section. See Class Schedule or departmental course information for both. May be repeated in the same or separate terms if topics vary to a maximum of 12 hours.", 
+    "href": "/2017/spring/AE/598.json", 
+    "id": "AE 598", 
+    "label": "Special Topics", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Aerospace Engineering", 
+            "href": "/2017/spring/AE.json", 
+            "id": "AE"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "ANO", 
+                "href": "/2017/spring/AE/598/65608.json", 
+                "id": "65608"
+            }, 
+            {
+                "content": "ANS", 
+                "href": "/2017/spring/AE/598/62621.json", 
+                "id": "62621"
+            }, 
+            {
+                "content": "CAA", 
+                "href": "/2017/spring/AE/598/49926.json", 
+                "id": "49926"
+            }, 
+            {
+                "content": "CAO", 
+                "href": "/2017/spring/AE/598/47198.json", 
+                "id": "47198"
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "courseSectionInformation": "Same as EALC 132.", 
+    "creditHours": "3 hours.", 
+    "description": "Introduces the history, teachings, and practice of Zen Buddhism in China and Japan. Same as EALC 132.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Cultural Studies: Non-Western/U.S. Minority Culture(s)", 
+                "id": "CNW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1NW", 
+                        "content": "UIUC: Non-Western Cultures"
+                    }
+                }
+            }, 
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1HP", 
+                        "content": "UIUC: Hist&Philosoph Perspect"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/RLST/132.json", 
+    "id": "RLST 132", 
+    "label": "Zen", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Religious Studies", 
+            "href": "/2017/spring/RLST.json", 
+            "id": "RLST"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Hist&Philosoph Perspect, and Non-Western Cultures course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/RLST/132/38003.json", 
+            "id": "38003"
+        }
+    }
+}

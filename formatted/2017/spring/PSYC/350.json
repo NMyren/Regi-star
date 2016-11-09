@@ -1,0 +1,54 @@
+{
+    "courseSectionInformation": "Prerequisite: PSYC 235 or equivalent; and PSYC 250 or consent of instructor; completion of campus Composition I general education requirement.", 
+    "creditHours": "4 hours.", 
+    "description": "Study of personality emphasizing active participation in designing, conducting, analyzing, and presenting of research; lectures concern the practical aspects of research methodology and the philosophy of personality research; and laboratory involves conducting original research in small groups. Prerequisite: PSYC 235 or equivalent; and PSYC 250 or consent of instructor; completion of campus Composition I general education requirement.", 
+    "href": "/2017/spring/PSYC/350.json", 
+    "id": "PSYC 350", 
+    "label": "Personality Lab", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Psychology", 
+            "href": "/2017/spring/PSYC.json", 
+            "id": "PSYC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "AB1", 
+                "href": "/2017/spring/PSYC/350/37360.json", 
+                "id": "37360"
+            }, 
+            {
+                "content": "AL1", 
+                "href": "/2017/spring/PSYC/350/37370.json", 
+                "id": "37370"
+            }, 
+            {
+                "content": "BB1", 
+                "href": "/2017/spring/PSYC/350/43870.json", 
+                "id": "43870"
+            }, 
+            {
+                "content": "CB1", 
+                "href": "/2017/spring/PSYC/350/37363.json", 
+                "id": "37363"
+            }, 
+            {
+                "content": "DB1", 
+                "href": "/2017/spring/PSYC/350/43871.json", 
+                "id": "43871"
+            }
+        ]
+    }
+}

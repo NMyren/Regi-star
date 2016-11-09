@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "4 graduate hours. No professional credit. Prerequisite: SOCW 400. MSW: Social Work - UIUC.", 
+    "creditHours": "4 hours.", 
+    "description": "This course prepares social workers to deliver brief interventions that build motivation for change among individuals that use substances. Students participate in hands-on skill development activities for two empirically supported treatments, Screening Brief Intervention and Referral to Treatment (SBIRT) and Motivational Interviewing. Students are expected to reach beginning competency in delivering these two clinical models. 4 graduate hours. No professional credit. Prerequisite: SOCW 400. MSW: Social Work - UIUC.", 
+    "href": "/2017/spring/SOCW/502.json", 
+    "id": "SOCW 502", 
+    "label": "Brief Motivational Interventions for Substance Use", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Social Work", 
+            "href": "/2017/spring/SOCW.json", 
+            "id": "SOCW"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionRegistrationNotes": "Restricted to MSW:Social Work -UIUC.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/SOCW/502/65737.json", 
+            "id": "65737"
+        }
+    }
+}

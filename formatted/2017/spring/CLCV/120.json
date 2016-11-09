@@ -1,0 +1,56 @@
+{
+    "creditHours": "3 hours.", 
+    "description": "Survey of the Greco-Roman tradition from late antiquity to the present. Examination of pagan culture in medieval Christianity and Islam, the literary tradition of the Troy tale, the rediscovery of Greek texts and the Florentine Renaissance, classical allusions in Shakespeare and Milton, the political foundation of the U.S. constitution, and the persistence of the classical tradition in contemporary American popular culture.", 
+    "genEdCategories": {
+        "category": [
+            {
+                "description": "Humanities & the Arts", 
+                "id": "HUM", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1LA", 
+                        "content": "UIUC: Literature and the Arts"
+                    }
+                }
+            }, 
+            {
+                "description": "Cultural Studies: Western/Comparative Culture(s)", 
+                "id": "CW", 
+                "{http://rest.cis.illinois.edu}genEdAttributes": {
+                    "genEdAttribute": {
+                        "code": "1WCC", 
+                        "content": "UIUC: Western Compartv Cult"
+                    }
+                }
+            }
+        ]
+    }, 
+    "href": "/2017/spring/CLCV/120.json", 
+    "id": "CLCV 120", 
+    "label": "The Classical Tradition", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Classical Civilization", 
+            "href": "/2017/spring/CLCV.json", 
+            "id": "CLCV"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Literature and the Arts, and Western Compartv Cult course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/CLCV/120/47958.json", 
+            "id": "47958"
+        }
+    }
+}

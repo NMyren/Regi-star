@@ -1,0 +1,39 @@
+{
+    "courseSectionInformation": "Prerequisite: AFAS 111 or consent of instructor. Requires concurrent enrollment with AFAS 102.", 
+    "creditHours": "1 hours.", 
+    "description": "\"The Foundations of the United States Air Force\" is a survey course designed to introduce students to the United States Air Force and provides an overview of the basic characteristics, missions, and organization of the Air Force. Prerequisite: AFAS 111 or consent of instructor. Requires concurrent enrollment with AFAS 102.", 
+    "href": "/2017/spring/AFAS/112.json", 
+    "id": "AFAS 112", 
+    "label": "Found of the US Air Force II", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Air Force Aerospace Studies", 
+            "href": "/2017/spring/AFAS.json", 
+            "id": "AFAS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/AFAS/112/30780.json", 
+                "id": "30780"
+            }, 
+            {
+                "content": "O", 
+                "href": "/2017/spring/AFAS/112/30781.json", 
+                "id": "30781"
+            }
+        ]
+    }
+}

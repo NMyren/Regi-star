@@ -1,0 +1,99 @@
+{
+    "courseSectionInformation": "Approved for both letter and S/U grading. May be repeated up to 5 hours per semester, up to a maximum of 10 total hours.", 
+    "creditHours": "1 TO 5 hours.", 
+    "description": "Student-directed experiential learning on special topics directly pertaining to subject matter in animal sciences. Students are required to complete a Memorandum of Agreement prior to enrolling in this course. Approved for both letter and S/U grading. May be repeated up to 5 hours per semester, up to a maximum of 10 total hours.", 
+    "href": "/2017/spring/ANSC/398.json", 
+    "id": "ANSC 398", 
+    "label": "UG Experiential Learning", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Animal Sciences", 
+            "href": "/2017/spring/ANSC.json", 
+            "id": "ANSC"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sections": {
+        "section": [
+            {
+                "content": "A", 
+                "href": "/2017/spring/ANSC/398/59057.json", 
+                "id": "59057"
+            }, 
+            {
+                "content": "B", 
+                "href": "/2017/spring/ANSC/398/59058.json", 
+                "id": "59058"
+            }, 
+            {
+                "content": "C", 
+                "href": "/2017/spring/ANSC/398/59059.json", 
+                "id": "59059"
+            }, 
+            {
+                "content": "D", 
+                "href": "/2017/spring/ANSC/398/59060.json", 
+                "id": "59060"
+            }, 
+            {
+                "content": "E", 
+                "href": "/2017/spring/ANSC/398/59061.json", 
+                "id": "59061"
+            }, 
+            {
+                "content": "F", 
+                "href": "/2017/spring/ANSC/398/59062.json", 
+                "id": "59062"
+            }, 
+            {
+                "content": "G", 
+                "href": "/2017/spring/ANSC/398/59063.json", 
+                "id": "59063"
+            }, 
+            {
+                "content": "H", 
+                "href": "/2017/spring/ANSC/398/59064.json", 
+                "id": "59064"
+            }, 
+            {
+                "content": "J", 
+                "href": "/2017/spring/ANSC/398/59066.json", 
+                "id": "59066"
+            }, 
+            {
+                "content": "K", 
+                "href": "/2017/spring/ANSC/398/59067.json", 
+                "id": "59067"
+            }, 
+            {
+                "content": "L", 
+                "href": "/2017/spring/ANSC/398/59408.json", 
+                "id": "59408"
+            }, 
+            {
+                "content": "M", 
+                "href": "/2017/spring/ANSC/398/59456.json", 
+                "id": "59456"
+            }, 
+            {
+                "content": "MBW", 
+                "href": "/2017/spring/ANSC/398/63117.json", 
+                "id": "63117"
+            }, 
+            {
+                "content": "N", 
+                "href": "/2017/spring/ANSC/398/61016.json", 
+                "id": "61016"
+            }
+        ]
+    }
+}

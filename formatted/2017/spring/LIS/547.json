@@ -1,0 +1,33 @@
+{
+    "courseSectionInformation": "2 or 4 graduate hours. No professional credit.", 
+    "creditHours": "2 OR 4 hours.", 
+    "description": "This course is designed to prepare future information professionals to develop and provide inclusive services to underrepresented populations, and to analyze and evaluate services to ensure equality of access to information in a range of institutional settings. Through readings, discussion, guest lectures, and site visits, students will explore diversity issues that impact information services and develop skills for planning, implementing, and evaluating programs and services for addressing these issues. Specific diversity issues include race and ethnicity; education; language; literacy; disability; gender and sexual orientation; social class; national origin; physical, psychological, and learning ability; and age. 2 or 4 graduate hours. No professional credit.", 
+    "href": "/2017/spring/LIS/547.json", 
+    "id": "LIS 547", 
+    "label": "Information Services for Diverse Populations", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Library and Information Science", 
+            "href": "/2017/spring/LIS.json", 
+            "id": "LIS"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDeptRestriction": "Restricted to students in the Information Sciences department.", 
+    "sections": {
+        "section": {
+            "content": "LE", 
+            "href": "/2017/spring/LIS/547/65464.json", 
+            "id": "65464"
+        }
+    }
+}

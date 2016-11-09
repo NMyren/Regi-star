@@ -1,0 +1,45 @@
+{
+    "courseSectionInformation": "Same as CPSC 261. See CPSC 261.", 
+    "creditHours": "3 hours.", 
+    "description": "Same as CPSC 261. See CPSC 261.", 
+    "genEdCategories": {
+        "category": {
+            "description": "Natural Sciences & Technology", 
+            "id": "NAT", 
+            "{http://rest.cis.illinois.edu}genEdAttributes": {
+                "genEdAttribute": {
+                    "code": "1LS", 
+                    "content": "UIUC: Life Sciences"
+                }
+            }
+        }
+    }, 
+    "href": "/2017/spring/HORT/261.json", 
+    "id": "HORT 261", 
+    "label": "Biotechnology in Agriculture", 
+    "parents": {
+        "calendarYear": {
+            "content": "2017", 
+            "href": "/2017.json", 
+            "id": "2017"
+        }, 
+        "subject": {
+            "content": "Horticulture", 
+            "href": "/2017/spring/HORT.json", 
+            "id": "HORT"
+        }, 
+        "term": {
+            "content": "Spring 2017", 
+            "href": "/2017/spring.json", 
+            "id": "120171"
+        }
+    }, 
+    "sectionDegreeAttributes": "Life Sciences course.", 
+    "sections": {
+        "section": {
+            "content": "A", 
+            "href": "/2017/spring/HORT/261/31521.json", 
+            "id": "31521"
+        }
+    }
+}
