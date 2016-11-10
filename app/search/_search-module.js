@@ -4,14 +4,20 @@ angular.module('app.search', [])
   .factory('SearchService', SearchService)
   .component('mainSearchView', {
     controllerAs: 'search',
-    bindToController: {
+    bindings: {
 
     },
+    controller: SearchViewController,
     templateUrl: 'search/search.html'
   });
 
-SearchService.$inject = [];
+SearchViewController.$inject = [];
+function SearchViewController() {
+  this.terms = '';
+  this.courses = ['test course', 'another course', 'science', 'user interface design', 'cs 465'];
+}
 
+SearchService.$inject = [];
 function SearchService() {
   return {};
 }
