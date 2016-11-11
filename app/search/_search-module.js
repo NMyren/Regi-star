@@ -11,8 +11,8 @@ angular.module('app.search', [])
     templateUrl: 'search/search.html'
   });
 
-SearchViewController.$inject = [];
-function SearchViewController() {
+SearchViewController.$inject = ['CourseDataService'];
+function SearchViewController(CourseDataService) {
   this.terms = '';
   this.courses = ['test course', 'another course', 'science', 'user interface design', 'cs 465'];
 }
