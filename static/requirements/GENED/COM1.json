@@ -1,0 +1,14 @@
+{
+    "description" : "Composition 1",
+        "id" : "COMP1",
+        "classes" : [
+            "CMN/111",
+            "CMN/112",
+            "ESL/111",
+            "ESL/112",
+            "ESL/115",
+            "RHET/101",
+            "RHET/102",
+            "RHET/105"
+        ]
+}

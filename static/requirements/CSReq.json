@@ -1,0 +1,45 @@
+{
+    "major": "CS",
+    "prefix" : "/2017/spring/",
+    "requirements": [
+        {
+            "description" : "Required Courses",
+            "id" : "REQ",
+            "classes" : [
+                "ENG/100",
+                "MATH/221",
+                "MATH/231",
+                "MATH/241",
+                "MATH/415",
+                "CS/361",
+                "CHEM/102",
+                "CHEM/103",
+                "PHYS/211",
+                "PHYS/212",
+                "CS/100",
+                "CS/125",
+                "CS/126",
+                "CS/173",
+                "CS/210",
+                "CS/225",
+                "CS/233",
+                "CS/241",
+                "CS/357",
+                "CS/374",
+                "CS/421"
+            ]
+        },
+        {
+            "description" : "Geneds",
+            "id" : "GENED",
+            "types" : [
+                "GENED/ACP",
+                "GENED/CNW",
+                "GENED/COMP1",
+                "GENED/CW",
+                "GENED/HUM",
+                "GENED/SBS"
+            ]
+        }
+    ]
+}
