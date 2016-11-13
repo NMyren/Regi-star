@@ -13,8 +13,33 @@ angular.module('app.search', [])
 
 SearchViewController.$inject = ['CourseDataService'];
 function SearchViewController(CourseDataService) {
-  this.terms = '';
-  this.courses = ['test course', 'another course', 'science', 'user interface design', 'cs 465'];
+  var vm = this;
+  vm.terms = '';
+  vm.courses = [];
+  vm.subjects = [];
+
+  vm.activeSubjects = {
+    'CS': true,
+    'MATH': true
+  };
+
+  CourseDataService.courses().then(function(data) {
+    vm.courses = data;
+  });
+
+  CourseDataService.subjects().then(function(data) {
+    vm.subjects = data;
+  });
+
+  vm.updateSubjects = function() {
+    var updatedList = Object.keys(vm.activeSubjects).filter(function(key) {
+      return vm.activeSubjects[key];
+    });
+    CourseDataService.updateSubjectsToFetch(updatedList);
+    CourseDataService.courses().then(function(data) {
+      vm.courses = data;
+    });
+  };
 }
 
 SearchService.$inject = [];

@@ -3,30 +3,62 @@
 angular.module('app.search')
   .factory('CourseDataService', CourseDataService);
 
-var subjects = ['CS', 'MATH', 'GEOG'];
+CourseDataService.$inject = ['$http', '$q'];
+function CourseDataService($http, $q) {
+  var semester = {};
+  var subjectsToFetch = ['CS', 'MATH'];
 
-CourseDataService.$inject = ['$http'];
-function CourseDataService($http) {
+  var subjects = {};
+  var subjectPromise = $q.defer();
+
+  var courses = {};
+  var coursePromise = $q.defer();
+
   $http.get('/2017/spring.json')
-    .then(function(spring) {
-      spring.data.subjects.forEach(function(subject) {
-        if (subjects.indexOf(subject.id) !== -1) {
-          $http.get(subject.href)
-            .then(function(sub) {
-              sub.data.courses.forEach(function(course) {
-                $http.get(course.href)
-                  .then(function(c) {
-                    c.data.sections.forEach(function(section) {
-                      $http.get(section.href)
-                        .then(function(sec) {
-                        });
-                    });
-                  });
-              });
-            });
-        }
-      });
+    .then(function (spring) {
+      angular.extend(semester, spring.data);
+      fetchSubjectCourseInfo();
+      subjectPromise.resolve(semester);
     });
 
-  return {};
+  return {
+    subjects: function () {
+      return subjectPromise.promise.then(function(sem) {
+        return sem.subjects;
+      });
+    },
+    courses: function() {
+      return coursePromise.promise.then(function() {
+        return Object.values(courses);
+      });
+    },
+    updateSubjectsToFetch: function (toFetch) {
+      coursePromise = $q.defer();
+      subjectsToFetch = toFetch;
+      fetchSubjectCourseInfo();
+    }
+  };
+
+  function fetchSubjectCourseInfo() {
+    semester.subjects
+      .filter(function (sub) {
+        return subjectsToFetch.indexOf(sub.id) !== -1;
+      })
+      .forEach(function(subject) {
+        $http.get(subject.href)
+          .then(function(subject) {
+            subjects[subject.data.id] = subject.data;
+
+            $q.all(subject.data.courses.map(function(course) {
+               return $http.get(course.href)
+                 .then(function(courseInfo) {
+                   courses[courseInfo.data.id] = courseInfo.data;
+                 });
+            })).then(function() {
+              coursePromise.resolve();
+            });
+          });
+      });
+
+  }
 }
