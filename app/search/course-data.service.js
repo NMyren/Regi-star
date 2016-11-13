@@ -35,11 +35,13 @@ function CourseDataService($http, $q) {
     updateSubjectsToFetch: function (toFetch) {
       coursePromise = $q.defer();
       subjectsToFetch = toFetch;
+      console.log(subjectsToFetch);
       fetchSubjectCourseInfo();
     }
   };
 
   function fetchSubjectCourseInfo() {
+    courses = [];
     semester.subjects
       .filter(function (sub) {
         return subjectsToFetch.indexOf(sub.id) !== -1;

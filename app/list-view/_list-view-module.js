@@ -3,7 +3,7 @@
 angular.module('app.course-list-view', [])
   .component('courseListView', {
     controllerAs: 'list',
-    bindToController: {
+    bindings: {
 
     },
     templateUrl: 'list-view/list.html'
