@@ -6,11 +6,12 @@
       </div>
     </ng-form>
     <div class="results-list">
-      <ul class="list-group">
+      <ul class="list-group" ng-if="search.terms.length > 1">
         <li class="list-group-item" ng-repeat="class in search.courses | filter:search.terms">
-          {{class}}
+          {{class.id}}
         </li>
       </ul>
+      <span ng-if="search.terms.length <= 1">Enter at least 2 characters to start searching...</span>
     </div>
   </uib-tab>
   <uib-tab index="1" heading="Advanced">Advanced</uib-tab>
