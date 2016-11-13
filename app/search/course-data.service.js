@@ -9,19 +9,23 @@ function CourseDataService($http, $q) {
   var subjectsToFetch = ['CS', 'MATH'];
 
   var subjects = {};
+  var subjectPromise = $q.defer();
+
   var courses = {};
   var coursePromise = $q.defer();
 
   $http.get('/2017/spring.json')
     .then(function (spring) {
       angular.extend(semester, spring.data);
-      console.log(semester);
       fetchSubjectCourseInfo();
+      subjectPromise.resolve(semester);
     });
 
   return {
     subjects: function () {
-      return semester.subjects;
+      return subjectPromise.promise.then(function(sem) {
+        return sem.subjects;
+      });
     },
     courses: function() {
       return coursePromise.promise.then(function() {
@@ -29,6 +33,7 @@ function CourseDataService($http, $q) {
       });
     },
     updateSubjectsToFetch: function (toFetch) {
+      coursePromise = $q.defer();
       subjectsToFetch = toFetch;
       fetchSubjectCourseInfo();
     }
