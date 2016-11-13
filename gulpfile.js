@@ -22,11 +22,13 @@ gulp.task('default', function(done) {
 });
 
 gulp.task('build', ['clean'], function() {
+  gulp.start('static');
   gulp.start('scripts');
   gulp.start('style');
 });
 
 gulp.task('build:prod', ['clean'], function() {
+  gulp.start('static');
   gulp.start('scripts:prod');
   gulp.start('style:prod');
 });

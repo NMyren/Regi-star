@@ -8,7 +8,7 @@
     <div class="results-list">
       <ul class="list-group" ng-if="search.terms.length > 1">
         <li class="list-group-item" ng-repeat="class in search.courses | filter:search.terms">
-          {{class.id}}
+          {{class.label}} ({{class.id}})
         </li>
       </ul>
       <span ng-if="search.terms.length <= 1">Enter at least 2 characters to start searching...</span>
