@@ -6,14 +6,23 @@
       </div>
     </ng-form>
     <div class="results-list">
-      <ul class="list-group" ng-if="search.terms.length > 1">
-        <li class="list-group-item" ng-repeat="class in search.courses | filter:search.terms">
-          {{class.label}} ({{class.id}})
-        </li>
-      </ul>
+      <course-search-result
+        ng-if="search.terms.length > 1"
+        course="class"
+        ng-repeat="class in search.courses | filter:search.terms">
+      </course-search-result>
       <span ng-if="search.terms.length <= 1">Enter at least 2 characters to start searching...</span>
     </div>
   </uib-tab>
-  <uib-tab index="1" heading="Advanced">Advanced</uib-tab>
+  <uib-tab index="1" heading="Advanced" ng-hide="true">Advanced</uib-tab>
   <uib-tab index="2" heading="Requirements">Requirements</uib-tab>
+  <uib-tab index="3" heading="Settings">
+    <div class="checkbox" ng-repeat="subject in search.subjects">
+      <label>
+        <input type="checkbox" ng-model="search.activeSubjects[subject.id]" />
+        {{subject.label}}
+      </label>
+    </div>
+    <button type="button" class="btn btn-default btn-sm" ng-click="search.updateSubjects()">Save new subjects</button>
+  </uib-tab>
 </uib-tabset>
