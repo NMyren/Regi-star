@@ -1,1 +1,7 @@
-<div>{{$ctrl.course.label}} ({{$ctrl.course.id}})</div>
+<div uib-accordion-group class="panel-default" is-open="status.open">
+  <uib-accordion-heading>
+    {{$ctrl.course.label}} ({{$ctrl.course.id}}) <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-up': !status.open}"></i>
+  </uib-accordion-heading>
+  Course info goes here?
+  <pre>{{$ctrl.course | json}}</pre>
+</div>

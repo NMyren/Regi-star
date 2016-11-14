@@ -6,11 +6,12 @@
       </div>
     </ng-form>
     <div class="results-list">
-      <course-search-result
-        ng-if="search.terms.length > 1"
-        course="class"
-        ng-repeat="class in search.courses | filter:search.terms">
-      </course-search-result>
+      <uib-accordion ng-if="search.terms.length > 1">
+        <course-search-result
+          course="class"
+          ng-repeat="class in search.courses | filter:search.terms">
+        </course-search-result>
+      </uib-accordion>
       <span ng-if="search.terms.length <= 1">Enter at least 2 characters to start searching...</span>
     </div>
   </uib-tab>
@@ -19,7 +20,7 @@
   <uib-tab index="3" heading="Settings">
     <div class="checkbox" ng-repeat="subject in search.subjects">
       <label>
-        <input type="checkbox" ng-model="search.activeSubjects[subject.id]" />
+        <input type="checkbox" ng-model="search.activeSubjects[subject.id]"/>
         {{subject.label}}
       </label>
     </div>
