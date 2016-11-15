@@ -21,7 +21,13 @@ function packageJsDependencies(min) {
       'bower_components/angular-bootstrap/ui-bootstrap-tpls.js',
     (min) ? 'bower_components/jasny-bootstrap/dist/js/jasny-bootstrap.min.js' :
       'bower_components/jasny-bootstrap/dist/js/jasny-bootstrap.js',
-    'bower_components/modernizer/modernizr.js'
+    'bower_components/modernizer/modernizr.js',
+    (min) ? 'bower_components/moment/min/moment.min.js' :
+      'bower_components/moment/moment.js',
+    'bower_components/angular-ui-calendar/src/calendar.js',
+    (min) ? 'bower_components/fullcalendar/dist/fullcalendar.min.js' :
+      'bower_components/fullcalendar/dist/fullcalendar.js',
+    'bower_components/fullcalendar/dist/gcal.js'
   ])
   .pipe(plugins.sourcemaps.init())
   .pipe(plugins.concat('vendor.js'))

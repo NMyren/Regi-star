@@ -1,1 +1,11 @@
-Two
+<!-- <div>
+<pre>
+{{uiConfig|json:4}}
+{{eventSources|json:4}}
+{{calendar.myCalendar ? 'true' : 'false'}}
+{{calendar.myCalendar|json:4}}
+{{calendar.uiCalendarConfig|json:4}}
+{{calendar.uiCalendarConfig.calendars|json:4}}
+</pre>
+</div> -->
+<div ui-calendar="uiConfig.calendar" ng-model="eventSources" calendar="myCalendar">

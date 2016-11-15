@@ -12,7 +12,9 @@ function packageCssDependencies(min) {
       'bower_components/bootstrap/dist/css/bootstrap.css',
     (min) ? 'bower_components/bootstrap/dist/css/bootstrap-theme.min.css' :
       'bower_components/bootstrap/dist/css/bootstrap-theme.css',
-    'bower_components/angular-ui-layout/src/ui-layout.css'
+    'bower_components/angular-ui-layout/src/ui-layout.css',
+    (min) ? 'bower_components/fullcalendar/dist/fullcalendar.min.css' :
+      'bower_components/fullcalendar/dist/fullcalendar.css'
   ])
   .pipe(plugins.sourcemaps.init())
   .pipe(plugins.concat('vendor.css'))

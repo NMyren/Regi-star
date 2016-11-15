@@ -9,5 +9,6 @@ angular.module('app', [
   'app.search',
   'app.course-list-view',
   'ui.bootstrap',
-  'ui.layout'
+  'ui.layout',
+  'ui.calendar'
 ]);
