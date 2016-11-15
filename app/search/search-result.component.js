@@ -6,12 +6,12 @@ angular.module('app.search')
     bindings: {
       course: '<'
     },
-    controller: function() {
+    controller: function () {
       var vm = this;
       vm.selectedSections = {};
 
-      vm.select = function(section, $event) {
-        if($event !== undefined) {
+      vm.select = function (section, $event) {
+        if ($event !== undefined) {
           $event.stopPropagation();
         }
         vm.selectedSections[section.id] = !vm.selectedSections[section.id];
