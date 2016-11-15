@@ -25,6 +25,7 @@ function SearchViewController(CourseDataService) {
 
   CourseDataService.courses().then(function(data) {
     vm.courses = data;
+    console.log(vm.courses);
   });
 
   CourseDataService.subjects().then(function(data) {
@@ -35,9 +36,11 @@ function SearchViewController(CourseDataService) {
     var updatedList = Object.keys(vm.activeSubjects).filter(function(key) {
       return vm.activeSubjects[key];
     });
+
     CourseDataService.updateSubjectsToFetch(updatedList);
     CourseDataService.courses().then(function(data) {
       vm.courses = data;
+      console.log(vm.courses);
     });
   };
 }

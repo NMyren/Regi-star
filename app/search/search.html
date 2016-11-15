@@ -19,7 +19,13 @@
   <uib-tab index="1" heading="Advanced" ng-hide="true">Advanced</uib-tab>
   <uib-tab index="2" heading="Requirements">Requirements</uib-tab>
   <uib-tab index="3" heading="Settings">
-    <div class="checkbox" ng-repeat="subject in search.subjects">
+    <div class="checkbox" ng-repeat="subject in search.subjects" ng-if="search.activeSubjects[subject.id]">
+      <label>
+        <input type="checkbox" ng-model="search.activeSubjects[subject.id]"/>
+        {{subject.label}}
+      </label>
+    </div>
+    <div class="checkbox" ng-repeat="subject in search.subjects" ng-if="!search.activeSubjects[subject.id]">
       <label>
         <input type="checkbox" ng-model="search.activeSubjects[subject.id]"/>
         {{subject.label}}

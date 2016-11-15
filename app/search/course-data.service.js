@@ -23,12 +23,12 @@ function CourseDataService($http, $q) {
 
   return {
     subjects: function () {
-      return subjectPromise.promise.then(function(sem) {
+      return subjectPromise.promise.then(function (sem) {
         return sem.subjects;
       });
     },
-    courses: function() {
-      return coursePromise.promise.then(function() {
+    courses: function () {
+      return coursePromise.promise.then(function () {
         return Object.values(courses);
       });
     },
@@ -42,24 +42,25 @@ function CourseDataService($http, $q) {
 
   function fetchSubjectCourseInfo() {
     courses = {};
-    semester.subjects
+    $q.all(semester.subjects
       .filter(function (sub) {
         return subjectsToFetch.indexOf(sub.id) !== -1;
       })
-      .forEach(function(subject) {
-        $http.get(subject.href)
-          .then(function(subject) {
+      .map(function (subject) {
+        return $http.get(subject.href)
+          .then(function (subject) {
             subjects[subject.data.id] = subject.data;
 
-            $q.all(subject.data.courses.map(function(course) {
-               return $http.get(course.href)
-                 .then(function(courseInfo) {
-                   courses[courseInfo.data.id] = courseInfo.data;
-                 });
-            })).then(function() {
-              coursePromise.resolve();
-            });
+            return $q.all(subject.data.courses.map(function (course) {
+              return $http.get(course.href)
+                .then(function (courseInfo) {
+                  courses[courseInfo.data.id] = courseInfo.data;
+                });
+            }));
           });
+      }))
+      .then(function () {
+        coursePromise.resolve();
       });
 
   }
