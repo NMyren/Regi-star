@@ -5,5 +5,17 @@ angular.module('app.search')
     templateUrl: 'search/result.html',
     bindings: {
       course: '<'
+    },
+    controller: function() {
+      var vm = this;
+      vm.selectedSections = {};
+
+      vm.select = function(section, $event) {
+        if($event !== undefined) {
+          $event.stopPropagation();
+        }
+        vm.selectedSections[section.id] = !vm.selectedSections[section.id];
+        vm.updateSelection(section);
+      };
     }
   });

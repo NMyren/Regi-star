@@ -1,7 +1,18 @@
 <div uib-accordion-group class="panel-default" is-open="status.open">
   <uib-accordion-heading>
-    {{$ctrl.course.label}} ({{$ctrl.course.id}}) <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-up': !status.open}"></i>
+    {{$ctrl.course.label}} ({{$ctrl.course.id}}) <i class="pull-right glyphicon"
+                                                    ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-up': !status.open}"></i>
   </uib-accordion-heading>
-  Course info goes here?
-  <pre>{{$ctrl.course | json}}</pre>
+  {{$ctrl.course.description}}
+
+  <h6>Sections</h6>
+  <table class="table table-hover table-condensed">
+    <tr ng-repeat="section in $ctrl.course.sections" ng-click="$ctrl.select(section)">
+      <td>
+        <input type="checkbox" ng-model="$ctrl.selectedSections[section.id]" ng-click="$ctrl.select(section, $event)"/>
+      </td>
+      <td>{{section.id}}</td>
+      <td>{{section.label}}</td>
+    </tr>
+  </table>
 </div>
