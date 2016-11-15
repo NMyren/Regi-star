@@ -41,7 +41,7 @@ function CourseDataService($http, $q) {
   };
 
   function fetchSubjectCourseInfo() {
-    courses = [];
+    courses = {};
     semester.subjects
       .filter(function (sub) {
         return subjectsToFetch.indexOf(sub.id) !== -1;
