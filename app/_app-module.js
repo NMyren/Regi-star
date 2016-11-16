@@ -11,4 +11,7 @@ angular.module('app', [
   'ui.bootstrap',
   'ui.layout',
   'ui.calendar'
-]);
+]).config(['$httpProvider', function ($httpProvider) {
+  // enable http caching
+  $httpProvider.defaults.cache = true;
+}]);

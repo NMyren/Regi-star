@@ -11,8 +11,8 @@ function CourseRegistrationService() {
     courses[section.id] = section;
   }
 
-  function removeCourse(section) {
-    delete courses[section.id];
+  function removeCourse(crn) {
+    delete courses[crn];
   }
 
   return {
