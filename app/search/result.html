@@ -7,12 +7,13 @@
 
   <h6>Sections</h6>
   <table class="table table-hover table-condensed">
-    <tr ng-repeat="section in $ctrl.course.sections" ng-click="$ctrl.select(section)">
+    <tr ng-repeat="(crn, section) in $ctrl.sections" ng-click="$ctrl.select(section)">
       <td>
         <input type="checkbox" ng-model="$ctrl.selectedSections[section.id]" ng-click="$ctrl.select(section, $event)"/>
       </td>
       <td>{{section.id}}</td>
-      <td>{{section.label}}</td>
+      <td>{{section.sectionNumber}}</td>
+      <td>{{section.creditHours}}</td>
     </tr>
   </table>
 </div>
