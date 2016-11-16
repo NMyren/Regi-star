@@ -7,6 +7,7 @@ angular.module('app', [
   'app.calendar',
   'app.root',
   'app.search',
+  'app.registration',
   'app.course-list-view',
   'ui.bootstrap',
   'ui.layout',
