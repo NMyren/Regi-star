@@ -12,7 +12,6 @@ angular.module('app.search')
 
 ResultController.$inject = ['$http'];
 
-
 function ResultController($http) {
   var vm = this;
   vm.selectedSections = {};
@@ -24,7 +23,7 @@ function ResultController($http) {
         .then(function(response) {
           vm.sections[section.id] = response.data;
         });
-    })
+    });
   };
 
   vm.select = function (section, $event) {
