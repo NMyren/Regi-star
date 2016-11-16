@@ -9,6 +9,7 @@
       <uib-accordion ng-if="search.terms.length > 1">
         <course-search-result
           course="class"
+          update-selection="search.updateSelection(section)"
           ng-repeat="class in search.courses | filter:search.terms">
         </course-search-result>
       </uib-accordion>

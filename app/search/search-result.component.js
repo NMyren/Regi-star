@@ -4,7 +4,8 @@ angular.module('app.search')
   .component('courseSearchResult', {
     templateUrl: 'search/result.html',
     bindings: {
-      course: '<'
+      course: '<',
+      updateSelection: '&'
     },
     controller: function () {
       var vm = this;
@@ -15,7 +16,7 @@ angular.module('app.search')
           $event.stopPropagation();
         }
         vm.selectedSections[section.id] = !vm.selectedSections[section.id];
-        vm.updateSelection(section);
+        vm.updateSelection({section: section});
       };
     }
   });

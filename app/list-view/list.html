@@ -1,9 +1,11 @@
 <ul class="list-group">
   <li class="list-group-item"><h6>Registered</h6></li>
-  <li class="list-group-item" ng-repeat="course in list.registeredCourses">{{course}}</li>
+  <li class="list-group-item" ng-repeat="(crn,course) in list.courses">{{course}}</li>
 </ul>
 <ul class="list-group">
   <li class="list-group-item"><h6>Preview</h6></li>
-  <li class="list-group-item" ng-repeat="course in list.previewCourses">{{course}}</li>
+  <li class="list-group-item" ng-repeat="(crn,course) in list.previewCourses">{{course}}</li>
 </ul>
+
+<pre>{{list.courses | json}}</pre>
 
