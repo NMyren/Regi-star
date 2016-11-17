@@ -16,38 +16,52 @@ function CalendarViewController($scope, uiCalendarConfig, CourseRegistrationServ
 
   vm.$onInit = function() {
     vm.courses = CourseRegistrationService.courses;
+    vm.prevCourses = CourseRegistrationService.courses;
     /* CRN ADD*/
     vm.CRNInputs = [];
     vm.numCRNInput = 5;
-    vm.dow = {'M': 1,'T': 2};
+    vm.dow = {'M': 1,'T': 2,'W': 3,'R': 4, 'F': 5};
+    vm.timeFormat = ["h:mm A"];
+    var bgA = 0.4;
+    var textA = 0.65;
     vm.randomColors = [{
-                        //'background': '#e97f7f',
                         'background': 'rgb(233,127,127)',
-                        'backgroundT': 'rgba(233,127,127,0.5)',
-                        'text': '#2a5547'
+                        'backgroundA': 'rgba(233,127,127,' + bgA + ')',
+                        'text': 'rgb(42,85,71)',
+                        'textA': 'rgba(42,85,71,' + textA + ')'
                        },
                        {
-                        //'background': '#7e83e9',
                         'background': 'rgb(126,131,233)',
-                        'backgroundT': 'rgba(126,131,233,0.5)',
-                        'text': '#e0ffff'
+                        'backgroundA': 'rgba(126,131,233,' + bgA + ')',
+                        'text': 'rgb(224,255,255)',
+                        'textA': 'rgba(224,255,255,' + textA + ')'
                        },
                        {
-                        'background': '#7ee982',
-                        'text': '#40806a'
+                        'background': 'rgb(240,158,70)',
+                        'backgroundA': 'rgba(240,158,70,' + bgA + ')',
+                        'text': 'rgb(42,42,42)',
+                        'textA': 'rgba(42,42,42,' + textA + ')'
+                       },
+                       // {
+                       //  'background': 'rgb(228,209,103)',
+                       //  'backgroundA': 'rgba(228,209,103,' + bgA + ')',
+                       //  'text': 'rgb(136,89,182)',
+                       //  'textA': 'rgba(136,89,182,' + textA + ')'
+                       // },
+                       {
+                        'background': 'rgb(103,228,123)',
+                        'backgroundA': 'rgba(103,228,123,' + bgA + ')',
+                        'text': 'rgb(0,122,124)',
+                        'textA': 'rgba(0,122,124,' + textA + ')'
                        },
                        {
-                        'background': '#e4d167',
-                        'text': '#8859b6'
-                       },
-                       {
-                        'background': '#67e47b',
-                        'text': '#007a7c'
-                       },
-                       {
-                        'background': '#8f67e4',
-                        'text': '#c8f7c5'
+                        'background': 'rgb(143,103,228)',
+                        'backgroundA': 'rgba(143,103,228,' + bgA + ')',
+                        'text': 'rgb(200,247,197)',
+                        'textA': 'rgba(200,247,197,' + textA + ')'
                        }];
+
+    vm.previewColor = {'background': 'rgba(228,209,103,' + bgA + ')', 'text': 'rgba(136,89,182,' + textA + ')'};
 
     initCalendar();
     setupCRNInputs();
@@ -72,18 +86,40 @@ function CalendarViewController($scope, uiCalendarConfig, CourseRegistrationServ
     var events = [];
     for (var crn in vm.courses) {
       if (vm.courses.hasOwnProperty(crn)) {
-        var course = vm.courses[crn];
-        var transparent = course.preview;
-        var colorPair = getRandomColorPair(transparent);
-        events.push({
-          'id': crn,
-          'title': courseToString(crn, course),
-          'start': getZeroTime().add(8, 'h'),
-          'end': getZeroTime().add(9, 'h'),
-          'dow': [1,3],
-          'color': colorPair.background,
-          'textColor': colorPair.text
-        });
+        // TODO: fix duplicates/reloading concern
+          var course = vm.courses[crn];
+          var transparent = course.preview;
+          console.log(course);
+          var colorPair = getRandomColorPair(transparent);
+          var allDay = false;
+          var start = moment(course.meetings[0].start, vm.timeFormat);
+          var end = moment(course.meetings[0].end, vm.timeFormat);
+          // check if start is TBD -- TODO:: allDay not working for now
+          if (course.meetings[0].start === 'ARRANGED') {
+            allDay = true;
+            start = getZeroTime();
+          } else {
+            start = getZeroTime().add(start.get('h'), 'h').add(start.get('m'), 'm');
+          }
+          var duration = end.diff(start);
+          var className = duration < moment.duration(1, 'hours') ? 'calendar-event-hour' : '';
+          var dow = [1]; // TBD classes show on Monday
+          if (!allDay) {
+            dow = getDow(course.meetings[0].daysOfTheWeek);
+          }
+
+          events.push({
+            'id': crn,
+            'title': courseToString(crn, course),
+            'start': start,
+            'end': getZeroTime().add(end.get('h'), 'h').add(end.get('m'), 'm'),
+            'dow': dow,
+            'color': colorPair.background,
+            'textColor': colorPair.text,
+            'overlap': false,
+            'className': className,
+            'allDay': allDay
+          });
       }
     }
 
@@ -96,7 +132,8 @@ function CalendarViewController($scope, uiCalendarConfig, CourseRegistrationServ
     // fullcalendar docs say this should be an array. On the contrary, only works as an object
     var eventSources = {
       'events': events,
-      'className': 'calendar-event-content'
+      'className': 'calendar-event-content',
+      'overlap': false
     };
 
     // dumb, necessary, unfortunate calendar hacks to re-render events
@@ -116,10 +153,25 @@ function CalendarViewController($scope, uiCalendarConfig, CourseRegistrationServ
     var rand = Math.floor(Math.random() * (vm.randomColors.length));
     console.log(rand);
     var bg = vm.randomColors[rand].background;
+    var text = vm.randomColors[rand].text;
     if (transparent) {
-      bg = vm.randomColors[rand].backgroundT;
+      //bg = vm.randomColors[rand].backgroundA;
+      bg = vm.previewColor.background;
+      //text = vm.randomColors[rand].textA;
+      text = vm.previewColor.text;
     }
-    return {'background': bg, 'text': vm.randomColors[rand].text};
+    return {'background': bg, 'text': text};
+  }
+
+  function getDow(weekdayLetters) {
+    var dowArray = [];
+    var i = 0;
+    var len = weekdayLetters.length;
+    for (; i < len; i++) {
+      // vm.dow has weekday letters : numbers. Populate dowArray with numbers repre. days
+      dowArray.push(vm.dow[weekdayLetters[i]]);
+    }
+    return dowArray;
   }
 
   function initCalendar() {
@@ -159,7 +211,8 @@ function CalendarViewController($scope, uiCalendarConfig, CourseRegistrationServ
         //   'left': '', // default is 'title'
         //   'right': 'registerAllPreview'
         // },
-        'header': false//,
+        'header': false,
+        'overlap': false
         // 'eventClick': $scope.alertEventOnClick,
         // 'eventDrop': $scope.alertOnDrop,
         // 'eventResize': $scope.alertOnResize
