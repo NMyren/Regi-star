@@ -4,7 +4,6 @@ angular.module('app.course-list-view', [])
   .component('courseListView', {
     controllerAs: 'list',
     bindings: {
-
     },
     controller: ListViewController,
     templateUrl: 'list-view/list.html'

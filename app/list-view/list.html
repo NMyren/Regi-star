@@ -2,14 +2,25 @@
 <h5>Courses</h5>
 <h6>Registered</h6>
 <ul class="list-group">
-  <li class="list-group-item" ng-repeat="(crn,course) in list.courses" ng-if="!course.preview">{{course.parents.course.label}} ({{crn}}) - {{course.creditHours}}</li>
+  <li class="list-group-item" ng-repeat="(crn,course) in list.courses" ng-if="!course.preview">
+<!-- TODO: No html when I try to do this component thing to avoid duplicate info, not sure why -->
+<!--     <list-item crn="{{crn}}" course="course"></list-item> -->
+    <div class="list-group-item-heading"><label>{{course.parents.subject.id}} {{course.parents.course.id}}</label> {{course.parents.course.label}} ({{crn}}) - {{course.creditHours}}</div>
+    <div><label>Section</label> {{course.meetings[0].type.code}} {{course.sectionNumber}}</div>
+    <div><label>Instructor</label> {{course.meetings[0].instructors[0].name}}</div>
+    <div><label>Meetings</label> {{course.meetings[0].daysOfTheWeek}} {{course.meetings[0].start}} - {{course.meetings[0].end}}</div>
+    <div><label>Location</label> {{course.meetings[0].buildingName}} {{course.meetings[0].roomNumber}}</div>
+  </li>
 </ul>
 <h6>Previewed</h6>
 <ul class="list-group">
   <li class="list-group-item" ng-repeat="(crn,course) in list.courses" ng-if="course.preview">
+    <!--     <list-item crn="{{crn}}" course="course"></list-item> -->
     <div class="list-group-item-heading">{{course.parents.subject.id}} {{course.parents.course.id}} {{course.parents.course.label}} ({{crn}}) - {{course.creditHours}}</div>
-    <div><label>Section</label> {{course.sectionNumber}}</div>
-    <div><label>Meetings</label> {{course.meetings[0].daysOfTheWeek}}, {{course.meetings[0].start}} to {{course.meetings[0].end}}</div>
+    <div><label>Section</label> {{course.meetings[0].type.code}} {{course.sectionNumber}}</div>
+    <div><label>Instructor</label> {{course.meetings[0].instructors[0].name}}</div>
+    <div><label>Meetings</label> {{course.meetings[0].daysOfTheWeek}} {{course.meetings[0].start}} - {{course.meetings[0].end}}</div>
+    <div><label>Location</label> {{course.meetings[0].buildingName}} {{course.meetings[0].roomNumber}}</div>
   </li>
 </ul>
 </div>
