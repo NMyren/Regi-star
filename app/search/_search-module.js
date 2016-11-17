@@ -41,7 +41,17 @@ function SearchViewController(CourseDataService, CourseRegistrationService) {
   };
 
   vm.register = function () {
-    CourseRegistrationService.addCourses(Object.values(vm.selectedSections));
+    CourseRegistrationService.addCourses(Object.values(vm.selectedSections).map(function (section) {
+      section.preview = false;
+      return section;
+    }));
+  };
+
+  vm.preview = function () {
+    CourseRegistrationService.addCourses(Object.values(vm.selectedSections).map(function (section) {
+      section.preview = true;
+      return section;
+    }));
   };
 
   vm.updateSubjects = function () {

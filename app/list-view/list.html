@@ -2,11 +2,10 @@
 <h5>Courses</h5>
 <h6>Registered</h6>
 <ul class="list-group">
-  <li class="list-group-item" ng-repeat="(crn,course) in list.courses">{{course.parents.course.label}} ({{crn}}) - {{course.creditHours}}</li>
+  <li class="list-group-item" ng-repeat="(crn,course) in list.courses" ng-if="!course.preview">{{course.parents.course.label}} ({{crn}}) - {{course.creditHours}}</li>
 </ul>
 <h6>Previewed</h6>
 <ul class="list-group">
-  <li class="list-group-item" ng-repeat="(crn,course) in list.previewCourses">{{course.parents.course.label}} ({{crn}}) - {{course.creditHours}}</li>
+  <li class="list-group-item" ng-repeat="(crn,course) in list.courses" ng-if="course.preview">{{course.parents.course.label}} ({{crn}}) - {{course.creditHours}}</li>
 </ul>
-
 </div>
