@@ -12,12 +12,16 @@ angular.module('app.calendar', [])
 CalendarViewController.$inject = ['$scope', 'uiCalendarConfig'];
 function CalendarViewController($scope, uiCalendarConfig) {
   var vm = this;
+  // time 0, add a day to get a Monday.
+  vm.zeroTime = new moment(0).endOf('week').add(1, 'd');
+
   $scope.uiConfig = {
     'calendar': {
       'height': 'auto',
+      //'contentHeight': 'auto',
       'editable': false,
-      //'aspectRatio': 0.5,
-      'firstDay': 1, // Monday
+      //'aspectRatio': 1,
+      //'firstDay': 1, // Monday
       'weekends': false, // No weekend registration for now
       'defaultView': 'agendaWeek',
       'views': {
@@ -27,13 +31,14 @@ function CalendarViewController($scope, uiCalendarConfig) {
           'minTime': '08:00:00',
           'maxTime': '19:00:00',
           'slotDuration': '00:15:00',
-          'slotLabelInterval': '01:00:00',
+          //'slotDuration': '00:30:00',
+          'slotLabelInterval': '01:00:00'//,
           //'slotEventOverlap': false,
-          'columnFormat': 'dddd'
+          //'columnFormat': 'dddd'
         }
       },
       // use defaultDate unix:0 time, add courses based on 1st week unix:0 time
-      //'defaultDate': new moment(),
+      'defaultDate': vm.zeroTime,
       // 'customButtons': {
       //   'registerAllPreview': {
       //     'text': 'Register Previewed Courses',

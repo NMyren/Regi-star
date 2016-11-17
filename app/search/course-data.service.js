@@ -64,7 +64,7 @@ function CourseDataService($http, $q) {
                     $http.get(section.href).then(function (response) {
                       sections[section.id] = response.data;
                     });
-                  })
+                  });
                 });
             }));
           });

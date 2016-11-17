@@ -10,11 +10,8 @@ angular.module('app.course-list-view', [])
     templateUrl: 'list-view/list.html'
   });
 
-ListViewController.$inject = ['CourseRegistrationService', '$scope'];
-function ListViewController(CourseRegistrationService, $scope) {
+ListViewController.$inject = ['CourseRegistrationService'];
+function ListViewController(CourseRegistrationService) {
   var vm = this;
   vm.courses = CourseRegistrationService.courses;
-  // TODO: filter courses into registered and preview
-  // vm.registeredCourses
-  // vm.previewCourses
 }

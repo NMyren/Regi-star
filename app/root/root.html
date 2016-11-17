@@ -1,4 +1,4 @@
-<ui-layout options="{ flow : 'column' }">
+<ui-layout class="display-desktop" options="{ flow : 'column' }">
   <ui-layout-container>
     <course-list-view></course-list-view>
   </ui-layout-container>
@@ -9,3 +9,17 @@
     <main-search-view></main-search-view>
   </ui-layout-container>
 </ui-layout>
+
+<!-- Nevermind, really awful right now actually haha
+     stacking was a bad idea, tabs are better, but need more configuration -->
+<!-- <uib-tabset class="display-mobile" active="2">
+  <uib-tab index="0" heading="Courses">
+    <course-list-view></course-list-view>
+  </uib-tab>
+  <uib-tab index="1" heading="Calendar">
+    <calendar-view></calendar-view>
+  </uib-tab>
+  <uib-tab index="2" heading="Search">
+    <main-search-view></main-search-view>
+  </uib-tab>
+</uib-tabset> -->
