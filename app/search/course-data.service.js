@@ -14,6 +14,8 @@ function CourseDataService($http, $q) {
   var courses = {};
   var coursePromise = $q.defer();
 
+  var sections = {};
+
   $http.get('/2017/spring.json')
     .then(function (spring) {
       angular.extend(semester, spring.data);
@@ -31,6 +33,9 @@ function CourseDataService($http, $q) {
       return coursePromise.promise.then(function () {
         return Object.values(courses);
       });
+    },
+    section: function(crn) {
+      return sections[crn];
     },
     updateSubjectsToFetch: function (toFetch) {
       coursePromise = $q.defer();
@@ -55,8 +60,10 @@ function CourseDataService($http, $q) {
               return $http.get(course.href)
                 .then(function (courseInfo) {
                   courses[courseInfo.data.id] = courseInfo.data;
-                  courseInfo.data.sections.forEach(function(section) {
-                    $http.get(section.href); // Preload things into the cache
+                  courseInfo.data.sections.forEach(function (section) {
+                    $http.get(section.href).then(function (response) {
+                      sections[section.id] = response.data;
+                    });
                   })
                 });
             }));
