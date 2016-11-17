@@ -9,8 +9,16 @@ angular.module('app.calendar', [])
     templateUrl: 'calendar-view/calendar.html'
   });
 
-CalendarViewController.$inject = ['$scope', 'uiCalendarConfig', 'CourseRegistrationService', '$window'];
-function CalendarViewController($scope, uiCalendarConfig, CourseRegistrationService, $window) {
+CalendarViewController.$inject = ['$scope',
+                                  'uiCalendarConfig',
+                                  'CourseRegistrationService',
+                                  '$window',
+                                  'CourseDataService'];
+function CalendarViewController($scope,
+                                uiCalendarConfig,
+                                CourseRegistrationService,
+                                $window,
+                                CourseDataService) {
 
   var vm = this;
 
@@ -92,8 +100,9 @@ function CalendarViewController($scope, uiCalendarConfig, CourseRegistrationServ
           console.log(course);
           var colorPair = getRandomColorPair(transparent);
           var allDay = false;
-          var start = moment(course.meetings[0].start, vm.timeFormat);
+          var unalteredStart = moment(course.meetings[0].start, vm.timeFormat);
           var end = moment(course.meetings[0].end, vm.timeFormat);
+          var start = unalteredStart.clone();
           // check if start is TBD -- TODO:: allDay not working for now
           if (course.meetings[0].start === 'ARRANGED') {
             allDay = true;
@@ -101,7 +110,7 @@ function CalendarViewController($scope, uiCalendarConfig, CourseRegistrationServ
           } else {
             start = getZeroTime().add(start.get('h'), 'h').add(start.get('m'), 'm');
           }
-          var duration = end.diff(start);
+          var duration = end.diff(unalteredStart);
           var className = duration < moment.duration(1, 'hours') ? 'calendar-event-hour' : '';
           var dow = [1]; // TBD classes show on Monday
           if (!allDay) {
@@ -178,9 +187,7 @@ function CalendarViewController($scope, uiCalendarConfig, CourseRegistrationServ
     $scope.uiConfig = {
       'calendar': {
         'height': 'auto',
-        //'contentHeight': 'auto',
         'editable': false,
-        //'aspectRatio': 1,
         //'firstDay': 1, // Monday
         'weekends': false, // No weekend registration for now
         'defaultView': 'agendaWeek',
@@ -192,31 +199,15 @@ function CalendarViewController($scope, uiCalendarConfig, CourseRegistrationServ
             'maxTime': '19:00:00',
             'slotDuration': '00:15:00',
             //'slotDuration': '00:30:00',
-            'slotLabelInterval': '01:00:00'//,
-            //'slotEventOverlap': false,
-            //'columnFormat': 'dddd'
+            'slotLabelInterval': '01:00:00',
+            'slotEventOverlap': false,
+            'columnFormat': 'dddd'
           }
         },
         // use defaultDate unix:0 time, add courses based on 1st week unix:0 time
         'defaultDate': getZeroTime(),
-        // 'customButtons': {
-        //   'registerAllPreview': {
-        //     'text': 'Register Previewed Courses',
-        //     'click': function() {
-        //       //TODO: Registration
-        //     }
-        //   }
-        // },
-        // 'header': {
-        //   'left': '', // default is 'title'
-        //   'right': 'registerAllPreview'
-        // },
         'header': false,
         'overlap': false
-        // 'eventClick': $scope.alertEventOnClick,
-        // 'eventDrop': $scope.alertOnDrop,
-        // 'eventResize': $scope.alertOnResize
-        // 'events': vm.events
         }
     };
   }
@@ -224,17 +215,46 @@ function CalendarViewController($scope, uiCalendarConfig, CourseRegistrationServ
   function setupCRNInputs() {
     var i = 0;
     for (; i < vm.numCRNInput; i++) {
-      var input = {'CRN': ''};
+      var input = {'crn': ''};
       vm.CRNInputs.push(input);
     }
   }
 
   vm.registerByCRN = function() {
-    //TODO: Registration
+    var reRender = false;
+    vm.CRNInputs.forEach(function(userInput) {
+      var crn = userInput.crn;
+      var section = CourseDataService.section(userInput.crn);
+      // valid crn and not already registered -- check if preview
+      if (section) {
+        if (!vm.courses[crn] || (vm.courses[crn] && vm.courses[crn].preview)) {
+          if (vm.courses[crn]) {
+            vm.courses[crn].preview = !vm.courses[crn].preview; // must be currently previewed
+          } else {
+            section.preview = false;
+            CourseRegistrationService.addCourse(section);// add from overall
+          }
+
+          reRender = true;
+        }
+      }
+    });
+
+    if (reRender) {
+      renderCalendar();
+    }
   };
 
   vm.registerAllPreview = function() {
-    //TODO: Registration
+    for (var crn in vm.courses) {
+      if (vm.courses.hasOwnProperty(crn)) {
+        var preview = vm.courses[crn].preview;
+        if (preview) {
+          vm.courses[crn].preview = !preview;
+        }
+      }
+    }
+    renderCalendar();
   };
 
 }

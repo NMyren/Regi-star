@@ -15,6 +15,11 @@ function SearchViewController(CourseDataService, CourseRegistrationService) {
   vm.terms = '';
   vm.courses = [];
   vm.subjects = [];
+  vm.loadingInfo = true;
+
+  function toggleLoading() {
+    vm.loadingInfo = !vm.loadingInfo;
+  }
 
   vm.selectedSections = {};
 
@@ -24,6 +29,7 @@ function SearchViewController(CourseDataService, CourseRegistrationService) {
   };
 
   CourseDataService.courses().then(function (data) {
+    toggleLoading();
     vm.courses = data;
     console.log(vm.courses);
   });
@@ -62,7 +68,10 @@ function SearchViewController(CourseDataService, CourseRegistrationService) {
     });
 
     CourseDataService.updateSubjectsToFetch(updatedList);
+    // these toggles aren't in the right place. Can't really be done for waiting for ng-repeat filter to finish
+    toggleLoading();
     CourseDataService.courses().then(function (data) {
+      toggleLoading();
       vm.courses = data;
     });
   };
