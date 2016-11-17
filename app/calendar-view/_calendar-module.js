@@ -9,11 +9,32 @@ angular.module('app.calendar', [])
     templateUrl: 'calendar-view/calendar.html'
   });
 
-CalendarViewController.$inject = ['$scope', 'uiCalendarConfig'];
-function CalendarViewController($scope, uiCalendarConfig) {
+CalendarViewController.$inject = ['$scope', 'uiCalendarConfig', 'CourseRegistrationService'];
+function CalendarViewController($scope, uiCalendarConfig, CourseRegistrationService) {
+
   var vm = this;
   // time 0, add a day to get a Monday.
-  vm.zeroTime = new moment(0).endOf('week').add(1, 'd');
+  vm.$onInit = function() {
+    vm.zeroTime = new moment(0).endOf('week').add(1, 'd');
+    vm.courses = CourseRegistrationService.courses;
+    vm.coursesCopy = CourseRegistrationService.courses;
+    /* CRN ADD*/
+    vm.CRNInputs = [];
+    vm.numCRNInput = 5;
+
+    setupCRNInputs();
+    setupRenderHandler();
+    renderCalendar();
+  };
+
+  function setupRenderHandler() {
+    // Courses added or dropped. Re-render calendar
+    CourseRegistrationService.subscribe($scope, renderCalendar);
+  }
+
+  function renderCalendar() {
+    console.log(vm.courses);
+  }
 
   $scope.uiConfig = {
     'calendar': {
@@ -60,17 +81,9 @@ function CalendarViewController($scope, uiCalendarConfig) {
 
   $scope.eventSources = [];
 
-  vm.myCalendar = uiCalendarConfig.calendars.myCalendar;
-  vm.uiCalendarConfig = uiCalendarConfig;
-
-  /* CRN ADD*/
-  vm.CRNInputs = [];
-  var numCRNInput = 5;
-
-  setupCRNInputs();
   function setupCRNInputs() {
     var i = 0;
-    for (; i < numCRNInput; i++) {
+    for (; i < vm.numCRNInput; i++) {
       var input = {'CRN': ''};
       vm.CRNInputs.push(input);
     }

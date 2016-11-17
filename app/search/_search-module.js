@@ -45,6 +45,7 @@ function SearchViewController(CourseDataService, CourseRegistrationService) {
       section.preview = false;
       return section;
     }));
+    CourseRegistrationService.notifyChange();
   };
 
   vm.preview = function () {
@@ -52,6 +53,7 @@ function SearchViewController(CourseDataService, CourseRegistrationService) {
       section.preview = true;
       return section;
     }));
+    CourseRegistrationService.notifyChange();
   };
 
   vm.updateSubjects = function () {

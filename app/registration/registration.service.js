@@ -3,8 +3,8 @@
 angular.module('app.registration')
 .factory('CourseRegistrationService', CourseRegistrationService);
 
-CourseRegistrationService.$inject = [];
-function CourseRegistrationService() {
+CourseRegistrationService.$inject = ['$rootScope'];
+function CourseRegistrationService($rootScope) {
   var courses = {};
 
   function addCourse(section) {
@@ -24,6 +24,15 @@ function CourseRegistrationService() {
     removeCourse: removeCourse,
     removeCourses: function(courses) {
       courses.forEach(removeCourse);
+    },
+
+    'subscribe': function(scope, callback/*, eventName*/) {
+      var handler = $rootScope.$on('change',/*eventName,*/ callback);
+      scope.$on('$destroy', handler);
+    },
+
+    'notifyChange': function() {
+      $rootScope.$emit('change');
     }
   };
 }

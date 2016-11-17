@@ -16,7 +16,7 @@
 <ul class="list-group">
   <li class="list-group-item" ng-repeat="(crn,course) in list.courses" ng-if="course.preview">
     <!--     <list-item crn="{{crn}}" course="course"></list-item> -->
-    <div class="list-group-item-heading">{{course.parents.subject.id}} {{course.parents.course.id}} {{course.parents.course.label}} ({{crn}}) - {{course.creditHours}}</div>
+    <div class="list-group-item-heading"><label>{{course.parents.subject.id}} {{course.parents.course.id}}</label> {{course.parents.course.label}} ({{crn}}) - {{course.creditHours}}</div>
     <div><label>Section</label> {{course.meetings[0].type.code}} {{course.sectionNumber}}</div>
     <div><label>Instructor</label> {{course.meetings[0].instructors[0].name}}</div>
     <div><label>Meetings</label> {{course.meetings[0].daysOfTheWeek}} {{course.meetings[0].start}} - {{course.meetings[0].end}}</div>
