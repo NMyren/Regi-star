@@ -26,6 +26,15 @@ h4.panel-title {
 .voffset8 { margin-top: 100px; }
 .voffset9 { margin-top: 150px; }
 
+/* Calender rendered time, text */
+/* fc-content.fc-time span, .fc-title {
+  font-size: 1.75em;
+}*/
+
+.calendar-event-content {
+  font-size: 1.75em;
+}
+
 /* Remove current day highlighting*/
 .fc-unthemed .fc-today {
   background: inherit;
