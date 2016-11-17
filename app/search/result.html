@@ -13,7 +13,9 @@
       </td>
       <td>{{section.id}}</td>
       <td>{{section.sectionNumber}}</td>
-      <td>{{section.creditHours}}</td>
+      <td>{{section.creditHours || $ctrl.course.creditHours}}</td>
+      <td>{{section.meetings[0].daysOfTheWeek}}</td>
+      <td>{{section.meetings[0].start}} until {{section.meetings[0].end}}</td>
     </tr>
   </table>
 </div>
