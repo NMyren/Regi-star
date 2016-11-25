@@ -1,25 +1,26 @@
-<!-- CUSTOM HEADER -->
 <div class="container">
-  <div id="calendar-custom-header" class="row text-right">
-    <a href="javascript:void(0)" uib-tooltip="Attempts Registration for all Previews" tooltip-popup-delay="1000" tooltip-placement="left-top">
-      <button type="button" class="btn btn-default btn-sm" ng-click="calendar.registerAllPreview()">Register Previewed Courses</button>
-    </a>
-  </div>
   <!-- CALENDAR PANEL -->
-  <div id="calendar-panel" class="row voffset2">
+  <div id="calendar-panel" class="row">
     <!-- ACTUAL UI CALENDAR -->
     <div id="calendar" ui-calendar="uiConfig.calendar" ng-model="calendar.eventSources" calendar="schedule">
     </div>
   </div>
+  <!-- CUSTOM CALENDAR FOOTER -->
+  <div id="calendar-custom-footer" class="row text-right voffset3">
+    <a href="javascript:void(0)" uib-tooltip="Attempts Registration for all Previews" tooltip-popup-delay="1000" tooltip-placement="top">
+      <button type="button" class="btn btn-default btn-sm" ng-click="calendar.registerAllPreview()">Register Previewed Courses</button>
+    </a>
+  </div>
+
+  <hr>
   <!-- ROW FOR CRN ADD -->
-<hr>
   <div id="CRN-add" class="row">
     <div class="col-xs-2" ng-repeat="input in calendar.CRNInputs">
       <input type="text" class="form-control" placeholder="CRN" ng-model="input.crn"/>
     </div>
     <div class="col-xs-2">
       <a href="javascript:void(0)" uib-tooltip="Attempts Registration for courses with input CRNs" tooltip-popup-delay="1000" tooltip-placement="top">
-        <button type="button" class="btn btn-default btn-sm" ng-click="calendar.registerByCRN()">Register</button>
+        <button type="button" class="btn btn-default btn-sm" ng-click="calendar.registerByCRN()">Register by CRN</button>
       </a>
     </div>
   </div>

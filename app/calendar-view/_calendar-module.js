@@ -29,7 +29,7 @@ function CalendarViewController($scope,
     vm.CRNInputs = [];
     vm.numCRNInput = 5;
     vm.dow = {'M': 1,'T': 2,'W': 3,'R': 4, 'F': 5};
-    vm.timeFormat = ["h:mm A"];
+    vm.timeFormat = ['h:mm A'];
     var bgA = 0.4;
     var textA = 0.65;
     vm.randomColors = [{
@@ -132,11 +132,11 @@ function CalendarViewController($scope,
       }
     }
 
-    // <div class="list-group-item-heading"><label>{{course.parents.subject.id}} {{course.parents.course.id}}</label> {{course.parents.course.label}} ({{crn}}) - {{course.creditHours}}</div>
-    // <div><label>Section</label> {{course.meetings[0].type.code}} {{course.sectionNumber}}</div>
-    // <div><label>Instructor</label> {{course.meetings[0].instructors[0].name}}</div>
-    // <div><label>Meetings</label> {{course.meetings[0].daysOfTheWeek}} {{course.meetings[0].start}} - {{course.meetings[0].end}}</div>
-    // <div><label>Location</label> {{course.meetings[0].buildingName}} {{course.meetings[0].roomNumber}}</div>
+    //  ({{crn}}) - {{course.creditHours}}</div>
+    //  {{course.meetings[0].type.code}} {{course.sectionNumber}}</div>
+    //  {{course.meetings[0].instructors[0].name}}</div>
+    //  {{course.meetings[0].daysOfTheWeek}} {{course.meetings[0].start}} - {{course.meetings[0].end}}</div>
+    //  {{course.meetings[0].buildingName}} {{course.meetings[0].roomNumber}}</div>
 
     // fullcalendar docs say this should be an array. On the contrary, only works as an object
     var eventSources = {
@@ -164,9 +164,7 @@ function CalendarViewController($scope,
     var bg = vm.randomColors[rand].background;
     var text = vm.randomColors[rand].text;
     if (transparent) {
-      //bg = vm.randomColors[rand].backgroundA;
       bg = vm.previewColor.background;
-      //text = vm.randomColors[rand].textA;
       text = vm.previewColor.text;
     }
     return {'background': bg, 'text': text};
@@ -221,7 +219,7 @@ function CalendarViewController($scope,
   }
 
   vm.registerByCRN = function() {
-    var reRender = false;
+    var needsRender = false;
     vm.CRNInputs.forEach(function(userInput) {
       var crn = userInput.crn;
       var section = CourseDataService.section(userInput.crn);
@@ -232,16 +230,16 @@ function CalendarViewController($scope,
             vm.courses[crn].preview = !vm.courses[crn].preview; // must be currently previewed
           } else {
             section.preview = false;
-            CourseRegistrationService.addCourse(section);// add from overall
+            CourseRegistrationService.addCourse(section); // add from overall
           }
 
-          reRender = true;
+          needsRender = true;
         }
       }
     });
 
-    if (reRender) {
-      renderCalendar();
+    if (needsRender) {
+      CourseRegistrationService.notifyChange();
     }
   };
 
@@ -254,7 +252,7 @@ function CalendarViewController($scope,
         }
       }
     }
-    renderCalendar();
+    CourseRegistrationService.notifyChange();
   };
 
 }
