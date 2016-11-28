@@ -3,17 +3,16 @@
 angular.module('app.calendar', [])
   .component('calendarView', {
     controllerAs: 'calendar',
-    bindings: {
-    },
+    bindings: {},
     controller: CalendarViewController,
     templateUrl: 'calendar-view/calendar.html'
   });
 
 CalendarViewController.$inject = ['$scope',
-                                  'uiCalendarConfig',
-                                  'CourseRegistrationService',
-                                  '$window',
-                                  'CourseDataService'];
+  'uiCalendarConfig',
+  'CourseRegistrationService',
+  '$window',
+  'CourseDataService'];
 function CalendarViewController($scope,
                                 uiCalendarConfig,
                                 CourseRegistrationService,
@@ -22,52 +21,53 @@ function CalendarViewController($scope,
 
   var vm = this;
 
-  vm.$onInit = function() {
+  vm.$onInit = function () {
+    vm.colors = {};
     vm.courses = CourseRegistrationService.courses;
     vm.prevCourses = CourseRegistrationService.courses;
     /* CRN ADD*/
     vm.CRNInputs = [];
     vm.numCRNInput = 5;
-    vm.dow = {'M': 1,'T': 2,'W': 3,'R': 4, 'F': 5};
+    vm.dow = {'M': 1, 'T': 2, 'W': 3, 'R': 4, 'F': 5};
     vm.timeFormat = ['h:mm A'];
     var bgA = 0.4;
     var textA = 0.65;
     vm.randomColors = [{
-                        'background': 'rgb(233,127,127)',
-                        'backgroundA': 'rgba(233,127,127,' + bgA + ')',
-                        'text': 'rgb(42,85,71)',
-                        'textA': 'rgba(42,85,71,' + textA + ')'
-                       },
-                       {
-                        'background': 'rgb(126,131,233)',
-                        'backgroundA': 'rgba(126,131,233,' + bgA + ')',
-                        'text': 'rgb(224,255,255)',
-                        'textA': 'rgba(224,255,255,' + textA + ')'
-                       },
-                       {
-                        'background': 'rgb(240,158,70)',
-                        'backgroundA': 'rgba(240,158,70,' + bgA + ')',
-                        'text': 'rgb(42,42,42)',
-                        'textA': 'rgba(42,42,42,' + textA + ')'
-                       },
-                       // {
-                       //  'background': 'rgb(228,209,103)',
-                       //  'backgroundA': 'rgba(228,209,103,' + bgA + ')',
-                       //  'text': 'rgb(136,89,182)',
-                       //  'textA': 'rgba(136,89,182,' + textA + ')'
-                       // },
-                       {
-                        'background': 'rgb(103,228,123)',
-                        'backgroundA': 'rgba(103,228,123,' + bgA + ')',
-                        'text': 'rgb(0,122,124)',
-                        'textA': 'rgba(0,122,124,' + textA + ')'
-                       },
-                       {
-                        'background': 'rgb(143,103,228)',
-                        'backgroundA': 'rgba(143,103,228,' + bgA + ')',
-                        'text': 'rgb(200,247,197)',
-                        'textA': 'rgba(200,247,197,' + textA + ')'
-                       }];
+      'background': 'rgb(233,127,127)',
+      'backgroundA': 'rgba(233,127,127,' + bgA + ')',
+      'text': 'rgb(42,85,71)',
+      'textA': 'rgba(42,85,71,' + textA + ')'
+    },
+      {
+        'background': 'rgb(126,131,233)',
+        'backgroundA': 'rgba(126,131,233,' + bgA + ')',
+        'text': 'rgb(224,255,255)',
+        'textA': 'rgba(224,255,255,' + textA + ')'
+      },
+      {
+        'background': 'rgb(240,158,70)',
+        'backgroundA': 'rgba(240,158,70,' + bgA + ')',
+        'text': 'rgb(42,42,42)',
+        'textA': 'rgba(42,42,42,' + textA + ')'
+      },
+      // {
+      //  'background': 'rgb(228,209,103)',
+      //  'backgroundA': 'rgba(228,209,103,' + bgA + ')',
+      //  'text': 'rgb(136,89,182)',
+      //  'textA': 'rgba(136,89,182,' + textA + ')'
+      // },
+      {
+        'background': 'rgb(103,228,123)',
+        'backgroundA': 'rgba(103,228,123,' + bgA + ')',
+        'text': 'rgb(0,122,124)',
+        'textA': 'rgba(0,122,124,' + textA + ')'
+      },
+      {
+        'background': 'rgb(143,103,228)',
+        'backgroundA': 'rgba(143,103,228,' + bgA + ')',
+        'text': 'rgb(200,247,197)',
+        'textA': 'rgba(200,247,197,' + textA + ')'
+      }];
 
     vm.previewColor = {'background': 'rgba(228,209,103,' + bgA + ')', 'text': 'rgba(136,89,182,' + textA + ')'};
 
@@ -96,40 +96,40 @@ function CalendarViewController($scope,
     for (var crn in vm.courses) {
       if (vm.courses.hasOwnProperty(crn)) {
         // TODO: fix duplicates/reloading concern
-          var course = vm.courses[crn];
-          var transparent = course.preview;
-          console.log(course);
-          var colorPair = getRandomColorPair(transparent);
-          var allDay = false;
-          var unalteredStart = moment(course.meetings[0].start, vm.timeFormat);
-          var end = moment(course.meetings[0].end, vm.timeFormat);
-          var start = unalteredStart.clone();
-          // check if start is TBD -- TODO:: allDay not working for now
-          if (course.meetings[0].start === 'ARRANGED') {
-            allDay = true;
-            start = getZeroTime();
-          } else {
-            start = getZeroTime().add(start.get('h'), 'h').add(start.get('m'), 'm');
-          }
-          var duration = end.diff(unalteredStart);
-          var className = duration < moment.duration(1, 'hours') ? 'calendar-event-hour' : '';
-          var dow = [1]; // TBD classes show on Monday
-          if (!allDay) {
-            dow = getDow(course.meetings[0].daysOfTheWeek);
-          }
+        var course = vm.courses[crn];
+        var transparent = course.preview;
+        console.log(course);
+        var colorPair = getColorForCRN(crn, transparent);
+        var allDay = false;
+        var unalteredStart = moment(course.meetings[0].start, vm.timeFormat);
+        var end = moment(course.meetings[0].end, vm.timeFormat);
+        var start = unalteredStart.clone();
+        // check if start is TBD -- TODO:: allDay not working for now
+        if (course.meetings[0].start === 'ARRANGED') {
+          allDay = true;
+          start = getZeroTime();
+        } else {
+          start = getZeroTime().add(start.get('h'), 'h').add(start.get('m'), 'm');
+        }
+        var duration = end.diff(unalteredStart);
+        var className = duration < moment.duration(1, 'hours') ? 'calendar-event-hour' : '';
+        var dow = [1]; // TBD classes show on Monday
+        if (!allDay) {
+          dow = getDow(course.meetings[0].daysOfTheWeek);
+        }
 
-          events.push({
-            'id': crn,
-            'title': courseToString(crn, course),
-            'start': start,
-            'end': getZeroTime().add(end.get('h'), 'h').add(end.get('m'), 'm'),
-            'dow': dow,
-            'color': colorPair.background,
-            'textColor': colorPair.text,
-            'overlap': false,
-            'className': className,
-            'allDay': allDay
-          });
+        events.push({
+          'id': crn,
+          'title': courseToString(crn, course),
+          'start': start,
+          'end': getZeroTime().add(end.get('h'), 'h').add(end.get('m'), 'm'),
+          'dow': dow,
+          'color': colorPair.background,
+          'textColor': colorPair.text,
+          'overlap': false,
+          'className': className,
+          'allDay': allDay
+        });
       }
     }
 
@@ -154,21 +154,34 @@ function CalendarViewController($scope,
 
   function courseToString(crn, course) {
     return [course.parents.subject.id,
-            course.parents.course.id,
-            course.parents.course.label,
-            '(' + crn + ')'].join(' ');
+      course.parents.course.id,
+      course.parents.course.label,
+      '(' + crn + ')'].join(' ');
   }
 
-  function getRandomColorPair(transparent) {
+  function getColorForCRN(crn, transparent) {
+    if (transparent) {
+      return {
+        bg: vm.previewColor.background,
+        text: vm.previewColor.text
+      };
+    }
+
+    if (!vm.colors[crn]) {
+      vm.colors[crn] = getRandomColor();
+    }
+
+    return vm.colors[crn];
+  }
+
+  function getRandomColor() {
     var rand = Math.floor(Math.random() * (vm.randomColors.length));
-    console.log(rand);
     var bg = vm.randomColors[rand].background;
     var text = vm.randomColors[rand].text;
-    if (transparent) {
-      bg = vm.previewColor.background;
-      text = vm.previewColor.text;
-    }
-    return {'background': bg, 'text': text};
+    return {
+      bg: bg,
+      text: text
+    };
   }
 
   function getDow(weekdayLetters) {
@@ -207,7 +220,7 @@ function CalendarViewController($scope,
         'defaultDate': getZeroTime(),
         'header': false,
         'overlap': false
-        }
+      }
     };
   }
 
@@ -219,9 +232,9 @@ function CalendarViewController($scope,
     }
   }
 
-  vm.registerByCRN = function() {
+  vm.registerByCRN = function () {
     var needsRender = false;
-    vm.CRNInputs.forEach(function(userInput) {
+    vm.CRNInputs.forEach(function (userInput) {
       var crn = userInput.crn;
       var section = CourseDataService.section(userInput.crn);
       // valid crn and not already registered -- check if preview
@@ -244,7 +257,7 @@ function CalendarViewController($scope,
     }
   };
 
-  vm.registerAllPreview = function() {
+  vm.registerAllPreview = function () {
     for (var crn in vm.courses) {
       if (vm.courses.hasOwnProperty(crn)) {
         var preview = vm.courses[crn].preview;
