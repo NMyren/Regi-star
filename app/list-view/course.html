@@ -1,5 +1,4 @@
-<div class="list-group-item-heading"><label>{{$ctrl.course.parents.subject.id}} {{$ctrl.course.parents.course.id}}</label> {{$ctrl.course.parents.course.label}} ({{$ctrl.crn}}) - {{$ctrl.course.creditHours}}</div>
-<div><label>Section</label> {{$ctrl.course.meetings[0].type.code}} {{$ctrl.course.sectionNumber}}</div>
-<div><label>Instructor</label> {{$ctrl.course.meetings[0].instructors[0].name}}</div>
-<div><label>Meetings</label> {{$ctrl.course.meetings[0].daysOfTheWeek}} {{$ctrl.course.meetings[0].start}} - {{$ctrl.course.meetings[0].end}}</div>
-<div><label>Location</label> {{$ctrl.course.meetings[0].buildingName}} {{$ctrl.course.meetings[0].roomNumber}}</div>
+<h5>{{$ctrl.course.parents.subject.id}} {{$ctrl.course.parents.course.id}} | {{$ctrl.course.parents.course.label}} | {{$ctrl.course.meetings[0].instructors[0].name}} </h5>
+<h6>{{$ctrl.crn}} | {{$ctrl.course.meetings[0].daysOfTheWeek}} {{$ctrl.course.meetings[0].start}} - {{$ctrl.course.meetings[0].end}} | {{$ctrl.course.creditHours}}</h6>
+<h6>{{$ctrl.course.meetings[0].buildingName}} {{$ctrl.course.meetings[0].roomNumber}}</h6>
+

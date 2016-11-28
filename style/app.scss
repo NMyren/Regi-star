@@ -3,6 +3,9 @@
 
 $font-stack:    Helvetica, sans-serif;
 $primary-color: #333;
+$list-item-vertical-margin: 20px;
+$list-item-last-bottom-margin: 30px;
+$list-item-first-top-margin: 10px;
 
 body {
   font: 100% $font-stack;
@@ -30,9 +33,9 @@ h4.panel-title {
 .voffset9 { margin-top: 150px; }
 
 /* Calender rendered time, text */
-/* fc-content.fc-time span, .fc-title {
-  font-size: 1.75em;
-}*/
+fc-content.fc-time span, .fc-title {
+  font-size: small;
+}
 
 .calendar-event-content {
   font-size: 1.75em;
@@ -49,6 +52,26 @@ h4.panel-title {
 
 .course-list {
   margin: 10px;
+}
+
+list-item h5,
+list-item h6 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.course-list > .courses :first-child {
+  margin-top: $list-item-first-top-margin;
+}
+
+.course-list > .courses list-item:last-child {
+  margin-bottom: $list-item-last-bottom-margin;
+}
+
+list-item {
+  margin-top: $list-item-vertical-margin;
+  margin-bottom: $list-item-vertical-margin;
+  display: block;
 }
 
 /*.display-mobile {
