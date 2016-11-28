@@ -81,6 +81,7 @@ function CalendarViewController($scope,
   // Display a generic week by displaying course times relative to zeroTime.
   function getZeroTime() {
     // time 0, add a day to get a Monday.
+    //noinspection JSPotentiallyInvalidConstructorUsage
     return new moment(0).startOf('week').add(1, 'd');
   }
 
