@@ -5,7 +5,8 @@ angular.module('app.search')
     templateUrl: 'search/result.html',
     bindings: {
       course: '<',
-      updateSelection: '&'
+      updateSelection: '&',
+      selections: '='
     },
     controller: ResultController
   });
@@ -13,11 +14,11 @@ angular.module('app.search')
 ResultController.$inject = ['$http'];
 
 function ResultController($http) {
-  var vm = this;
-  vm.selectedSections = {};
+  var vm = this
   vm.sections = {};
 
   vm.$onInit = function() {
+    vm.selectedSections = vm.selections;
     vm.course.sections.forEach(function(section) {
       $http.get(section.href)
         .then(function(response) {
@@ -27,7 +28,7 @@ function ResultController($http) {
   };
 
   vm.select = function (section, $event) {
-    vm.selectedSections[section.id] = !vm.selectedSections[section.id];
+    // vm.selectedSections[section.id] = !vm.selectedSections[section.id];
     vm.updateSelection({section: section});
   };
 }

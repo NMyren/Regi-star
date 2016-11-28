@@ -1,7 +1,6 @@
 'use strict';
 
 angular.module('app.search', [])
-  .factory('SearchService', SearchService)
   .component('mainSearchView', {
     controllerAs: 'search',
     bindings: {},
@@ -21,7 +20,8 @@ function SearchViewController(CourseDataService, CourseRegistrationService) {
     vm.loadingInfo = !vm.loadingInfo;
   }
 
-  vm.selectedSections = {};
+  vm.selectedSectionData = {};
+  vm.sectionSelections = {};
 
   vm.activeSubjects = {
     'CS': true,
@@ -31,7 +31,6 @@ function SearchViewController(CourseDataService, CourseRegistrationService) {
   CourseDataService.courses().then(function (data) {
     toggleLoading();
     vm.courses = data;
-    console.log(vm.courses);
   });
 
   CourseDataService.subjects().then(function (data) {
@@ -39,27 +38,38 @@ function SearchViewController(CourseDataService, CourseRegistrationService) {
   });
 
   vm.updateSelection = function (section) {
-    if (vm.selectedSections[section.id]) {
-      delete vm.selectedSections[section.id];
+    if (vm.selectedSectionData[section.id]) {
+      delete vm.selectedSectionData[section.id];
+      vm.sectionSelections[section.id] = false;
     } else {
-      vm.selectedSections[section.id] = section;
+      vm.selectedSectionData[section.id] = section;
+      vm.sectionSelections[section.id] = true;
     }
   };
 
+  function clearSelections() {
+    Object.keys(vm.sectionSelections).forEach(function(crn) {
+      delete vm.selectedSectionData[crn];
+      vm.sectionSelections[crn] = false;
+    });
+  }
+
   vm.register = function () {
-    CourseRegistrationService.addCourses(Object.values(vm.selectedSections).map(function (section) {
+    CourseRegistrationService.addCourses(Object.values(vm.selectedSectionData).map(function (section) {
       section.preview = false;
       return section;
     }));
     CourseRegistrationService.notifyChange();
+    clearSelections();
   };
 
   vm.preview = function () {
-    CourseRegistrationService.addCourses(Object.values(vm.selectedSections).map(function (section) {
+    CourseRegistrationService.addCourses(Object.values(vm.selectedSectionData).map(function (section) {
       section.preview = true;
       return section;
     }));
     CourseRegistrationService.notifyChange();
+    clearSelections();
   };
 
   vm.updateSubjects = function () {
@@ -75,9 +85,4 @@ function SearchViewController(CourseDataService, CourseRegistrationService) {
       vm.courses = data;
     });
   };
-}
-
-SearchService.$inject = [];
-function SearchService() {
-  return {};
 }
