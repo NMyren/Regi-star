@@ -1,10 +1,9 @@
 <div class="course-list">
-  <h5>Courses</h5>
-  <h6>Registered</h6>
+  <h5 class="section-header">Registered Courses</h5>
   <div class="courses">
     <list-item crn="crn" course="course" ng-repeat="(crn,course) in list.courses" ng-if="!course.preview"></list-item>
   </div>
-  <h6>Previewed</h6>
+  <h5 class="section-header">Previewed Courses</h5>
   <div class="courses">
     <list-item crn="crn" course="course" ng-repeat="(crn,course) in list.courses" ng-if="course.preview"></list-item>
   </div>

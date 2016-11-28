@@ -1,15 +1,20 @@
 // Font Awesome
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css');
 
-$font-stack:    Helvetica, sans-serif;
+$font-stack:    'Lato', sans-serif;
+$font-stack-headers: 'Open Sans', sans-serif;
 $primary-color: #333;
 $list-item-vertical-margin: 20px;
 $list-item-last-bottom-margin: 30px;
 $list-item-first-top-margin: 10px;
 
-body {
-  font: 100% $font-stack;
+html, body {
+  font-family: $font-stack;
   color: $primary-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-stack-headers;
 }
 
 .tab-pane {
@@ -17,7 +22,7 @@ body {
 }
 
 h4.panel-title {
-  font-size: 14px;
+  font-size: 14pt;
   line-height: 1;
 }
 
@@ -37,14 +42,6 @@ fc-content.fc-time span, .fc-title {
   font-size: small;
 }
 
-.calendar-event-content {
-  font-size: 1.75em;
-}
-
-.calendar-event-hour {
-  font-size: 1.25em;
-}
-
 /* Remove current day highlighting*/
 .fc-unthemed .fc-today {
   background: inherit;
@@ -54,10 +51,18 @@ fc-content.fc-time span, .fc-title {
   margin: 10px;
 }
 
+list-item h6 {
+  color: #777777;
+}
+
 list-item h5,
 list-item h6 {
   margin-top: 5px;
   margin-bottom: 5px;
+}
+
+.panel-title span {
+  font-size: 12pt;
 }
 
 .course-list > .courses :first-child {
@@ -72,6 +77,11 @@ list-item {
   margin-top: $list-item-vertical-margin;
   margin-bottom: $list-item-vertical-margin;
   display: block;
+}
+
+.section-header {
+  font-size: 14pt;
+  font-variant: small-caps;
 }
 
 /*.display-mobile {
