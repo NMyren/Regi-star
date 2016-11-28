@@ -15,6 +15,21 @@ html, body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-stack-headers;
+  font-weight: 300;
+}
+
+course-search-result h1,
+course-search-result h2,
+course-search-result h3,
+course-search-result h4,
+course-search-result h4,
+course-search-result h5,
+course-search-result h6 {
+  font-weight: 400;
+}
+
+course-search-result {
+  font-weight: 300;
 }
 
 .tab-pane {
