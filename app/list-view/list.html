@@ -1,10 +1,10 @@
 <div class="course-list">
   <h5 class="section-header">Registered Courses</h5>
   <div class="courses">
-    <list-item crn="crn" course="course" ng-repeat="(crn,course) in list.courses" ng-if="!course.preview"></list-item>
+    <list-item crn="crn" delete-course="list.deleteCourse(crn)" course="course" ng-repeat="(crn,course) in list.courses" ng-if="!course.preview"></list-item>
   </div>
   <h5 class="section-header">Previewed Courses</h5>
   <div class="courses">
-    <list-item crn="crn" course="course" ng-repeat="(crn,course) in list.courses" ng-if="course.preview"></list-item>
+    <list-item crn="crn" delete-course="list.deleteCourse(crn)" course="course" ng-repeat="(crn,course) in list.courses" ng-if="course.preview"></list-item>
   </div>
 </div>

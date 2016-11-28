@@ -13,4 +13,8 @@ ListViewController.$inject = ['CourseRegistrationService'];
 function ListViewController(CourseRegistrationService) {
   var vm = this;
   vm.courses = CourseRegistrationService.courses;
+  vm.deleteCourse = function(crn) {
+    CourseRegistrationService.removeCourse(crn);
+    CourseRegistrationService.notifyChange();
+  };
 }

@@ -4,7 +4,8 @@ angular.module('app.course-list-view')
   .component('listItem', {
     bindings: {
       course: '<',
-      crn: '<'
+      crn: '<',
+      deleteCourse: '&'
     },
     templateUrl: 'list-view/course.html'
   });

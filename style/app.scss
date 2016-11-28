@@ -42,6 +42,10 @@ fc-content.fc-time span, .fc-title {
   font-size: small;
 }
 
+.pointer {
+  cursor: pointer;
+}
+
 /* Remove current day highlighting*/
 .fc-unthemed .fc-today {
   background: inherit;
