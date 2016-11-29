@@ -3,10 +3,14 @@
 angular.module('app.search')
   .factory('CourseDataService', CourseDataService);
 
-CourseDataService.$inject = ['$http', '$q'];
-function CourseDataService($http, $q) {
+CourseDataService.$inject = ['$http', '$q', 'CacheFactory'];
+function CourseDataService($http, $q, CacheFactory) {
   var semester = {};
-  var subjectsToFetch = ['CS', 'MATH'];
+  var cache = CacheFactory('data-cache', {
+    storageMode: 'localStorage'
+  });
+  var key = 'loaded-subjects';
+  var subjectsToFetch = cache.get(key) || ['CS', 'MATH'];
 
   var subjects = {};
   var subjectPromise = $q.defer();
@@ -40,6 +44,7 @@ function CourseDataService($http, $q) {
     updateSubjectsToFetch: function (toFetch) {
       coursePromise = $q.defer();
       subjectsToFetch = toFetch;
+      cache.put(key, toFetch);
       console.log(subjectsToFetch);
       fetchSubjectCourseInfo();
     }
