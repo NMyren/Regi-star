@@ -17,18 +17,21 @@ function ResultController($http) {
   var vm = this
   vm.sections = {};
 
-  vm.$onInit = function() {
+  vm.$onInit = function () {
     vm.selectedSections = vm.selections;
-    vm.course.sections.forEach(function(section) {
+    vm.course.sections.forEach(function (section) {
       $http.get(section.href)
-        .then(function(response) {
+        .then(function (response) {
           vm.sections[section.id] = response.data;
         });
     });
   };
 
   vm.select = function (section, $event) {
-    // vm.selectedSections[section.id] = !vm.selectedSections[section.id];
+    if ($event) {
+      $event.stopPropagation();
+    }
+    vm.selectedSections[section.id] = !vm.selectedSections[section.id];
     vm.updateSelection({section: section});
   };
 }
