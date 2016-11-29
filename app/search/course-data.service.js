@@ -68,6 +68,7 @@ function CourseDataService($http, $q, CacheFactory) {
                   courseInfo.data.sections.forEach(function (section) {
                     $http.get(section.href).then(function (response) {
                       sections[section.id] = response.data;
+                      sections[section.id].creditHours = sections[section.id].creditHours || courses[courseInfo.data.id].creditHours;
                     });
                   });
                 });
