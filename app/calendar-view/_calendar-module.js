@@ -156,6 +156,7 @@ function CalendarViewController($scope,
     console.log(eventSources);
 
     // dumb, necessary, unfortunate calendar hacks to re-render events
+    uiCalendarConfig.calendars.schedule.fullCalendar('option', 'height', $(window).height() - 150);
     uiCalendarConfig.calendars.schedule.fullCalendar('removeEvents');
     uiCalendarConfig.calendars.schedule.fullCalendar('addEventSource', eventSources);
     uiCalendarConfig.calendars.schedule.fullCalendar('rerenderEvents');
@@ -231,6 +232,10 @@ function CalendarViewController($scope,
         'overlap': false
       }
     };
+    $(window).resize(function() {
+      uiCalendarConfig.calendars.schedule.fullCalendar('option', 'height', $(window).height() - 150);
+      uiCalendarConfig.calendars.schedule.fullCalendar('render');
+    });
   }
 
   function setupCRNInputs() {
