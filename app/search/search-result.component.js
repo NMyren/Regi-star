@@ -28,7 +28,10 @@ function ResultController($http) {
   };
 
   vm.select = function (section, $event) {
-    // vm.selectedSections[section.id] = !vm.selectedSections[section.id];
+    if($event) {
+      $event.stopPropagation();
+    }
+    vm.selectedSections[section.id] = !vm.selectedSections[section.id];
     vm.updateSelection({section: section});
   };
 }
