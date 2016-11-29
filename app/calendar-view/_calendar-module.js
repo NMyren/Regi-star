@@ -94,9 +94,12 @@ function CalendarViewController($scope,
     // map objects into displayable calendar events
     var events = [];
     for (var crn in vm.courses) {
+      console.log(crn);
       if (vm.courses.hasOwnProperty(crn)) {
+        console.log(crn);
         // TODO: fix duplicates/reloading concern
         var course = vm.courses[crn];
+        console.log(course);
         var transparent = course.preview;
         console.log(course);
         var colorPair = getColorForCRN(crn, transparent);
@@ -146,10 +149,12 @@ function CalendarViewController($scope,
       'overlap': false
     };
 
+    console.log(eventSources);
+
     // dumb, necessary, unfortunate calendar hacks to re-render events
-    angular.element('#calendar').fullCalendar('removeEvents');
-    angular.element('#calendar').fullCalendar('addEventSource', eventSources);
-    angular.element('#calendar').fullCalendar('rerenderEvents');
+    uiCalendarConfig.calendars.schedule.fullCalendar('removeEvents');
+    uiCalendarConfig.calendars.schedule.fullCalendar('addEventSource', eventSources);
+    uiCalendarConfig.calendars.schedule.fullCalendar('rerenderEvents');
   }
 
   function courseToString(crn, course) {
