@@ -80,11 +80,11 @@ list-item h6 {
   font-size: 12pt;
 }
 
-.course-list > .courses list-item:first-child {
+.course-list > .courses > list-item:first-child {
   margin-top: $list-item-first-top-margin;
 }
 
-.course-list > .courses list-item:last-child {
+.course-list > .courses > list-item:last-child {
   margin-bottom: $list-item-last-bottom-margin;
 }
 

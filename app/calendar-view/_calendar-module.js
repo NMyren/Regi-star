@@ -11,12 +11,12 @@ angular.module('app.calendar', [])
 CalendarViewController.$inject = ['$scope',
   'uiCalendarConfig',
   'CourseRegistrationService',
-  '$window',
+  '$timeout',
   'CourseDataService'];
 function CalendarViewController($scope,
                                 uiCalendarConfig,
                                 CourseRegistrationService,
-                                $window,
+                                $timeout,
                                 CourseDataService) {
 
   var vm = this;
@@ -76,6 +76,10 @@ function CalendarViewController($scope,
     setupRenderHandler();
     renderCalendar();
   };
+
+  $timeout(function() {
+    CourseRegistrationService.notifyChange();
+  }, 50);
 
   // Calendar represents running weeks.
   // Display a generic week by displaying course times relative to zeroTime.

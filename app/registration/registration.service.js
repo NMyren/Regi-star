@@ -3,16 +3,24 @@
 angular.module('app.registration')
 .factory('CourseRegistrationService', CourseRegistrationService);
 
-CourseRegistrationService.$inject = ['$rootScope'];
-function CourseRegistrationService($rootScope) {
-  var courses = {};
+CourseRegistrationService.$inject = ['$rootScope', 'CacheFactory'];
+function CourseRegistrationService($rootScope, CacheFactory) {
+  var key = 'courses';
+  var cache = CacheFactory('course-cache', {
+    storageMode: 'localStorage'
+  });
+  var courses = cache.get(key) || {};
 
+  console.log(cache.info());
   function addCourse(section) {
     courses[section.id] = section;
+    cache.put(key, courses);
+    console.log(cache.info());
   }
 
   function removeCourse(crn) {
     delete courses[crn];
+    cache.put(key, courses);
   }
 
   return {

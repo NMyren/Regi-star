@@ -27,7 +27,8 @@ function packageJsDependencies(min) {
     'bower_components/angular-ui-calendar/src/calendar.js',
     (min) ? 'bower_components/fullcalendar/dist/fullcalendar.min.js' :
       'bower_components/fullcalendar/dist/fullcalendar.js',
-    'bower_components/fullcalendar/dist/gcal.js'
+    'bower_components/fullcalendar/dist/gcal.js',
+    'bower_components/angular-cache/dist/angular-cache.min.js'
   ])
   .pipe(plugins.sourcemaps.init())
   .pipe(plugins.concat('vendor.js'))

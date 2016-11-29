@@ -11,6 +11,7 @@ angular.module('app', [
   'app.course-list-view',
   'ui.bootstrap',
   'ui.layout',
+  'angular-cache',
   'ui.calendar'
 ]).config(['$httpProvider', function ($httpProvider) {
   // enable http caching
