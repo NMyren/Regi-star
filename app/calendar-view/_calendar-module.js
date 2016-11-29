@@ -245,7 +245,8 @@ function CalendarViewController($scope,
     var needsRender = false;
     vm.CRNInputs.forEach(function (userInput) {
       var crn = userInput.crn;
-      var section = CourseDataService.section(userInput.crn);
+      userInput.crn = '';
+      var section = CourseDataService.section(crn);
       // valid crn and not already registered -- check if preview
       if (section) {
         if (!vm.courses[crn] || (vm.courses[crn] && vm.courses[crn].preview)) {
