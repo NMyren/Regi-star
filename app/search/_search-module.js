@@ -23,10 +23,10 @@ function SearchViewController(CourseDataService, CourseRegistrationService) {
   vm.selectedSectionData = {};
   vm.sectionSelections = {};
 
-  vm.activeSubjects = {
-    'CS': true,
-    'MATH': true
-  };
+  vm.activeSubjects = {};
+  CourseDataService.activeSubjects.forEach(function(sub) {
+    vm.activeSubjects[sub] = true;
+  });
 
   CourseDataService.courses().then(function (data) {
     toggleLoading();

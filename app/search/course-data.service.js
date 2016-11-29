@@ -41,6 +41,7 @@ function CourseDataService($http, $q, CacheFactory) {
     section: function(crn) {
       return sections[crn];
     },
+    activeSubjects: subjectsToFetch,
     updateSubjectsToFetch: function (toFetch) {
       coursePromise = $q.defer();
       subjectsToFetch = toFetch;
