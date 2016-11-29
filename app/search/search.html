@@ -17,8 +17,10 @@
       <span ng-if="search.terms.length <= 1">Enter at least 2 characters to start searching...</span>
       <span ng-if="search.loadingInfo"><i class="fa fa-circle-o-notch fa-spin fa-2x fa-fw" aria-hidden="true"></i></span>
     </div>
-    <button type="button" class="btn btn-default btn-sm" ng-click="search.register()">Register for Courses</button>
-    <button type="button" class="btn btn-default btn-sm" ng-click="search.preview()">Preview Courses</button>
+    <div class="register-buttons voffset3">
+      <button type="button" class="btn btn-default btn-sm" ng-click="search.register()">Register for Courses</button>
+      <button type="button" class="btn btn-default btn-sm" ng-click="search.preview()">Preview Courses</button>
+    </div>
   </uib-tab>
   <uib-tab index="1" heading="Advanced" ng-hide="true">Advanced</uib-tab>
   <uib-tab index="2" heading="Requirements">Requirements</uib-tab>

@@ -57,6 +57,11 @@ fc-content.fc-time span, .fc-title {
   cursor: pointer;
 }
 
+.results-list {
+  height: 85vh;
+  overflow-y: auto;
+}
+
 /* Remove current day highlighting*/
 .fc-unthemed .fc-today {
   background: inherit;
