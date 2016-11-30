@@ -17,10 +17,10 @@ angular.module('app', [
   // enable http caching
   $httpProvider.defaults.cache = true;
 }]).run(['$http', 'CacheFactory', function($http, CacheFactory) {
-  $http.defaults.cache = CacheFactory('http-cache', {
+  $http.defaults.cache = new CacheFactory('http-cache', {
     maxAge: 15 * 60 * 1000,
     cacheFlushInterval: 60 * 60 * 1000,
     deleteOnExpire: 'aggressive',
     storageMode: 'localStorage'
-  })
+  });
 }]);

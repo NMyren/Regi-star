@@ -6,7 +6,7 @@ angular.module('app.registration')
 CourseRegistrationService.$inject = ['$rootScope', 'CacheFactory'];
 function CourseRegistrationService($rootScope, CacheFactory) {
   var key = 'courses';
-  var cache = CacheFactory('course-cache', {
+  var cache = new CacheFactory('course-cache', {
     storageMode: 'localStorage'
   });
   var courses = cache.get(key) || {};

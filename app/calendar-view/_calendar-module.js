@@ -34,40 +34,24 @@ function CalendarViewController($scope,
     var textA = 0.65;
     vm.randomColors = [{
       'background': 'rgb(233,127,127)',
-      'backgroundA': 'rgba(233,127,127,' + bgA + ')',
-      'text': 'rgb(42,85,71)',
-      'textA': 'rgba(42,85,71,' + textA + ')'
+      'text': 'rgb(42,85,71)'
     },
-      {
-        'background': 'rgb(126,131,233)',
-        'backgroundA': 'rgba(126,131,233,' + bgA + ')',
-        'text': 'rgb(224,255,255)',
-        'textA': 'rgba(224,255,255,' + textA + ')'
-      },
-      {
-        'background': 'rgb(240,158,70)',
-        'backgroundA': 'rgba(240,158,70,' + bgA + ')',
-        'text': 'rgb(42,42,42)',
-        'textA': 'rgba(42,42,42,' + textA + ')'
-      },
-      // {
-      //  'background': 'rgb(228,209,103)',
-      //  'backgroundA': 'rgba(228,209,103,' + bgA + ')',
-      //  'text': 'rgb(136,89,182)',
-      //  'textA': 'rgba(136,89,182,' + textA + ')'
-      // },
-      {
-        'background': 'rgb(103,228,123)',
-        'backgroundA': 'rgba(103,228,123,' + bgA + ')',
-        'text': 'rgb(0,122,124)',
-        'textA': 'rgba(0,122,124,' + textA + ')'
-      },
-      {
-        'background': 'rgb(143,103,228)',
-        'backgroundA': 'rgba(143,103,228,' + bgA + ')',
-        'text': 'rgb(200,247,197)',
-        'textA': 'rgba(200,247,197,' + textA + ')'
-      }];
+    {
+      'background': 'rgb(126,131,233)',
+      'text': 'rgb(224,255,255)'
+    },
+    {
+      'background': 'rgb(240,158,70)',
+      'text': 'rgb(42,42,42)'
+    },
+    {
+      'background': 'rgb(103,228,123)',
+      'text': 'rgb(0,122,124)'
+    },
+    {
+      'background': 'rgb(143,103,228)',
+      'text': 'rgb(200,247,197)'
+    }];
 
     vm.previewColor = {'background': 'rgba(228,209,103,' + bgA + ')', 'text': 'rgba(136,89,182,' + textA + ')'};
 
@@ -98,7 +82,6 @@ function CalendarViewController($scope,
     // map objects into displayable calendar events
     var events = [];
     for (var crn in vm.courses) {
-      console.log(crn);
       if (vm.courses.hasOwnProperty(crn)) {
         console.log(crn);
         // TODO: fix duplicates/reloading concern
@@ -172,7 +155,7 @@ function CalendarViewController($scope,
   function getColorForCRN(crn, transparent) {
     if (transparent) {
       return {
-        bg: vm.previewColor.background,
+        background: vm.previewColor.background,
         text: vm.previewColor.text
       };
     }
@@ -186,10 +169,10 @@ function CalendarViewController($scope,
 
   function getRandomColor() {
     var rand = Math.floor(Math.random() * (vm.randomColors.length));
-    var bg = vm.randomColors[rand].background;
+    var background = vm.randomColors[rand].background;
     var text = vm.randomColors[rand].text;
     return {
-      bg: bg,
+      background: background,
       text: text
     };
   }

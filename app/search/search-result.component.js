@@ -14,7 +14,7 @@ angular.module('app.search')
 ResultController.$inject = ['$http'];
 
 function ResultController($http) {
-  var vm = this
+  var vm = this;
   vm.sections = {};
 
   vm.$onInit = function () {

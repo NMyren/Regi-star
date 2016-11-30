@@ -1,4 +1,8 @@
-<h5>{{$ctrl.course.parents.subject.id}} {{$ctrl.course.parents.course.id}} | {{$ctrl.course.parents.course.label}} | {{$ctrl.course.meetings[0].instructors[0].name}} <span ng-click="$ctrl.deleteCourse({crn: $ctrl.crn})" class="pull-right pointer glyphicon glyphicon-trash"></span></h5>
+<h5>{{$ctrl.course.parents.subject.id}} {{$ctrl.course.parents.course.id}} | {{$ctrl.course.parents.course.label}} | {{$ctrl.course.meetings[0].instructors[0].name}}
+  <a class="pull-right no-link-decoration" uib-tooltip="Drop/Remove Course" tooltip-popup-delay="1000" tooltip-placement="left">
+    <span ng-click="$ctrl.deleteCourse({crn: $ctrl.crn})" class="pull-right pointer glyphicon glyphicon-trash"></span>
+  </a>
+</h5>
 <h6>{{$ctrl.crn}} | {{$ctrl.course.meetings[0].daysOfTheWeek}} {{$ctrl.course.meetings[0].start}} - {{$ctrl.course.meetings[0].end}} | {{$ctrl.course.creditHours}}</h6>
 <h6>{{$ctrl.course.meetings[0].buildingName}} {{$ctrl.course.meetings[0].roomNumber}}</h6>
 

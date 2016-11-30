@@ -103,6 +103,11 @@ list-item {
   font-size: 14pt;
 }
 
+.no-link-decoration {
+  text-decoration: none;
+  color: inherit;
+}
+
 /*.display-mobile {
   display: inherit;
 }

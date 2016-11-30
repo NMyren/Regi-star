@@ -6,7 +6,7 @@ angular.module('app.search')
 CourseDataService.$inject = ['$http', '$q', 'CacheFactory'];
 function CourseDataService($http, $q, CacheFactory) {
   var semester = {};
-  var cache = CacheFactory('data-cache', {
+  var cache = new CacheFactory('data-cache', {
     storageMode: 'localStorage'
   });
   var key = 'loaded-subjects';
