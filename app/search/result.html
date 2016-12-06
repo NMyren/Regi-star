@@ -8,6 +8,7 @@
   <h6>Sections</h6>
   <table class="table table-hover table-condensed">
     <tr ng-repeat="(crn, section) in $ctrl.sections" ng-click="$ctrl.select(section)">
+      <td><i class="fa fa-circle" aria-hidden="true" ng-style="{'color': section.capacityColor}"></i></td>
       <td>
         <input type="checkbox" ng-model="$ctrl.selectedSections[section.id]" ng-click="$ctrl.select(section, $event)"/>
       </td>
@@ -15,7 +16,7 @@
       <td>{{section.sectionNumber}}</td>
       <td>{{section.creditHours || $ctrl.course.creditHours}}</td>
       <td>{{section.meetings[0].daysOfTheWeek}}</td>
-      <td>{{section.meetings[0].start}} until {{section.meetings[0].end}}</td>
+      <td>{{section.meetings[0].start}} to {{section.meetings[0].end}}</td>
     </tr>
   </table>
 </div>

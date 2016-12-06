@@ -17,12 +17,36 @@ function ResultController($http) {
   var vm = this;
   vm.sections = {};
 
+  var closed = '#DF2F32'; // red, alert, course is full
+  var closing = '#FFCC33'; // yellow, warning, course is filling up
+  var ok = '#87ff2a'; // green, ok, course has room
+  var capacityIndicator = [closed,
+                           closing,
+                           closing,
+                           ok,
+                           ok,
+                           ok,
+                           ok,
+                           ok,
+                           ok,
+                           ok];
+  // randomize
+  capacityIndicator.forEach(function(color, index) {
+    var randomIndex = Math.floor(Math.random() * capacityIndicator.length);
+    capacityIndicator[index] = capacityIndicator[randomIndex]; // swap
+    capacityIndicator[randomIndex] = color;
+  });
+
   vm.$onInit = function () {
     vm.selectedSections = vm.selections;
     vm.course.sections.forEach(function (section) {
       $http.get(section.href)
         .then(function (response) {
           vm.sections[section.id] = response.data;
+
+          // assign random capacity color
+          var randomIndex = Math.floor(Math.random() * capacityIndicator.length);
+          vm.sections[section.id].capacityColor = capacityIndicator[randomIndex];
         });
     });
   };
